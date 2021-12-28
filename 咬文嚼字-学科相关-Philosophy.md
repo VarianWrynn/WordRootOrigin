@@ -2,6 +2,8 @@
 
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文爵字,学科相关]
 
+[toc]
+
 ## Philosophy
 
 ### Meta-phys-ic
