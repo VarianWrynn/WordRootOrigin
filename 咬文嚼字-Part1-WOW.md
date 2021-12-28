@@ -5,7 +5,7 @@
 
 
 
-## 人物
+## MOP
 
 
 
@@ -367,9 +367,62 @@ Goth：[ɡɔθ] n. 野蛮人；粗野的人；哥特人
 
 
 
+- arsenal 【ˈɑːrsənl】： (统称)武器;兵工厂;武器库;军火库
+
+
+
+#### 比较 arson / arsonist
+
+**`ard-,ars-`** 
+= to burn. 表示“燃烧”。源自拉丁语 ardere "to burn, be on fire," 源自 aridus "parched."
+
+<img src="./intensifyImg/image-20211207135425979.png" alt="image-20211207135425979" style="zoom: 90%;" />   
+
+
+
+- **arson**【ˈɑːrsn】： 纵火(罪);放火(罪) 记忆技巧：ars 燃烧 + on 人 → 纵火；纵火罪
+
+  > the crime of deliberately setting fire to sth, especially a building
+
+
+
+- **arsonist**【ˈɑːrsənɪst】： 纵火犯;放火犯
+
+  >  a person who commits the crime of arson
+
 
 
 ## 其他
+
+
+
+### robe & plunder
+
+robe: 古代抢劫所得最主要的掠夺品
+
+英语单词robe（长袍）和rob（抢劫）在拼写上如此接近，它们在词源上有何渊源呢？原来，它们都来自古日耳曼语，拥有相同的词源。robe原本表示“战利品”。**由于古代打劫或作战时获得的主要战利品就是敌人身上的衣服，因此robe一词才逐渐产生了“衣服”的含义，通常表示比较高档的礼服、长袍**。
+
+- rob：[rɒb] v.抢劫，掠夺
+- robber：['rɑbɚ] n. 强盗；盗贼
+- robbery：['rɑbəri] n. 抢劫，盗窃；抢掠
+- robe：[rəʊb] n.长袍，制服，礼服
+- bathrobe： ['bæθrob] n. 浴衣；睡衣
+
+
+
+to rob Peter to pay Paul拆东墙补西墙。1547年，伦敦西敏寺的St.Peter教堂（church）升级为大教堂（cathedral），但仅仅10年后就被同城的St.Paul's Cathedral降回到了church级别。Prepare for the math test in your English class, it is like rob Peter to pay Paul.
+
+
+
+<font size=5> plunder </font>
+
+n. 抢夺, 掠夺品, 战利品
+
+v. 掠夺, 抢劫, 抢夺
+
+来自德语plundern , 抢劫室内物品，来自中古高地德语plunder , 室内物品，衣服，行李，家具等。后来在17世纪欧洲三十年战争期间，英国士兵把该词引入英国。最终词源不详。
+
+
 
 ### sabotage /ˈsæbətɑːʒ/
 

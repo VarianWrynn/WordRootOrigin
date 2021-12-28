@@ -1,4 +1,4 @@
-# 咬文嚼字-Part 3 
+# 咬文嚼字-Part 3 古代西方
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文嚼字]
 
 [toc]
@@ -256,3 +256,14 @@
 [英语词源趣谈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4NTQ4NzIzNg==&action=getalbum&album_id=1297162942844207107&scene=173&from_msgid=2651803449&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 
+
+## 人名
+
+
+
+### Scarlet / Scarlette
+
+n. 猩红色, 绯红色, 红衣
+a. 绯红色的, 鲜红色的
+
+1 - 来自古法语 escarlate,红布，来自拉丁语 scarlatum,红布，来自波斯语 saqerlat,红布，特指颜色鲜红的布。并由该词衍生姓氏 Scarlett,染色工或布商，如好莱坞著名美女 Scarlett Johansson.
