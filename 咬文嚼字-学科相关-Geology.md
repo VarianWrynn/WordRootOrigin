@@ -8,7 +8,7 @@
 
 https://upload.wikimedia.org/wikipedia/commons/7/77/Geologic_Clock_with_events_and_periods.svg
 
-<img src="./images/Geologic_Clock_with_events_and_periods.svg" alt="Geologic_Clock_with_events_and_periods"  />
+<img src="./images/Geologic_Clock_with_events_and_periods.svg" alt="Geologic_Clock_with_events_and_periods" style="zoom:30%;" />
 
 
 
@@ -159,7 +159,7 @@ ceno-
 
 <video src="D:\Githubs\Grammar\RootOrigin\img2\00180_longitude.mp4"></video>
 
-<img src="./img2/8a04527d2c61f400cde1e2259a6c9847.jpg" alt="Prime Meridian + Equator | Pyramids, Reflection and refraction, Meridian" style="zoom:80%;" />
+<img src="./images/8a04527d2c61f400cde1e2259a6c9847.jpg" alt="Prime Meridian + Equator | Pyramids, Reflection and refraction, Meridian" style="zoom:80%;" />
 
 
 
