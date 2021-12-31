@@ -238,6 +238,29 @@
 - Another communications satellite was launched. 又有一颗通信卫星发射升空。
 - At one time, most East European countries were satellites of the Soviet Union. (LLA) 大多数东欧国家一度是苏联的卫星国。
 
+
+
+### comet（彗星）：拖着一头长发的星星
+
+彗星的特点是身后拖着一道长长的尾巴，形如扫帚，因此中国古人形象地将其称为“扫帚星”。但在浪漫的古希腊人眼中，这道长长的彗尾可不是扫帚，而是一头秀丽的长发。
+
+因此，古希腊人将彗星称为kometes，字面意思就是“长发的”，来自名词kome（头发）。该词途经拉丁语进入英语后，拼写演变为comet。英语词根com-（头发）便来自希腊语kome（头发）。含有该词根的单词还有acomia（秃头、无发症）。
+
+- com-：头发
+- comet：['kɑmət] n.彗星
+- acomia：['eɪkəmjə] n.秃头、无发症
+
+
+
+comet - 彗星通常在背着太阳的一面拖着一条扫帚状的长尾，故汉语有“扫帚星”之称。其英语名称comet源于希腊语komētēs 'long-haired'（长发的）。
+
+古时候希腊人常用这个词来形容头发比他们长的波斯人。当他们第一次看到彗星时，就称之为astēr komētēs，意即long-haired star。以后罗马人借用了该短语，略去了名词，只保留形容词部分，故拉丁语作comēta。该词于12世纪进入英语，最初也拼作cometa。人们有时还把它叫做star with a tail（带尾巴的星体）。
+
+- "When beggars die, there are no comets seen;/The heavens themselves blaze forth the death of princes.”(Shakespeare, Julius Caesar 2.2) “乞丐死了的时候，天上不会有彗星出现；/君主们的凋殒才会上感天象。”（莎士比亚《裘力斯·凯撒》）
+- A huge comet is approaching the earth and will be visible for a few months. (NED) 一颗巨大的彗星正接近地球，几个月之内都将能见到。
+
+
+
 ## Ascendant [əˈsendənt] 运星
 
 **ascendant**（运星）：西方占星术中的上升星座。

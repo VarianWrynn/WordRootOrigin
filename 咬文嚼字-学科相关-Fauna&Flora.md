@@ -1,4 +1,4 @@
-# 咬文嚼字-学科相关-Animal
+# 咬文嚼字-学科相关-Fauna&Flora
 
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文爵字,学科相关]
 
@@ -7,6 +7,8 @@
 [toc]
 
 
+
+# Fauna
 
 
 
@@ -87,7 +89,7 @@ mammal - baby一词来自babe，原为babe的指小词，一度指“玩具娃�
 
 
 
-## Cow v.s Beef / Sheep v.s Mutton
+### Cow v.s Beef / Sheep v.s Mutton
 
 在英语中有一个有趣的现象，那就是对于猪、羊、牛等牲畜，表示动物的单词和表示其肉食的单词相差甚远，如pig（猪）和pork（猪肉）、sheep（绵羊）和mutton（羊肉）、cow（牛）和beef（牛肉）。这是为什么？
 
@@ -154,7 +156,11 @@ mammal - baby一词来自babe，原为babe的指小词，一度指“玩具娃�
 
 
 
-## Urchin [ˈɜːrtʃɪn] 海胆
+## 水产
+
+
+
+### Urchin [ˈɜːrtʃɪn] 海胆
 
 <img src="./images/image-20211115114625365.png" alt="image-20211115114625365" style="zoom: 67%;" />
 
@@ -173,7 +179,34 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 
 例　You little urchin! 你这个小淘气！
 
-## [alligator/crocodile（鳄鱼）](https://mp.weixin.qq.com/s/O1_wRK1OZQeP0ICRN6KtXw)
+
+
+###  clam（蛤蜊）：像钳子一样的蛤蜊壳
+
+蛤蜊是一种有壳的软体动物，它的壳像是一把钳子，能够紧紧地夹住东西。因此，古苏格兰人将其命名为**clam**。该词来自古英语clamm，意思是“紧握”。英语单词**clamp**（夹钳）也来源于此。这就是为什么单词**clam**和**clamp**的拼写如此相似的原因。
+
+- clam：[klæm] 
+  - n.蛤蜊，沉默寡言的人，钳子
+  - vi.捞蛤；保持沉默，闭嘴不言
+- clamp：[klæmp] 
+  - n.夹钳
+  - vt.夹紧，固定住
+
+
+
+**as happy as a clam**非常幸福。**clam**是蛤蜊，它和幸福有啥关系呢？
+
+首先，蛤蜊的外壳张开时很象人大笑时的双唇，其次，蛤蜊在水里外壳张开其实有被捕食者吃掉的风险，所以，唯有被潮水冲到沙滩上的蛤蜊才能“开怀大笑”。
+
+- I am as happy as a clam living all by myself in this little house by the sea. 
+
+
+
+## reptile 爬行动物
+
+
+
+### [alligator/crocodile（鳄鱼）](https://mp.weixin.qq.com/s/O1_wRK1OZQeP0ICRN6KtXw)
 
 ![image-20211129151904917](./images/image-20211129151904917.png)
 
@@ -216,9 +249,13 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 
 
 
-## Petrel, Parrort, Parakeet
+## 飞鸟类
 
-### **Petrel** /ˈpetrəl/
+
+
+### Petrel, Parrort, Parakeet
+
+#### **Petrel** /ˈpetrəl/
 
 海燕在觅食时，像小海鸥一样自水面飞掠而过，偶尔降落水面，在海员看来，宛如圣彼得（**St. Peter**）之行于革尼撒勒湖（**Lake of Gennesareth**，即加利利海Sea of Galilee）上（见《圣经·马太福音》14:29）。
 
@@ -238,7 +275,7 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 
 - stormy：有暴风雨(或暴风雪)的;群情激愤的;激烈争吵的
 
-### **petrify**　　
+#### **petrify**　　
 
 /ˈpetrɪfaɪ/　v. 把……吓呆；使惊呆
 
@@ -259,13 +296,73 @@ vt. 学舌, 机械地模仿
 【复数：parrots；过去分词：parroted；现在分词：parroting】
 1 - 词源不详，可能来自法语方言 Pierre,人名 Peter 的法语形式。比较 parakeet,petrel.由于该鸟学人说话的习惯，也用于形容人鹦鹉学舌。
 
-![image-20211117134249336](./images/image-20211117134249336.png)
+<img src="./images/image-20211117134249336.png" alt="image-20211117134249336" style="zoom: 67%;" />
 
 
 
-### Parakeet（虎皮鹦鹉）
+#### Parakeet（虎皮鹦鹉）
 
-![image-20211117134344729](./images/image-20211117134344729.png)
+<img src="./images/image-20211117134344729.png" alt="image-20211117134344729" style="zoom: 50%;" />
 
 **Common name**: [Parakeet](https://worldbirds.com/parakeet/), Budgerigar, Budgie 
 
+
+
+## 昆虫类
+
+### entomo-  = insect, 表示“昆虫”，由 en- + tom- 复合而成{5}
+
+
+
+| 单词                                             | 词根                                                         | 单词 | 词根 |
+| ------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| entomo∙logy             <br />【ˌentəˈmɑːlədʒi】 | **`entomo-`** = insect, 表示“昆虫”，由 en- + tom- 复合而成。<br/>更多同源词...<br/>**`-logy`** <br/>= science, 表示“科学，学科”，由词根 log-, 说，引申而来；<br />-logy 作为词缀表示...学，<br />-logist 作为词缀表示...学家, <br />-logical 作为词缀表示...学的。<br />源自希腊语 logos "speech, word, reason." |      |      |
+|                                                  |                                                              |      |      |
+|                                                  |                                                              |      |      |
+
+
+
+# Flora
+
+
+
+### magnol∙ia  表示“木兰”，以法国植物学家 Magnol 的名字命名。
+
+<img src="./images/image-20211231100638751.png" alt="image-20211231100638751" style="zoom: 33%;" />
+
+> 该属植物是以法国植物学家皮埃尔.马尼奥尔 (Pierre Magnol, 1863 - 1715) 的名字命名的。马尼奥尔在对植物系统分类的研究方面颇有成就。著作有《将植物的科排列为表格的植物通志初论》（Prodromus historiae generalis plantarum, in quo familiae plantarum per tabulas disponuntur, 1689）等。
+
+magnolia - 这是一种花大而芳香，树皮也带香味的观赏植物，汉语称作“木兰”，英语名称magnolia借自拉丁语，是瑞典博物学家林奈（Carolus Linnaeus, 1707-1778）根据法国植物学家、蒙彼利埃（Montpelier）大学植物学教授Pierre Magnol (1638-1715)的姓氏命名的，即Magnol加植物名词后缀-ia构成，林奈曾经从Magnol关于植物分类的一部著作中获得许多裨益。
+
+<img src="./images/image-20211231100547234.png" alt="image-20211231100547234" style="zoom: 67%;" />
+
+有一种木兰叫做月桂木兰（magnolia grandilora），其叶常用于殡仪花圈。美国密西西比州的别称叫做Magnolia State（木兰花州）。
+
+<img src="./images/image-20211231100801753.png" alt="image-20211231100801753" style="zoom:80%;" />
+
+-  **magnolia** 【mæɡˈnoʊliə】 木兰;木兰树;浅乳白色;浅桃红色
+- Put this magnolia in a vase. (NED) 把这木兰花插到花瓶里。
+- The garden was filled with the scent of magnolias. (NED) 花园里充满了木兰花香。
+
+
+
+### belladonna（颠茄）：用来美容的植物汁液
+
+> 词根分解  [词根树]
+> bell-,beaut- 12
+> = fine, 表示“美好”。源自拉丁语 bellus "handsome, pretty, fine."
+> 更多同源词...
+> dam- 5
+> = woman, lady, 表示“女士”。dominus "master of a household, lord"
+> 更多同源词...
+
+<img src="./images/image-20211231110758764.png" alt="image-20211231110758764" style="zoom: 80%;" />
+
+颠茄是一种多年生草本植物，含多种生物碱致命毒素。它的英语名称belladonna来自意大利语，由bella（女人）和donna（美好的）构成，字面意思就是“美女草”。
+
+为什么这种有毒植物有这么一个美丽的名称呢？原来，颠茄的汁液虽然有毒，但微量汁液能使人瞳孔放大，使双眼显得更加有神。所以有些爱美胜过一切的女人喜欢用颠茄汁液来美容。因为这个缘故，颠茄才得名belladonna。
+
+- belladonna：[,belə'dɒnə] n.颠茄，美女草
+- belle：[bɛl] n. 美女
+
+belladonna - 汉语作“颠茄”，乃一种有毒植物，它的根和叶含阿托品（atropine），用它制成的药剂也叫belladonna。该词源自意大利语bella donna 'fair lady'（美人）。这种植物的花瓣如美女肌肤般润滑，意大利妇女一度用其红色液汁作化妆品，故名

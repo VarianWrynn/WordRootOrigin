@@ -314,6 +314,19 @@ To distinguish them, we say in french :
 
 
 
+ ### Stout
+
+[The Perfect Stout (quest)](https://wowpedia.fandom.com/wiki/The_Perfect_Stout_(quest))
+
+<img src="./images/image-20211231105931997.png" alt="image-20211231105931997" style="zoom: 33%;" />
+
+stout 【staʊt】
+
+- a: 粗壮的;肥胖的;肥壮的;粗壮结实的;厚实牢固的;顽强的;坚毅的;不屈不挠的
+- 烈性黑啤酒
+
+
+
 ## 建筑
 
 ### gothic
@@ -389,6 +402,21 @@ Goth：[ɡɔθ] n. 野蛮人；粗野的人；哥特人
 - **arsonist**【ˈɑːrsənɪst】： 纵火犯;放火犯
 
   >  a person who commits the crime of arson
+
+
+
+###  sepulcher 坟墓
+
+> n. 坟墓
+> vt. 埋葬
+>
+>  一种在岩石上凿出或用石头堆成的坟墓，墓穴，来自古法语 sepulcre,坟墓，圣墓，尤指耶稣基督的墓，来自拉丁语 sepulcrum,坟墓，墓穴，来自 sepelire,埋葬，举行葬礼，来自 PIE*sep,缅怀，悼念，表达尊重。
+
+<img src="./images/image-20211231103615976.png" alt="image-20211231103615976" style="zoom: 67%;" />
+
+
+
+
 
 
 

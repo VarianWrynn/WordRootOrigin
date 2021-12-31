@@ -228,6 +228,20 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 
 
 
+### fren-（精神）：控制人精神的横膈膜
+
+横隔膜是胸腔和腹腔之间的分隔，它位于心脏和双侧肺脏的下面，肝脏、脾脏、胃的上方，就像一个大圆盘平放在身体内部分隔了胸腹腔。由于横膈膜与心脏距离较近，古人看到人情绪激动时心跳也会加快，便以为横膈膜是负责人精神状态的器官，因此英语中表示“横膈膜”的词根fren-/phren-同时还可以表示“精神”，产生了很多与“精神”相关的单词。
+
+- fren-/phren-：精神
+- diaphragm：['daɪəfræm] n.横隔膜，隔板，快门，光圈
+- phrenic：['frɛnɪk] adj. 横隔膜的；精神的
+- frenzy：['frenzɪ] n.狂暴，狂怒，暴怒vt.使发狂，使狂怒
+- frenetic：[frə'netɪk] adj.狂热的，发狂的n.疯子，狂人
+- schizophrenia：[,skɪtsə'frinɪə] n.精神分裂症
+- schizophrenic：[,skɪtsə'frɛnɪk] adj. 精神分裂症的n. 精神分裂症患者
+
+
+
 # Medicine [ˈmedɪsn]
 
 

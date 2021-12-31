@@ -18,6 +18,20 @@ vt. 切碎, 搞糟
 
 
 
+## aux∙ili∙ary 【ɔːɡˈzɪliəri】
+
+> aux∙ili∙ary  [词根树]
+> aux- 
+> = increase, 表示“增加”，auth-引申为产生，创造。源自拉丁语 augere (过去分词 auctus) "to increase."
+> 更多同源词...
+> -ary 
+> 表名词，“人，场所，物”。
+
+n. 辅助者, 辅助物, 附属机构, 助动词
+a. 辅助的, 备用的
+
+
+
 ## millionaire 百万富翁
 
 **millionaire** - ***million***系直接借自古法语，源于意大利语***millione***，按字面义是a thousand thousands（一千个千），汉语作“百万”。
@@ -353,6 +367,29 @@ As [Anthony Prince](https://www.quora.com/profile/Anthony-Prince) pointed out in
 
 
 
+### ghost（鬼魂）：人的灵魂或精神
+
+
+古代人相信人拥有灵魂，在古英语中称为gast，在中古英语中拼写改为gost，在现代英语中拼写改为ghost，原本既可以表示死人的灵魂，也可以表示活人的灵魂，相当于来自拉丁语的spirit（精神、心灵）。到了14世纪时，词义变为专指死人的灵魂，即“鬼魂、幽灵”。但词组Holy Ghost（圣灵）一词中ghost依然保留了原意。
+
+- ghost：[gəʊst] n.鬼，鬼魂，幽灵vt.作祟于，替……代笔vi.替人代笔
+- ghostly：['ɡostli] adj. 幽灵的；可怕的；影子似的
+- aghast：[ə'ɡæst] adj. 吓呆的，惊骇的；吃惊的
+- Holy Ghost：圣灵
+
+
+
+ghost - 在古英语的词形为gāst，中古英语变为gost，原指“心灵”（soul）或“精神”（spirit），到了14世纪开始用于“鬼魂”或“幽灵”这一今天最常用的词义。但基督教里所谓三位一体（the Trinity）中的the Holy Ghost（圣灵）仍保留古英语时的旧义。到了20世纪基督徒往往直接把它说成the Holy Spirit，以避免可能的误解。
+
+英语中另有一词ghastly（恐怖的；死人般的；糟透的）和ghost有些关系。和ghost一样，该词源自gāst（心灵；精神），中古英语词形为gastlich，到了16世纪因和ghost相联系而被加上字母h，变成ghastly。这一拼法是英国诗人斯宾塞（Edmund Spenser, 1552-1599）首先使用的。
+
+- Do you believe in ghosts? 你相信有鬼吗？
+- People say ghosts haunt that old house. 人们说那所旧屋常常闹鬼。
+- A priest was called in to exorcise the ghost. (OCD) 一位教士受召前来驱鬼。
+- He looked so terrified I thought he'd seen a ghost. (LDE) 他看上去如此害怕，我真以为他看见鬼了。
+
+
+
 ##  Babel v.s Babble
 
 **Babel【ˈbeɪbl】** 
@@ -405,4 +442,158 @@ mass - 英语里有两个mass。
 > How you have fallen from heaven, O morning star, son of the dawn！You have been cast down to the earth, you who once laid low the nations!
 
 路西法（Lucifer）是一个宗教传说的人物。“Lucifer”原先只是[基督教](https://baike.baidu.com/item/基督教/222408)与[犹太教](https://baike.baidu.com/item/犹太教/88496)的名词，出现于《以赛亚书》第14章第12节，意思为“明亮之星”，用来影射[古巴比伦](https://baike.baidu.com/item/古巴比伦/884630)的君王[尼布甲尼撒](https://baike.baidu.com/item/尼布甲尼撒/82569)。经过后世传播，成为了基督教中的堕落天使，虽然无法确认是从何时开始将路西法进行[拟人化](https://baike.baidu.com/item/拟人化)。
+
+
+
+
+
+##  clergy（职员）：能看书写字的人
+
+
+
+英语单词**clergy**来自拉丁语，原意是“有学问的人、能看书写字的人”。
+
+为什么表示“神职人员”呢？这是因为，在欧洲中世纪，人们文化水平普遍较低，只有神职人员因为需要研究圣经，所以能够看书写字。因此，clergy（能看书写字的人）就成了“神职人员”的代名词。
+
+另外，贵族们还常常雇佣教士从事记账、记录等文字工作，所以从同样的拉丁词源又产生了clerk（书记、记账员），后来该词的词义泛化，可以表示“职员”、“办事员”等。
+
+clerk - 源自拉丁语clēricus，希腊语klērikós，原义是“神职人员；牧师”，11世纪该词进入英语时，保留了此义，到了13世纪转指“学者”或“能读会写者”，很可能是因为在中世纪能有机会受教育的人为数极少，而能读会写的英国人多半是神职人员。
+
+英国诗人乔叟（Geoffrey Chaucer, 1340?-1400）的代表作《坎特伯雷故事集》（Canterbury Tales, 1386）中的‘Clerk's Tale’之clerk即指“学者”。16世纪以后，随着教育的开始普及，clerk一词逐渐失去“学者”的含义，并被赋予“文书”、“职员”、“办事员”等至今仍在使用的词义。在美国英语中clerk也用以指“店员”或“接待员”。
+
+clerk在进入英语之初，原词形为clerc或cleric。15世纪时clerc这一形式一度变为clark，因此从那时起在英国英语中该词一直读如/klɑːk/，这一点也反映在英美普通姓氏Clark(e)上。另一方面，原词形因深受古法语clerc的影响最终演变成clerk。美国英语不沿用英国英语的发音，而按读音规则将它读成/klɩːk/。
+
+另一形式cleric从一开始就和clerc分道扬镳，它被用作形容词，表示“神职人员的”或“职员的”，直到17世纪才又转作名词用，仍指“神职人员”或“牧师”，其形容词身份则由派生词clerical所取代。可见，cleric和clerk是同源姐妹词，cleric历经千年，其词形与词义始终未变。英语另有一词clergy（神职人员）和clerk，cleric也有较密切的亲缘关系，它也源自拉丁语clēricus。
+
+
+
+- **clergy**：['klɜːdʒɪ] n.（总称）神职人员，教士
+- **clergyman**：['klɜːdʒɪmən] n.教士，牧师
+- **cleric**：['klerɪk] 
+  - adj.教士的，牧师的
+  - n.教士，牧师
+- **clerk**：[klɑːk] n.店员，职员，办事员，书记，记账员，文员
+
+
+
+## Jubilee  (尤指25周年或50周年的)周年纪念，周年大庆，周年庆祝
+
+> jubilee ['dʒuːbɪliː] n.（犹太史）五十年节；大赦年；欢乐的节日；重要的周年纪念。希伯来语词源，本意是“公羊”。犹太教每七个安息年循环后的一年（亦有说第49年）中的赎罪日，号角会吹响，犹太教徒聚集在犹太会堂中，24小时禁食。而在这一年里，奴隶和囚犯获释，债务被免除并有很多庆祝活动。
+
+jubilee - 据《圣经旧约·利未记》（Leviticus）钦定英译本第25章，犹太人的摩西律法规定，土地耕作6年后的第7年为安息年（Sabbatical year），7个安息年即49年之后的第1年为圣年。
+
+每到圣年，奴隶获释，抵押的土地归还原主，田地休耕。犹太人把圣年视为大喜之年，吹奏羊角号（ram's horn trumpet）来宣告它的到来，并以意为“羊角号”的希伯来文***yōbhēl***一词称之，英语**jubilee**即源于此，因此jubilee最初也表示此义，汉语作“禧年”或“五十年节”。
+
+该词随着威克里夫（John Wycliffe, 1330?-1384）的《圣经》英译本进入英语之后，词义扩大为“具有特殊含义的周年纪念”，如: 
+
+- golden jubilee（五十周年纪念）
+- diamond jubilee（六十或七十周年纪念）
+- silver jubilee（廿五周年纪念）等。
+
+天主教还用jubilee一词来指每25年由教皇宣布一次的“大赦年”（Holy Year）。由于**jubilee**正好与源自拉丁语jūbilāre 'to rejoice'的英语**jubilant**（欢欣的，喜气洋洋的）及**jubilation**（欢庆，欢欣）十分相似，所以**jubilee**的词义受其影响又逐渐引申为“欢庆”或“喜庆时节”，成了**jubilation**的同义词，词形的偶然相似竟然导致了音、义及背景的理想结合。
+
+- With this edition the book attains its jubilee. 该书推出新版之际恰逢其面世50周年。
+
+
+
+**英英：**
+
+1. a time or season of celebration 
+2. in the Roman Catholic Church , a period set by the pope , traditionally every 25 years , in which forgiveness of sins is granted in return for acts of piety or repentance 
+3.  in Jewish history , a year of restoration or restitution that was proclaimed every 50 years by a countrywide blast of trumpets . 
+4. a significant anniversary of an important event such as a wedding or a monarch ' s succession 
+5. a big celebration for a special occasion , especially an anniversary 
+
+
+
+
+
+## legend（传奇）：记录基督教圣徒生平事迹的书
+
+十三世纪末期，热那亚大主教维拉吉欧（Varagine）发表了一本宗教著作“Legenda Sanctorum”，书名意为“应读的圣人史迹”，其中的**legenda**由拉丁语动词***legere***（读、收集、选择）和后缀***-enda***（应……之事物）组成。
+
+该书记录了众多基督教圣徒的生平事迹，由于内容翔实，所以被译成多种语言并在民间广为流传。后来，一些出版商以此书为蓝本出版了许多图书，里面的事迹越传越玄，令人怀疑其真实性。于是当legenda进入英语并演变为单词legend时，词义也转化为“未经证实的故事、传奇”。我国著名的IT公司“联想公司”的英文名原本就是Legend。
+
+- **legend**：['ledʒ(ə)nd] n.传奇，图例，刻印文字
+- **legendary**：['ledʒ(ə)nd(ə)rɪ] 
+  - adj.传说的，传奇的
+  - n.传说集，圣徒传
+
+
+
+## nepotism（裙带关系）：教会高官起用自己的私生子
+
+中世纪期间，和世俗社会一样，基督教会中也存在严重的腐败问题。一些教会高官生活腐化，不仅贪污腐败，还蓄养情妇。生下私生子后，往往对外宣称是自己的nephew（侄子或外甥）。
+
+这些人往往会想方设法把所谓的nephew安排到教会的肥差或重要位置上。人们对此现象十分反感，在拉丁语将其称为nepotismo，其中nepo就是nephew的意思。英语单词nepotism就来源于此，用来表示“裙带关系”。
+
+- nepotism：['nepətɪz(ə)m] n.裙带关系，起用亲戚，任人唯亲
+- nephew：['nɛfju] n.侄子，外甥
+
+
+
+nephew - 该词起源于意大利。中世纪，在罗马天主教会中重用亲属之风盛极一时。主教们，尤其是教皇，因无子嗣，常常凭借权势偏袒乃至重用其私生子或侄甥，委任他们为教士，甚至授予他们待遇优厚的各种高级神职。
+
+15世纪一位臭名昭著的教皇——亚历山大六世（Pope Alexander VI, 1431-1503）将自己的亲戚安插在教会最高职位上，例如为巩固其权力他竟然任命年仅16岁的私生子博尔吉亚（Cesare Borgia）为大主教，任命年轻的侄甥乔凡尼（Giovanni）为主教。
+
+他这一任人唯亲的做法影响极坏，招致广泛的批评和指责。在英语中侄甥作nephew，教士的私生子也婉称nephew，该词源于拉丁语nepōs；而重用私生子或侄甥则被世人戏称为nepotism，它源出意大利语nepotismo。
+
+嗣后，nepotism不再囿于nephew，而用以泛指“重用亲属”、“任人唯亲”，或表示“裙带关系”。
+
+- Nepotism sometimes occurs in political appointment. (WBD) 政治任命有时存在重用亲属的现象。
+- Nepotism and corruption were widespread in the then government. 在当时的政府中裙带关系和腐败现象非常普遍。
+- The mayor's son got a city job through nepotism. (NED) 市长的儿子通过裙带关系获得一份城里的工作。
+- The newspaper accused the governor's office of nepotism. 该报指责州长办公室搞裙带关系。
+
+
+
+### gossip（绯闻）：爱八卦的教父母
+
+在基督教中有为孩子挑选教父母的习俗。男性为教父，女性为教母。教父母在孩子的洗礼仪式中扮演作保的角色。婴儿或儿童受洗后，教父或教母会教导受洗者在宗教上的知识，而如果教子女的双亲不幸死亡，教父母有责任去照顾教子。
+
+公元14世纪的时候，教父教母的英语表达是god-sibb。god意为“上帝”，sibb意为“亲戚”，字面意思就是“通过上帝结成的亲戚”。后来，god-sibb逐渐演变成gossip。
+
+由于孩子的教父母和亲生父母通常是好朋友，在一起时难免闲聊一些知己话，因此，gossip的含义演变为“在一起闲聊的密友”。在19世纪的时候，gossip的意思进一步演变，表示“闲话；讲闲话；爱讲闲话的人”。
+
+- gossip： ['gɒsɪp] 
+  - n.传闻，绯闻，流言蜚语，八卦新闻；爱传播流言蜚语的人
+  - vi.闲聊，传播流言蜚语
+- gossipy：['gɑsəpi] adj. 漫谈式的；喜饶舌的
+- sibling：['sɪblɪŋ] n.兄弟姐妹，同胞
+
+> 词源说明(童理民)  
+> 1 - gos-,来自 god,上帝，-sip,姐妹，词源同 sibling.即上帝的姐妹，通常指妇女们聚在一起闲聊，闲侃，引申词义流言蜚语。
+
+
+
+在中世纪时说一个人是**gossip**毫无贬抑的含义。gossip的前身是古英语复合词godsibb，源出撒克逊方言，其中god即God（上帝），而sibb则意为relative（亲属），故godsibb原义为godparent（教母或教父）。
+
+按基督教的传统习俗，婴儿在洗礼时须有教母或教父，而他们不能是婴儿的亲生父母。教母或教父在洗礼仪式中乃受洗者之监护人，因上帝之故而成了受洗者的亲属，故曰godsibb。
+
+到了14世纪前后，该词中的字母d开始消失，拼写形式逐渐演变成gossib，进而演化为今天仍在使用的gossip。它的词义也在开始发生变化。教母或教父一般都是受洗者父母较亲密的朋友，他们之间有许多共同感兴趣的事可谈，甚至无话不谈。
+
+据此，gossip之义逐渐由“教母（父）”引申为“密友”，后来又进而引申为“爱说长道短的人”、“流言蜚语”和“闲谈”等。我们从莎剧中可以看到，在莎士比亚时代该词拼写形式已作gossip。在莎翁几个不同剧中gossip用于不同的意义，如在《维洛那二绅士》用于“教母”一义，在《仲夏夜之梦》用以指“女友”，而在《错误的喜剧》中则用作动词，表示“闲谈”。
+
+- She's too fond of idle gossip. 她太爱无聊的闲谈。
+- I don't like people who gossip about their colleagues. 我不喜欢那些老爱议论同事的人。
+- What's the latest gossip? (LDC) 有什么最新的小道消息？
+- A career can be ruined by malicious gossip. (FWF) 恶毒的流言蜚语可能毁掉一个人的事业。
+
+
+
+## choir（唱诗班）：古希腊悲剧中的舞蹈队
+
+英语单词**choir**和单词**chorus**同源，来自希腊语khoros（舞蹈队），原本指的是古希腊悲剧中的舞蹈队。
+
+在古希腊悲剧中，khoros（舞蹈队）原本仅仅负责舞蹈，后来为了表达戏剧中的情感而增加了合唱功能，因此khoros增加了“合唱队”的含义。
+
+英语单词**chorus**和**choir**的区别在于，**choir**常用来特指教堂里的合唱队，即所谓的“唱诗班”，还可以表示教堂中唱诗班所在区域。而**chorus**仅仅表示一般的合唱队，很少用来表示教堂里的唱诗班。
+
+
+
+- **choir**：['kwaɪə] n. 唱诗班；合唱队；舞蹈队v.合唱
+- **chorus**：['kɔrəs] n. 合唱队,歌舞队,齐声v.合唱，异口同声地说（话）
+
+词源说明(童理民)  
+1 - 来自 PIE*gher,围，围栏，词源同 yard,chorus.即围起来唱歌跳舞的一群人。
 
