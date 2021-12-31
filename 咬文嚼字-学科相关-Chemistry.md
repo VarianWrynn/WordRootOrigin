@@ -113,6 +113,12 @@ ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这�
 | **celest-ite**<br />【selɪstaɪt】                 | **`celest-`** = heaven, 表示“天空”。<img src="./images/image-20211021140331795.png" alt="image-20211021140331795" style="zoom:50%;" /> | **meteor-ite**<br />【ˈmiːtiəraɪt】                        | meteor【流星】 + -ite相关的。用于指陨石。<br />meteor <br/>n. 流星, 大气现象 |
 |                                                   |                                                              |                                                            |                                                              |
 
+**obsidian [əb'sɪdɪən]** n.黑曜石。岩浆快速冷却时产生的黑色结晶体，因内部含有氧化铁而呈黑色。
+
+<img src="./images/image-20211231162536008.png" alt="image-20211231162536008" style="zoom: 80%;" />
+
+据Pliny the elder老普利尼记载，罗马人Obsius在埃塞俄比亚发现了这种石头，因此这种石头被称为obsianus lapis，意思是Obsius's stone（），对Obsianus lapis的误读产生了obsidianus和随后的obsidian。
+
 
 
 ### 3.1 grain / core / maize (颗粒)

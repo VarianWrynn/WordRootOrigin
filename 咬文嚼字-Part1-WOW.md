@@ -418,6 +418,45 @@ Goth：[ɡɔθ] n. 野蛮人；粗野的人；哥特人
 
 
 
+## 景色
+
+
+
+### gossamer v.s cobweb
+
+按旧时英国习俗，风和日暖的11月上中旬乃食鹅时节，人们称之为**gossamer**（相当于goose summer），它是由gos（即goose，鹅）和somer（即summer，夏季）二词组合而成。
+
+英国有一个传统宗教节日St. Martin's Day（圣马丁节）恰在11月11日，故**gossamer**亦称**St. Martin's summer**。美国人把这一时节称作Indian summer，和中国人所说的“小阳春”差不多。
+
+这个时节虽然已近晚秋，但是天气却晴暖如春，在林子里，在草丛中，常常可以看到蜘蛛在吐丝结网，薄纱似的银丝飘浮在宁静的空气中。
+
+14世纪以后，gossamer先是转义指“蛛丝”、“游丝”，而后又引申为“薄纱”，原因恐怕即在于此。
+
+- Walking between two trees, he felt gossamer catch on his face. 他在两棵树中间走过时感到有游丝粘在脸上。
+- In the early morning the lawn was covered with gossamer (threads). (CID) 清晨草地被蛛丝覆盖着。
+- The bride wore a delicate gossamer veil. (CID) 新娘戴着薄薄的面纱。
+
+| gossamer                                                     | cobweb                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./images/image-20211231163311368.png" alt="image-20211231163311368" style="zoom: 80%;" /> | <img src="./images/image-20211231163424002.png" alt="image-20211231163424002" style="zoom: 80%;" /> |
+
+
+
+**obweb**和**spiderweb**都指“蜘蛛网”，但cobweb的历史较spiderweb要长得多，可以追溯到13世纪。cobweb在中古英语中作copweb，其中cop源自盎格鲁撒克逊语即古英语里的coppe，意思是“蜘蛛”。
+
+我们一旦知道了这一点，cobweb的词义就变得和spiderweb一样容易理解了。然而，奇怪得很，我们几乎未见过cob或cop被单独用以指“蜘蛛”。
+
+- The fly was caught in a cobweb spun over a window in the barn. (WBD) 谷仓内窗子上方的蜘蛛网里逮住了一只苍蝇。
+- Cobwebs hung down from the rafters. (CAE) 椽子上布满蛛网。
+
+
+
+
+
+**Reference:**
+
+1. [What is the difference between a gossamer and a cobweb ](https://hinative.com/en-US/questions/12107287)
+
 
 
 ## 其他
