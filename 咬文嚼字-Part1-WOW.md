@@ -35,6 +35,20 @@
 
 
 
+
+
+### ghoul /ɡuːl/ (传说中的)盗墓食尸鬼;对凶残之事兴趣浓厚的人
+
+>   ghoul∙ish   ghoul n. 食尸鬼, 饿鬼, 盗墓者<br/>-ish 表形容词，“像…一样，有的…”，通常缀于名词或形容词后。<br />a. 食尸鬼似的, 残忍的
+
+1. （传说中的）盗墓食尸鬼
+   (in stories) an evil spirit that opens graves and eats the dead bodies in them
+
+2. (disapproving) 对凶残之事兴趣浓厚的人
+   a person who is too interested in unpleasant things such as death and disaster
+
+
+
 ## 职位/头衔
 
 ### Archon  ['ɑrkɑn]
