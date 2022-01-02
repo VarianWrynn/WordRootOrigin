@@ -12,10 +12,12 @@ math-
 
 
 
-## `-oid`  在几何学上表示“…形” {142}
+## `-oid`  
 
 **`-oid`** 
 = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."
+
+### <sup>1</sup> 在几何学上表示“…形” {142}
 
 
 
@@ -25,6 +27,56 @@ math-
 | **para-bol-oid**<br />【pə'ræbəlɔɪd】                        | 抛物面(a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis , 一种具有平行于一个坐标轴的抛物线截面和垂直于该坐标轴的椭圆截面的表面)<br />**`para-`** <br/>表示“半，类似，辅助，旁，超，异常”，用于化学，意为“对（位），聚，仲，副”，用于医学意为“对，副，衍”，在元音前演变成 par-。源自希腊语 para "beside, alongside of, beyond."<br/>**`bol-`** <br/>= throw, dance, ball, 表示“抛，舞，球”。源自希腊语 ballein "to throw"<br/> |
 | **para-bol-ic<**br />【ˌpærəˈbɑːlɪk】                        | para-在旁，在周围 + bol-扔 + -ic表形容词<br />寓言的, 比喻的, 抛物线的, 抛物线状的 |
 | **parable**<br />【ˈpærəbl】                                 | **`para-`**在周围 **`+ ble-`**=bole扔，投掷， 即扔在旁边的，引申词义打比方，讲寓言故事。<br />寓言;(尤指《圣经》中的)寓言故事<br /><br />来自希腊语 parabole,比较，对话，类比，来自 para-,在旁，在周围，-bole,扔，投掷，词源同ballet,ballistic.即扔在旁边的，引申词义打比方，讲寓言故事。拼写受-able 影响俗化。 |
+
+
+
+### <sup>2</sup> 作形容词后缀，表示“如…的”{142}
+
+| 单词     | 解释                                                         | 单词        | 解释                                                         |
+| -------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| astr∙oid | astr- <br/>= star or celestial body; outer space, 表示“星星，天体或外太空”。源自希腊语 aster "star." | anthrop∙oid | anthrop- <br/>= man, human, 表示“人，人类”。来源于希腊语 anthropos "man, human being." |
+| ameb∙oid | ameba <br/>n. 阿米巴, 变形虫                                 | alkal∙oid   | alkal- <br/>表示“碱”，源自阿拉伯语 al-qaliy (the ashes)。al-是阿拉伯语中的定冠词 "the"。 |
+| acid-oid |                                                              | ault-oid    |                                                              |
+| alg-oid  |                                                              | alka-oid    |                                                              |
+| alg∙oid  | alg- <br/>表示“藻类”                                         |             |                                                              |
+
+### -wise  表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系{33}
+
+-wise 
+表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系。
+
+| 单词                                  | 解释                                                         | 单词                                | 解释                                                         |
+| ------------------------------------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
+| bit-wise                              | 位运算符（**以bit的方式运算**）<br />Bitwise is a level of operations that involves working with individual [bits](https://whatis.techtarget.com/definition/bit-binary-digit), which are the smallest units of [data](https://searchdatamanagement.techtarget.com/definition/data) in a computer. | **other-wise**  <br />【ˈʌðərwaɪz】 |                                                              |
+| clock-wise                            | a. 顺时针方向的<br/>ad. 顺时针方向地<br/>推荐：<br/>clock【钟】 + -wise副词后缀，表示方向。 | **like-wise** <br />【ˈlaɪkwaɪz】   | You use **likewise** when you are comparing two methods, states, or situations and saying that they are similar. |
+| **cross-wise**   <br />【ˈkrɔːswaɪz】 | across, especially from one corner to the opposite one（横过地；贯穿地；（尤指）对角横穿地，斜穿地）<br />in the form of a cross 成十字地；交叉地<br />in AM, also use 美国英语亦用 crossways |                                     |                                                              |
+
+#### -wise: 有见识的  => 认识路=> 向前走的方式 => 方式
+
+**clockwise** ['klɒkwaɪz] adv. 顺时针方向地，adj. 顺时针方向的。
+
+clock好理解，后边的-wise和wise聪明的有关系么？有的，**wise**本意是看，聪明则是“见多识广的”或“有见识的”，作为**`-wise`**出现时，词义从有见识延伸为认识路再到向前走的方式再到方式，于是**clockwise**就是“以钟表指针的方式行走的”
+
+
+
+####  otherwise
+
+1. **used to state what the result would be if sth did not happen or if the situation were different 否则；不然** 
+
+   - My parents lent me the money. Otherwise, I couldn't have afforded the trip. 我父母借钱给我了。否则，我可付不起这次旅费。
+
+2. **apart from that（除此以外）**
+
+   - There was some music playing upstairs. Otherwise the house was silent. （楼上有些音乐声。除此以外，房子里静悄悄的。）
+
+   -  He was slightly bruised but otherwise unhurt.（他除了一点青肿之外没有受伤。）
+
+3. **in a different way to the way mentioned; differently（在其他方面；另；亦）**
+
+   - Bismarck, otherwise known as ‘the Iron Chancellor（俾斯麦，亦称为“铁血首相”）
+   - It is not permitted to sell or otherwise distribute copies of past examination papers.（不准出售或以其他方式散发过去的试卷。）
+   - You know what this is about. Why pretend otherwise (= that you do not) ? 你明明知道这是怎么回事，为什么装作不知道？
+   - I wanted to see him but he was otherwise engaged (= doing sth else) 我想见他，但他正忙着别的事情。
 
 
 
