@@ -343,6 +343,51 @@ As [Anthony Prince](https://www.quora.com/profile/Anthony-Prince) pointed out in
 
 
 
+## cardinal（红色的、主要的）：穿红衣戴红帽的枢机主教
+
+<img src="./images/image-20220104104440286.png" alt="image-20220104104440286" style="zoom:67%;" /> 
+
+英语单词**cardinal**在辞典中有两个含义：
+
+1. 鲜红色
+2. 主要的。
+
+这两个在中文中毫不相关的含义怎么会聚集在同一个单词上呢？原来，**cardinal**一词来自拉丁语***cardinalis***，表示“主要的，首要的”，由拉丁语cardo（门枢、门铰）衍生而成。
+
+在天主教会中，协助教宗治理教会的高级教士被称为**cardinal**，中文一般翻译为“枢机”，其中的主教被称为“枢机主教”。枢机相当于“长老”（**senator**）。枢机由教宗亲自册封，协助教宗管理教会事务。当教宗空缺时，也只有他们有权选举下一任教宗。
+
+历史上出任枢机者包括平信徒、执事、司铎和主教。然而，1917年颁布的天主教法典规定，枢机候任者必须至少为司铎。教宗若望二十三世于1962年更规定，凡擢升为枢机者，如果是司铎，应擢升为主教。
+
+由于枢机主教一般都身穿红衣，戴红帽，所以在中文中枢机主教有时候也被称为“红衣主教”，原本仅表示“枢机”的cardinal一词也因此衍生了“红色”的含义。
+
+- **cardinal**：['kɑːd(ɪ)n(ə)l] 
+  - adj.主要的，基本的，红色的
+  - n.枢机主教，红衣主教，红色
+
+
+
+一词多义现象在英语中十分普遍，**cardinal**即为一典型例词。它源于拉丁语cardō 'hinge'（铰链），从cardō的派生形式cardinālis（和铰链有关的）演变而来。由于铰链对机器、门窗等所起的关键作用，所以**cardinal**的最早词义之一是“主要的”、“基本的”。
+
+在罗马天主教的教皇选举中，其结果取决于（hinged on）红衣主教。红衣主教是天主教的最高主教，分掌教廷各部和许多国家重要教区的领导权。因此**cardinal**一词最初喻指“红衣主教（的）”。由于红衣主教身着红色长袍，**cardinal**又进一步引申为“深红色（的）”、“鲜红色（的）”。18世纪在新大陆发现了一种红羽毛的鸟，**cardinal**又成了鸟名，汉语译成“红衣凤头鸟”或“北美红雀”。
+
+<img src="./images/image-20220104104344630.png" alt="image-20220104104344630" style="zoom:67%;" /> 
+
+- The Pope appointed the archbishop cardinal. (FWF) 教皇任命这位大主教为红衣主教。
+- Having clean hands is one of the cardinal rules when preparing food. (LDC) 下厨时的主要规则之一是把双手洗干净。
+
+
+
+
+
+- **cardinal number**基数，是对应量词的“数”。
+
+cardinal在这里是其形容词含义，表主要的；基本的，因此其名词含义是枢机主教，枢不就是枢纽的枢吗？不正是中枢的枢吗？
+
+- cardinal points是基点，指东西南北四个方向，
+- **cardinal sins**则是传说中的七宗罪，即傲慢、嫉妒、愤怒、懒惰、贪婪、暴食及色欲。
+
+
+
 ## purgatory（炼狱）：净化有罪灵魂的地方
 
 <img src="./images/web3-holy-souls-purgatory1.jpg" alt="How long does purgatory last?" style="zoom:67%;" />
