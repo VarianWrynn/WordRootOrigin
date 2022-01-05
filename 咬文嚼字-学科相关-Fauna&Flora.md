@@ -366,3 +366,71 @@ magnolia - 这是一种花大而芳香，树皮也带香味的观赏植物，汉
 - belle：[bɛl] n. 美女
 
 belladonna - 汉语作“颠茄”，乃一种有毒植物，它的根和叶含阿托品（atropine），用它制成的药剂也叫belladonna。该词源自意大利语bella donna 'fair lady'（美人）。这种植物的花瓣如美女肌肤般润滑，意大利妇女一度用其红色液汁作化妆品，故名
+
+
+
+## 谷物
+
+### einkorn v.s emmer
+
+> and rippling fields of wild barley and wild wheat varieties such as emmer and einkorn.
+
+Two wheats, **emmer** and **einkorn**, belong to the first domesticated plants. Here, a little insight into the diversity of **Triticum**: 
+
+> Triticum 【trɪtɪkəm】 小麦属;小麦;属小麦属;小麥屬 any [annual](https://www.collinsdictionary.com/zh/dictionary/english/annual) [cereal](https://www.collinsdictionary.com/zh/dictionary/english/cereal) grass of the genus *Triticum*, which includes the [wheats](https://www.collinsdictionary.com/zh/dictionary/english/wheat)
+
+- **Wild einkorn**
+- **einkorn**【aɪŋkɔrn】：〔农〕栽培一粒小麦：  a variety of wheat, **Triticum monococcum,** of Greece and SW Asia, having pale red kernels, and cultivated in hilly regions as grain for horses
+- **emmer**【emə】: 二粒小麦 hard red wheat grown especially in Russia and Germany
+- **bread wheat**:(=common wheat)  普通小麦
+- **branched wheat**： 分枝小麦
+- **hard wheat**： 硬（角）质小麦 wheat with hard dark-colored kernels high in gluten【ˈɡluːtn】（谷蛋白;面筋） and used for bread and pasta
+- **spelt**： 【spelt】 【植】(作饲料用的)斯佩耳特小麦 （hardy wheat grown mostly in Europe for livestock feed）
+- **miracle wheat**：  (神迹麦 / 神奇小麦)
+
+<img src="./images/image-20220105091101334.png" alt="image-20220105091101334" style="zoom: 67%;" />
+
+
+
+<font size=5> **什么是二粒小麦** </font>
+
+
+
+<img src="./images/image-20220105090723466.png" alt="image-20220105090723466" style="zoom:50%;" />
+
+
+
+
+
+<font size=5> **Greek Einkorn Wheat Berry Salad** </font>
+
+<img src="./images/image-20220105092223497.png" alt="image-20220105092223497" style="zoom:80%;" />
+
+This [Greek Eincorn Wheat Berry Salad](https://www.daringgourmet.com/greek-einkorn-wheat-berry-salad/) is not only visually beautiful and nutritious, it's a total flavor explosion!
+
+
+
+<font size=5> **WHAT IS EINKORN?** </font>
+
+As more attention has recently been given to the topic of wheat, you may have been hearing more about einkorn.  Einkorn remains the most ancient form of wheat and the only form of wheat that hasn’t been altered from its original form.
+
+Below is a list of the different forms of wheat from the most recent to the oldest and in the picture below you can see there is a visual difference between them. Note, with each generation of wheat additional genetic changes were made to make it more resistant to certain conditions, to enable it to grow in different climates and to increase yield.
+
+- **Wheat**:  The wheat of today has been genetically bred to produce exceptionally high yield and is virtually unrecognizable from its original form.  The wheat of the mid to late 20th century has especially undergone extreme genetic alterations.
+- **Kamut**:  The wheat from Biblical times.
+- **Emmer**: Also a wheat from Biblical times.
+- **Spelt**:  The wheat of pre-Biblical times through the Middle Ages.
+- **Einkorn**:  The great-grandfather of all wheat and was harvested in the wild.  It has remained unaltered.
+
+
+
+Some interesting information for those of you who are gluten-intolerant or have celiac disease: Though celiac disease is more common today than ever before in history (which many attribute to our modern wheat), it also existed as far back as 100 AD.  Ancient records make note of cases of celiac disease and researchers believe those cases are linked to the consumption of kamut, emmer and spelt.  Interestingly einkorn, the original, unaltered, wild form of wheat, seems to have escaped much of this correlation.
+
+<img src="./images/image-20220105092804893.png" alt="image-20220105092804893" style="zoom:80%;" />
+
+**Reference:**
+
+1. [Two wheats, emmer and einkorn, belong to the first domesticated plants--Twitter](https://twitter.com/schreibermona/status/1074746388876021762)
+2. [二粒小麦--百度百科](https://baike.baidu.com/item/%E4%BA%8C%E7%B2%92%E5%B0%8F%E9%BA%A6/8512424?fr=aladdin)
+3. [一粒小麦--百度百科](https://baike.baidu.com/item/%E4%B8%80%E7%B2%92%E5%B0%8F%E9%BA%A6/8675241?fr=aladdin)
+4. [Greek Einkorn (Wheat Berry) Salad](https://www.daringgourmet.com/greek-einkorn-wheat-berry-salad/)
