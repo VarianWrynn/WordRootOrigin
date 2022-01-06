@@ -5,10 +5,6 @@
 
 
 
-## anecdote  /ˈænɪkdoʊt/
-
-
-
 
 
 ## yet
@@ -67,183 +63,52 @@
 
 
 
-## Thick and thin
+ ## -wise
 
-**thick and thin**: 在任何情况下。这里的***thick***实际是
-- thicket ['θɪkɪt] n.灌木丛；错综复杂，
--  thin是薄木板。
+### Otherwise
 
-中世纪的英国森林面积很广阔，从灌木、林地和草地交错之地走来那就是**through thick and thin**。**`I'll always stand by you through thick and thin, till death do us apart.`**结婚誓词中经常听到。 ​​​​
+一个单词有很多个意思，但都来自一个本质意思，你只要充分理解这个本质意思，所有的意思都一通百通。
 
+**otherwise**的本质意思就是 ***not this one, but something else***，很明显就是从**other**衍生过来的，其后缀**`wise`**是表示**「in a… way」**以…方式，**「in … respect」**在…方面。
 
+比如
 
+- likewise 类似的（in a "like" way）
+- clockwise 顺时针的 （沿着钟表走动的方向）
+- stepwise 逐步的 （像阶梯一样的方式）
 
+你自己也可以用wise创造新词，这种做法很常见，表示「在…方面」
 
+- timewise 在时间方面(Timewise, we are OK 在时间方面，我们还很充足）
+- moneywise 在钱方面
+- marketwise 在市场方面
+- healthwise 在健康方面
 
-## Persona / person
+我们再来看otherwise，就是在其他方面(other respect/other thing），即not this one but something else，就是指「除目前说的这个以外的其他…」，something else包罗万象，指代任何你想指代的东西。
 
-person（个人）：古希腊罗马戏剧中的面具。
+> 否则（if not）只是其中的一个意思，出现在是两个对立的情况中，只有Yes和No，才会让你觉得otherwise是「否则」的意思。
 
-中国的传统戏剧如京剧中有所谓的脸谱，不同的人物性格用不同脸谱予以直观表示。古代希腊、罗马的戏剧中也有类似的表现手法，不过不是脸谱，而是面具，不同角色戴不同面具。
+如果在非对立的情况中，**otherwise就是指除此之外的「其他情况」**。
 
-佩戴面具可以解决一人分饰多角的问题，还能克服剧场条件限制，使远处的观众辨别出角色的形象和表情。拉丁语中这种面具叫做persona。正因为如此，persona渐渐成了戏剧中的“人物角色”的意思。
+反正这是个万能词，可以指代任何方面，既可以是副词，也可以是代词。比如:
 
-由于每个人在社会生活中都要扮演一定的人格角色，所以persona就从戏剧中的“人物角色”延伸为表示人在社会生活中的人格角色。英语单词person便来自拉丁语persona。
+- Please follow my instructions. Don't do it ***otherwise**(副词，= don’t do it in a different way).*
 
-- person：['pɜːs(ə)n]n.人，个人
-- persona：[pə'səʊnə; pɜː-]n.人物角色，伪装的外表
-- personal： ['pɜːs(ə)n(ə)l]adj.个人的，私人的，亲自的
-- personally：['pɜːs(ə)n(ə)lɪ] adv. 亲自地；当面；个别地；就自己而言
-- personality： [pɜːsə'nælɪtɪ] n.人格，个性
-- personage：['pɝsənɪdʒ] n. 要人；角色；名士
-- personnel： [,pɝsə'nɛl] n. 人事部门；全体人员adj. 人员的；有关人事的
 
-### Profile
 
-`- pro-`,向前，`-fil`,线，线条，词源同 **file**,**filament**.即画出线条轮廓，引申诸相当词义。
+**Reference**:
 
-**profile ['prəʊfaɪl]** 
-- n.侧面；轮廓；外形；剖面；简况，
-- vt.描…的轮廓；扼要描述，
-- vi.给出轮廓。
+1. [把otherwise当「否则」理解，--知乎--史蒂芬的专栏](https://zhuanlan.zhihu.com/p/140503806)) 
 
-这里的词根`fil-`表示线绳（或拉线），而`pro-`表向前，**profile**名词意为“**a drawing of the outline of anything**”。如果还不明白，file作为文件和档案的意思应该知道吧？想想我们古代的“线装书”就懂了。 ​​​​
 
 
 
 
-## anim-（生命）：代表生命之源的灵魂
 
-anim-（生命）：代表生命之源的灵魂
-古代人认为生命的本质是因为灵魂的存在。在拉丁文中，灵魂分为阴性和阳性两个单词，既阴性的anima（阿尼玛）和阳性的animus（阿尼姆斯）。表示生命的词根anim就来自这两个拉丁文。由于生命和灵魂密不可分，所有词根anim既有“生命”、“能动”的含义，也有“精神”、“心”的含义。
 
-- anim-：生命，能动，精神，心
-- anima： ['ænɪmə] n. 灵魂，生命；神圣之灵
-- animus：['ænɪməs] n. 敌意；意图；基本态度；女性的男性意向
-- animosity：['ænə'mɑsəti] n. 憎恶，仇恨，敌意
-- animal：['ænɪm(ə)l] n.动物，有生命能动的
-- animate：['ænɪmet] vt. 使有生气；使活泼；鼓舞；推动adj. 有生命的
-- animation：[,ænɪ'meʃən] n.动画，原意是使其具有生命，使其动起来
-- unanimous：[juː'nænɪməs] adj.全体一致的
-- equanimity：[,ɛkwə'nɪməti] n.（心情）平静坦然
 
 
 
-
-
-## pan-（众、全）
-
-### 1.  Pan-dora：众神的礼物潘多拉
-
-宙斯发现人类掌握了火的使用方法后，下决心要惩罚人类，就让火神仿造女神的模样，用水和土创造了一个美女，再让爱与美神阿芙洛狄忒为她喷上令男人心醉神迷的香气，让雅典娜为她披上华丽的衣服，神使赫尔墨斯赋予她言语的天赋。
-
-当这个女人做好后，宙斯给她起名为**Pandora**（潘多拉），让她带着一个宝盒来到人间，并欲擒故纵地警告她不要打开盒子。埃庇米修斯不顾普罗米修斯的警告，娶了潘多拉为妻。潘多拉果然禁不起好奇心，打开了宝盒，放出了里面的各种灾难，仅仅保留了希望在里面。
-
-潘多拉的名字**Pandora**是“**众神的礼物**”的意思。在希腊语中，**pan**表示“**所有**”，英语词根**`pan-`**（全部）便来源于此；**dora**的意思是“礼物”，源自原始印欧语词根do-（给），英语词根do-/don-与此同源。
-
-- pan-：所有
-- pandemic： [pæn'demɪk] adj.全国流行的，普遍的n.流行性疾病
-- panorama：[pænə'rɑːmə] n.全景，概观
-- pansophic：adj.全知的，有广泛知识的
-- do-/don-：给，赠送，捐赠
-- donor： ['dəʊnə; -nɔː] n.捐赠者
-- donate：[də(ʊ)'neɪt] n.v.捐献，捐赠
-- pardon：['pɑːd(ə)n] n.vt.原谅
-- dose：[dos] n. 剂量；一剂，一服v. 服药；给药
-- dowry：['daʊri] n. 嫁妆；天资；亡夫遗产
-- Dorothy：['dɒrəθɪ] n. 桃乐茜，女子名字，意为“神的礼物”，缩写为Dora。
-
-### 2. Pan-akeia 医药女神帕那刻亚
-
-希腊神话中，帕那刻亚（**Panakeia**）是医药神埃斯库拉庇乌斯的女儿，光明神阿波罗的孙女。
-
-埃斯库拉庇乌斯共有5个女儿，分别代表了阿波罗的一种医药能力，其中以帕那刻亚和许癸厄亚最为有名。帕那刻亚代表了治疗，而许癸厄亚代表了清洁卫生与健康。古代医生在开始正式从业前，要宣读著名的希波克拉底誓词，宣誓对象除了阿波罗与埃斯库拉庇乌斯外，还包括许癸厄亚和帕那刻亚姐妹俩。
-
-帕那刻亚的名字**Panakeia**在希腊语中是“治疗一切”的意思，由**`pan`**（全部）和**`akos`** （治愈）构成，相当于英语中的all+cure。她的名字经由拉丁语进入英语后，演变为英语单词panacea，用来表示“包治百病的灵丹妙药”。
-
-- panacea：[,pænə'siə] n.包治百病的灵丹妙药
-
-**panacea**进入英语后常作“万应药”或“灵丹妙药”解，但在现代用法中panacea常用于讽刺意义。
-
-- The medicine was promoted as a panacea for all aches and pains. (NED) 这种药是作为解除各种疼痛的万灵药来推销的。
-- There's no single panacea for the country's economic ills. 国家经济弊病百出，没有万灵药可以医治得了。
-- Librarians welcomed computerization as the panacea for all their cataloguing problems. (LLA) 电脑化受到图书管理员的欢迎，它解决了他们在编目分类上的所有难题。
-
-
-
-### 3. Pan-nic 喜欢吓唬人的潘神
-
-希腊神话中有一个叫做潘（Pan）的牧神，掌管山林、田园和羊群。他长相奇特，上半身是人，下半身是羊，头顶还长着羊角。据说，他刚出生时，母亲看见他这副怪模样，吓得大叫一声就逃走了。神使赫尔墨斯收养了他，还经常带他到诸神所在的奥林巴斯山上玩。
-
-<img src="./images/image-20211022101850234.png" alt="image-20211022101850234" style="zoom: 80%;" />
-
-潘虽然长得丑陋，但性格很好，**诸神都很喜欢他，因而得名为Pan**，在希腊语中就是“所有”的意思。他和其它的森林之神及仙女在山林之间闲游，过着逍遥自在、无拘无束的生活。因此，英语习语**a freedom of Pan**表示“无拘无束、逍遥自在”的意思。
-
-
-
-潘神喜欢搞恶作剧。他常常躲在隐蔽处，蓦地跳出，用丑陋的面目把路人吓得魂不附体。他还会发出怪异的叫声，令人感到毛骨悚然，胆战心惊。这种恐惧感就称为“潘神之惧”（**Panic fear**）。传说希波战争中，希腊人在马拉松战役中取得胜利就是因为潘神把波斯军队吓得惶恐而逃的。
-
-![image-20211022101956988](./images/image-20211022101956988.png)
-
-英语单词**panic**就源自“潘神之惧”（**Panic fear**），原本是个形容词，后来逐渐变成名词，比如：
-
-- People ran away in panic. 人们在惊慌中四散逃走。Panic seized her. 她突然惊慌失措。
-
-**panic**还可以转作动词，表示“惊慌”，比如，
-
-- Take it easy, do not panic. 镇定点，不要惊慌。
-- The gunfire panicked the horses. 枪声惊吓到马匹。
-
-**panic**派生出形容词**panicky**，后面加了一个*形容词后缀* **`-y`**，意思是“恐慌的，惊慌失措的”。
-
-- 比如：Some of the panicky people tried to flee over the bridge. 一些惊慌失措的人试图从桥上逃走。
-
-
-
-- **Pan**：[pæn] n.潘神
-- **panic**：['pænɪk] n.恐慌，惊慌vt.惊吓，使恐慌vi.惊慌，感到恐慌
-- **panicky**：[ˈpænɪki] adj.惊慌失措的
-
-
-
-参考：[词源趣谈 | panic（恐慌）：喜欢吓唬人的潘神（Pan）](https://mp.weixin.qq.com/s/6o0ohQgM8RDyEswRB97nXA)
-
-
-
-#### Fanus / Fanua 
-
-在罗马神话中，与潘神对应的神祇叫做法乌努斯（***Faunus***），掌管农林畜牧。在拉丁语中，法乌努斯（***Faunus***）的阴性形式是 ***Fauna***，她被视为 Faunus 的妻子或姐妹，是女牧神。
-
-
-
-18 世纪时，瑞典著名博物学家林奈用 fauna 一词来表示“动物区系”，与 flora（植物区系） 相对应。 
-
-- fauna：['fɔːnə] n.某区域的动物群，动物区系 
-- faunal：['fɔnl] adj. 动物区系的
-
-
-
-### 4. pan- = bread, 表示“面包”
-
-**`pan-`** = bread, 表示“面包”。源自拉丁语 panis "bread."
-
-英语词根 **`pan-`**（面包、食物）来自拉丁语名词 ***panis***（面包、食物），由此衍生出来的单 词还有 **company**。它和单词 **companion**（伙伴）同源，本意是“战友、伙伴”。在军事上， **company** 表示步兵的常见建制单位“连”。
-
-- **company**: 一群一块挣面包的人
-
-  14 世纪时，**company** 被用来表示“行业工会”， 后来表示“公司”。组成公司的不正是一群一块挣面包的人吗？
-
-- **companion**: 一起吃面包的人：
-
-  古罗马军队中，每十名士兵组成一个小组，在扎营时睡在同一顶帐篷中，吃饭时分享一 条面包。这十个人就被称为 companion，由前缀 com（一道）+词根 pan（面包）+名词后缀 ion 组合而成，字面意思就是“一起吃面包的人”。
-
-- **pantry**: 食品贮藏室; 食品贮藏柜
-
-  既然开公司是为了一块挣面包吃，公司里面自然少不了吃面包的地方。这个地方就是 pantry（食品间），在外企中很常见，里面通常有咖啡和零食。员工们工作累了，可以来这 里喝点咖啡，吃点零食，放松精神，恢复精力。
-
-- **appanage** 【æpənɪdʒ】养家糊口之物 =>  封地，封禄
-
-  在封建时期，贵族家中，只有长子有权继承爵位，那么其他儿子们如何养家糊口呢？为 了解决这个问题，贵族常常会分给他们一些地产，作为他们将来的生活来源。这种封地就被 称为 **appanage**，字面意思就是“食物供给、养家糊口之物”。
 
 
 
@@ -259,54 +124,6 @@ Used to describe two things that are independent of each other. One does not imp
 
 
 
-## rgds
-[abbreviation](https://www.urbandictionary.com/define.php?term=abbreviation) for 'regards', [used](https://www.urbandictionary.com/define.php?term=used) for ending not very [official](https://www.urbandictionary.com/define.php?term=official) emails
-
-[call me](https://www.urbandictionary.com/define.php?term=call%20me) if [you need](https://www.urbandictionary.com/define.php?term=you%20need) more [details](https://www.urbandictionary.com/define.php?term=details).
-
-rgds,
-john
-
-
-## Perfume  
-
-**perfume**（香水）：用来消毒和清洁空气的熏香之烟。
-
-在中世纪时期的欧洲，当有人死于传染病时，尸体被抬走后，人人往往会点燃某种香料，用其产生的带有香味的烟雾来熏病人的房间，以达到消毒和去除异味的作用。
-
-英语单词**`perfume`**的本意就是“用烟来熏病人的房间”，做名词时表示“用来消毒的烟”、“薰烟”。它由`per`（**through，彻底、弥漫**）+**fume**（烟）构成，字面意思就是“用烟弥漫”或“弥漫的烟”。
-
-后来，人们流行在身上喷洒具有芬芳气味的液体，即所谓的“香水”。由于香水的目的也是为了去除异味、清洁空气，所以香水所发出的香气以及用香水清洁空气的行为也被称为perfume。现在，香水本身也被称为perfume。
-
-- perfume：['pɜːfjuːm] 
- - n.香水，香味vt.喷香水于……，使……带香味
- - vi.散发香气
-- fume：[fjuːm] 
- - n.烟，愤怒，烦恼
- - vt.熏，冒烟，愤怒的说
- - vi.冒烟，发怒
-
-### Toilet water
 
 
 
-## die v.s dice
-
-
-
-1.die [daɪ] v.死亡；凋零；熄灭，n.冲模；骰子（其它词源）。
-
-相信与否，die并不是严格意义上的英语单词！古英语里只有名词death没有动词die，他们用starve [stɑːv] v.（使）饿死来表示死亡（后starve专指饿死）。793年后从维京人那里借用了die这个单词，所以，没有维京海盗，就没有今天的“狗带”。 
-
-
-
-2.dice [daɪs] n. 骰子，vi. 掷骰子。
-
-前边说了The die is cast.骰子已掷出喻无法回头木已成舟，那dice和die n.骰子什么关系呢？dice是die的复数。不让人省心。不过想想的mouse老鼠的复数是mice，而louse虱子的复数是lice，penny美分；便士的复数是pence也就释然了。其实这里的-ce就是原本复数-s的轻化。
-
-
-
-die的词源说明：
-
-1 - 来自 PIE*dheu,离开，死亡，词源同 dead,death.
-2 - 来自拉丁语 datum,给予，词源同 date,donate.原指掷骰子，后指骰子。

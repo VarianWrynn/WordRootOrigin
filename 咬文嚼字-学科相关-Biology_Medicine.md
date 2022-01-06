@@ -93,7 +93,7 @@ Celsius（摄氏度）：发明摄氏温标的瑞典科学家摄尔修斯。
 
 >  例　Female wasps lay their eggs in the pupae of various flies. 雌黄蜂在多种苍蝇的蛹中产卵。
 
-<img src="F:\Lee\Githubs\Grammar\RootOrigin\images\image-20210928160425587.png" alt="image-20210928160425587" style="zoom: 67%;" />
+<img src="./images/image-20210928160425587.png" alt="image-20210928160425587" style="zoom: 50%;" /> 
 
 因为如果你仔细观察蛾蛹，就会发现它的脸、眼睛以及小臂状的双翅，都像极了襁褓中的婴儿，犹如小洋娃娃。
 
@@ -101,6 +101,20 @@ Celsius（摄氏度）：发明摄氏温标的瑞典科学家摄尔修斯。
 
 - pupa： ['pjupə] n. 蛹
 - pupil：[ˈpjuːpl] n. 学生；瞳孔；未成年人
+- puppet：['pʌpɪt] n. 木偶；傀儡；受他人操纵的人
+- puppy：['pʌpi] n. 小狗，幼犬
+
+
+
+### pupil（学生）：小小的玩具娃娃
+
+当我们看到幼儿园中或小学低年级班中一群群按照老师要求规规矩矩端坐在座位上的小朋友们，是不是觉得他们特别像小小的玩具娃娃一样？英语单词pupil（学生）的本意正是“小娃娃”，它来自拉丁语pupillus，是pupa（娃娃、玩偶）的指小形式。
+
+pupil还可以表示“瞳孔”，因为我们仔细察看别人的瞳孔，可以发现瞳孔里有一个小人，其实就是你自己的倒影。
+
+同源的单词还有puppet（傀儡）、puppy（小狗）等。
+
+- pupil：['pjuːpɪl; -p(ə)l] n.（小）学生，瞳孔
 - puppet：['pʌpɪt] n. 木偶；傀儡；受他人操纵的人
 - puppy：['pʌpi] n. 小狗，幼犬
 

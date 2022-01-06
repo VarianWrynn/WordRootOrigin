@@ -34,6 +34,81 @@
 
 
 
+### Bourgeoisie 【ˌbʊrʒwɑːˈziː】 | bourgeois 【ˈbʊəʒwɑː】
+
+>  the middle classes in society.
+
+
+
+**`burg-`** 表示“ 城堡”。源自拉丁语 burgus "fortified place;" 古法语 burg "borough."
+更多同源词...
+
+**bourgeoisie**（资产阶级）：社会地位较高的城镇居民.
+
+英语单词**bourgeoisie**音译为“布尔乔亚”，常被翻译为“资产阶级”或“中产阶级”。它来自法语，字面意思就是**town dwellers**（城镇居民），其中的**`bourg`**相当于英语中的**town**。
+
+在欧洲的封建时期，在农村中逐渐出现一些小镇，里面聚集了一些手工业者和商人等非农业人口，他们为周边的农业人口提供农产品以外的其他各种商品，这些人就被称为**bourgeoisie**，意思就是住在小镇的这种非农业人口。后来，随着工商业的发展，这些人的财富不断增多，并且还可以雇佣工人为自己工作。他们的地位高于农民和工人，但低于封建贵族。
+
+欧洲进入资本主义社会后，西方社会学家尤其是马克思主义学派在进行阶级划分时，使用bourgeoisie来表示社会中的富有阶级之一，指有产者、中产阶级，通常翻译为“资产阶级”。值得注意的是，**bourgeoisie**是集合名词，表示整个阶级。当表示具体一个人时，男人用**bourgeois**表示，女人用**bourgeoise**表示。
+
+- bourgeoisie：[,bʊəʒwɑː'ziː] n.资产阶级、中产阶级
+- bourgeois：['bʊəʒwɑː] adj.资产阶级的、中产阶级的、贪图享受的n.资产阶级男人、中产阶级男人
+- bourgeoise： ['buəʒwɑ:z, buə'ʒwɑ:z] n.资产阶级女人、中产阶级女人
+
+
+
+### burgess（市民）：自治市中的市民
+
+英语单词**burgess**在字典中除了“市民”的含义外，还拥有“议员”、“镇行政官”的含义。难道任何一名市民都能当议员或行政官吗？没错，只要你是burgess，你就是一名议员或行政官。
+
+因为burgess指的不是一般的市民，而是自治市（borough）的市民。自治市是拥有自治权利的城市，城市的所有主权属于所有市民，就像古希腊城邦一样，城市事务由所有市民（burgess）共同决定。所以burgess也就相当于“议员”或“镇行政官”了。不过现在这个单词很少用作“议员”，用的时候也仅仅表示代表某个自治市、特别市或大学的议员。
+
+和burgess同源的单词是burgher（市民、公民），都来自词根-burg（要塞、设防城市）。这里的-burg就等于town，如匹兹堡（Pittsburgh）、汉堡（Hamburg）、爱丁堡（Edinburgh）。
+
+- burgess：['bɜːdʒɪs] n.（自治）市民、自由民、议员、镇行政官
+- burgher：['bɜːgə] n.市民、公民
+
+
+
+borrow ['bɒrəʊ] v.借。借是与还相对的。凭什么借给你？熟人靠信用，不熟？对不起，抵押等值物品吧。另外，因为要归还，所以借来的东西要小心看管。这个单词与burg城；镇；村（保护居住者的安全）、burgess市民以及barrow古坟（保护死者遗体）和bury埋葬（目的也是保护死者遗体）等都是日耳曼词源。
+
+
+
+### borough（自治市）：带碉堡的城市
+
+英语单词borough（自治市）来自原始日耳曼语burgs（城堡、要塞），本意是“带碉堡的城市”。西方好多城市都以burg或burgh结尾，如汉堡（Hamburg）、爱丁堡（Edinburgh）、匹兹堡（Pittsburgh），这里的burg或burgh都来自原始日耳曼语burgs（城堡、要塞），指的是带碉堡的城市，也就是说，这些城市以前其实是要塞或城堡。
+
+在欧洲封建时期，城镇的主权原本属于封建贵族即所谓“领主”（Lord）的，是其封地的一部分。后来，随着工商业的发展，城镇越来越繁荣，市民的经济地位提高了，对封建贵族的压榨越来越不满。所以市民们想方设法争取城市自治。
+
+刚开始时，市民们用钱从领主那里一项一项地赎回城市的各种权利。那个时候市民们通过经商积累了大量货币，而领主的收入主要是封地上的各种农产品，所以缺乏货币。在11、12世纪又赶上了十字军东征运动，大批领主要参加十字军，亟需便于携带的金银货币充当盘缠，所以就把城镇的很多权利都卖给市民了。
+
+但金钱不能买到所有权利，所以领主和市民最后免不了要开战，城市的自治权就是通过赎买和战争的方式获得的。因此自治市中常常修筑了各种防御工事，用来保卫城市的主权。因为自治市往往都是这种带碉堡的城市，所以人们就用原本表示“带碉堡的城市”的
+
+
+
+- borough一词来表示“自治市”了。
+- borough：['bʌrə] n.自治市，区
+- burg：[bɜːg] n.镇、城、村
+- burgh：['bʌrə] n.（苏格兰）自治市，城镇
+
+
+
+### Hamburg | hamburger
+
+**hamburger** - 这是当今人们熟知的一个德语外来词，其由来可以追溯到许多世纪以前。鞑靼人喜欢生吃切碎的牛肉丝，以后这种吃法经由俄国波罗的海地区传入德国。**Hamburg**（汉堡）人在做法上作了一些改进，把碎牛肉制成饼状，再加以烹调，成了一种类似牛排的菜肴，名之曰**Hamburger**。
+
+19世纪中期，在第一次德国移民浪潮中，以**Hamburger**命名的这一名菜随着德国移民进入了美国，很受美国人喜爱。1836年，一道以**Hamburg steak**（汉堡牛排）命名的菜出现在美国人的菜单上。这就是**hamburger**的前身。当时Hamburg steak的做法与今天的hamburger已经很接近了，就是用碎牛肉和洋葱、胡椒粉拌在一起。以后Hamburg steak又作hamburger steak和hamburg，最后人们还是直接采用了原德语名称hamburger，只是首字母不大写而已。
+
+19世纪英国营养学家[J. H. Salisbury](https://en.wikipedia.org/wiki/James_H._Salisbury)对此菜肴赞扬备至，他劝人们一天至少吃上三次，hamburger因此得了一个别称Salisbury【ˈsælzbəri】 steak。到了1912年许多人都喜欢在面包片里夹上hamburger，于是hamburger一词除了表示“汉堡牛排”又多了一层意义：“夹牛肉饼的面包片”，现通译为“汉堡包”。
+
+此后hamburger也被用以指“（用来做汉堡包的）绞碎的牛肉”。第二次世界大战期间美国肉类的匮乏使hamburger身价倍增，并进而取代了hot dog（热狗），从此以后hamburger成了最受美国人欢迎的快速食品。出售该快速食品的食品店、售货店以及售货摊在美国几乎随处可见，而且出现了花样繁多的夹心面包，诸如cheeseburger，fishburger，nutburger，beefburger，turkeyburger，clam-burger，muttonburger，shrimpburger等。在这些以**`-burger`**结尾的复合词中，词根通常表示所夹之物的名称，而**`-burger`**则作为一个后缀，表示各种类似于hamburger的夹心面包。
+
+例　
+
+- I'll take a hamburger and French fries, please. (CAE) 我要一份汉堡包和法式炸土豆条。
+- Hamburgers are named after the German city of Hamburg and don't actually contain any ham — they are made of beef. (CID) 汉堡包是以德国的汉堡市命名的，实际上其中并不含火腿，而是牛肉做的。
+- I bought two pounds of hamburger for a meat loaf. (CWR) 我买了两磅牛肉糜来做肉饼。
+
 
 
 
@@ -52,6 +127,58 @@
 - **British**：adj.不列颠的，英国的，英国人的n.英国人
 - **Briton**：['britən] adj.布列吞人，不列颠人，英国人
 - **Brittany**：['britəni] n. 布列塔尼（法国西北部一地区
+
+
+
+## 精神
+
+### Persona / person
+
+person（个人）：古希腊罗马戏剧中的面具。
+
+中国的传统戏剧如京剧中有所谓的脸谱，不同的人物性格用不同脸谱予以直观表示。古代希腊、罗马的戏剧中也有类似的表现手法，不过不是脸谱，而是面具，不同角色戴不同面具。
+
+佩戴面具可以解决一人分饰多角的问题，还能克服剧场条件限制，使远处的观众辨别出角色的形象和表情。拉丁语中这种面具叫做persona。正因为如此，persona渐渐成了戏剧中的“人物角色”的意思。
+
+由于每个人在社会生活中都要扮演一定的人格角色，所以persona就从戏剧中的“人物角色”延伸为表示人在社会生活中的人格角色。英语单词person便来自拉丁语persona。
+
+- person：['pɜːs(ə)n]n.人，个人
+- persona：[pə'səʊnə; pɜː-]n.人物角色，伪装的外表
+- personal： ['pɜːs(ə)n(ə)l]adj.个人的，私人的，亲自的
+- personally：['pɜːs(ə)n(ə)lɪ] adv. 亲自地；当面；个别地；就自己而言
+- personality： [pɜːsə'nælɪtɪ] n.人格，个性
+- personage：['pɝsənɪdʒ] n. 要人；角色；名士
+- personnel： [,pɝsə'nɛl] n. 人事部门；全体人员adj. 人员的；有关人事的
+
+#### Profile
+
+`- pro-`,向前，`-fil`,线，线条，词源同 **file**,**filament**.即画出线条轮廓，引申诸相当词义。
+
+**profile ['prəʊfaɪl]** 
+
+- n.侧面；轮廓；外形；剖面；简况，
+- vt.描…的轮廓；扼要描述，
+- vi.给出轮廓。
+
+这里的词根`fil-`表示线绳（或拉线），而`pro-`表向前，**profile**名词意为“**a drawing of the outline of anything**”。如果还不明白，file作为文件和档案的意思应该知道吧？想想我们古代的“线装书”就懂了。 ​​​​
+
+
+
+### anim-（生命）：代表生命之源的灵魂
+
+anim-（生命）：代表生命之源的灵魂
+
+古代人认为生命的本质是因为灵魂的存在。在拉丁文中，灵魂分为阴性和阳性两个单词，既阴性的anima（阿尼玛）和阳性的animus（阿尼姆斯）。表示生命的词根anim就来自这两个拉丁文。由于生命和灵魂密不可分，所有词根anim既有“生命”、“能动”的含义，也有“精神”、“心”的含义。
+
+- anim-：生命，能动，精神，心
+- anima： ['ænɪmə] n. 灵魂，生命；神圣之灵
+- animus：['ænɪməs] n. 敌意；意图；基本态度；女性的男性意向
+- animosity：['ænə'mɑsəti] n. 憎恶，仇恨，敌意
+- animal：['ænɪm(ə)l] n.动物，有生命能动的
+- animate：['ænɪmet] vt. 使有生气；使活泼；鼓舞；推动adj. 有生命的
+- animation：[,ænɪ'meʃən] n.动画，原意是使其具有生命，使其动起来
+- unanimous：[juː'nænɪməs] adj.全体一致的
+- equanimity：[,ɛkwə'nɪməti] n.（心情）平静坦然
 
 
 
@@ -551,40 +678,45 @@ The plastic bristles on this broom are easy to clean. (CWR) 这把扫帚上的�
 
 
 
- ## -wise
 
-### Otherwise
 
-一个单词有很多个意思，但都来自一个本质意思，你只要充分理解这个本质意思，所有的意思都一通百通。
+### Perfume  
 
-**otherwise**的本质意思就是 ***not this one, but something else***，很明显就是从**other**衍生过来的，其后缀**`wise`**是表示**「in a… way」**以…方式，**「in … respect」**在…方面。
+**perfume**（香水）：用来消毒和清洁空气的熏香之烟。
 
-比如
+在中世纪时期的欧洲，当有人死于传染病时，尸体被抬走后，人人往往会点燃某种香料，用其产生的带有香味的烟雾来熏病人的房间，以达到消毒和去除异味的作用。
 
-- likewise 类似的（in a "like" way）
-- clockwise 顺时针的 （沿着钟表走动的方向）
-- stepwise 逐步的 （像阶梯一样的方式）
+英语单词**`perfume`**的本意就是“用烟来熏病人的房间”，做名词时表示“用来消毒的烟”、“薰烟”。它由`per`（**through，彻底、弥漫**）+**fume**（烟）构成，字面意思就是“用烟弥漫”或“弥漫的烟”。
 
-你自己也可以用wise创造新词，这种做法很常见，表示「在…方面」
+后来，人们流行在身上喷洒具有芬芳气味的液体，即所谓的“香水”。由于香水的目的也是为了去除异味、清洁空气，所以香水所发出的香气以及用香水清洁空气的行为也被称为perfume。现在，香水本身也被称为perfume。
 
-- timewise 在时间方面(Timewise, we are OK 在时间方面，我们还很充足）
-- moneywise 在钱方面
-- marketwise 在市场方面
-- healthwise 在健康方面
-
-我们再来看otherwise，就是在其他方面(other respect/other thing），即not this one but something else，就是指「除目前说的这个以外的其他…」，something else包罗万象，指代任何你想指代的东西。
-
-> 否则（if not）只是其中的一个意思，出现在是两个对立的情况中，只有Yes和No，才会让你觉得otherwise是「否则」的意思。
-
-如果在非对立的情况中，**otherwise就是指除此之外的「其他情况」**。
-
-反正这是个万能词，可以指代任何方面，既可以是副词，也可以是代词。比如:
-
-- Please follow my instructions. Don't do it ***otherwise**(副词，= don’t do it in a different way).*
+- perfume：['pɜːfjuːm] 
+  - n.香水，香味vt.喷香水于……，使……带香味
+  - vi.散发香气
+- fume：[fjuːm]  
+  - n.烟，愤怒，烦恼
+  - vt.熏，冒烟，愤怒的说
+  - vi.冒烟，发怒
 
 
 
-**Reference**:
+### die v.s dice
 
-1. [把otherwise当「否则」理解，发现很多句子看不懂，正确的理解是什么？--知乎--史蒂芬的专栏 ](https://zhuanlan.zhihu.com/p/140503806)
 
+
+1.die [daɪ] v.死亡；凋零；熄灭，n.冲模；骰子（其它词源）。
+
+相信与否，die并不是严格意义上的英语单词！古英语里只有名词death没有动词die，他们用starve [stɑːv] v.（使）饿死来表示死亡（后starve专指饿死）。793年后从维京人那里借用了die这个单词，所以，没有维京海盗，就没有今天的“狗带”。 
+
+
+
+2.dice [daɪs] n. 骰子，vi. 掷骰子。
+
+前边说了The die is cast.骰子已掷出喻无法回头木已成舟，那dice和die n.骰子什么关系呢？dice是die的复数。不让人省心。不过想想的mouse老鼠的复数是mice，而louse虱子的复数是lice，penny美分；便士的复数是pence也就释然了。其实这里的-ce就是原本复数-s的轻化。
+
+
+
+die的词源说明：
+
+1 - 来自 PIE*dheu,离开，死亡，词源同 dead,death.
+2 - 来自拉丁语 datum,给予，词源同 date,donate.原指掷骰子，后指骰子。
