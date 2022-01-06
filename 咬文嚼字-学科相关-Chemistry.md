@@ -46,11 +46,37 @@
 | **lith-ium**<br />【ˈlɪθiəm】                                | **`lith-`** 表示化学元素“锂”，因锂元素发现于石头中而得名。源自希腊语 lithos "stone."<br />a chemical element. Lithium is a soft, very light, silver-white metal used in batteries and alloys . | **cadm-ium**<br />【ˈkædmiəm】                       | 镉元素（**cadmium**）以卡德摩斯的名字命名。这是因为镉元素是从菱锌矿（**cadmia**）中发现的，而菱锌矿最早是在底比斯城附近发现的，故采用底比斯城的古名 **Cadmia**（卡德摩斯之城）来命名。 |
 | **german-ium**<br />【dʒɜːrˈmeɪniəm】                        | **锗**。来自其发现者 19 世纪德国科学家 Clemens Alexander Winkler 以祖国 Germany 命名的金属元素。<br /> chemical element. Germanium is a shiny grey element that is similar to a metal (= is a metalloid ) . | **irid-ium**<br />【ɪˈrɪdiəm】                       | a chemical element. Iridium is a very hard yellow-white metal, used especially in making alloys . |
 | **holm-ium**<br />【ˈhoʊlmiəm】                              | Holmium 1 - 来自 **Holmia**,***瑞典首都 Stockholm 拉丁名字***，该稀土元素发现者 19 世纪瑞典化学家 Per TeodorCleve 以此命名，以纪念他的家乡。 | **Palladium**<br />【pəˈleɪdiəm】                    | 英语单词 **palladium** 就来自帕拉斯的名字，表示“守护神”。著名化学家 Wollaston 用它来命名他新发明的金属元素钯。 |
-|                                                              |                                                              |                                                      |                                                              |
+| **xenon**<br />【ˈzenɑːn】                                   | 氙<br />来自希腊语 xenos,客人，陌生人，其发现者苏格兰化学家 William Ramsay 因这种元素发现困难而命名。比较 krypton,dysprosium. |                                                      |                                                              |
 
 
 
 [^1]: [同位素](https://www.zhihu.com/question/314301893)同属于某一化学元素，其原子具有相同数目的电子，原子核也具有相同数目的质子，但却有不同数目的中子。例如氕、氘和氚，它们原子核中都有1个质子，但是它们的原子核中分别有0个中子，1个中子及2个中子，所以它们互为同位素。
+
+
+
+### xenon  极为稀少且化学性质不活泼的气体
+
+> xeno- 12
+> = strange，表示“陌生”。源自希腊语 xenos "guest, host, stranger."
+
+xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是1898年英国化学家拉姆齐（Sir William Ramsay, 1852-1916）发现的，他在重新分馏六个星期前所发现的稀有气体氦时分离制得氙。他取希腊语xénos 'strange, stranger'（陌生的，陌生人）的中性形式，将它命名为xenon，这是因为该气体极为稀少，且化学性质不活泼的缘故。
+
+英语有个借自希腊语的组合语素xeno-也是源于希腊语xénos的，它含有“陌生人”、“外国人”、“陌生的”、“外来的”等义。英语中有好些借用词含有此一成分，诸如：
+
+- xenophobia（恐外症，对外国人的极度畏惧／憎恨）
+- xenophobe（恐惧外国人或陌生人的人）
+- xenophile（祟外者）
+- xenomania（祟外狂，媚外）等。
+
+- Since xenon is a noble gas, it doesn't combine easily with other elements. (NED) 氙是惰性气体，所以不容易和其他元素化合。
+
+**词源说明(童理民)**  :
+
+ 来自希腊语 xenos,客人，陌生人，其发现者苏格兰化学家 William Ramsay 因这种元素发现困难而命名。比较 krypton,dysprosium.
+
+**摩西英语(摩西):**
+
+好玩的是xerox这个单词中两个x的读音不一样，第一个x读/z/音，第二个x读/ks/音，为啥？因为呀，x代表的/ks/音在词首出现时，很难和后边的字母连贯起来发音，勉强读出来也不好听。参考单词：xenon ['zenɒn] n. [化学] 氙（稀有气体元素），词根xeno-表guest，因为它是在霓和氪后才扭扭捏捏被发现的。
 
 
 
