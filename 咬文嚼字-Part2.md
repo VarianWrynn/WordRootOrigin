@@ -7,6 +7,40 @@
 
 
 
+## Bang for the buck
+
+<img src="./images/image-20220107102124357.png" alt="image-20220107102124357" style="zoom: 67%;" /> 
+
+**Bang for the buck** is an [idiom](https://en.wikipedia.org/wiki/Idiom) meaning the worth of one's money or exertion. The phrase originated from the slang usage of the words "bang" which means "excitement" and "buck" which means "money".[[1\]](https://en.wikipedia.org/wiki/Bang_for_the_buck#cite_note-Heacock19-1) Variations of the term include "bang for **your** buck," "bang for **one's** buck," "**more** bang for the buck," "**bigger** bang for the buck," and mixings of these. "More bang for the buck" was preceded by "more bounce to the ounce", an advertising slogan used in 1950 to market the carbonated soft drink [Pepsi](https://en.wikipedia.org/wiki/Pepsi).
+
+The phrase "bigger bang for the buck" was notably used by U.S. President [Dwight D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower)'s [Secretary of Defense](https://en.wikipedia.org/wiki/United_States_Secretary_of_State), [Charles Erwin Wilson](https://en.wikipedia.org/wiki/Charles_Erwin_Wilson), in 1954. He used it to describe the [New Look](https://en.wikipedia.org/wiki/New_Look_(policy)) policy of depending on nuclear weapons, rather than a large regular army, to keep the Soviet Union in check. Today, the phrase is used to mean a greater worth for the money used.
+
+!4$ is sometimes used as a shorthand version.
+
+
+
+### buck = dollar
+
+The "buck" is a holdover from America's colonial frontier days when buckskins were the primary measure for bartering goods. The earliest evidence we have of this tradition comes from the journals of [Conrad Weiser](http://en.wikipedia.org/wiki/Conrad_Weiser), who in 1748, while writing about a trade dispute, [recalled](https://archive.org/stream/con00radweisersjouweisrich/con00radweisersjouweisrich_djvu.txt):
+
+> Your Brethren, therefore, have order'd that every cask of Whiskey shall be sold to You for five Bucks in your Town
+> The term appears to have stuck around after the dollar became the benchmark for trade after its introduction (and with greater success than the derided Continental).
+
+The first time "a grand" was used in relation to money, however, did not happen until the turn of the last century. The first recorded reference for the use of "a grand" as slang for $1,000 is in 1915, although the Oxford English Dictionary doesn't give it a first citation until 1921, the date of its appearance in [Collier's](https://colliersmagazine.com/). It doesn't appear to have any other meaning than "a grand sum of money."
+
+Tangential Trivia: \$1,000 in 1915 would be the equivalent of \$23,500 today.
+
+<img src="./images/image-20220107103015600.png" alt="image-20220107103015600" style="zoom:80%;" /> 
+
+
+
+**Reference:**
+
+1. [Bang for the buck --Wikipedia](https://en.wikipedia.org/wiki/Bang_for_the_buck)
+2. [**Why is a dollar sometimes called a "buck" and $1,000 called a "grand", etc?**](https://www.quora.com/Why-is-a-dollar-sometimes-called-a-buck-and-1-000-called-a-grand-etc)
+
+
+
 ## yet
 
 ![360x0](./images/1613658492310.png)
@@ -99,16 +133,6 @@
 **Reference**:
 
 1. [把otherwise当「否则」理解，--知乎--史蒂芬的专栏](https://zhuanlan.zhihu.com/p/140503806)) 
-
-
-
-
-
-
-
-
-
-
 
 
 
