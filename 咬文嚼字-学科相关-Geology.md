@@ -173,7 +173,7 @@ ceno-
 | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ |
 | **long-itude**<br />【ˈlɑːndʒɪtuːd】 | **`long`**【长的】 + **`-itude`**, 表名词。即长度，用于地理经度，比较latitude。<br/>**`long-`** = long, 表示“长”。源自拉丁语 longus "long."<br/>**`-itude`** 表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.<br />经度 | **lat-itude**                <br />【ˈlætɪtuːd】 | **`lat-`** = wide 表示“宽”。源自拉丁语 latus "broad, wide."<br/>**-itude** 表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.<br/>纬度;纬度地区;选择(做什么事或做事方式)的自由。<br /><br />temperate latitude**s**: 温带地区;温带 |
 | **multi-tude**<br />【ˈmʌltɪtuːd】   | multi- <br/>表示“很多，很多”。源自拉丁语 multus "many, much."<br/>群众;众多;大量;人群;民众;大批百姓 | **Merid-ian**<br />【məˈrɪdiən】                 | A meridian is an imaginary line from the North Pole to the South Pole. Meridians are drawn on maps to help you describe the position of a place.<br />子午线;经线<br />prime meridian：本初子午线；本初子午圈：meridian at zero degree longitude from which east and west are reckoned (usually the Greenwich longitude in England) |
-| alt-itude                            |                                                              | ampl-itude                                       |                                                              |
+| **alt-itude**<br />【ˈæltɪtuːd】     | n. 高度, 海拔, 高处 the height above sea level <br/>推荐：<br/>alt-高 + -itude → 高的地方 → 高处。<br />**`alt-`** <br/>= high, 表示“高”。源自拉丁语 altus "high, deep." | ampl-itude                                       |                                                              |
 | apt-itude                            |                                                              | in-ept-itude                                     | ,                                                            |
 | beat-itude                           |                                                              | coorect-itude                                    | 端正，得体                                                   |
 | cert-itude                           | 确实性，确信                                                 | in-cert-itude                                    |                                                              |
@@ -188,6 +188,23 @@ ceno-
 | rect-itude                           |                                                              | serv-itude                                       |                                                              |
 | simil-itude                          |                                                              | sol-itude                                        |                                                              |
 | veri-simil-itude                     |                                                              | vast-itude                                       |                                                              |
+
+
+
+### alto | altitude
+
+alto - 此系音乐术语，源自拉丁语altus，但却是直接借自意大利语，在意大利语是“高的”的意思，最初在英语中用以指“男声最高音”（和countertenor同义），不久以后也被用以指“女低音”（和contralto同义），这是因为女低音的音域和男声最高音很相像的缘故。英语中另有一些词，如:
+
+- altimeter（测高仪）
+- altitude（高度）
+- altar（祭坛）
+
+等也源自拉丁语altus。
+
+- They are looking for an extra alto ... Are you soprano or alto? (CCE) 他们正在找一个临时女低音歌手……你唱女高音还是女低音
+- She began by singing soprano, then changed to alto. (CID) 她以演唱女高音开始，然后又改成女低音。
+
+
 
 ### archi-pelago [ˌɑːrkɪˈpeləɡoʊ]
 

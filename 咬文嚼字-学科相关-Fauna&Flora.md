@@ -388,6 +388,15 @@ a. 紫罗兰色的; 堇菜科的
 
 
 
+<img src="./images/image-20220110165444869.png" alt="image-20220110165444869" style="zoom: 67%;" />
+
+| 单词                                     | 解释                                                         |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| **ultra-violte**<br />【ˌʌltrəˈvaɪələt】 | ultra- <br/>表示“极端（extremely），过度（beyond）”。源自拉丁语 uls, ultra "beyond."<br/>violet <br/>n. 紫罗兰; 蓝紫色, 紫罗兰色; 堇菜 a. 紫罗兰色的; 堇菜科的<br/>词源说明(童理民)  <br/>1 - ultra-,超过的，极其的，violet,紫色的 |
+| **infra-red**<br />【ˌɪnfrəˈred】        | a. 红外线的<br/>n. 红外线<br/>infra-低于，在下方 + red【红色】。即低于正常红色的，用于指红外线。<br/>**`infra-`** = "below, underneath, beneath; later than, smaller, inferior to," 表示“下，低”。源自拉丁语 infra "below."<br />**`red`** a. 红的, 红色的, 红肿的, 流血的 n. 红色, 红颜料, 赤字<br/>词源说明(童理民)  <br/>1 - infra-,低于，在下方，red,红色。即低于正常红色的，用于指红外线。 |
+
+
+
 ## 谷物
 
 ### einkorn v.s emmer
