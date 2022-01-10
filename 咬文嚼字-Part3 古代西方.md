@@ -432,6 +432,8 @@ a. 绯红色的, 鲜红色的
 
 ###  bridal / ale：以卖酒为由头收取礼金的英国传统婚宴
 
+<img src="./images/image-20220110102727337.png" alt="image-20220110102727337" style="zoom: 33%;" /> 
+
 英语单词**bridal**含有两个意思，一个是**bride**（新娘）的形容词，另一个是名词，表示“婚礼”。bridal以常见的形容词后缀al结尾，为什么还能作名词呢？原来，单词bridal源自古英语brydealo，等于现代英语的bride ale，表示婚宴。
 
 **ale**是英国地区的一种传统啤酒，通常翻译为“麦芽酒”或“爱尔啤酒”。在古代英国，麦芽酒是英国人的主要饮料。当人们想筹措资金时，就会组织一次宴会，在宴会上销售麦芽酒，通过卖酒的方式来筹钱。所以ale还可以表示通过销售麦芽酒的方式来筹钱的宴会，如**bid ale**就是为教区穷人募捐而举行的慈善宴会。
@@ -440,10 +442,10 @@ a. 绯红色的, 鲜红色的
 
 **bride ale**原本只用作名词，但后来常常连写为bride-ale用作形容词，并且受到以al结尾的形容词的影响，逐渐变成bridal，因此增加了“婚礼的，新娘的”之意。
 
-- ale： [eɪl] n.麦芽酒，爱尔啤酒，以卖酒方式筹钱或募捐的宴会
-- bridal：['braɪd(ə)l]n.婚宴，婚礼adj.婚礼的，新娘的
-- bride： [braɪd] n. 新娘；姑娘，女朋友
-- stout 【staʊt】
+- **ale**： [eɪl] n.麦芽酒，爱尔啤酒，以卖酒方式筹钱或募捐的宴会
+- **bridal**：['braɪd(ə)l] n.婚宴，婚礼 adj. 婚礼的，新娘的
+- **bride**： [braɪd] n. 新娘；姑娘，女朋友(即将(或刚刚)结婚的女子)
+- **stout** 【staʊt】
   - a: 粗壮的;肥胖的;肥壮的;粗壮结实的;厚实牢固的;顽强的;坚毅的;不屈不挠的
   - 烈性黑啤酒
 
@@ -453,16 +455,14 @@ a. 绯红色的, 鲜红色的
 
 
 
-bridal ['braɪd(ə)l] adj.新娘的；婚礼的，n.婚礼。
+**bridal** ['braɪd(ə)l] adj.新娘的；婚礼的，n.婚礼。这个单词由两部分组成：**bride**新娘+**ale** [eɪl] n.麦芽酒。
 
-这个单词由两部分组成：**bride**新娘+**ale** [eɪl] n.麦芽酒。
+**ale**是啤酒进入英国前流行的饮料，
 
-ale是啤酒进入英国前流行的饮料，
-
-- 与beer相比，ale没经过**啤酒花发酵**，多流行于乡下；
+- 与**beer**相比，**ale**没经过**啤酒花发酵**，多流行于乡下；
 - 啤酒的酿造加入了啤酒花，先盛行于城镇。
 
-热闹的婚礼中，宾客喝掉大量的酒，这样看，bridal类似“喜酒”
+热闹的婚礼中，宾客喝掉大量的酒，这样看，**bridal**类似“喜酒”
 
 <img src="./images/image-20211231105931997.png" alt="image-20211231105931997" style="zoom: 33%;" /> 
 
@@ -470,7 +470,7 @@ ale是啤酒进入英国前流行的饮料，
 
 
 
-
+<font size =5 > **bridal  & bride** </font>
 
 在当今英美富有人家的婚宴上，向新娘敬酒时新娘和宾客喝的通常都是香槟酒，可是在古时英国的传统婚宴上新娘和宾客喝的则是麦芽酒（ale）。这一习惯反映在bridal的词源上。bridal在古英语作brdealu，由两个古英语词brd 'bride'（新娘）和ealu 'ale'（麦芽酒）构成，意思是wedding feast（婚筵），但字面义则为bride('s) ale（新娘麦芽酒）。
 
@@ -481,6 +481,71 @@ ale是啤酒进入英国前流行的饮料，
 
 
 
+1.**bridal ['braɪd(ə)l] adj.新娘的；婚礼的，n.婚礼。**
+
+这个单词由两部分组成：bride新娘+ale [eɪl] n.麦芽酒。ale是啤酒进入英国前流行的饮料，与beer相比，ale没经过啤酒花发酵，多流行于乡下；啤酒的酿造加入了啤酒花，先盛行于城镇。热闹的婚礼中，宾客喝掉大量的酒，这样看，bridal类似“喜酒”。 
+
+2.**bride [braɪd] n.新娘。**
+
+或与
+
+- brew [bruː] vt.酿造；酝酿，vi.酿酒；被冲泡；即将发生，n.啤酒；质地，
+- 和broth [brɒθ] n.肉汤；液体培养基，
+
+有关。父系社会那么长，新娘子进门后就得为全家做饭了。**wife** [waɪf] n. 妻子；夫人，地位也高不到哪里去，或与**weave** [wiːv] n.&amp;v.编织，有关，女织嘛！
+
+
+
+### bridegroom (新娘的马夫:给老婆做牛做马的男人)
+
+> A **bridegroom** is a man who is getting married.
+>
+> 来自古英语 grome,男仆，词源同 grow,crew.
+
+<img src="./images/image-20220110102616035.png" alt="image-20220110102616035" style="zoom:33%;" /> 
+
+**bridegroom**中的**groom**和意为“马夫”的**groom**本无任何联系。**bridegroom**在古英语中原作brdguma，由brd 'bride'加guma 'man'构成，故含有bride man之义。到中古英语时期，brdguma演变为bridegome。
+
+16世纪时，当gome即guma从英语中消失之后，该复合词第二成分的意义就变得晦涩难解，随后被人误与较为熟悉的groom一词相联系，因此bridegroom才变成现在这个形式，但其词义却保持不变，仍然指“新郎”。它往往被缩略为**groom**，这一用法始见于莎士比亚剧作，如《奥瑟罗》和《辛白林》。
+
+-  bridegroom [ˈbraɪdɡruːm]  n. 新郎;即将(或刚刚)结婚的男子
+
+- Let's drink (a toast) to the bride and bridegroom! 让我们举杯向新娘和新郎祝贺！
+- The bride and groom were posing for pictures. (CAE) 新娘和新郎摆好姿势准备拍照。
+- It is traditional for the groom to buy presents for the bridesmaids. (LLA) 传统上，给伴娘的礼品由新郎买。
+
+
+
+### **dowry（嫁妆）：女子出嫁时娘家赠送的礼物**
+
+<img src="./images/image-20220110104046510.png" alt="image-20220110104046510" style="zoom:67%;" /> 
+
+女子出嫁时，女方家庭向男方或新婚夫妇赠送一定的陪嫁礼物，这是全世界范围内通行的一项古老习俗。这种陪嫁礼物就是“嫁妆”，在英文中称为**dowry**。它源自拉丁语***dotare***，其中的do就是“赠送”的意思，如英语单词**donate**（捐赠）、**endow**（捐赠）。
+
+娘家赠送嫁妆的原因，一方面是为新婚夫妇提供一定资助，帮助他们成家立业，另一方面还有比较深厚的社会历史原因。我们知道，古代社会是父权和夫权社会，女性地位低下，嫁入男方后就成了婆家的人，与娘家不再有瓜葛，也不能继承娘家的遗产，所以女性成家后几乎再也无法从娘家获得任何帮助。在这种背景下，娘家向出嫁女儿提供帮助的唯一途径就是结婚时的嫁妆了。
+
+嫁妆的丰厚与否，与女儿日后在婆家的地位息息相关。在印度和孟加拉等地方，人们对嫁妆异常看重，甚至经常发生“索奁**[lián]**焚妻”这样的暴行。“索奁焚妻”指的是因为女方家庭拒绝男方的要求，不肯提供更多嫁妆，男方便杀害新婚妻子作为报复的事件，通常采取浇上汽油活活烧死的残忍手段。在印度，这一恶习屡禁不止，每年造成了大量女性的死亡。**dowry**一词在印度已经违背了“自愿捐赠”的本意，变成了女方家庭的一项沉重负担。
+
+<img src="./images/image-20220110103545418.png" alt="image-20220110103545418" style="zoom:80%;" /> 
+
+- **dowry**：['daʊ(ə)rɪ] n.嫁妆，天资，亡夫的遗产
+- **dower**：['daʊə] n. 天赋；嫁妆；亡夫遗产vt. 给以嫁妆；给以产业
+- **donate**：['donet] n.v.捐赠
+- **endow**： [ɪn'daʊ; en-] 
+  - vt.赋予，捐赠，天生拥有 
+  - n. 嫁妆；天资；亡夫遗产
+- **Dorothy**：['dɒrəθɪ]  n. 桃乐茜，女子名字，意为“神的礼物”，缩写为 **Dora**。
+- **wry** [raɪ]  
+  - 啼笑皆非的: showing that you are both amused and disappointed or annoyed
+    -  ‘At least we got one vote,’ she said with a wry smile “我们起码还得了一票。”她苦笑着解嘲道。
+    - He pulled a wry face when I asked him how it had gone. 我问他近况如何，他有些哭笑不得。
+  - 挖苦的；讽刺的；揶揄的: amusing in a way that shows irony
+    - a wry comedy about family life  关于家庭生活的讽刺喜剧
+    -  a wry comment 挖苦的评论
+    - wry humour  冷嘲式的幽默
+
+
+
 ## 物品
 
 ### Indenture(契约)
@@ -488,10 +553,6 @@ ale是啤酒进入英国前流行的饮料，
 在中世纪的欧洲，人们在签订契约时，往往会把两份内容相同的契约写在同一张羊皮纸上，然后在中间以锯齿状边缘分割开，双方各持一份。以后需要比对契约真伪，只需要查看两份契约的锯齿状边缘能否对上即可。
 
 <img src="./images/1626241977079.png" alt="560x0" style="zoom:67%;" />
-
-
-
-
 
 
 
@@ -607,13 +668,19 @@ ale是啤酒进入英国前流行的饮料，
 
 英语单词broom在辞典中有两个释义：1、扫帚，2、金雀花。这两个看似不相关的事物是怎么扯到一起的呢？原来，在古英语中，用来表示“扫帚”的单词原本是besom，而单词broom表示“金雀花”，一种长荆棘的小灌木。本来这两个词毫无关联，但由于人们常常使用金雀花的枝叶来制作扫帚，因此人们将这种用金雀花枝叶制造的扫帚称为broom。随着时间流逝，broom的使用频率越来越高，逐渐替代了besom一词，成为“扫帚”的代名词。
 
-- broom：[bruːm] 
+- **broom**：[bruːm] 
   - n.扫帚，金雀花
   - vt.扫除
 
 <img src="./images/image-20211231111447271.png" alt="image-20211231111447271" style="zoom:80%;" />
 
-**jump the broom with**与...结婚。broom是金雀花；扫帚，broomstick是扫帚把，broomstick marriage（扫帚把婚姻）指的是那种多为非法（比如私奔）的婚姻，因为仪式上男女双方从一把扫帚上跳过就算结为夫妻了。习俗产生于英国，后来在美国黑人中较为流行。He jumped the broom with her many years ago. 
+
+
+<font size =5 >**jump the broom with**与...结婚。</font>
+
+broom是金雀花；扫帚，broomstick是扫帚把，broomstick marriage（扫帚把婚姻）指的是那种多为非法（比如私奔）的婚姻，因为仪式上男女双方从一把扫帚上跳过就算结为夫妻了。
+
+习俗产生于英国，后来在美国黑人中较为流行。**He jumped the broom with her many years ago**. 
 
 
 
