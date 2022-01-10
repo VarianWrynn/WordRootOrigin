@@ -13,6 +13,7 @@
 
 
 ## - saur = lizard, 表示“蜥蜴”。{12}
+
 | 单词                                                         | 解释                                                         | 单词                                                    | 解释                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
 | **saur-ian**<br />【ˈsɔːriən】                               |                                                              | **dino-saur**<br />【ˈdaɪnəsɔːr】                       |                                                              |
@@ -265,7 +266,7 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 
 >  “As they fly...they pat the Water alternately with their Feet, as if they walk upon it; tho' still upon the Wing. (当它们飞翔时……它们用脚交替拍打水面，仿佛在水面上行走；虽然仍在飞翔。)
 >
-> And from hence the Seamen give them the name of Petrels, in allusion to St. Peter's walking upon the Lake of Gennesareth.”(因此，海员们给他们起了海燕的名字，意指圣彼得在根尼萨雷斯湖上行走。)
+>  And from hence the Seamen give them the name of Petrels, in allusion to St. Peter's walking upon the Lake of Gennesareth.”(因此，海员们给他们起了海燕的名字，意指圣彼得在根尼萨雷斯湖上行走。)
 
 丹皮尔是将海燕的英语名称与圣彼得相联系的第一人，可是他把原拼法**pitteral**改作**Petrel**。
 
@@ -326,6 +327,8 @@ vt. 学舌, 机械地模仿
 
 
 
+## 花儿
+
 ### magnol∙ia  表示“木兰”，以法国植物学家 Magnol 的名字命名。
 
 <img src="./images/image-20211231100638751.png" alt="image-20211231100638751" style="zoom: 33%;" />
@@ -341,8 +344,8 @@ magnolia - 这是一种花大而芳香，树皮也带香味的观赏植物，汉
 <img src="./images/image-20211231100801753.png" alt="image-20211231100801753" style="zoom:80%;" />
 
 -  **magnolia** 【mæɡˈnoʊliə】 木兰;木兰树;浅乳白色;浅桃红色
-- Put this magnolia in a vase. (NED) 把这木兰花插到花瓶里。
-- The garden was filled with the scent of magnolias. (NED) 花园里充满了木兰花香。
+-  Put this magnolia in a vase. (NED) 把这木兰花插到花瓶里。
+-  The garden was filled with the scent of magnolias. (NED) 花园里充满了木兰花香。
 
 
 
@@ -366,6 +369,22 @@ magnolia - 这是一种花大而芳香，树皮也带香味的观赏植物，汉
 - belle：[bɛl] n. 美女
 
 belladonna - 汉语作“颠茄”，乃一种有毒植物，它的根和叶含阿托品（atropine），用它制成的药剂也叫belladonna。该词源自意大利语bella donna 'fair lady'（美人）。这种植物的花瓣如美女肌肤般润滑，意大利妇女一度用其红色液汁作化妆品，故名
+
+
+
+### violet 紫罗兰
+
+> 推荐：viol-紫色 + -et
+>
+> viol∙et  [词根树]
+> **`viol-**`  = violet, 表示“紫色”，和词根 iod- 碘，同源。
+
+<img src="./images/image-20220110100754713.png" alt="image-20220110100754713" style="zoom: 67%;" /> 
+
+n. 紫罗兰; 蓝紫色, 紫罗兰色; 堇菜
+a. 紫罗兰色的; 堇菜科的
+
+来自拉丁语 viola,紫罗兰，紫色，来自希腊语 ion,紫色，紫色花，词源同 iodine.其拼写比较拉丁语 villa,来自希腊语 oikos,词源同 economy.
 
 
 
