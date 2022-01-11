@@ -470,3 +470,28 @@ Some interesting information for those of you who are gluten-intolerant or have 
 罗马神话中，谷物女神被称作刻瑞斯（**Ceres**），奥林匹斯十二主神之一，宙斯的姐姐和第四任妻子， 掌管农业生产，亦被称为丰饶女神。谷物女神是冥后的母亲。
 
 ![image-20220105094000180](./images/image-20220105094000180.png)
+
+
+
+
+
+## 水果
+
+
+
+### Grapefruit (the forbidden fruit)
+
+Grapefruit is a human creation—and a comparatively recent one at that. It was first hybridized in Barbados during the 18th century from two very different ancestral citrus fruits–the giant [pomelo](https://ferrebeekeeper.wordpress.com/2011/09/12/the-pomelo-and-the-mid-autumn-lunar-festival/) from Southeast Asia and the Jamaican sweet orange (itself a hybrid fruit with ancient Asian antecedents). A Welsh clergyman, Rev. Griffith Hughes, first documented the tasty new hybrid in the 1750s. Apparently it intrigued and scandalized the English planters (or maybe the Welsh cleric?) to such an extent that it was initially called “the forbidden fruit.”  I guess this earns the grapefruit a place with other fruits known as “the forbidden fruit” such as [quinces](https://ferrebeekeeper.wordpress.com/2011/09/21/the-quince/), [citrons](https://ferrebeekeeper.wordpress.com/2013/03/04/the-citron/), figs, apples, and datura (to say nothing of knowledge…or sensuality, or GMOs, or post-humans or other [*metaphorical* forbidden fruit](https://ferrebeekeeper.wordpress.com/2012/04/27/goblin-market/)).
+
+
+
+If you see grapefruit growing on a tree, you will notice that they grow in clusters. It is suggested that these clusters resemble the shape of large yellow grapes and so the fruit was called a grapefruit. Another explanation is that the premature grapefruit looks similar in shape to unripe green grapes.
+
+<img src="./images/00obf1-41335684.jpg" alt="The Forbidden Fruit….Grapefruit? | ferrebeekeeper" style="zoom:80%;" /> 
+
+
+
+**Reference:**
+
+1. [The Forbidden Fruit….Grapefruit?](https://ferrebeekeeper.wordpress.com/2015/01/19/the-forbidden-fruit-grapefruit/)
+2. [How did the grapefruit get its name? It doesn't look like a grape.](https://www.loc.gov/everyday-mysteries/agriculture/item/how-did-grapefruit-get-its-name-it-doesnt-look-like-a-grape/?__cf_chl_captcha_tk__=OEhcWOaDjT.WRNPpdDGMBIrjL4LunT8LKeqF5hWOGkQ-1641883745-0-gaNycGzNCJE)
