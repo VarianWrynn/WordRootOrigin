@@ -154,6 +154,10 @@ ceno-
 4. [Cloak--Wikipedia](https://en.wikipedia.org/wiki/Cloak)
 5. [**Fantasy Wardrobe**: Cloaks, Mantles and Capes](https://inky-duchess.tumblr.com/post/183312538353/fantasy-wardrobe-cloaks-mantles-and-capes)
 
+
+
+
+
 ## Geography 地理
 
 
@@ -163,7 +167,7 @@ ceno-
 **`-itude`** 
 表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.
 
-<video src="D:\Githubs\Grammar\RootOrigin\img2\00180_longitude.mp4"></video>
+<video src="./images/00180_longitude.mp4"></video>
 
 <img src="./images/8a04527d2c61f400cde1e2259a6c9847.jpg" alt="Prime Meridian + Equator | Pyramids, Reflection and refraction, Meridian" style="zoom:80%;" />
 
@@ -188,6 +192,30 @@ ceno-
 | rect-itude                           |                                                              | serv-itude                                       |                                                              |
 | simil-itude                          |                                                              | sol-itude                                        |                                                              |
 | veri-simil-itude                     |                                                              | vast-itude                                       |                                                              |
+
+
+
+
+
+### Clay, Loam, Sand, Silt
+
+<img src="./images/image-20220111103626828.png" alt="image-20220111103626828" style="zoom:99%;" /> 
+
+| 单词                   | 解释                                                         | 单词                   | 解释                                                         |
+| ---------------------- | ------------------------------------------------------------ | ---------------------- | ------------------------------------------------------------ |
+| **Clay**<br />【kleɪ】 | n. 泥土, 黏土; <古诗>肉体<br/>【复数：clays；现在分词：claying；过去分词：clayed】<br/>源自古英语 clǣg; 和古高地德语 klīa, 挪威语 kli, 拉丁语 glūs "glue", 希腊语 gloios "sticky oil" 有亲缘关系。<br/>1 - 来自 PIE*glei,黏，粘，词源同 cling,glue. | **Loam**<br />【loʊm】 | n. 壤土<br/>vt. 用土填<br/>【第三人称单数：loams；现在分词：loaming；过去分词：loamed】<br/>1 - 来自古英语 lam,污泥，泥沼，来自 PIE*slei,黏，滑，词源同 slime,slip,lime.引申词义肥沃土壤。 |
+| **Sand**<br />【sænd】 | good quality soil containing sand, clay and decayed vegetable matter<br />n. 沙, 沙子, 沙滩; 浅黄灰色; <北美>刚毅<br/>vt. 打磨; 撒沙, 以沙掩盖<br/>sand意为“沙”，sands意为“沙滩，沙地，沙漠，沙丘”。<br/>1 - 来自古英语 sand,沙，来自 Proto-Germanic*samdaz,沙，来自 PIE*sem,倾泻，涌出。引申动词词义磨砂，用砂纸打磨 | **Silt**<br />【sɪlt】 | sand, mud, etc. that is carried by flowing water and is left at the mouth of a river or in a harbour<br/>n. 淤泥    vt. 使淤塞  vi. 淤塞<br/>【过去分词：silted；现在分词：silting；第三人称单数：silts】<br/>来自古英语 sealt,盐，词源同 salt.原指海水沉积物，后引申词义淤泥，淤沙，淤积，淤塞等。<br /> |
+|                        |                                                              |                        |                                                              |
+
+**feet of clay**致命的弱点。
+
+《圣经》中记载，巴比伦王尼布甲尼撒梦到一个人，这个人头是金的，胸和双臂是银的，腹部和大腿是铜的，小腿是铁的，但双脚一部分是铁的，一部分是泥（clay）的。突然，一块石头打到这个人的脚上，他的双脚破碎了，他的整个身躯也瞬间坍塌。Everyone has his own feet of clay. 
+
+![image-20220111110059569](./images/image-20220111110059569.png)
+
+**Reference:**
+
+1. [How To Improve Different Types Of Soil For Planting](https://www.wilsonbrosgardens.com/different-soil-types.html)
 
 
 
