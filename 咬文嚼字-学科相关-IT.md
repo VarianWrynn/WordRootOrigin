@@ -678,3 +678,92 @@ nephew - 该词起源于意大利。中世纪，在罗马天主教会中重用�
 词源说明(童理民)  
 1 - 来自 PIE*gher,围，围栏，词源同 yard,chorus.即围起来唱歌跳舞的一群人。
 
+
+
+## **chant**（圣歌）：古罗马宗教活动中的反复吟唱。
+
+英语单词**chant**来自拉丁语***cantare***，是***canere***（唱）的反复形式，指的是古罗马宗教活动中反复吟唱的活动，既用来赞颂神灵，又用于修炼内心，类似于中国佛教的和尚们打坐诵经。
+
+做名词时，**chant**表示反复吟唱的“圣歌”。这种圣歌的特点是内容简短，适合反复吟唱，一个短短的词也能咿咿呀呀地唱上半天，并且通常没有伴奏，所以听起来十分单调乏味，如著名的[Gregorian chant](https://en.wikipedia.org/wiki/Gregorian_chant)（格里高利圣歌）就是这样一种圣歌，相传为教皇格里高利所著。
+
+中国有句歇后语，小和尚念经——有口无心。西方的僧侣们在吟唱这种chant时，有时候也会装模作样、有口无心，因此英语中出现了一个与chant同源的单词**cant**，用来形容僧侣故作虔诚地吟唱chant，引申为并非发自内心的话，如客套话、乞丐故作可怜的的乞讨声。后来又产生了“**黑话**”（the private language of the underworld | **jargon**）的含义。
+
+除此以外，英语单词**enchant**也与“吟唱”有关，不过不是“唱歌”，而是“念咒语”。**enchant**由**`en`**（into, upon）+**`chant`**（吟唱）构成，字面意思就是“对着……念咒语、施展魔法”，从而控制人的思想，使其迷住。
+
+- **chant**：[tʃɑːnt]n.反复吟唱的圣歌，赞美诗v.吟唱，诵念
+- **canticle**：['kæntɪk(ə)l] n. 颂歌；圣歌
+- **cant**： [kænt] 
+  - n.并非发自内心的话（客套话、乞丐乞讨等）、伪善的话、
+  - 单调陈腐的话（如大话西游中唐僧的话）；
+  - （乞丐、流浪汉等底层的）黑话
+  - adj.单调陈腐的，假仁假义的，假装哀诉的；黑话的vi.讲黑话
+- **chanty**： ['ʃænti] n. 劳动号子（等于chantey）
+- **enchant**：[ɪn'tʃænt] vt.使迷住，用魔法迷住
+- **enchantment**：[ɪn'tʃɑːntm(ə)nt] n.魅力，魔法，妖术，迷醉
+- **enchanter**：[in'tʃɑ:ntə, en-] n. 巫师，行妖术的人；魔法师
+- **disenchant**：[,dɪsɪn'tʃænt] vt. 使清醒；使不抱幻想
+- **incantation**：[ɪnkæn'teɪʃ(ə)n] n.咒语
+
+
+
+## 黑话与行话
+
+### (1). cant:黑话
+
+> 中国有句歇后语，小和尚念经——有口无心。西方的僧侣们在吟唱这种chant时，有时候也会装模作样、有口无心，因此英语中出现了一个与chant同源的单词**cant**，用来形容僧侣故作虔诚地吟唱chant，引申为并非发自内心的话，如客套话、乞丐故作可怜的的乞讨声。后来又产生了“**黑话**”（the private language of the underworld | **jargon**）的含义。
+
+**`cant-`** cant来源于拉丁语cantus 'song'（歌）或cantāre 'to sing'（唱）。和多数同根词如cantata（大合唱），canticle（圣歌），cantilation（吟咏），chant（赞美诗）等不一样，该词自中世纪进入英语之时起就被赋予了贬抑含义。
+
+翻开辞书一看，我们可以发现cant的词义，诸如“伪善言词”、“（下层社会的）黑话”、“言不由衷之词”、“（乞丐等的）吟唱式哀诉”，几乎无一不带贬抑色彩。造成这一情况的因素有三，均与早先的基督教会有些联系。
+
+- 其一，一些牧师在做弥撒时只会机械地履行职责，不太注意吟诵言词的含义。
+- 其二，乞丐被允许参加这些牧师主持的葬礼仪式，他们往往装得十分悲痛，来骗取人们的施舍，他们哀诉式的乞讨也影响了cant一词的意义。
+- 其三，17世纪有位苏格兰传道士，因其虚伪不受欢迎，他的名字就叫Andrew Cant。1711年8月18日《旁观者》（The Spectator）第47期上斯梯尔（Richard Steele, 1672-1729）写的一篇文章在追溯cant一词的词源时，试图将它与这位传道士的姓氏Cant联系起来，文中说：“他讲道所操方言，除了部分会众，据说无人听懂。”多数辞书对此很不以为然，但有某些根据说明，cant一词的贬降过程似乎多少受了这方面的影响。
+
+> - Thieves' cant is unintelligible to outsiders. (FWF) 窃贼的黑话外人是听不懂的。
+> - Sometimes words that were originally cant come to be used in the general language. (CID) 有时，原先的行话逐渐被用于大众语言中。
+
+
+
+### (2). Jargon【ˈdʒɑːrɡən】 ≈Cant【kænt】≠Kant【kænt】
+
+<img src="./images/jargon-workplace_78825dfc79.jpg" alt="Examples of Jargon in the Workplace" style="zoom:90%;" /> 
+
+**jargon**（行话）：人听不懂的鸟语。
+
+英语单词**jargon**来自法语和拉丁语，原本是个拟声词，表示鸟叽叽喳喳的叫声。当人们在讲话时大量使用晦涩难懂的专业术语或行话，使得观众一头雾水不知所云时，观众就会觉得他们说的是人听不懂的鸟语，因此就称其为**jargon**。
+
+久而久之，**jargon**就演变为“专业术语、行话”的含义，它的本意“鸟叫声”反而被遗忘了。
+
+- jargon：['dʒɑrɡən] n.专业术语，行话，黑话
+- Kant:康德
+- cant:黑话
+
+
+
+[这篇文章](https://www.brandchemistry.com.au/blog/9-examples-of-tech-jargon-that-must-be-stopped)列出了几个常见的行业黑话：
+
+- Acronyms，如 Artificial Intelligence (AI)，Content Management System (CMS)，Marketing Automation (MA)
+- Unicorn
+-  Bleeding edge（有潜在问题的前沿技术）If you are at the bleeding edge of a particular field of activity, you are involved in its most advanced or most exciting developments.
+- Pivot：In tech speak this means to change the direction of your business. If you are using pivot, maybe you should be thinking about the direction of your communications instead. It’s vague, euphemistic and as [TechWired reports](http://www.techrepublic.com/article/startup-jargon-10-terms-to-stop-using/), [Hired.com](https://hired.com/) CEO Matt Mickiewicz defines pivot as, ‘A lame way of saying 'our original hypothesis proved incorrect, and we're going to try something else before we run out of money.’ Bingo.
+- synergy【ˈsɪnədʒɪ】协同作用；协同效果；【医】增效作用
+- Ideate
+- Blue-sky thinking
+- Sunsetting： Keeping with the sky analogies, sunsetting is when blue-sky thinking hasn’t worked the way you want it to and a product or service is being discontinued.
+- Learnings：It sounds grammatically dodgy and made-up. You don’t sound learned, it sounds like you need to go back to primary school English and find a better word.
+
+### (3). cant v.s jargon
+
+[The difference between Cant and Jargon](https://diffsense.com/diff/cant/jargon):
+
+When used as **nouns**, **cant** means an argot, the jargon of a particular class or subgroup, whereas **jargon** means a technical terminology unique to a particular subject.
+
+When used as **verbs**, **cant** means to speak with the jargon of a class or subgroup, whereas **jargon** means to utter jargon.
+
+
+
+### (4).Reference:
+
+1. [The difference between Cant and Jargon](https://diffsense.com/diff/cant/jargon)
+2. [9 examples of tech jargon that must be stopped](https://www.brandchemistry.com.au/blog/9-examples-of-tech-jargon-that-must-be-stopped)
