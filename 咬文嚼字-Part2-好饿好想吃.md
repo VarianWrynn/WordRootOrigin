@@ -207,9 +207,11 @@ Tangential Trivia: \$1,000 in 1915 would be the equivalent of \$23,500 today.
 
 
 
-#### `-ard`表名词，“不好的人” {10}
+**must:**
 
->  源自日耳曼语 *-hart, *-hard "hold, hardy."
+n. 必须, 未发酵葡萄汁, 绝对必要的事物
+aux. 必须
 
-
+1. 来自古英语 motan,有能力做，有必要做，-st,过去分词后缀，来自 Proto-Germanic*mot,能力，力量，来自 PIE*med,测量，衡量，采取手段，词源同 measure,medical.其在古英语时期语气并不是很强烈，后不断强化。比较 noblesse oblige.
+2. 来自拉丁语 vinum mustum,新酒，新酿葡萄酒，来自 mustus,新鲜的，水灵的，来自 PIE*meus,湿的，带水气的，词源同 mist,moist.
 

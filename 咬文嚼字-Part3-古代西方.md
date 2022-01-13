@@ -411,6 +411,34 @@ trivial-关于该词的来源存在两种说法，但只是略有差别。
 
 
 
+### -ard 表名词，“不好的人”{10}
+
+> 源自日耳曼语 *-hart, *-hard "hold, hardy."
+
+**coward** - 英语之所以把胆小鬼叫做**coward**，是否因为胆小鬼在困难和危险面前**cower**（畏缩不前）或是被困难和危险cowed（**吓**着）的缘故？还是因为在战场上敌人往往骂他是**cowherd**（牧牛人）或**cowheart**（胆小）的缘故？都不是。
+
+流行于中世纪的法国民间讽刺故事诗《列那狐的故事》（Roman de Renart，英语译作Reynard the Fox）中有一只名叫***coart***的小野兔，它最大的特点是胆小。以后人们就常用coart来形容胆小的人，英语单词coward即是从该词逐渐演变过来的。
+
+其词尾-ard常作为贬义后缀，如:
+
+> 但在中世纪时，曾经有一段时间，人们用酿葡萄酒过程中的一种副产品——未发酵的葡萄汁来替代醋。这种未发酵葡萄汁在拉丁语中称为**mustum**，在英语中称为**must**。因此，人们就将芥末和**must**混合后形成的芥末酱称为**mustard**，后缀**`-ard`**表示沉湎某物的人，如**drunkard**（酒鬼）。
+
+- bastard（私生子）
+- laggard（落后者）
+- drunkard（酒鬼）
+- sluggard（懒汉）
+- dastard（卑怯的人）
+
+等。但若究其根源，coart则又是源于古法语coue/coe（尾巴），拉丁语cauda（尾巴）。把胆小鬼与尾巴相联系，大概是因为胆小的人一受到惊吓总像狗一样掉转屁股就溜（turn tail）或是夹着尾巴逃跑（with tail between the legs）的缘故吧。顺带提一下，coward的法语对应词couard也是这么来的。
+
+至于英美人也有**Coward**这一姓氏，倒是和胆小鬼毫无关系，而是因为其祖上是**cowherd**（牧牛人）的缘故，**cowherd**古时的词形为**coward**。
+
+- Cowards die many times before their deaths;/The valiant never taste of death but once. (Shakespeare, Julius Caesar 2. 2) 懦夫在未死以前，就已经死过好多次；勇士一生只死一次。（莎士比亚《裘力斯·凯撒》第2幕第2场）
+- She knew she was an awful coward about going to the dentist. (LLA) 她知道自己很怕见牙医。
+- The coward was frightened by shadows on the wall. (NED) 那个胆小鬼被墙上的影子吓得要死。
+
+
+
 ### Scarlet / Scarlette
 
 n. 猩红色, 绯红色, 红衣
