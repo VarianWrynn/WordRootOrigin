@@ -496,7 +496,7 @@ a. 绯红色的, 鲜红色的
 
 
 
-### bridegroom (新娘的马夫:给老婆做牛做马的男人)
+### **bridegroom (新娘的马夫:给新娘做牛做马的男人)**
 
 > A **bridegroom** is a man who is getting married.
 >
@@ -516,7 +516,7 @@ a. 绯红色的, 鲜红色的
 
 
 
-### **dowry（嫁妆）：女子出嫁时娘家赠送的礼物**
+### dowry（嫁妆）：女子出嫁时娘家赠送的礼物
 
 <img src="./images/image-20220110104046510.png" alt="image-20220110104046510" style="zoom:67%;" /> 
 
