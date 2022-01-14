@@ -3,6 +3,108 @@
 
 [toc]
 
+## 国家
+
+
+
+### dollar（美元）：盛产银币的波西米亚小镇
+
+>  来自德语 taler,货币单位，词源同 dale,山谷，因铸造于 Joachimstal 而得名。后于 1785 年，dollar 被美国国会采用作为基准货币单位。
+
+1519年，在波西米亚（位于今捷克共和国境内）一个名叫Joachimstal的小镇附近，有一座银矿开始制造银币。人们将这里铸造的银币取名为Joachimster。这种银币广泛流通，其冗长的名字后来简化为taler。在荷兰及德国南方，taler一词演变成daler。
+
+进入英语后，其拼写形式变成了现在的dollar，用来泛指任何一种外国货币，特别是西班牙铸造的古银币。
+
+美国独立之前，北美殖民地并没有统一的货币，使用最广泛的是一种被称为“八分币”的西班牙比索。在英语中，这种西班牙比索也被称为dollar。
+
+美国独立后，在1785年召开的大会上，毛里求斯总督和托马斯•杰弗逊建议用dollar作为美国货币单位的名称。因为dollar一词已经广为人知，而与英国的任何货币无关。从此以后，dollar就成了美国货币单位的名称，即所谓的“美元”。
+
+- **dollar**： ['dɒlə] n.美元
+
+
+
+## 外交
+
+
+
+### tributary（附属国）：向宗主国纳贡的国家
+
+> tribut∙ary  [词根树]
+> tribut- 
+> 表示“部落”，引申为“贡品、给予”。来自 tri- 三 + be- 存在。
+> -ary 
+> 表形容词，“…的”。
+> 更多同源词...
+
+在古代，小国或被征服的国家需要向大国或征服国纳贡，以换取和平和保护。这种国家就被称为**tributary**（附属国）。
+
+这个单词源自**tribute**（贡物），字面意思就是“纳贡的”。单词**tribute**来自拉丁词根***tribuere***（支付、给予、分配）。与它同源的单词有**contribute**（贡献）、**attribute**（归属）。
+
+- **tribute**：['trɪbjuːt] n.贡物，礼物，颂词，致敬
+- **tributary**：['trɪbjʊt(ə)rɪ] 
+  - adj.纳贡的，附属的，辅助的
+  - n.进贡国，附属国，支流
+- **contribute**：[kən'trɪbjut] v.贡献，捐献，出力，投稿
+- **contribution**：[,kɑntrɪ'bjuʃən] n. 贡献；捐献；投稿
+- **attribute**：[ə'trɪbjuːt] vt.归属，把……归于n.属性，特质
+- **attribution**：[,ætrə'bjʊʃən] n. 归因；属性；归属
+- **distribute**：[dɪ'strɪbjut] vt. 分配；散布；分开；把…分类
+- **distribution**：['dɪstrə'bjʊʃən] n. 分布；分配
+
+**词源说明(童理民)**  
+1 - 来自拉丁语 tribuere,支付，分配，给予，部落间的财富分配或其它，来自 tribus,部落，词源同 tribe,contribution.引申词义河流的支流。
+
+
+
+## 大佬
+
+### tycoon(大亨) - tycoon直接借自日语“大君”。
+
+“大君”原是外国人对幕府时代（1192-1867）统治日本的将军（shogun）的尊称。
+
+据认为，很可能是19世纪50年代率舰远征迫使日本改变孤立政策而与西方建立贸易和外交关系的美国海军军官Matthew C. Perry (1794-1858)或是与日本签订贸易协定（1858）的美国第一任驻日本总领事Townsend Harris (1804-1878)回美后把这个词带进美国英语中的。
+
+南北战争期间，林肯总统（Abraham Lincoln, 1809-1865）曾被他的部下，如他的私人秘书John Hay (1838-1905)，亲切地称作tycoon。
+
+到了20世纪初，**tycoon**一词常被转用以指洛克菲勒（John Davison Rockefeller, 1839-1937）这样的“企业界巨头”，最初用business作前置修饰语，写成business tycoon，以后又把business一词省略掉，这一词义一直沿用至今，而且多用于口语，如今也用以指“大亨”、“大款”或“阔佬”。
+
+例　
+
+- There were rumours that a Hong Kong property tycoon was going to withdraw his millions from the bank. (CID) 有谣言说一名香港房地产巨子打算从银行抽走他的数百万巨资。
+- The business tycoon donated a million dollars to the university. (NED) 那位商业巨头捐了一百万元给大学。
+
+
+
+### mogul（显贵）：征服南亚的莫卧儿大帝
+
+1525年，帖木儿帝国建立155年之后，中亚蒙古贵族帖木儿六世孙巴布尔（Babur）乘印度分裂、德里苏丹国日趋衰亡之际，南下攻入印度，几经征战，建立了印度史上著名的莫卧儿帝国（Mughal Empire）。
+
+“莫卧儿”（Mughal）一词来自波斯语，是“蒙古”（Mongol）的转音。因此“莫卧儿帝国”就是“蒙古帝国”的意思，是帖木儿蒙古帝国的续集，是突厥化的伊斯兰教蒙古人在南亚次大陆上新建的国家。
+
+巴布尔因为开创了莫卧儿帝国，故被尊称为“莫卧儿大帝”（Great Mogul）。**Mogul**一词来自Mughal，同样是Mongol（蒙古）的转音。小写的**mogul**一词在英语中表示像莫卧儿大帝那样的权贵显要。
+
+- mogul：['moɡl] n. 有权势的人；显要人物
+
+**词源说明(童理民)**  
+1 - 来自 Mongol 拼写变体，即蒙古人，于 1520 年征服印度建立莫卧儿王朝，引申词义大蒙古人，大亨。
+
+
+
+### ringleader(头目) 围成一圈跳舞的领舞者
+
+ringleader - 昔日，在英国上流社会的社交晚会上，人们开始跳舞前总先围成一个圈子（ring），然后由一人带头起舞（lead the ring），这个领舞者就被称作ringleader。
+
+到了19世纪ring引申为“团伙”或“帮派”，ringleader的词义也随之贬降为“首恶”、“元凶”或“（带领其他人犯法或闹事的）头目”。
+
+例　
+
+- Police arrested the ringleaders, but let the rest go free. (LDE) 警察逮捕了那些头目，但却把其余的人都放了。
+- The judge sentenced the ringleader of criminals to life in prison. (NED) 法官判处首恶分子终身监禁。
+- Once they caught the ringleader, it was easy to round up the rest of the gang. (CID) 他们一抓住首恶，围捕其他恶棍就容易了。
+
+**词源说明(童理民)**  
+1 - ring,马戏场，leader,领班，老板。字面意思即马戏场老板，比喻用法。
+
 
 
 ## 地名

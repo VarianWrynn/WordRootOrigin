@@ -115,9 +115,11 @@ a. 辅助的, 备用的
 
 
 
+## 物品
 
 
-## canon（正典）：古代作为标准长度单位的棍子
+
+### 1. canon（正典）：古代作为标准长度单位的棍子
 
 在古代，人们使用身体的一部分作为度量长度的单位，如最常用的长度单位“腕尺”（cubit）就是从肘部到手指尖的长度。显而易见，每个人的胳臂不一样长，所以“一腕尺”到底是多长，谁也说不清。
 
@@ -151,7 +153,44 @@ a. 辅助的, 备用的
 
 
 
-## Christ（基督）：基督教中的“救世主”
+
+
+### 2. bead（珠子）：中世纪时基督教徒祈祷所用的念珠
+
+英语中，单词bead一般译为“珠子”，但单词beadsman指的却是“乞丐，祈祷者”。这之间有什么关联呢？
+
+原来，单词bead的本意就是“祈祷”，与单词bid（吩咐、出价）同源。单词bead的含义从“祈祷”转变为“珠子”与中世纪时基督教徒的念珠祈祷法有关。
+
+所谓念珠祈祷法，是指在祈祷时用念珠在计算次数，每祈祷一次就拨动一粒念珠。在很多宗教中都可以见到这种祈祷方法，如佛教中的佛珠。
+
+正因为受这种念珠祈祷法的影响，单词bead的含义从“祈祷”慢慢转变为“祈祷时所用的念珠”，进而泛化为一般的珠子，甚至是水滴。
+
+在现代英语中，bead的原意“祈祷”已经不见踪影，但在单词beadsman中依然保留。beadsman指的是受雇为人祈祷的人，通常是乞丐。
+
+- **bead**： [biːd] n.珠子，念珠，滴vt.用珠子装饰vi.变成珠状
+- **beadsman**：['biːdzmən] n.祈祷者，乞丐，受雇祈祷者
+
+
+
+bead的意义变化颇带戏剧性。它在古英语中作bed，原指“祈祷”，和现代英语bid（命令，吩咐）一词同出一源，都源自古英语动词biddan 'beg/pray'（请求，祈求）。
+
+bead的这一词义沿用了好几个世纪。约在公元14世纪，念珠祈祷（rosary）这一天主教虔修方式传入英国，所谓念珠祈祷是指拨弄念珠作祈祷，此后这一祈祷方式曾经盛行一时。
+
+大约到了16世纪中期，beads几乎总被用来指“念珠祈祷”，此义至今还保留在say/tell/count one's beads（拨弄着念珠喃喃祈祷）等英语短语中。
+
+以后bead由“祷告”转指“念珠”，并进一步由此引申为“小珠”、“水珠”等义，其复数形式则指“珠子项链”；bead的原义“祈祷”现已完全丧失。（参见rosary）
+
+例　
+
+- Beads of sweat rolled down his face. 他脸上的汗珠直往下滚。
+- Beads of sweat stood out on his brow/forehead. (LDC) 他的额头上渗出滴滴汗珠。
+- The woman wore a necklace of wooden beads. 那个女人戴了一串木珠项链。
+
+
+
+## 教会
+
+### 1. Christ（基督）：基督教中的“救世主”
 
 英语单词**Christ**（基督）源自希腊单词khristos，是对希伯来语**mashiah**（弥赛亚）的意译。
 
@@ -170,29 +209,46 @@ a. 辅助的, 备用的
 
 
 
-## advent（到来）：基督的两次降临
+### 2. chapel（小教堂）：供奉圣徒马丁斗篷的礼拜堂 
 
-根据基督教的教义，耶稣基督一共两次降临世界，第一次是诞生之时，以自己的生命为人类赎罪。第二次是在世界末日来临之前，他将再度降临世界。为了纪念耶稣基督的降临，在圣诞节前四个星期，从第一个周日到圣诞夜，基督教徒将这段时间称为“耶稣降临节”（Advent），用于筹备庆祝耶稣的降临。英语单词advent在基督教中有特殊含义，表示“耶稣的降临”。它来自拉丁语adventus，由ad（to）+venire（come）组合演变而成。后来，该词逐渐应用与其他领域，用来表示不同寻常的人或事物的来临或发生。英语单词adventure（冒险）与此同源，来自拉丁语adventurus，是adventus的未来式，本意是“即将发生的事情，运气”，现在一般表示“冒险、投机”。
+四世纪时，在法兰西的都尔市（Tours）里有一位名叫马丁的基督教僧侣。他原本是一名罗马士兵，后来受洗成为了一名虔诚的基督教徒。
 
-- advent：['ædvɛnt] n.到来，降临，基督降临，基督降临节
+据说他为人友善，生活俭朴。 最著名的传奇是说他有次在途中遭遇暴风雪，见到一位生命垂危的乞丐，他毫不犹豫地将自己的斗篷撕成两半，以救助这位即将死于饥寒的乞丐。
 
-- adventitious：[,ædvɛn'tɪʃəs] adj. 外来的，偶然的
+他死后被基督教会封为圣徒，他的斗篷被法兰克的国王们作为圣物世代相传，安放在国王用来做礼拜的小礼堂，这座小礼堂也用“斗篷”（***cappella***）来命名，叫作***chapele***，进入英语后写作**chapel**。
 
-- adventure：[əd'ventʃə] n.冒险，冒险精神，投机活动v.冒险
+**chapel**一般被译为“小教堂”或“礼拜堂”，通常指学校、医院等大型建筑中专门用于礼拜的附属建筑，在**chapel**工作的教士就叫做**chaplain**，后来泛指“专职教士”。
 
-- adventurous：[əd'vɛntʃərəs] adj. 爱冒险的；大胆的；充满危险的
+在欧洲，每年的11月11日是“圣马丁节”（St. Martin's Day），以此纪念圣徒马丁。在圣马丁节那天，人们会吃烧鹅，化装上街游行，并唱有关圣马丁的歌。
 
-- adventurer：[əd'vɛntʃərɚ] n. 冒险家；投机商人
+烧鹅是圣马丁的传统菜。有关这道菜的起源有几个说法。其一是人们推举马丁担任图尔的主教，但马丁深知主教一职责任重大，因此不愿担当此职。有一次他躲到鹅圈里，结果因为鹅嘎嘎叫个不停，人们还是找到了马丁，而他不得不违心地接受了主教之职。第二个说法是，有一群鹅摇摇晃晃地在教堂里走来走去，并且在马丁的讲稿边睡了一夜。有人就把它们拿来煮了吃。以后就延续成了今天的习俗。
 
-- Adventism:[ˈædvəntizəm] n. 基督复临论
+- **chapel**： ['tʃæp(ə)l] n.小教堂，小礼拜堂
+- **chaplain**：n. 牧师；专职教士，小教堂教士
 
-- Adventist: [ˈædvəntɪst] n. 基督复临论者 （Advent【来到, 来临】 + -ist表人，一般为专家）
+<img src="./images/image-20220114164904176.png" alt="image-20220114164904176" style="zoom: 50%;" /> 
 
-  > A member of a Christian denomination such as the Seventh - Day Adventists who believes that the Second Coming of Jesus Christ is imminent 
+chapel - 公元4世纪法国图尔（Tours）有一位主教名叫圣马丁（St. Martin, 316?-397?）。他创建了法国最早的几所隐修院，是西方教会隐修制度的倡导人，法国的罗马天主教徒把他尊奉为法兰西主保圣人（patron saint）。为了纪念他，基督教的日历将11月11日定为圣马丁节（Martinmas）。
+
+他在皈依基督教之前曾被征入罗马军队。据传，一个严寒的冬日他在法国亚眠（Amiens）城门边看见一个衣不蔽体的乞丐向行人乞求施舍，但他自己却身无分文，遂拔剑把身上的军用披风划成两半，把一半给了乞丐，一时传为佳话。
+
+在他死后，这件披风被法兰克历代国王奉为圣物，藏置于圣物柜。“披风”在后期拉丁语（Late Latin）作cappella，因此收藏该圣物的“圣所”或“圣堂”人们也以cappella称之。
+
+该拉丁词借入法语时作chapele，13世纪进入英语，作chapel，转指“（学校、医院等的）小教堂”或“附属教堂”。圣马丁披风的保管人拉丁语叫cappellānus，法语作chapelain，英语也借用了该词，作chaplain，用以指chapel里的牧师，即“附属教堂牧师”。
+
+**chapel**除用于以上词义外，尚有一义，即“**印刷所**”或“印刷职工会”，该职工会的主席被称作**father of the chapel**，这一点常使人大惑不解。chapel的两种用法之间到底有无联系呢？
+
+英语最早的印刷所往往设在大教堂的附属礼拜堂即chapel内，英国印刷之父卡克斯顿（William Caxton, 1422?-1491）于1476年创办的英国第一家印刷所便是设在威斯敏斯特教堂附近的小教堂内的。此一事实为chapel词义的延伸提供了一种可能的解释。
+
+例
+
+- The university/hospital/school has its own chapel. 大学／医院／学校有自己的教堂。
+- The funeral was conducted in a chapel. 葬礼在一个小教堂里举行。
+- They were married in a wedding chapel in Las Vegas. (OCD) 他们的婚礼是在拉斯韦加斯的一个婚礼教堂里举行的。
 
 
 
-## Catholic 普世的教会
+### 3. Catholic 普世的教会
 
 **Catholic** - 要了解Catholic的来龙去脉和语义演变，我们有必要先追溯基督教的一段历史。
 
@@ -227,7 +283,7 @@ catholic ['kæθlɪk] adj.天主教的；宽宏大量的，n.天主教徒；罗�
 
 
 
-## Orthodox（东正教）和Catholic（天主教）的由来
+### 4. Orthodox（东正教）和Catholic（天主教）的由来
 
 公元1054年，基督教分裂成东西两个教会。双方都认为自己的教会才是由基督/宗徒使徒所开创的正宗教会，并且都不让对方拥有这头衔。
 
@@ -254,66 +310,82 @@ catholic ['kæθlɪk] adj.天主教的；宽宏大量的，n.天主教徒；罗�
 
 
 
-## Apocalypse 圣经中的“启示录”
+### 5. purgatory（炼狱）：净化有罪灵魂的地方
 
-《圣经•新约》中的最后一章是圣约翰（St. John）所写的“启示录”。
+<img src="./images/web3-holy-souls-purgatory1.jpg" alt="How long does purgatory last?" style="zoom:67%;" />
 
-据说耶稣基督的十二门徒之一圣约翰被罗马皇帝流放至帕特摩斯岛（Patmos）时，将主给他显示的异象记录下来，并预言了主的降临和世界末日来临时的景象。该书的希腊名是《apokalyptein》，在1230年的英语版本中被译为《The Book of Apocalypse》，在1380年的英语版本中被译为《The Book of Revelation》。
+单词**purgatory**（炼狱）原本是一个基督教的术语，指的是人死后，灵魂被“锤炼”、“净化”的地方。单词**purgatory**和**pure**（纯净）同源，来自拉丁语***purus***（纯净的），字面意思就是“净化的场所”。
 
-英语单词apocalypse就源自希腊语apokalyptein，由apo（away，off）+kalyptein（cover）构成，意思就是“revelation”（启示，揭示）。
+“炼狱”在基督教大分裂中曾是引发分歧的教义之一。由于炼狱没有直接来自于《圣经》的根据，故不被大多数东正教、基督新教和基督教系的新兴宗教所接纳，仅被**天主教**奉为信条。
 
-- **apocalypse**：[ə'pɒkəlɪps] n.启示，天启
-- **apocalyptic**：[ə'pɑkə'lɪptɪk] adj.启示录的，天启的
+按照天主教的说法，人信仰基督后即可灵魂得救，死后升入天堂。但是，如果生前尚有罪恶没有赎罪，或没有充分地悔罪，死后灵魂并不能马上升天，而是先要在炼狱中进行净化。但丁在《神曲》中提到，炼狱共有9层，生前犯有罪过，但可以得到宽恕的灵魂，按人类的七大罪过，分别在那里忏悔罪过，洗涤灵魂。
 
+在1095年时，教皇乌耳班二世曾为鼓励十字军的士兵，演说应许参加圣战的人可以减少在炼狱中受苦的时间，而丧生者，更可不经炼狱直接进天堂。
 
+现在，**purgatory**不仅表示“炼狱”，常常用来比喻磨炼、暂时的苦难。
 
-## martyr 从证人到殉道者
-
-> 英语单词martyr原本是一个宗教术语，指为了坚守信仰而牺牲的殉道者，被后人视为英雄或圣徒而得到崇拜。martyr一词的本意是witness“证人”，指不惧危险、坚持为信仰作证的人。在基督教中，耶稣基督就是第一位martyr。后来，该术语也应用于世俗领域，用来表示为了自己的信仰而献出生命的人，即所谓的“烈士”。
-
-**martyr【ˈmɑːrtər】** - 该词借自后期拉丁语（**Late Latin**），源于希腊语***mártur***，本义是“证人”。
-
-昔日，奴隶的证词被认为是不可靠的，因此他们往往被施以酷刑。许多早期基督教徒因为是奴隶而饱受折磨，甚至被严刑拷打致死。渐渐地，拉丁语**martyr**从“证人”转为指“受难或殉教的证人”（**witness who suffers or even dies for his religion**）。
-
-公元8世纪末至9世纪初**martyr**一词进入英语时，就用于这一意义。从14世纪起，词义中“证人”的成分逐渐变弱，最后乃至消失。到了近代，作为宗教术语，martyr仍指“殉教者”或“殉道者”，但一般多泛指“殉难者”或“烈士”，有时也指“（因疾病等）长期受苦者”或“假装受苦以博取同情者”。
-
-例
-
-- The early Christian martyrs were massacred in their thousands. (LLA) 数以万计的早期基督教殉道者惨遭屠杀。
-
-- My wish is that the martyrs who died for the liberty of our country did not die for nothing. (CID) 我希望为了国家的自由而献身的烈士不会白白牺牲。
-
-- Stop playing the martyr. (OCD) 不要假装受苦来博取别人的同情了。
-
-- Her father's a martyr to rheumatism. 她父亲长期受风湿病的折磨。
-
-- **martyr**： ['mɑːtə] n.烈士，殉道者vt.牺牲，折磨，杀害
-
-- **martyrdom**： ['mɑːtədəm] n.殉道，殉难，殉教，牺牲，受苦
-
-  > -dom {41}
-  > 名词后缀，表示“身份”,“地位”,“职务”,“职位”,“统治”,“界”,“领域”等。
-  >
-  > 源自古英语 -dom, abstract suffix indicating "state, condition, or power."
+- **purgatory**：['pɜːgət(ə)rɪ] n.炼狱；涤罪；暂时的苦难adj.涤罪的
+- **purgative**：['pɝɡətɪv] adj. 净化的；通便的；赎罪的n. 泻剂，泻药
+- **purgation**： [pɝ'geʃən] n. 清洗；洗罪；（吃泻药）通便
+- **pure**：[pjʊr] adj. 纯的；纯粹的；纯洁的；清白的
+- **purity**：['pjʊrəti] n. 纯度；纯洁；纯净；纯粹
+- **purify**：['pjʊrɪfaɪ] v. 净化；（使）变纯净
+- **purge**：[pɝdʒ] v. 净化；清洗；通便n. 净化；泻药
 
 
 
-## widow's mites 少而可怜的捐献
+### 6. nepotism（裙带关系）：教会高官起用自己的私生子
 
-> mites:
-> n. 尽绵薄之力的捐献, 细微, 微少, 螨
-> 【复数：mites】
-> 来自古英语mite , 小虫，螨，来自Proto-Germanic*mai , 砍，切，词源同maim , mangle . 字面意思即小剪刀。
+中世纪期间，和世俗社会一样，基督教会中也存在严重的腐败问题。一些教会高官生活腐化，不仅贪污腐败，还蓄养情妇。生下私生子后，往往对外宣称是自己的nephew（侄子或外甥）。
 
-耶稣对着银库坐着，看众人怎样投钱人库。有财主往里投了若干的钱。有一个穷寡妇来往里投了两个小钱**mites**【maɪts】。耶稣叫门徒来说：“实在告诉你们，这寡妇投入库里的，比众人所投的更多。因为他们都是自己有馀，拿出来投在里头。但这寡妇是自己不足，把她一切养生的都投上了。”
+这些人往往会想方设法把所谓的nephew安排到教会的肥差或重要位置上。人们对此现象十分反感，在拉丁语将其称为nepotismo，其中nepo就是nephew的意思。英语单词nepotism就来源于此，用来表示“裙带关系”。
 
-- house dust mites 房内的粉尘蟎
-- Poor little mite!  可怜的小家伙！
-- She's a mite shy. 她有点害羞。
+- nepotism：['nepətɪz(ə)m] n.裙带关系，起用亲戚，任人唯亲
+- nephew：['nɛfju] n.侄子，外甥
 
 
 
-## bishop (主教) 和 pastor（牧师)
+nephew - 该词起源于意大利。中世纪，在罗马天主教会中重用亲属之风盛极一时。主教们，尤其是教皇，因无子嗣，常常凭借权势偏袒乃至重用其私生子或侄甥，委任他们为教士，甚至授予他们待遇优厚的各种高级神职。
+
+15世纪一位臭名昭著的教皇——亚历山大六世（Pope Alexander VI, 1431-1503）将自己的亲戚安插在教会最高职位上，例如为巩固其权力他竟然任命年仅16岁的私生子博尔吉亚（Cesare Borgia）为大主教，任命年轻的侄甥乔凡尼（Giovanni）为主教。
+
+他这一任人唯亲的做法影响极坏，招致广泛的批评和指责。在英语中侄甥作nephew，教士的私生子也婉称nephew，该词源于拉丁语nepōs；而重用私生子或侄甥则被世人戏称为nepotism，它源出意大利语nepotismo。
+
+嗣后，nepotism不再囿于nephew，而用以泛指“重用亲属”、“任人唯亲”，或表示“裙带关系”。
+
+- Nepotism sometimes occurs in political appointment. (WBD) 政治任命有时存在重用亲属的现象。
+- Nepotism and corruption were widespread in the then government. 在当时的政府中裙带关系和腐败现象非常普遍。
+- The mayor's son got a city job through nepotism. (NED) 市长的儿子通过裙带关系获得一份城里的工作。
+- The newspaper accused the governor's office of nepotism. 该报指责州长办公室搞裙带关系。
+
+
+
+### 7.ghost（鬼魂）：人的灵魂或精神
+
+
+古代人相信人拥有灵魂，在古英语中称为gast，在中古英语中拼写改为gost，在现代英语中拼写改为ghost，原本既可以表示死人的灵魂，也可以表示活人的灵魂，相当于来自拉丁语的spirit（精神、心灵）。到了14世纪时，词义变为专指死人的灵魂，即“鬼魂、幽灵”。但词组Holy Ghost（圣灵）一词中ghost依然保留了原意。
+
+- ghost：[gəʊst] n.鬼，鬼魂，幽灵vt.作祟于，替……代笔vi.替人代笔
+- ghostly：['ɡostli] adj. 幽灵的；可怕的；影子似的
+- aghast：[ə'ɡæst] adj. 吓呆的，惊骇的；吃惊的
+- Holy Ghost：圣灵
+
+
+
+ghost - 在古英语的词形为gāst，中古英语变为gost，原指“心灵”（soul）或“精神”（spirit），到了14世纪开始用于“鬼魂”或“幽灵”这一今天最常用的词义。但基督教里所谓三位一体（the Trinity）中的the Holy Ghost（圣灵）仍保留古英语时的旧义。到了20世纪基督徒往往直接把它说成the Holy Spirit，以避免可能的误解。
+
+英语中另有一词ghastly（恐怖的；死人般的；糟透的）和ghost有些关系。和ghost一样，该词源自gāst（心灵；精神），中古英语词形为gastlich，到了16世纪因和ghost相联系而被加上字母h，变成ghastly。这一拼法是英国诗人斯宾塞（Edmund Spenser, 1552-1599）首先使用的。
+
+- Do you believe in ghosts? 你相信有鬼吗？
+- People say ghosts haunt that old house. 人们说那所旧屋常常闹鬼。
+- A priest was called in to exorcise the ghost. (OCD) 一位教士受召前来驱鬼。
+- He looked so terrified I thought he'd seen a ghost. (LDE) 他看上去如此害怕，我真以为他看见鬼了。
+
+
+
+## 神职人员
+
+### 1. bishop (主教) 和 pastor（牧师)
 
 **bishop**（主教）和**pastor**（牧师）：人类灵魂的看护和牧人。
 
@@ -341,7 +413,7 @@ catholic ['kæθlɪk] adj.天主教的；宽宏大量的，n.天主教徒；罗�
 
 
 
-### What is the difference between pastors / priests / ministers?
+#### What is the difference between pastors / priests / ministers?
 
 My answer is limited to the application in a contemporary Christian context. Wikipedia actually has pretty good information about this. (http://en.wikipedia.org/wiki/Pastor, http://en.wikipedia.org/wiki/Priest, http://en.wikipedia.org/wiki/Minister_(Christianity))
 
@@ -379,7 +451,7 @@ As [Anthony Prince](https://www.quora.com/profile/Anthony-Prince) pointed out in
 
 
 
-## cardinal（红色的、主要的）：穿红衣戴红帽的枢机主教
+### 2. cardinal（红色的、主要的）：穿红衣戴红帽的枢机主教
 
 <img src="./images/image-20220104104440286.png" alt="image-20220104104440286" style="zoom:67%;" /> 
 
@@ -413,8 +485,6 @@ As [Anthony Prince](https://www.quora.com/profile/Anthony-Prince) pointed out in
 
 
 
-
-
 - **cardinal number**基数，是对应量词的“数”。
 
 cardinal在这里是其形容词含义，表主要的；基本的，因此其名词含义是枢机主教，枢不就是枢纽的枢吗？不正是中枢的枢吗？
@@ -424,113 +494,7 @@ cardinal在这里是其形容词含义，表主要的；基本的，因此其名
 
 
 
-## purgatory（炼狱）：净化有罪灵魂的地方
-
-<img src="./images/web3-holy-souls-purgatory1.jpg" alt="How long does purgatory last?" style="zoom:67%;" />
-
-单词**purgatory**（炼狱）原本是一个基督教的术语，指的是人死后，灵魂被“锤炼”、“净化”的地方。单词**purgatory**和**pure**（纯净）同源，来自拉丁语***purus***（纯净的），字面意思就是“净化的场所”。
-
-“炼狱”在基督教大分裂中曾是引发分歧的教义之一。由于炼狱没有直接来自于《圣经》的根据，故不被大多数东正教、基督新教和基督教系的新兴宗教所接纳，仅被**天主教**奉为信条。
-
-按照天主教的说法，人信仰基督后即可灵魂得救，死后升入天堂。但是，如果生前尚有罪恶没有赎罪，或没有充分地悔罪，死后灵魂并不能马上升天，而是先要在炼狱中进行净化。但丁在《神曲》中提到，炼狱共有9层，生前犯有罪过，但可以得到宽恕的灵魂，按人类的七大罪过，分别在那里忏悔罪过，洗涤灵魂。
-
-在1095年时，教皇乌耳班二世曾为鼓励十字军的士兵，演说应许参加圣战的人可以减少在炼狱中受苦的时间，而丧生者，更可不经炼狱直接进天堂。
-
-现在，**purgatory**不仅表示“炼狱”，常常用来比喻磨炼、暂时的苦难。
-
-- **purgatory**：['pɜːgət(ə)rɪ] n.炼狱；涤罪；暂时的苦难adj.涤罪的
-- **purgative**：['pɝɡətɪv] adj. 净化的；通便的；赎罪的n. 泻剂，泻药
-- **purgation**： [pɝ'geʃən] n. 清洗；洗罪；（吃泻药）通便
-- **pure**：[pjʊr] adj. 纯的；纯粹的；纯洁的；清白的
-- **purity**：['pjʊrəti] n. 纯度；纯洁；纯净；纯粹
-- **purify**：['pjʊrɪfaɪ] v. 净化；（使）变纯净
-- **purge**：[pɝdʒ] v. 净化；清洗；通便n. 净化；泻药
-
-
-
-### ghost（鬼魂）：人的灵魂或精神
-
-
-古代人相信人拥有灵魂，在古英语中称为gast，在中古英语中拼写改为gost，在现代英语中拼写改为ghost，原本既可以表示死人的灵魂，也可以表示活人的灵魂，相当于来自拉丁语的spirit（精神、心灵）。到了14世纪时，词义变为专指死人的灵魂，即“鬼魂、幽灵”。但词组Holy Ghost（圣灵）一词中ghost依然保留了原意。
-
-- ghost：[gəʊst] n.鬼，鬼魂，幽灵vt.作祟于，替……代笔vi.替人代笔
-- ghostly：['ɡostli] adj. 幽灵的；可怕的；影子似的
-- aghast：[ə'ɡæst] adj. 吓呆的，惊骇的；吃惊的
-- Holy Ghost：圣灵
-
-
-
-ghost - 在古英语的词形为gāst，中古英语变为gost，原指“心灵”（soul）或“精神”（spirit），到了14世纪开始用于“鬼魂”或“幽灵”这一今天最常用的词义。但基督教里所谓三位一体（the Trinity）中的the Holy Ghost（圣灵）仍保留古英语时的旧义。到了20世纪基督徒往往直接把它说成the Holy Spirit，以避免可能的误解。
-
-英语中另有一词ghastly（恐怖的；死人般的；糟透的）和ghost有些关系。和ghost一样，该词源自gāst（心灵；精神），中古英语词形为gastlich，到了16世纪因和ghost相联系而被加上字母h，变成ghastly。这一拼法是英国诗人斯宾塞（Edmund Spenser, 1552-1599）首先使用的。
-
-- Do you believe in ghosts? 你相信有鬼吗？
-- People say ghosts haunt that old house. 人们说那所旧屋常常闹鬼。
-- A priest was called in to exorcise the ghost. (OCD) 一位教士受召前来驱鬼。
-- He looked so terrified I thought he'd seen a ghost. (LDE) 他看上去如此害怕，我真以为他看见鬼了。
-
-
-
-##  Babel v.s Babble
-
-**Babel【ˈbeɪbl】** 
-
-> 嘈杂声(尤指讲多种语言).the sound of many voices talking at one time, especially when more than one language is being spoken
-
-源出基督教《圣经》。据其首卷《创世记》所载，Babel原为一城市名。大洪水后，诺亚的后代拟在此建一高塔直通天庭，上帝怒其狂妄，使建塔者突操不同之语言，彼此互不相通，此通天塔因此终未建成，而人类则散居世界各地。这段神话似乎意在说明人类语言纷杂的原因。
-
-**babel**一词到了英语中也据此被赋予了“嘈杂混乱的地方”、“嘈杂声”、“空想的计划”等义。该词的终极词源是阿卡得语(Akkadian) bab-ili，其义为gate of the gods（神门）。阿卡得语乃古巴比伦王国的一种语言。但是**babel**却是从希伯来语借来的。其实《圣经》中的Babel与**Babylon【ˈbæbəˌlɑn】**（巴比伦）指的乃是同一个城市。只是**Babylon**一词通过希腊语进入英语，所以词形不同，其引申义也截然不同，它常用以喻指“奢华淫靡的城市”。
-
-英语另有一词**babble【ˈbæbl】**，究其根源和**babel**并无任何联系。该词系一拟声词，仿婴儿牙牙学语声构成，许多语言中都有类似拟声词。但有的辞书（如《牛津英语词典》）认为**babble**的一些词义可能系与**babel**相联系而受影响的，比如**babble**在用作名词时除了指“（婴孩）咿呀学语声”、“潺潺流水声”，也指“模糊不清的谈话”及“嘈杂的谈话声”；用作动词时，则表示“模糊不清地说”或“唠唠叨叨地说”。
-
-- The convention became a babel of conflicting opinions. (FWF) 会议变成了一阵乱哄哄的争吵。
-- We could hear the babble of a brook. (FWF) 我们可以听到小溪的潺潺流水声。
-- We listened to Isabel's childish babble as she played. (CID) 我们听着伊莎贝尔玩耍时发出的童稚的咿呀声
-- I have no idea what she was babbling about. 我不知道她在唠叨些什么。
-
-
-
-## mass 弥撒与群众
-
-mass - 英语里有两个mass。
-
-用作宗教术语的mass指天主教的圣体圣事仪式，汉语作“弥撒”。在这种仪式结束时神父总要用拉丁语说：“Ite, missa est”，相当于英语“Go, it is the dismissal”或“Go, you are dismissed”。显然，这是神父遣散全体参与者的用语。
-
-到了公元8世纪，其中missa一词开始被用以指整个弥撒仪式，进入中世纪英语作masse，最后演变为mass。可见mass原来的含义为dismissal（解散，遣散），而汉语“弥撒”则为拉丁语missa之音译，而绝非译自英语。若再进一步追根溯源的话，我们可发现missa派生自拉丁动词mittere 'to send'（派遣），英语里的mission（使团，使节）和missionary（传教士）也是源自该拉丁词。
-
-另一个mass是普通词，作“块”、“堆”、“群众”等义解，其词源和意为“弥撒”的mass截然不同。它源自希腊语mâza 'barley cake'（大麦饼），由法语masse 'kneaded dough'（揉好的面团）演变而来。出于同源的还有amass（积聚）和massive（大而重的）等词。
-
-例　
-
-- The priest says two Masses each day. 神父一天做两次弥撒。
-- Catholics usually go to Mass on Sunday. (NED) 天主教徒通常在星期天做弥撒。
-- The mass of the people support the political and economic reforms of the government. 多数人支持政府的政治和经济改革。
-- The forest is a mass of colour (= full of colour) in autumn. (CID) 秋季的森林色彩斑斓。
-
-
-
-**词源：**
-
-1. 来自拉丁语 missa,解散，遣散，词源同 mission,emit.宗教词义弥撒来自弥撒仪式后的解散语”Ite,missa est”,即走吧，解散了，ite,走，离开，词源同 exit,missa,解散，词源同 emit,est,是，词源同 is,essence.
-2. 来自拉丁语 massa,大块，面团，来自 PIE*mag,揉，捏，词源同 make,massage.引申词义团，块，堆，以及用于物理学术语物质质量，原子质量等。
-
-
-
-### Lucifer 路法西
-
-> 《以赛亚书》第14章第12节:
->
-> How you have fallen from heaven, O morning star, son of the dawn！You have been cast down to the earth, you who once laid low the nations!
-
-路西法（Lucifer）是一个宗教传说的人物。“Lucifer”原先只是[基督教](https://baike.baidu.com/item/基督教/222408)与[犹太教](https://baike.baidu.com/item/犹太教/88496)的名词，出现于《以赛亚书》第14章第12节，意思为“明亮之星”，用来影射[古巴比伦](https://baike.baidu.com/item/古巴比伦/884630)的君王[尼布甲尼撒](https://baike.baidu.com/item/尼布甲尼撒/82569)。经过后世传播，成为了基督教中的堕落天使，虽然无法确认是从何时开始将路西法进行[拟人化](https://baike.baidu.com/item/拟人化)。
-
-
-
-
-
-##  clergy（职员）：能看书写字的人
-
-
+###  3. clergy（职员）：能看书写字的人
 
 英语单词**clergy**来自拉丁语，原意是“有学问的人、能看书写字的人”。
 
@@ -557,7 +521,162 @@ clerk在进入英语之初，原词形为clerc或cleric。15世纪时clerc这一
 
 
 
-## Jubilee  (尤指25周年或50周年的)周年纪念，周年大庆，周年庆祝
+## 圣经
+
+###  1. Babel v.s Babble
+
+**Babel【ˈbeɪbl】** 
+
+> 嘈杂声(尤指讲多种语言).the sound of many voices talking at one time, especially when more than one language is being spoken
+
+源出基督教《圣经》。据其首卷《创世记》所载，Babel原为一城市名。大洪水后，诺亚的后代拟在此建一高塔直通天庭，上帝怒其狂妄，使建塔者突操不同之语言，彼此互不相通，此通天塔因此终未建成，而人类则散居世界各地。这段神话似乎意在说明人类语言纷杂的原因。
+
+**babel**一词到了英语中也据此被赋予了“嘈杂混乱的地方”、“嘈杂声”、“空想的计划”等义。该词的终极词源是阿卡得语(Akkadian) bab-ili，其义为gate of the gods（神门）。阿卡得语乃古巴比伦王国的一种语言。但是**babel**却是从希伯来语借来的。其实《圣经》中的Babel与**Babylon【ˈbæbəˌlɑn】**（巴比伦）指的乃是同一个城市。只是**Babylon**一词通过希腊语进入英语，所以词形不同，其引申义也截然不同，它常用以喻指“奢华淫靡的城市”。
+
+英语另有一词**babble【ˈbæbl】**，究其根源和**babel**并无任何联系。该词系一拟声词，仿婴儿牙牙学语声构成，许多语言中都有类似拟声词。但有的辞书（如《牛津英语词典》）认为**babble**的一些词义可能系与**babel**相联系而受影响的，比如**babble**在用作名词时除了指“（婴孩）咿呀学语声”、“潺潺流水声”，也指“模糊不清的谈话”及“嘈杂的谈话声”；用作动词时，则表示“模糊不清地说”或“唠唠叨叨地说”。
+
+- The convention became a babel of conflicting opinions. (FWF) 会议变成了一阵乱哄哄的争吵。
+- We could hear the babble of a brook. (FWF) 我们可以听到小溪的潺潺流水声。
+- We listened to Isabel's childish babble as she played. (CID) 我们听着伊莎贝尔玩耍时发出的童稚的咿呀声
+- I have no idea what she was babbling about. 我不知道她在唠叨些什么。
+
+### 2. Apocalypse 圣经中的“启示录”
+
+《圣经•新约》中的最后一章是圣约翰（St. John）所写的“启示录”。
+
+据说耶稣基督的十二门徒之一圣约翰被罗马皇帝流放至帕特摩斯岛（Patmos）时，将主给他显示的异象记录下来，并预言了主的降临和世界末日来临时的景象。该书的希腊名是《apokalyptein》，在1230年的英语版本中被译为《The Book of Apocalypse》，在1380年的英语版本中被译为《The Book of Revelation》。
+
+英语单词apocalypse就源自希腊语apokalyptein，由apo（away，off）+kalyptein（cover）构成，意思就是“revelation”（启示，揭示）。
+
+- **apocalypse**：[ə'pɒkəlɪps] n.启示，天启
+- **apocalyptic**：[ə'pɑkə'lɪptɪk] adj.启示录的，天启的
+
+
+
+### 3. mass 弥撒与群众
+
+mass - 英语里有两个mass。
+
+用作宗教术语的mass指天主教的圣体圣事仪式，汉语作“弥撒”。在这种仪式结束时神父总要用拉丁语说：“Ite, missa est”，相当于英语“Go, it is the dismissal”或“Go, you are dismissed”。显然，这是神父遣散全体参与者的用语。
+
+到了公元8世纪，其中missa一词开始被用以指整个弥撒仪式，进入中世纪英语作masse，最后演变为mass。可见mass原来的含义为dismissal（解散，遣散），而汉语“弥撒”则为拉丁语missa之音译，而绝非译自英语。若再进一步追根溯源的话，我们可发现missa派生自拉丁动词mittere 'to send'（派遣），英语里的mission（使团，使节）和missionary（传教士）也是源自该拉丁词。
+
+另一个mass是普通词，作“块”、“堆”、“群众”等义解，其词源和意为“弥撒”的mass截然不同。它源自希腊语mâza 'barley cake'（大麦饼），由法语masse 'kneaded dough'（揉好的面团）演变而来。出于同源的还有amass（积聚）和massive（大而重的）等词。
+
+例　
+
+- The priest says two Masses each day. 神父一天做两次弥撒。
+- Catholics usually go to Mass on Sunday. (NED) 天主教徒通常在星期天做弥撒。
+- The mass of the people support the political and economic reforms of the government. 多数人支持政府的政治和经济改革。
+- The forest is a mass of colour (= full of colour) in autumn. (CID) 秋季的森林色彩斑斓。
+
+
+
+**词源：**
+
+1. 来自拉丁语 missa,解散，遣散，词源同 mission,emit.宗教词义弥撒来自弥撒仪式后的解散语”Ite,missa est”,即走吧，解散了，ite,走，离开，词源同 exit,missa,解散，词源同 emit,est,是，词源同 is,essence.
+2. 来自拉丁语 massa,大块，面团，来自 PIE*mag,揉，捏，词源同 make,massage.引申词义团，块，堆，以及用于物理学术语物质质量，原子质量等。
+
+
+
+### 4. Lucifer 路法西
+
+> 《以赛亚书》第14章第12节:
+>
+> How you have fallen from heaven, O morning star, son of the dawn！You have been cast down to the earth, you who once laid low the nations!
+
+路西法（Lucifer）是一个宗教传说的人物。“Lucifer”原先只是[基督教](https://baike.baidu.com/item/基督教/222408)与[犹太教](https://baike.baidu.com/item/犹太教/88496)的名词，出现于《以赛亚书》第14章第12节，意思为“明亮之星”，用来影射[古巴比伦](https://baike.baidu.com/item/古巴比伦/884630)的君王[尼布甲尼撒](https://baike.baidu.com/item/尼布甲尼撒/82569)。经过后世传播，成为了基督教中的堕落天使，虽然无法确认是从何时开始将路西法进行[拟人化](https://baike.baidu.com/item/拟人化)。
+
+
+
+### 5. martyr 从证人到殉道者
+
+> 英语单词martyr原本是一个宗教术语，指为了坚守信仰而牺牲的殉道者，被后人视为英雄或圣徒而得到崇拜。martyr一词的本意是witness“证人”，指不惧危险、坚持为信仰作证的人。在基督教中，耶稣基督就是第一位martyr。后来，该术语也应用于世俗领域，用来表示为了自己的信仰而献出生命的人，即所谓的“烈士”。
+
+**martyr【ˈmɑːrtər】** - 该词借自后期拉丁语（**Late Latin**），源于希腊语***mártur***，本义是“证人”。
+
+昔日，奴隶的证词被认为是不可靠的，因此他们往往被施以酷刑。许多早期基督教徒因为是奴隶而饱受折磨，甚至被严刑拷打致死。渐渐地，拉丁语**martyr**从“证人”转为指“受难或殉教的证人”（**witness who suffers or even dies for his religion**）。
+
+公元8世纪末至9世纪初**martyr**一词进入英语时，就用于这一意义。从14世纪起，词义中“证人”的成分逐渐变弱，最后乃至消失。到了近代，作为宗教术语，martyr仍指“殉教者”或“殉道者”，但一般多泛指“殉难者”或“烈士”，有时也指“（因疾病等）长期受苦者”或“假装受苦以博取同情者”。
+
+例
+
+- The early Christian martyrs were massacred in their thousands. (LLA) 数以万计的早期基督教殉道者惨遭屠杀。
+
+- My wish is that the martyrs who died for the liberty of our country did not die for nothing. (CID) 我希望为了国家的自由而献身的烈士不会白白牺牲。
+
+- Stop playing the martyr. (OCD) 不要假装受苦来博取别人的同情了。
+
+- Her father's a martyr to rheumatism. 她父亲长期受风湿病的折磨。
+
+- **martyr**： ['mɑːtə] n.烈士，殉道者vt.牺牲，折磨，杀害
+
+- **martyrdom**： ['mɑːtədəm] n.殉道，殉难，殉教，牺牲，受苦
+
+  > -dom {41}
+  > 名词后缀，表示“身份”,“地位”,“职务”,“职位”,“统治”,“界”,“领域”等。
+  >
+  > 源自古英语 -dom, abstract suffix indicating "state, condition, or power."
+
+
+
+
+
+### 6. widow's mites 少而可怜的捐献
+
+> mites:
+> n. 尽绵薄之力的捐献, 细微, 微少, 螨
+> 【复数：mites】
+> 来自古英语mite , 小虫，螨，来自Proto-Germanic*mai , 砍，切，词源同maim , mangle . 字面意思即小剪刀。
+
+耶稣对着银库坐着，看众人怎样投钱人库。有财主往里投了若干的钱。有一个穷寡妇来往里投了两个小钱**mites**【maɪts】。耶稣叫门徒来说：“实在告诉你们，这寡妇投入库里的，比众人所投的更多。因为他们都是自己有馀，拿出来投在里头。但这寡妇是自己不足，把她一切养生的都投上了。”
+
+- house dust mites 房内的粉尘蟎
+- Poor little mite!  可怜的小家伙！
+- She's a mite shy. 她有点害羞。
+
+
+
+### 7. legend（传奇）：记录基督教圣徒生平事迹的书
+
+十三世纪末期，热那亚大主教维拉吉欧（Varagine）发表了一本宗教著作“Legenda Sanctorum”，书名意为“应读的圣人史迹”，其中的**legenda**由拉丁语动词***legere***（读、收集、选择）和后缀***-enda***（应……之事物）组成。
+
+该书记录了众多基督教圣徒的生平事迹，由于内容翔实，所以被译成多种语言并在民间广为流传。后来，一些出版商以此书为蓝本出版了许多图书，里面的事迹越传越玄，令人怀疑其真实性。于是当legenda进入英语并演变为单词legend时，词义也转化为“未经证实的故事、传奇”。我国著名的IT公司“联想公司”的英文名原本就是Legend。
+
+- **legend**：['ledʒ(ə)nd] n.传奇，图例，刻印文字
+- **legendary**：['ledʒ(ə)nd(ə)rɪ] 
+  - adj.传说的，传奇的
+  - n.传说集，圣徒传
+
+
+
+### 8. advent（到来）：基督的两次降临
+
+根据基督教的教义，耶稣基督一共两次降临世界，第一次是诞生之时，以自己的生命为人类赎罪。第二次是在世界末日来临之前，他将再度降临世界。为了纪念耶稣基督的降临，在圣诞节前四个星期，从第一个周日到圣诞夜，基督教徒将这段时间称为“耶稣降临节”（Advent），用于筹备庆祝耶稣的降临。英语单词advent在基督教中有特殊含义，表示“耶稣的降临”。它来自拉丁语adventus，由ad（to）+venire（come）组合演变而成。后来，该词逐渐应用与其他领域，用来表示不同寻常的人或事物的来临或发生。英语单词adventure（冒险）与此同源，来自拉丁语adventurus，是adventus的未来式，本意是“即将发生的事情，运气”，现在一般表示“冒险、投机”。
+
+- advent：['ædvɛnt] n.到来，降临，基督降临，基督降临节
+
+- adventitious：[,ædvɛn'tɪʃəs] adj. 外来的，偶然的
+
+- adventure：[əd'ventʃə] n.冒险，冒险精神，投机活动v.冒险
+
+- adventurous：[əd'vɛntʃərəs] adj. 爱冒险的；大胆的；充满危险的
+
+- adventurer：[əd'vɛntʃərɚ] n. 冒险家；投机商人
+
+- Adventism:[ˈædvəntizəm] n. 基督复临论
+
+- Adventist: [ˈædvəntɪst] n. 基督复临论者 （Advent【来到, 来临】 + -ist表人，一般为专家）
+
+  > A member of a Christian denomination such as the Seventh - Day Adventists who believes that the Second Coming of Jesus Christ is imminent 
+
+
+
+
+
+## 文化遗产
+
+### 1. Jubilee  (尤指25周年或50周年的)周年纪念，周年大庆，周年庆祝
 
 > jubilee ['dʒuːbɪliː] n.（犹太史）五十年节；大赦年；欢乐的节日；重要的周年纪念。希伯来语词源，本意是“公羊”。犹太教每七个安息年循环后的一年（亦有说第49年）中的赎罪日，号角会吹响，犹太教徒聚集在犹太会堂中，24小时禁食。而在这一年里，奴隶和囚犯获释，债务被免除并有很多庆祝活动。
 
@@ -589,46 +708,9 @@ jubilee - 据《圣经旧约·利未记》（Leviticus）钦定英译本第25章
 
 
 
-## legend（传奇）：记录基督教圣徒生平事迹的书
-
-十三世纪末期，热那亚大主教维拉吉欧（Varagine）发表了一本宗教著作“Legenda Sanctorum”，书名意为“应读的圣人史迹”，其中的**legenda**由拉丁语动词***legere***（读、收集、选择）和后缀***-enda***（应……之事物）组成。
-
-该书记录了众多基督教圣徒的生平事迹，由于内容翔实，所以被译成多种语言并在民间广为流传。后来，一些出版商以此书为蓝本出版了许多图书，里面的事迹越传越玄，令人怀疑其真实性。于是当legenda进入英语并演变为单词legend时，词义也转化为“未经证实的故事、传奇”。我国著名的IT公司“联想公司”的英文名原本就是Legend。
-
-- **legend**：['ledʒ(ə)nd] n.传奇，图例，刻印文字
-- **legendary**：['ledʒ(ə)nd(ə)rɪ] 
-  - adj.传说的，传奇的
-  - n.传说集，圣徒传
 
 
-
-## nepotism（裙带关系）：教会高官起用自己的私生子
-
-中世纪期间，和世俗社会一样，基督教会中也存在严重的腐败问题。一些教会高官生活腐化，不仅贪污腐败，还蓄养情妇。生下私生子后，往往对外宣称是自己的nephew（侄子或外甥）。
-
-这些人往往会想方设法把所谓的nephew安排到教会的肥差或重要位置上。人们对此现象十分反感，在拉丁语将其称为nepotismo，其中nepo就是nephew的意思。英语单词nepotism就来源于此，用来表示“裙带关系”。
-
-- nepotism：['nepətɪz(ə)m] n.裙带关系，起用亲戚，任人唯亲
-- nephew：['nɛfju] n.侄子，外甥
-
-
-
-nephew - 该词起源于意大利。中世纪，在罗马天主教会中重用亲属之风盛极一时。主教们，尤其是教皇，因无子嗣，常常凭借权势偏袒乃至重用其私生子或侄甥，委任他们为教士，甚至授予他们待遇优厚的各种高级神职。
-
-15世纪一位臭名昭著的教皇——亚历山大六世（Pope Alexander VI, 1431-1503）将自己的亲戚安插在教会最高职位上，例如为巩固其权力他竟然任命年仅16岁的私生子博尔吉亚（Cesare Borgia）为大主教，任命年轻的侄甥乔凡尼（Giovanni）为主教。
-
-他这一任人唯亲的做法影响极坏，招致广泛的批评和指责。在英语中侄甥作nephew，教士的私生子也婉称nephew，该词源于拉丁语nepōs；而重用私生子或侄甥则被世人戏称为nepotism，它源出意大利语nepotismo。
-
-嗣后，nepotism不再囿于nephew，而用以泛指“重用亲属”、“任人唯亲”，或表示“裙带关系”。
-
-- Nepotism sometimes occurs in political appointment. (WBD) 政治任命有时存在重用亲属的现象。
-- Nepotism and corruption were widespread in the then government. 在当时的政府中裙带关系和腐败现象非常普遍。
-- The mayor's son got a city job through nepotism. (NED) 市长的儿子通过裙带关系获得一份城里的工作。
-- The newspaper accused the governor's office of nepotism. 该报指责州长办公室搞裙带关系。
-
-
-
-### gossip（绯闻）：爱八卦的教父母
+### 2. gossip（绯闻）：爱八卦的教父母
 
 在基督教中有为孩子挑选教父母的习俗。男性为教父，女性为教母。教父母在孩子的洗礼仪式中扮演作保的角色。婴儿或儿童受洗后，教父或教母会教导受洗者在宗教上的知识，而如果教子女的双亲不幸死亡，教父母有责任去照顾教子。
 
@@ -662,15 +744,13 @@ nephew - 该词起源于意大利。中世纪，在罗马天主教会中重用�
 
 
 
-## choir（唱诗班）：古希腊悲剧中的舞蹈队
+### 3. choir（唱诗班）：古希腊悲剧中的舞蹈队
 
 英语单词**choir**和单词**chorus**同源，来自希腊语khoros（舞蹈队），原本指的是古希腊悲剧中的舞蹈队。
 
 在古希腊悲剧中，khoros（舞蹈队）原本仅仅负责舞蹈，后来为了表达戏剧中的情感而增加了合唱功能，因此khoros增加了“合唱队”的含义。
 
 英语单词**chorus**和**choir**的区别在于，**choir**常用来特指教堂里的合唱队，即所谓的“唱诗班”，还可以表示教堂中唱诗班所在区域。而**chorus**仅仅表示一般的合唱队，很少用来表示教堂里的唱诗班。
-
-
 
 - **choir**：['kwaɪə] n. 唱诗班；合唱队；舞蹈队v.合唱
 - **chorus**：['kɔrəs] n. 合唱队,歌舞队,齐声v.合唱，异口同声地说（话）
@@ -680,7 +760,7 @@ nephew - 该词起源于意大利。中世纪，在罗马天主教会中重用�
 
 
 
-## chant（圣歌）：古罗马宗教活动中的反复吟唱。
+### 4. chant（圣歌）：古罗马宗教活动中的反复吟唱。
 
 英语单词**chant**来自拉丁语***cantare***，是***canere***（唱）的反复形式，指的是古罗马宗教活动中反复吟唱的活动，既用来赞颂神灵，又用于修炼内心，类似于中国佛教的和尚们打坐诵经。
 
@@ -706,7 +786,7 @@ nephew - 该词起源于意大利。中世纪，在罗马天主教会中重用�
 
 
 
-###  charm
+###  5. charm
 
 当今之世哪个女人不希望自己富于**charm**（魅力），然而在14世纪**charm**用于女人就不是什么好的字眼了。**charm**借自法语***charme***，而法语词则源自拉丁语***carmen***（曲子，妖术），因此**charm**最初有“摄人心魂的歌声”、“妖术”、“魔法”等义。嗣后，词义中“歌声”这一成分逐渐丧失，而且词义变化也由贬而褒。**charm**的今义“魅力”、“迷人之处”始用于16世纪。英语中另有几个词如**chant**（曲子，圣歌），**enchant**（使着魔，使入迷），**incantation**（咒语，妖术）等与**charm**一词均有些亲缘关系，它们均源于拉丁语动词***cantāre 'to sing'***（唱）。
 

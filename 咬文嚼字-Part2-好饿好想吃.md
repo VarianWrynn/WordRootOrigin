@@ -145,7 +145,7 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 
 
 
-## 烘焙的
+## 甜品的
 
 ### Bang for the buck
 
@@ -180,6 +180,29 @@ Tangential Trivia: \$1,000 in 1915 would be the equivalent of \$23,500 today.
 2. [**Why is a dollar sometimes called a "buck" and $1,000 called a "grand", etc?**](https://www.quora.com/Why-is-a-dollar-sometimes-called-a-buck-and-1-000-called-a-grand-etc)
 
 
+
+### dessert（甜点）：收拾餐桌后再吃的食物
+
+> serv- 
+> = serve, 表示“服务”。
+> dis- 
+> 来自拉丁语dis-，表示“分开，散开”，引申词义“离开，无，没有，缺乏，表相反等”。该前缀在字母 g, l, m, r, s, v 前缩写为 di-；在字母f前同化为 dif-。
+
+在西方，人们喜欢在餐后吃甜食或甜点心，表示甜食或甜点心的英语单词dessert的本意就是“收拾餐桌以后吃的”。dessert源自法语，原为法语动词desservir的过去分词形式，而desservir = des（等于英语否定前缀un）+servir（等于英语中的serve，上菜），字面意思就是“收拾桌子”。收拾完桌子后再吃的自然就是甜食了。
+
+- **dessert**：[dɪ'zɜːt] n.餐后甜点，甜食
+- （比较）desert【ˈdezərt , dɪˈzɜːrt】:de-分开 + sert-插入 → 不再加入 → 离开。
+  - n. 沙漠
+    a. 被遗弃的; 沙漠的, 不毛的
+    v. 抛弃, 离弃, 舍弃; 废弃, 放弃; 背离, 使失望; 逃走, 开小差; 
+- **serve**： [sɝv] 
+  - vt. 招待，供应；为…服务；对…有用；可作…用
+  - vi. 服役，服务；适合，足够；发球；招待，侍候
+  - n. 发球，轮到发球
+- **service**： ['sɝvɪs] n. 服务，服侍；服役
+
+词源说明(童理民)  
+1 - des-,不，非，使相反，-sert,服务，词源同 deserts,serve.即停止正餐服务，上甜点。
 
 
 
