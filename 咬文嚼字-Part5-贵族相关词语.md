@@ -536,9 +536,9 @@ Reference: [词源趣谈：再大的minister（大臣、部长），其实也只
 
 
 
-### Prima nocta 首席夜行权
+### Prima nocta 首席夜行(初夜)权
 
-<img src="./images/image-20211119132931651.png" alt="image-20211119132931651" style="zoom: 67%;" />
+<img src="./images/image-20211119132931651.png" alt="image-20211119132931651" style="zoom: 67%;" /> 
 
 [**Prima nocta**](http://noitsnotok.org/not-ok/prima-nocta-anyone/) (also known as “the right of the lord” or “the right of the first night”) refers to **a supposed medieval European legal right of lords to have sex with the newly married wife of another man on the night of their wedding**.
 
