@@ -54,6 +54,20 @@
 
 
 
+### [beef](http://www.dorflersmeats.com/butcher-shop/beef/)
+
+
+
+![dorflers-beef-cuts](./images/dorflers-beef-cuts.jpg) 
+
+
+
+### [Veal](http://www.dorflersmeats.com/butcher-shop/veal/)
+
+> 词源说明(童理民)  <br/>1 - 来自拉丁语 vitulus,小牛，字母 t 脱落，来自 PIE*wet,年，词源同 vellum,wether.原指尚未成年的小牛，后指小牛肉。
+
+<img src="./images/dorflers-veal-cuts.jpg" alt="dorflers-veal-cuts" style="zoom:90%;" /> 
+
 
 
 ## 素的
