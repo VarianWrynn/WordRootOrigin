@@ -90,6 +90,49 @@ mammal - baby一词来自babe，原为babe的指小词，一度指“玩具娃�
 
 
 
+### **gorilla**（大猩猩）：迦太基航海家在西非见到的多毛野人
+
+公元前5世纪，一位名叫汉诺（hanon）的迦太基航海家率领一支船队沿着非洲西海岸向南探险并写了一本游记。希腊人将他所写的游记翻译成了希腊语。在游记中汉诺写道，他们来到一个小岛，岛上有很多长毛野人，雌性多于雄性，皮肤粗糙。当地的黑人向导将这些野人称为gorillai。汉诺等人想抓捕几只野人，但雄性野人非常敏捷地爬到了悬崖顶上，一只也没抓住。最后只抓住了三只雌性野人。但这些野人拼命挣扎，又撕又咬。汉诺等人只好杀死了它们，把它们的皮毛带回了迦太基。
+
+20多世纪后，一位名叫萨维奇（Savage）的美国医生兼传教士前往西非传教。1847年，他从西非返回美国，带来了某种类似巨人的动物的骨头。他与一名同事给这种动物起了个拉丁学名叫做Troglodytes gorilla，Troglodytes 是“穴居人”的意思，而gorilla即来源于汉诺的叙述。英语单词gorilla（大猩猩）就来自拉丁语gorilla。
+
+看到这里，很多人也许会想到，汉诺等人发现的野人可能就是大猩猩。不过，也有人根据这些野人被捕获后还有机会又撕又咬的事实推测，它们可能是体型较小的黑猩猩（**chimpanzee**），而非我们原先认为的大猩猩。
+
+- **gorilla**：[gə'rɪlə] n.大猩猩
+- **chimpanzee**：[,tʃɪmpæn'zi] n.黑猩猩
+
+
+
+#### guerrilla(游击队) (gorilla的homophone)
+
+guerrilla - guerrilla亦作guerilla，乃西班牙语借词，原为西班牙语guerra 'war'（战争）的指小形式，故其字面义为little war。
+
+该词是1808年拿破仑入侵西班牙之后逐渐流行起来的。西班牙农民拿起武器奋起抗击入侵者，法军只习惯于同正规军作战而不善于应付灵活、分散的小部队出没无常的袭击。
+
+在英军的援助下，西班牙农民终于将入侵者赶出国境。此后guerrilla一词进入了法语，也同时进入了英语。英语把此类非正规部队称作**guerrilla army**（游击队），把他们所进行的战斗称为**guerrilla war**（游击战）。
+
+guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿（1st Duke of Wellington, 1769-1852）1809年发的一份急报上：“I have recommended to the Junta to set the Guerillas to work towards Madrid.”（我已经向政务会提出建议，命令游击队员向马德里推进。）
+
+- A small band of guerrillas blew up a train in the mountains. 一小队游击队员在山中炸毁了一列火车。
+- Guerilla warfare has been escalating in this area. (LLA) 该地区游击战一直在升级。
+- Two Japanese officers were taken prisoner by the guerrillas. 两名日本军官被游击队俘虏了。
+- Ten years of guerrilla resistance followed the occupation. (OCD) （该国家／地区）被占领之后，（抵抗组织）进行了长达十年的游击斗争。
+
+**词源说明(童理民)**  
+
+1 - 词源同 war,战争，-illa,小词后缀。
+
+**摩西英语(摩西)**
+
+印欧语w音，日耳曼人用w表示；罗曼语族（包括后来诺曼征服的人）念起来比较费劲，而且他们的语言里没有w字母，用gu表示这个w音（后期更是简化为g）音。如：
+
+- guard和warden
+- waranty和guaranty
+- warrior和guerrilla
+- guise和wise等。
+
+两种形式在不同时期通过不同途径进入英语并保留到现在。
+
 
 
 ## reptile 爬行动物
