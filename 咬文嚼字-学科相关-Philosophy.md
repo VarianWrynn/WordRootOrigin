@@ -242,8 +242,12 @@ Martin
 
 与**yoga**同源的单词还有**yoke**（轭）、**jugular**（颈部的）
 
-- yoga：['jəʊgə] n.瑜伽
-- yoke：[jəʊk] n.轭，束缚v.结合，上轭
-- jugular：['dʒʌgjʊlə] 
+- **yoga**：['jəʊgə] n.瑜伽
+- **yoke**：[jəʊk] n.轭，束缚v.结合，上轭
+- **jugular**：['dʒʌgjʊlə] 
   - adj.颈部的，咽喉的，颈静脉的
   - n.颈静脉
+
+- (区分）**yogurt**【ˈjoʊɡərt】n. 酸乳酪 (来自土耳其语。)
+
+
