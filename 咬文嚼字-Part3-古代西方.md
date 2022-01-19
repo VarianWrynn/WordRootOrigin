@@ -895,11 +895,7 @@ The plastic bristles on this broom are easy to clean. (CWR) 这把扫帚上的�
   - vt.熏，冒烟，愤怒的说
   - vi.冒烟，发怒
 
-
-
 ### die v.s dice
-
-
 
 1.die [daɪ] v.死亡；凋零；熄灭，n.冲模；骰子（其它词源）。
 
@@ -917,3 +913,20 @@ die的词源说明：
 
 1 - 来自 PIE*dheu,离开，死亡，词源同 dead,death.
 2 - 来自拉丁语 datum,给予，词源同 date,donate.原指掷骰子，后指骰子。
+
+
+
+### Phonogram(英)= Record Player(美)
+
+> n. 留声机
+> 推荐：
+> gram-写 + -o- + phone-声音 → 写下声音 → 留声机。
+> **`gram-`** = write, 表示“写，图”。源自希腊语 graphein "to scratch, draw, write," gramma "a picture, written letter, piece of writing," grame "a line."
+>
+> **`phone`** n. 电话, 受话器, 耳机 vt. 打电话给 vi. 打电话
+
+1877年美国发明家爱迪生（Thomas A. Edison, 1847-1931）发明了留声机，法国人勒努瓦（Lenoir）称其为**phonographe**。该词传入美国后作**phonograph**，并被开始广泛采用，成为留声机的最早名称。
+
+以后，留声机在逐步改进的过程中又先后被赋予graphophone，phonogram和gramophone等商品名称，其中以gramophone使用最为广泛。**gramophone**原为商标名。1887年美国发明家伯林纳（Emil Berliner, 1851-1929）发明了唱片录音系统，对爱迪生的留声机作了重大改进。他将早先指“留声机”的**phonogram**一词倒置，杜撰了**gramophone**作为改进后的留声机的注册商标。该词很快地就成了留声机的属名。
+
+但到了20世纪50年代中期在美国又逐渐为**record player**一词所取代，现在主要用于英国英语。
