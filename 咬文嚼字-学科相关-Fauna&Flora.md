@@ -424,6 +424,21 @@ Some interesting information for those of you who are gluten-intolerant or have 
 
 
 
+### millet 稷, 粟, 黍
+
+>  来自拉丁语 milium,黍类，粟，词源同 mill,mallet
+
+| Column1                                                      | Column2                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./images/image-20220120165730740.png" alt="image-20220120165730740" style="zoom: 43%;" />[Pearl millet](https://en.wikipedia.org/wiki/Pearl_millet) in the field | <img src="./images/image-20220120170126790.png" alt="image-20220120170126790" style="zoom:50%;" />[Finger millet](https://en.wikipedia.org/wiki/Eleusine_coracana) in the field |
+| <img src="./images/image-20220120170439378.png" alt="image-20220120170439378" style="zoom:50%;" /><br />Ripe head of [proso millet](https://en.wikipedia.org/wiki/Proso_millet) | <img src="./images/image-20220120170719106.png" alt="image-20220120170719106" style="zoom:50%;" /> [Sprouting](https://en.wikipedia.org/wiki/Sprouting) millet plants |
+|                                                              |                                                              |
+|                                                              |                                                              |
+
+
+
+**[Millets](https://en.wikipedia.org/wiki/Millet)** ([/ˈmɪlɪts/](https://en.wikipedia.org/wiki/Help:IPA/English))[[1\]](https://en.wikipedia.org/wiki/Millet#cite_note-Oxford_Dictionaries-1) are a group of highly variable small-seeded [grasses](https://en.wikipedia.org/wiki/Grasses), widely grown around the world as [cereal](https://en.wikipedia.org/wiki/Cereal) [crops](https://en.wikipedia.org/wiki/Crops) or grains for [fodder](https://en.wikipedia.org/wiki/Fodder) and human food. Most species generally referred to as millets belong to the tribe [Paniceae](https://en.wikipedia.org/wiki/Paniceae), but some millets also belong to various other taxa.
+
 
 
 ## 水果
