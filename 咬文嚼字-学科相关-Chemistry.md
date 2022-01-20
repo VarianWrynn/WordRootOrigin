@@ -353,3 +353,26 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 - **aromatize**：[ə'rəʊmətaɪz] vt. 使芳香；薰以香气
 - **aroma therapy**：n.芬香疗法
 
+
+
+### 5. toxic（有毒的）：古希腊人用水松木制造的毒箭
+
+古希腊人用水松木制造弓箭，并根据水松木的名称将弓箭称为toxon。
+
+希腊语toxon的形容词是toxikon，意思是“与toxon（弓箭）相关的”。由于水松木有毒，用水松木制造的弓箭也有毒，因此toxikon一词衍生出“有毒”的含义。
+
+该词经由拉丁语进入英语后，产生了英语单词toxic，原本与弓箭有关的含义已经消失，光剩下了“有毒的”含义。
+
+- **toxic**：['tɒksɪk] adj.有毒的，中毒的
+- **toxicant**：['tɒksɪk(ə)nt]0
+  - n.有毒物，毒药
+  - adj.有毒的
+- **toxication**：[,tɒksɪ'keɪʃən] n.中毒
+- **intoxicate**：[ɪn'tɒksɪkeɪt] 
+  - vt.使中毒，使陶醉，使喝醉
+  - vi.醉，陶醉
+- **intoxicating**：[ɪn'tɒksɪ,keɪtɪŋ] adj.醉人的，令人陶醉的，使兴奋的
+- **intoxication**：[ɪn,tɒksɪ'keɪʃn] n.中毒，陶醉，喝醉
+- The young are permanently in a state of resembling intoxication.年轻人永远处在一种陶醉的状态中。
+- Intoxication interferes with memory and thinking, speech and coordination. 醉酒影响记忆、思考、语言与协调性。
+  
