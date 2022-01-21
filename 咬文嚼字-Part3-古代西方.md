@@ -968,6 +968,6 @@ die的词源说明：
 
 英语单词lottery（彩票）就来自意大利语lotteria（彩票），而意大利语lotteria来自lotto，本意就是“a lot”。lot来自古英语hlot，是用来摇奖或抽签的工具。
 
-lottery： ['lɒt(ə)rɪ] n.彩票，抽奖
-lotto：['lɑto] n. 乐透型彩票，猜号码的游戏
+- **lottery**： ['lɒt(ə)rɪ] n.彩票，抽奖
+- **lotto**：['lɑto] n. 乐透型彩票，猜号码的游戏
 
