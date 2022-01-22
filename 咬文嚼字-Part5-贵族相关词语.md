@@ -200,6 +200,81 @@ king来自古英语cyning，与单词**`cynn`**（kin，家族，种族）相关
 
 
 
+### queen（王后）：国王的妻子
+
+> 来自古英语 cwen,女人，妻子，王后，女王，来自 PIE*gwen,女人，通常指比较高贵出身的女人，词源同 gynecology,gynarch.
+
+> queen在古英语的词形为cwēn，原义是“妻子”、“女人”，以后词义升格为“王后”、“女王”。在词源上它与医学术语gynaecology（妇科），gynaecologist（妇科医生）有亲缘关系，其中前缀gynaeco-源于希腊语gunē，意思就是“女性”或“女人”。这个前缀和queen都可一直追溯至印欧词根gwen（女人）。
+
+英语单词**queen**常常被译为“王后”或“女王”。该单词来自古英语***cwen***，原本仅仅表示“妻子”，专指“国王的妻子”，因此衍生出“王后”的含义。
+
+后来，由于在英国历史上，曾经有女性担任国家元首即“女王”一职，而英语中又没有与king（国王）对应的阴性词，因此女性国家元首也被称为**queen**，该词也就产生了“女王”的含义。
+
+在印欧语系中，只有英语和北欧语言等少数语言缺乏与“国王”对应的阴性词。
+
+在需要严格区分时，英语通过以下词组来区分与queen相关的各种头衔：
+
+- **queen regnant**（女王）：执掌政权的女性君主。
+
+- **queen consort**（王后）：男性君主的妻子，**consort**表示“配偶”
+
+  >  (**`con-`**共同 + **`sort`**【种类】 → 同类相聚 → 结交。)
+
+- **queen regent**（摄政太后）：未成年君主的母亲，临时执掌政权。
+
+有意思的是，国王的妻子被称为**queen consort**，虽然不执掌权力，但享有与国王一样的待遇和级别，而女王的丈夫却很少被称为**king consort**，而是被称为**prince consort**，对应中文是“亲王”，所享受的待遇和级别都比女王低。这和中国的“驸马”地位低于公主一样。
+
+- **queen**：[kwiːn] 
+  - n.王后，女王，皇后，蜂后
+  - vt.使……成为女王或王后
+  - vi.做女王
+- **queenly**：['kwinli] 
+  - adj. 女王的，王后的；高贵的
+  - adv. 似女王地
+
+
+
+**摩西英语(摩西)**
+
+1.**queen consort** 王后，是王、国王正妻的头衔，当君主不能称为皇帝或其他相当头衔时，其正室只能称为王后而不能称皇后，有些甚至只能称更次一等的王妃。consort n.配偶；伴侣，词根是ser,sor,sort，意思是连接（成线）、依附，所以consort的哲学含义就是partner of the same lot。同记consortium n.财团。
+
+2.**queen regnant **女王，即女性的君主或国王，君主制国家中的君主为女性时，她通常被称为女王。女王拥有政治上的统治权力，但是女王的丈夫通常无法分享她妻子的位阶，头衔或是权力。**regnant**的词根**reg**表统治、管理、使保持直。比如图片中的埃及艳后**Cleopatra**克利奥帕特拉七世和现在英国女王伊丽莎白二世。
+
+3.**queen** [kwiːn] n.女王；王后，vt. 使…成为女王或王后，其实也不是很了不起。词源角度讲，queen只是王（king）的女人。比较一个类似单词吧：**quean** [kwiːn] n. 妓女；轻佻女人。根据格林定律，这个queen与希腊词根gyn-同源，gyn-表女人，如**polygyny** [pə'lɪdʒɪnɪ] n.一夫多妻。
+
+
+
+## 男人与女人（希腊词根）
+
+### 1. **`gynec-`** /  **`gyn-`** = woman, 表示“妇女”。源自希腊语 gune "woman."{18}
+
+> queen在古英语的词形为cwēn，原义是“妻子”、“女人”，以后词义升格为“王后”、“女王”。在词源上它与医学术语gynaecology（妇科），gynaecologist（妇科医生）有亲缘关系，其中前缀gynaeco-源于希腊语gunē，意思就是“女性”或“女人”。这个前缀和queen都可一直追溯至印欧词根gwen（女人）。
+
+| 单词                                                         | 解释                                                         | 单词                                | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
+| **mis-o-gyny**                  <br />【mɪˈsɑdʒəni】         | n. 厌恶女人；厌女症[癖]  <br />Misogyny is a strong dislike of women.<br/><img src="./images/image-20211119133301795.png" alt="image-20211119133301795" style="zoom:50%;" /><br />**`miso-`**坏的，错的，不好的 + -**`gyny`**, 妇女 | **philo-gyny **<br />【fɪ'lɒdʒənɪ】 | ~~对女子的喜欢，对女子的爱慕~~ **舔狗**<br />A positive and admiring attitude toward women in general <br /><img src="./images/image-20220122145055988.png" alt="image-20220122145055988" style="zoom: 67%;" /><br />**`philo-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`gyny-`** = woman, 表示“妇女”。源自希腊语 gune "woman." |
+| **gynec-o-logy**                           <br />【ˌgaɪnəˈkɑlədʒi】 | n. 妇科学<br/>gynaeco-女人 + logy学，学科。<br/>**`gyneco-`** = woman, 表示“妇女”。源自希腊语 gune "woman."<br/>**`-logy`** = science, 表示“科学，学科”，由词根 log-, 说，引申而来<br />the branch of medicine that deals with the diseases and hygiene of women<br /><br />**\* gynaecologist (*Australia, UK* )**<br />**\* gynecologist (*US*)** | gyneco-logist                       | 妇科医生                                                     |
+| gynaeco-cracy<br />【ˌdʒɪnɪ'kɒkrəsɪ】                        | 妇人政治；女权政治<br />government by women or by a single woman 女性统治; 妇女当政 (Also called gynarchy) | gynec-oid                           | 有妇女特性的                                                 |
+| gynec-ian                                                    | 妇女的，妇人的                                               | gyn-iatr-ics                        | 妇科疗法                                                     |
+| gyn-andr-ous                                                 | 雌雄两蕊合生的                                               | gynoec-ium                          | 雌蕊，雌蕊群                                                 |
+|                                                              |                                                              | philo-gyn-ous                       | 爱好女人的                                                   |
+| poly-gyny                                                    | 一夫多妻                                                     | poly-gyn-ous                        | 一夫多妻的，多花柱的                                         |
+| mono-gyn-ous                                                 | 一妻制的                                                     |                                     |                                                              |
+
+
+
+
+
+### 2. **`andr-`** = male, man, 表示“男人”。源自希腊语 aner (词干 andr-) "man."{17}
+
+| 单词                                   | 解释                                                         | 打你                                     | 解释                                                         |
+| -------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------ |
+| **gyn∙andr∙ous** <br />【dʒɪ'nændrəs】 | **`gyn-`** = woman, 表示“妇女”。源自希腊语 gune "woman."<br/>**`andr-`** = male, man, 表示“男人”。源自希腊语 aner (词干 andr-) "man."<br/>**`-ous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br />(of flowers such as the orchid) having the stamens and styles united in a column | **mon∙andr∙ous**    <br />【məˈnændrəs】 | **`mon-`** 表示“单个，一个”。源自希腊语 monos "alone, single, sole."<br/>**`andr-`** = male, man, 表示“男人”。源自希腊语 aner (词干 andr-) "man."<br/>**`-ous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br />（卵孢子）单雄受精的，具单一雄蕊的having only one husband at a time |
+|                                        |                                                              |                                          |                                                              |
+|                                        |                                                              |                                          |                                                              |
+
+
+
 ## Your Majesty
 
 
@@ -603,7 +678,9 @@ So – does ignorance prevent this from being an example of normalized misogyny?
 n. 厌恶女人；厌女症[癖]  Misogyny is a strong dislike of women.
 **`miso-`**坏的，错的，不好的 + -**`gyny`**, 妇女
 
-<img src="./images/image-20211119133301795.png" alt="image-20211119133301795" style="zoom:50%;" />
+<img src="./images/image-20211119133301795.png" alt="image-20211119133301795" style="zoom:50%;" /> 
+
+
 
 **Reference:**
 
