@@ -23,7 +23,7 @@
 | **stego-saur-us**<br />【ˌsteɡə'sɔrəs】                      | 剑龙<br /><img src="./images/image-20211206151533926.png" alt="image-20211206151533926" style="zoom: 67%;" /> | **tyranno-saur-us**<br />【tɪˌrænə'sɔrəs】              | 暴龙<br /><img src="./images/image-20211206151658404.png" alt="image-20211206151658404" style="zoom:33%;" /> |
 | **ankylo-saur**                           <br />【ˈæŋkɪləsɔːr】 | **`ankylo-`** <br/>表示“弯曲、僵硬、粘连”。源自希腊语 ankulos "crooked, bent."<br />甲龙(食草恐龙，全身披甲)<br /><img src="./images/image-20211206150130465.png" alt="image-20211206150130465" style="zoom: 50%;" /> | **psitaco-saurus**         <br />【psit·ta·co·sau·rus】 | **`psittaco-`** <br/>= parrot, 表示“鹦鹉”。源自希腊语 psittakos "a parrot."<br />鹦鹉嘴龙<br /><img src="./images/image-20211206145829359.png" alt="image-20211206145829359" style="zoom: 39%;" /> |
 
-### Dinosaure(恐龙)：令人恐怖的蜥蜴
+### 1. Dinosaure(恐龙)：令人恐怖的蜥蜴
 
 恐龙（**dinosaur**）这名字最早为英国古生物学家欧文（[Sir Richard Owen](https://en.wikipedia.org/wiki/Richard_Owen), 1804-1892）在1842年创造，由希腊语**`deinos`**（恐怖的）和**`sauros`**（蜥蜴）组合而成，字面意思就是“令人恐怖的蜥蜴”。
 
@@ -52,6 +52,40 @@
 - The old car was a gas-guzzling dinosaur and we had to get rid of it. (CAE) 这辆旧车是油老虎，我们不得不把它处理掉。
 
 - The typewriter's a bit of a dinosaur (= very old-fashioned), isn't it? (CID) 这台打字机该进博物馆了，对不对？
+
+
+
+### 2. Thesaurus 知识的宝库
+
+> 来自拉丁语 thesauras,仓库，储藏室，来自希腊语 thesauros,仓库，储藏室，来自 PIE*dhe,做，放置，词源同 do,fact,thesis.后 19 世纪词典编纂学家借用该拉丁词来命名同义词词典，最终引申该词义。
+
+**thesaurus** - 19世纪直接借自拉丁语，源于希腊语***thēsaurós***，本义为**treasure**（财宝）或**treasure house**（宝库）。
+
+- 在凯撒（Julius Caesar, 100-44 BC）时代，当**thesaurus**进入拉丁语时，它喻指**storehouse of knowledge**（知识宝库）；
+- 在文艺复兴时期，它成了几部大型希腊语、拉丁语辞书的书名；
+- 到了近代，在不太严格的意义上，它又常被作为“词典”、“词语汇编”（**lexicon**）甚至“百科全书”的同义词使用，有时也指某一学科如音乐、医学等的词汇选编。
+- 但在今天，对大多数人来说，**thesaurus**意指“类属词典”或“同类词汇编”，不论是按类属排列的还是按字母排列的。
+
+此义是英国医师、语言学者罗热（Peter Mark Roget, 1779-1869）首先使用的，并首次体现于他编纂的《英语词语类属词典》（**Thesaurus of English Words and Phrases**）。该词典按概念领域对词语进行分类，其编纂目的，正如他本人所说的，是“为表达思想提供便利，为文学创作提供帮助”。自1852年问世以来它几经修订和扩充，但直到今天依然经久不衰。
+
+英语的另一个词**treasure**（财宝）和**thesaurus**有亲缘关系，它可以说间接源自**thesaurus**这个拉丁语借词，其终极词源也是希腊语***thēsaurós***，但它转道法语***trésor***，所以演变为**treasure**这一形式，于12世纪进入英语。
+
+例
+
+- You should keep a thesaurus right next to your dictionary. (FWF) 你应该在词典旁边放一本分类词典。
+- He referred to his thesaurus to find some synonyms for "nice". 他在同义词词典里查找nice的一些同义词。
+
+
+
+**摩西英语(摩西)**
+
+**thesaurus [θɪ'sɔːrəs]** n.宝库；辞典；知识宝库。
+
+古希腊语里本意是库房，希腊词根the-表to put，与拉丁词根fac-表to do,to make和日耳曼词源的do同源，后半部分词源不明。
+
+但我曲解它为**the**+**saurus**吧，**saurus**本意是蜥蜴，希腊小伙伴们被恐龙化石吓坏了，称之为**dinosaurus**，意思为“可怕的蜥蜴”。 
+
+<img src="F:\Lee\Githubs\1WordRootOrigin\images\image-20220122165219319.png" alt="image-20220122165219319" style="zoom:80%;" /> 
 
 
 
