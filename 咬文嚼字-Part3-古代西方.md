@@ -286,42 +286,6 @@ anim-（生命）：代表生命之源的灵魂
 
 ## 称呼与职业
 
-### magic （拜火教祭司）
-
-
-
-拜火教是流行于古代波斯（今伊朗）及中亚等地的宗教，中国史称祆教，正式名称是琐罗亚斯德教，其创始人为伊朗先知琐罗亚斯德（**Zarathushtra**，又译查拉图斯特拉）。拜火教是基督教诞生之前中东和西亚最有影响的宗教，古代波斯帝国的国教，该教认为阿胡拉·马兹达（意为“智慧之主”）是最高主神，马兹达创造了物质世界，也创造了火，即“无限的光明”。该教以崇拜火而闻名，故得名“拜火教”。
-
-![image-20210823091411325](./images/image-20210823091411325.png)
-
-拜火教的出现，对后来的犹太教、基督教、伊斯兰教，都有深远的影响。在基督教尚未成为罗马国教之前，罗马国内流行的摩尼教就是该教的一个分支。佛祖释迦牟尼悟道后招收的第一批弟子就有拜火教教徒。
-
-拜火教的祭司在古波斯语被称为magush，希腊语中被称为magos，拉丁语中被称为magus，复数形式为magi，意思是“哲人”、“贤人”、“知晓神之奥秘的人”。据《圣经》记载，耶稣出生时，三位magi在东方看见伯利恒方向的天空上有一颗大星，于是便跟着它来到了耶稣基督的出生地，并给耶稣带来了礼物，这就是圣诞礼物的由来。
-
-<img src="./images/image-20210823091327407.png" alt="image-20210823091327407" style="zoom:67%;" />
-
-美国著名文学家欧·亨利写的短篇小说《麦琪的礼物》（*The Gift of the Magi*）中，就用了这个典故。里面的Magi并非小说中的人物，而是拜火教祭司。*The Gift of the Magi*意思就是“圣诞礼物”。
-
-<img src="./images/image-20210823091213792.png" alt="image-20210823091213792" style="zoom:67%;" />
-
-英语单词**magic**（不可思议的，神奇的；魔术、魔法）就派生自**magi**（拜火教祭司），字面意思是“**magi**的”。古人认为**magi**（拜火教祭司）拥有深奥秘密和超能力，所以就用magic来形容巫术、魔法等神奇的事情。
-
->  比如：What magic drug have you taken to recover so quickly? 你吃什么灵丹妙药，好得这样快？
-
-单词magical衍生自**magic**（魔术、魔法），后面多了一个形容词后缀，意思是“魔术的，魔法的”。做形容词时，**magic**和**magical**的含义差不多，都可以表示“有魔力的，神奇的”，区别在于，magic通常取其本意，而magical常取其引申含义，形容某人某物是“迷人的、美妙的”。如**a magic bed**的意思是“魔法床”，而**a magical bed**的意思则是“神奇的床”。
-
->  再比如，The beautiful island of Cyprus is a magical place to get married. 美丽的塞浦路斯岛是缔结良缘的美妙之地。
-
-衍生自magic（魔术、魔法）的单词还有magician，后缀-ian表示某种人，所以magician的意思就是魔术师或魔法师。
-
-- **magic**：['mædʒɪk] adj.不可思议的，神奇的，有魔力的，魔术的n.魔法，巫术，魔
-- **magical**：['mædʒɪk(ə)l] adj.魔术的，有魔力的，神奇的
-- **magician**：[mə'dʒɪʃ(ə)n] n.魔术师，魔法师，巫师
-
-
-
-引用： [词源趣谈：magic——神奇的拜火教祭司--钱磊博士](https://mp.weixin.qq.com/s/4U8Py1gjj_yIkYF4ujrqUQ)
-
 
 
 ### Actuary（精算师）
@@ -673,6 +637,159 @@ a. 绯红色的, 鲜红色的
     - a wry comedy about family life  关于家庭生活的讽刺喜剧
     -  a wry comment 挖苦的评论
     - wry humour  冷嘲式的幽默
+
+
+
+
+
+### Jack  专栏
+
+#### 千斤顶的男人
+
+> 来自人名Jack , 代指各种叫不出名字的人或物，如千斤顶，插座等。扑克J来自人名Jack , 骑士，武士。
+
+n. 插座, 千斤顶, 男人
+vt. 抬起, 提醒, 扛举, 增加, 提高, 放弃
+a. 雄的
+
+词源说明(童理民)  
+1 - 常见人名，来自古法语 Jacques,来自拉丁语 Jacobus,即圣经人物 Jacob.后该人名被极大的通用化，代指各种叫不出名字的人或物，类似于中国的张三李四。
+
+
+
+#### Jack in the box 玩偶盒 
+
+盒子，有盖，打开，冷不丁一个玩偶小丑跳出来吓一跳，这就是Jack in the box。为啥叫Jack呢，因为Jack在英语里泛指普通人（Jack是常见男子名John的衍生形式）。为啥是小丑呢？因为小丑脸涂成了白色，象死人。不过确切说，跳出来的是auguste [au'ɡu:st] n.笨拙型马戏团小丑。
+
+
+
+#### Union Jack英国国旗。
+
+Union好理解，因为英国的全称是“大不列颠及北爱尔兰联合王国”，国旗实际是英格兰主保圣人圣乔治、苏格兰主保圣人圣安德鲁和爱尔兰主保圣人圣帕特里克三面旗帜的古代photoshop版本。而Jack本身就有类似于比如千斤顶那样的寻常机械装置的含义，因为航行时船头需悬挂国旗表明身份。
+
+
+
+#### jack-of-all-trades  万事通先生
+
+早在17世纪初，Jack of all trades一语就已见诸使用。最初此语确如字面所表示的那样，是指掌握多种技能，样样都会的“百业巧匠”，是个褒义词语。其中Jack原为英语中最普通的人名之一，并不指某个特定的人，只是用来泛指“（普通）人”，如谚语Every Jack has his Jill（人各有偶），Jack的首字母还可改为小写，而trade则指“业”，即“职业”之意。但过了约一个世纪之后，随着各行各业更趋于专业化，这类人的缺点日益凸显出来，此语也逐渐蒙上了一层贬义。到了19世纪Jack of all trades后面往往加上了(and) master of none，意义也就完全被贬降了，就成了“万事皆通，一无所长”。今天尽管我们在用时常常把(and) master of none这部分省略掉，但仍然多用于贬义，相当于汉语“博而不精的人”、“三脚猫”或“万事通”，而且往往把整个短语变成一个复合名词来用，即Jack-of-all-trades。
+
+例　He can do carpentering, decorating, a bit of plumbing and so on — he's a jack-of-all-trades. 他会干木工活，会搞装潢，检修管道也懂一点——他是个多面手。
+
+A mother has to be a jack-of-all-trades — cook, nurse, teacher, sports coach and lots more! (CID) 做母亲的必须什么都懂一点——做饭、护理、当老师、当体育教练等等，等等。
+
+My dad is a real Jack-of-all-trades — he can turn his hand to anything from plumbing to gardening. (TGE) 我爹是个真正的万事通——从检修管道到栽培植物，样样都略懂一点。
+
+英英  
+n.
+1 . somebody who can do many types of work 
+
+
+
+#### jilt  抛弃情人者 (Jackson?)
+
+n. 抛弃情人者
+vt. 抛弃
+
+1 - 词源不详，可能来自 Jill,常见女性名字，词义贬义化，用于指荡妇，浪荡女子，妓女，玩弄男人的女人，后引申词义抛弃，甩掉。
+
+英英  
+n.1 . somebody who abruptly breaks off a romantic or sexual relationship with somebody else 
+v.
+
+1 . to abruptly break off a romantic or sexual relationship with somebody 
+2 . to tell someone that you want to end your romantic relationship with them 
+
+
+
+#### jackanape  那不勒斯的杰克
+
+> 来自 Jack of Naples,字面意思即那不勒斯的杰克，代指粗鲁无礼的人或猴子。
+
+jackanapes - jackanape 古义为“猿”或“猴”，原系英格兰东南部东海岸萨福克郡（**Suffolk**）的第一公爵William de la Pole (1396-1450)的绰号。
+
+虽然这位公爵是一位很有权势和地位的人，但人们对他的调侃和奚落从未中止过。这主要是因为他的家族是英国最早从商人阶层晋升为贵族阶层的一批人，被当时看重出身血统的英国人讽刺为“暴发户新贵”，就像一只被绳子拴着的猴子一样招人耻笑。
+
+15世纪时**Jack**一词在英格兰常用以指“养驯的公猿”，和**ape**（猿）一词连用，类似于**jackass**（公驴）。这位公爵的盾形纹章（coat of arms）上有用来驯猿的坠子及链条的图案。
+
+因此，1450年当他被其政敌以叛逆罪处死之后，他先是被戏称为the Ape-clogge（猿坠），继而又得了Jacknapes（亦作Jack Napes）这一绰号，jackanapes一词即为其变体。该绰号的本义是**Jack of the ape**，但也有人把其中Napes与Naples相联系，把jackanapes解释为**monkey imported from Naples**（从那不勒斯进口的猿），可能是因为当时很多宠物猿都是从Naples进口的。
+
+到了16世纪**jackanapes**由专有名词转化为普通名词，表示“猿”或“猴”，最后又被用以喻指“自大而鲁莽的人”或“淘气孩子”，但该词如今已用得不多。
+
+- Come here, you young jackanapes! 过来，你这个小淘气鬼！
+
+
+
+#### jackboot : 长筒(军)靴 => 暴政
+
+1 - jack,代称，boot,靴子。用来指军靴，长筒靴，比喻义蹂躏，暴政。
+
+英英  
+n.
+1 . a sturdy long black leather boot that comes up to , or over , the knee , worn especially by the military in Nazi Germany 
+2 . military or other rule that is characterized by cruelty , oppression , or arbitrary aggression 
+3 . a heavy boot of hard leather worn for riding 
+4 . a heavy military boot that covers the bottom part of your leg up to the knee and is made of thick leather 
+
+
+
+#### jackal 豺狼
+
+> 词源说明(童理民)  : 来自土耳其语 cakal,来自波斯语 shaghal,来自梵语 srgala-s,狼嚎，嚎叫，可能来自拟声词。
+
+jackal - 长期以来，人们在词源上一直把jackal和jack相联系，可能是因为jackal既指“豺”，也喻指“走狗”，而jack则可指“人”、“仆人”等，见于
+
+- jack-in-office（神气活现的小职员）
+- jack-of-all-trades（杂而不精的人）
+- jack tar（水手）
+
+等词语。究其根源，**jackal**实源自波斯语shagāl/shaghāl，从土耳其语chakāl演变而来。其他一些语言也借用了这个词，如法语作chacal，德语作Schakal。
+
+- Now and again the jackals howled. (CCE) 那几只豺不时凄厉地长嚎。
+- Jackals swarmed around the dying animals. (NED) 豺麇集在垂死的动物周围。
+
+
+
+#### Jackdaw 寒鸦
+
+<img src="./images/image-20220124162421023.png" alt="image-20220124162421023" style="zoom: 50%;" /> 
+
+词源说明(童理民)  
+1 - jack,代称，daw,乌鸦，拟声词，模仿其叫声。
+
+英英  
+n.
+1 . a medium - sized noisy bird of the crow family known for stealing things , especially shiny objects . 
+2 . a bird with a black head and a grey body that steals shiny objects . It is a type of crow . 
+
+
+
+#### jack-o'-latern
+
+<img src="./images/image-20220124162625366.png" alt="image-20220124162625366" style="zoom:67%;" /> 
+
+n. 鬼火, 空心南瓜灯
+
+词源说明(童理民)  
+
+1 - jack,代称，lantern,灯笼。字面意思即 Jack 的灯笼，来自 will-o-the-wisp 的别称，鬼火。后来用于指万圣节鬼灯，即将大南瓜，萝卜或葫芦等掏空，并在表皮上雕刻面目狰狞的鬼脸，然后放进蜡烛点灯，因南瓜比较常用，所以也称为南瓜灯。
+
+
+
+#### Jack-o-dandy
+
+<img src="./images/image-20220124162940429.png" alt="image-20220124162940429" style="zoom:80%;" /> 
+
+n. 花花公子
+a. 服装浮华的, 极好的
+
+推荐：
+词源不详，可能来自Andrew的昵称，用来指好打扮的男人。比较gussy。
+
+
+
+**Reference:**
+
+1. [The Man in the Pink Suit- A cultural history of the dandy.](https://slate.com/culture/2013/05/history-of-the-dandy-liberace-gatsby-david-bowie-and-other-peacocks.html)
 
 
 

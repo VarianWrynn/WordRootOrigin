@@ -718,6 +718,63 @@ mass - 英语里有两个mass。
 
 
 
+### 9. apparition（幽灵）：耶稣基督以婴儿形态诞生
+
+> **`epi-`** 表示“在…上，在…周围，在…后面”。源自希腊语 epi "on, over, at."
+> **`phany-`** = show, 表示“显示”。源自希腊语 phainein "to bring to light."
+
+英语单词**apparition**来自拉丁语***apparitionem***，是动词**apparere**（appear，显现）的过去分词动名词形式，本意就是“显现”。
+
+这个词最初用于宗教场合，表示“基督显现”，即耶稣基督以婴儿的形态诞生。据《圣经•新约》记载，耶稣诞生时，东方三博士在观星时发现异象，便一路向西前来拜见“犹太人的王”，最后见到了刚出世的耶稣，向他献上了三件宝物为礼。
+
+为了纪念耶稣基督的显现，基督教徒将耶稣诞生之日定为“主显节”（**Epiphany**）。单词**epiphany**的本意和**apparition**一样，都表示“基督显现”，但常常用来表示“主显节”。而**apparition**一词的宗教色彩逐渐消退，常常用来表示幽灵鬼怪的显现。
+
+- **apparition**：[,æpə'rɪʃən] n.幽灵，幻影，离奇出现的东西 
+- **epiphany**：[ɪ'pɪfəni] n.主显节，显现
+
+词源说明(童理民)  
+1 - epi-,在上，在中，-phan,显现，词源同 photo,phantasm.
+
+> 塞琉古帝国有一个暴君，Antiochus IV，自称Epiphanes，希腊文的“神灵显现”，自诩与神同等，但他的部下却称他Epimanes，“疯子”。
+
+
+
+
+
+### 10. magic （拜火教祭司）
+
+拜火教是流行于古代波斯（今伊朗）及中亚等地的宗教，中国史称祆教，正式名称是琐罗亚斯德教，其创始人为伊朗先知琐罗亚斯德（**Zarathushtra**，又译查拉图斯特拉）。拜火教是基督教诞生之前中东和西亚最有影响的宗教，古代波斯帝国的国教，该教认为阿胡拉·马兹达（意为“智慧之主”）是最高主神，马兹达创造了物质世界，也创造了火，即“无限的光明”。该教以崇拜火而闻名，故得名“拜火教”。
+
+<img src="F:\Lee\Githubs\1WordRootOrigin\images\image-20210823091411325.png" alt="image-20210823091411325" style="zoom: 67%;" /> 
+
+拜火教的出现，对后来的犹太教、基督教、伊斯兰教，都有深远的影响。在基督教尚未成为罗马国教之前，罗马国内流行的摩尼教就是该教的一个分支。佛祖释迦牟尼悟道后招收的第一批弟子就有拜火教教徒。
+
+拜火教的祭司在古波斯语被称为magush，希腊语中被称为magos，拉丁语中被称为magus，复数形式为magi，意思是“哲人”、“贤人”、“知晓神之奥秘的人”。据《圣经》记载，耶稣出生时，三位**magi**在东方看见伯利恒方向的天空上有一颗大星，于是便跟着它来到了耶稣基督的出生地，并给耶稣带来了礼物，这就是圣诞礼物的由来。
+
+<img src="F:\Lee\Githubs\1WordRootOrigin\images\image-20210823091327407.png" alt="image-20210823091327407" style="zoom: 67%;" /> 
+
+美国著名文学家欧·亨利写的短篇小说《麦琪的礼物》（*The Gift of the Magi*）中，就用了这个典故。里面的Magi并非小说中的人物，而是拜火教祭司。*The Gift of the Magi*意思就是“圣诞礼物”。
+
+<img src="F:\Lee\Githubs\1WordRootOrigin\images\image-20210823091213792.png" alt="image-20210823091213792" style="zoom: 50%;" /> 
+
+英语单词**magic**（不可思议的，神奇的；魔术、魔法）就派生自**magi**（拜火教祭司），字面意思是“**magi**的”。古人认为**magi**（拜火教祭司）拥有深奥秘密和超能力，所以就用magic来形容巫术、魔法等神奇的事情。
+
+>  比如：What magic drug have you taken to recover so quickly? 你吃什么灵丹妙药，好得这样快？
+
+单词magical衍生自**magic**（魔术、魔法），后面多了一个形容词后缀，意思是“魔术的，魔法的”。做形容词时，**magic**和**magical**的含义差不多，都可以表示“有魔力的，神奇的”，区别在于，magic通常取其本意，而magical常取其引申含义，形容某人某物是“迷人的、美妙的”。如**a magic bed**的意思是“魔法床”，而**a magical bed**的意思则是“神奇的床”。
+
+>  再比如，The beautiful island of Cyprus is a magical place to get married. 美丽的塞浦路斯岛是缔结良缘的美妙之地。
+
+衍生自magic（魔术、魔法）的单词还有magician，后缀-ian表示某种人，所以magician的意思就是魔术师或魔法师。
+
+- **magic**：['mædʒɪk] adj.不可思议的，神奇的，有魔力的，魔术的n.魔法，巫术，魔
+- **magical**：['mædʒɪk(ə)l] adj.魔术的，有魔力的，神奇的
+- **magician**：[mə'dʒɪʃ(ə)n] n.魔术师，魔法师，巫师
+
+
+
+引用： [词源趣谈：magic——神奇的拜火教祭司--钱磊博士](https://mp.weixin.qq.com/s/4U8Py1gjj_yIkYF4ujrqUQ)
+
 
 
 ## 文化遗产
