@@ -143,10 +143,10 @@ arbiter和arbitrator同源，在现代都能表示“仲裁人”，区别在于
 
 相关单词：
 
-- arbiter：['ɑːbɪtə] n.仲裁者，裁决人
-- arbitrator：['ɑːbɪtreɪtə] n.仲裁者，公断人
-- arbitrate：['ɑrbɪtret] vt.仲裁，公断
-- arbitrary：['ɑrbətrɛri] adj.独断的，武断的，任意的，专制的
+- **arbiter**：['ɑːbɪtə] n.仲裁者，裁决人
+- **arbitrator**：['ɑːbɪtreɪtə] n.仲裁者，公断人
+- **arbitrate**：['ɑrbɪtret] vt.仲裁，公断
+- **arbitrary**：['ɑrbətrɛri] adj.独断的，武断的，任意的，专制的
 
 
 
