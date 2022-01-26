@@ -445,6 +445,39 @@ vacc-
 
 
 
+### hysteria（歇斯底里）：妇女子宫功能失调导致的情绪失控 {8}
+
+> hyster- = womb，表示“子宫”。古希腊人认为癔病患者多为女性，是由于女性子宫功能紊乱所致。源自希腊语 hustera "womb."
+> -ia 表名词，表示“某种病”。 hyster-子宫 + -ia疾病后缀。在古希腊时期的医学观点认为妇女子宫功能失调导致的情绪失控。
+>
+> hysteria - 早先的医生认为，妇女较之男人更容易情绪激动，而原因则归于子宫机能的失调。他们还认为，因为男人没有子宫，所以癔病只发生于妇女。这一错误看法正是hysterical（歇斯底里的，癔病的）、hysteria（歇斯底里，癔病）和hysterics（歇斯底里发作）这三个词的理据，而且充分反映在它们的词源上。它们始见于19世纪，源自希腊语hysterikós/husterikós 'of the womb'（子宫的），若再往前追溯，则是hystérā（子宫）。
+
+癔病（**hysteria**）又被称为“歇斯底里”，指因为恐惧或其他原因造成的情绪失控。
+
+古代西方医生认为，只有女性才会出现“歇斯底里”的症状，原因在于女性子宫功能失调；男性因为没有子宫，所以不会得癔病。
+
+他们还认为，癔病之所以有各种不同表现，是由于子宫在体内偏离正常位置，到处乱跑造成的。当子宫在体内四处游走，压迫其他器官时，会导致不由自主的恐惧。这种错误的认识，直到十九世纪才被精神学家夏尔科、弗洛伊德等人纠正。
+
+英语单词**hysteria**（癔病）源自希腊语***hysterikos***，字面意思就是“源自子宫的”。词根**`hyster-`**表示“子宫”，如
+
+- **hystera**（子宫）
+- **hysteritis**（子宫炎）。
+- **hysteria**：[hɪ'stɪərɪə] n.癔病，歇斯底里
+- **hysteric**：[hɪ'sterɪk] 
+  - adj.歇斯底里的，癔病的，异常亢奋的
+  - n.癔病患者
+- **hysterical**：[hɪ'sterɪk(ə)l] adj.歇斯底里的，异常亢奋的
+- **hystera**：['hɪstərə] n.子宫
+- **hysteritis**：[,histə'raitis] n.子宫炎
+
+
+
+**摩西英语(摩西)**
+
+ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；胃，与希腊词源的hysteria [hɪ'stɪərɪə] n.歇斯底里的词根hyster-表示子宫同源（希腊人认为子宫异常会使女性精神不正常的兴奋）。后缀-cle指小，所以ventricle的字面意为“small chamber within the heart or bodily organ”。 
+
+
+
 ## rhe-,rrhex,rrhea-= to flow, 表示“流” {35}
 
 古希腊人认为风湿病是由多余的液体流入关节引起韧带肿胀，所以命名为 rheumatism。源自希腊语 rhein "to flow," rheuma "stream, humor of the body."
