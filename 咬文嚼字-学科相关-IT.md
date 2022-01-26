@@ -96,7 +96,7 @@ a. 辅助的, 备用的
 
 
 
-### **gauges【ɡeɪdʒ】**仪表盘
+### gauges【ɡeɪdʒ】仪表盘
 
 > (用仪器)测量;判定，判断(尤指人的感情或态度);估计;估算
 > n. 厚度;测量仪器(或仪表);计量器;宽度;(枪管的)口径
@@ -130,11 +130,21 @@ a. 辅助的, 备用的
 
 > n. 碎屑, 面包屑; 少许<br/>vt. 捏碎, 弄碎<br /><img src="./images/image-20211217154606929.png" alt="image-20211217154606929" style="zoom:50%;" /><br />来自古英语cruma, 面包屑，碎片。可能同crisp, 卷的， 脆的。<br /><br />
 
-在IT界，尤其是网站设计里面，Crumb就是navigator导航栏。根据《Don't make me think》这本书提到，之所以导航栏和面包屑会扯上关系，完全是因为~~安徒生童话~~格林兄弟故事里面那个7个被抛弃的小孩子的故事（《奇幻森林历险记》），最小最聪明的那个小孩子企图通过撒面包屑来找到家，从此Crumb在IT界就成了导航栏的代名词。
+在IT界，尤其是网站设计里面，**[Breadcrumbs](https://vwo.com/blog/why-use-breadcrumbs/)**就是navigator导航栏。根据《Don't make me think》这本书提到，之所以导航栏和面包屑会扯上关系，完全是因为~~安徒生童话~~格林兄弟故事里面那个7个被抛弃的小孩子的故事（《奇幻森林历险记》），最小最聪明的那个小孩子企图通过撒面包屑来找到家，从此Breadcrumb在IT界就成了导航栏的代名词。
+
+> *Breadcrumbs give you orientation and show you exactly where you are on a website.*
+
+<img src="./images/Location-Based-Breadcrumb-1024x349.jpg" alt="Location Based Breadcrumb - Example" style="zoom:80%;" /> 
 
 [格林兄弟写的《奇幻森林历险记》](https://www.sohu.com/a/28468168_128621)（Hansel and Gretel）是另一个广为流传的童话故事，但民间同样也有很多以父母为了生存遗弃孩子为题材的故事。这种主题的故事增多很大可能是受14世纪发生的大饥荒影响，那时候很多家庭为了活命被迫抛弃自己的孩子。而故事《奇幻森林历险记》就是那个时代的产物，与佩罗的《大拇指》（Little Thumb）相比，有过之而无不及。法国童话故事（也就是著名的《大拇指汤姆》（Hop-o’-My-Thumb））讲的就是七个孩子被他们父母遗弃然后在森林里迷路的历险记。其中最小的孩子大拇指无意中听到父母要抛弃他们兄弟的计划，于是在回家的路上撒面包屑做记号，没想到被小鸟吃掉了。
 
 后来他们发现林中有个房子，敲了敲门，希望主人能收留他们并且给他们吃的。食人怪的妻子偷偷让他们进门，为了不让食人怪发现，她试图把他们藏在床底下。可是还是让食人怪发现了，不过他承诺第二天再吃他们。当晚，他们和食人怪的七个女儿一起睡在同一个房间，等他的女儿们熟睡后，大拇指偷偷把他们破旧的帽子和食人怪女儿的金冠换了过来。半夜，食人怪潜进房间在黑暗里摸索他们七个。凭着对帽子的触感，他毫不知情地杀了自己的七个女儿，然后溜回自己的房间。最终，大拇指偷了食人怪有魔法的靴子，利用它发了笔大财，然后他们跑回家和父母团聚，从此一家人幸福地生活在一起。
+
+
+
+**Reference:**
+
+1. [What is Breadcrumb & How It Eases Navigation? Explained with Examples](https://vwo.com/blog/why-use-breadcrumbs/)
 
 
 
@@ -211,6 +221,31 @@ bead的这一词义沿用了好几个世纪。约在公元14世纪，念珠祈�
 
 
 
+
+
+### 8. dispense（豁免）：基督教会发放的特许状
+
+> dis-分开，散开 + pens-悬挂，称量 + -e
+>
+> v. 分发, 分配; 特许, 提供; 配药, 发药
+
+英语单词**dispense**来自拉丁语***dispensare***，是***dispendere***的反复动词形式，由**`dis`**（out）和**`pendere`**（称重）构成，字面意思就是“按重量分发”，因此英语单词**dispense**的本意就是“分发、分配”，并由此派生出**dispenser**（分配者、药剂师、自动售货机）和**dispensary**（药房、诊疗所、防治站）等单词。
+
+然而，在辞典中，dispense还有另一个更加常用的词义，即“豁免、免除”。这个词义是怎么产生的呢？
+
+原来，在中世纪的基督教会中，教会和主教有权分发一种特许状，拥有这种许可的人享有特权，可以做一些原本禁止做的事，或免做一些原本必须要做的事。拉丁语dispendere常被用来表示这种特许状的分发。
+
+由于这种特许状能够“豁免、免除”持有人罪过或责任的，因此dispendere一词也就衍生出“豁免、免除”之意，源自该词的英语单词dispense自然也就继承了这一义项。
+
+- **dispense**：[dɪ'spens] v.分发，分配；豁免，免除
+- **dispensation**：[dɪspen'seɪʃ(ə)n] n. 分配；免除；豁免；天命
+- **dispenser**：[dɪ'spensə] n.分发者，分配者，药剂师，自动售货机
+- **dispensary**：[dɪ'spens(ə)rɪ] n.药房、诊疗所、防治站（分发药品的地方）
+- **dispensable**：[dɪ'spɛnsəbl] adj. 可有可无的；非必要的
+- **indispensable**： ['ɪndɪ'spɛnsəbl] adj. 不可缺少的；绝对必要的；责无旁贷的n. 不可缺少之物；必不可少的人
+
+
+
 ## 教会
 
 ### 1. Christ（基督）：基督教中的“救世主”
@@ -232,7 +267,126 @@ bead的这一词义沿用了好几个世纪。约在公元14世纪，念珠祈�
 
 
 
-### 2. chapel（小教堂）：供奉圣徒马丁斗篷的礼拜堂 
+
+
+### 2. Catholic 普世的教会
+
+**Catholic** - 要了解Catholic的来龙去脉和语义演变，我们有必要先追溯基督教的一段历史。
+
+与佛教、伊斯兰教并称为世界三大宗教的基督教是公元一世纪起源于巴勒斯坦，由耶稣基督创立的。1054年基督教分裂为东西两派，史称东西教会大分裂（**the Great Schism**），形成**Eastern Orthodox Christian Church**（“东派教会”，即“东正教会”）和**Western Roman Christian Church**（“西派教会”，指以罗马教皇为首的基督教西派，自称“公教”，即“天主教”）。
+
+> **schism**【ˈskɪzəm】：
+>
+>  (formal) 分裂；宗派活动；（尤指）教会分裂
+> strong disagreement within an organization, especially a religious one, that makes its members divide into separate groups
+
+16世纪欧洲的宗教改革运动（**the Reformation**）又导致了西欧天主教会内部的大分裂（**Schism of the West**），形成**Protestantism**（新教）和**Roman Catholicism**（罗马天主教会）。
+
+**Catholic**一词源自希腊语***katholikós***，原义是“普遍的；无所不包的”，14世纪经由古法语（***catholique***）或教会拉丁语（***catholicus***）进入英语：
+
+- 所以最初**Catholic**被用来表示“全基督教的”
+- 以后又特指1054年后东正教会对天主教的称谓
+- 现在则主要指宗教改革后新教对旧教（即罗马天主教）的称谓。
+
+1534年亨利八世宣布脱离罗马教会，确立了英国国教会（**Church of England**）。从那以后**Catholic**开始在英语中用于原来的词义，即“广泛的；普遍的”，但首字母须小写。
+
+例　
+
+- Is she (a) Protestant or (a) Catholic? 她是新教教徒还是天主教教徒？
+- As a young person he had more catholic tastes than he does now. (CID) 他在年轻时兴趣比现在广泛得多。
+- Her musical tastes were **catholic** and ranged from classical to jazz. (NED) 她的音乐爱好范围甚广，从古典音乐到爵士乐，她都有兴趣。
+
+
+
+catholic ['kæθlɪk] adj.天主教的；宽宏大量的，n.天主教徒；罗马天主教。前缀cat(a)-表down,towards,concerning，如catapult ['kætəpʌlt] n.石弩，词根hol-表whole。
+
+基督教在罗马帝国东部希腊地区兴起时，面临与犹太教、波斯的拜火教等的竞争，为发展信徒，教会强调了其普遍性，concerning all。
+
+
+
+### 3. Orthodox（东正教）和Catholic（天主教）的由来
+
+公元1054年，基督教分裂成东西两个教会。双方都认为自己的教会才是由基督/宗徒使徒所开创的正宗教会，并且都不让对方拥有这头衔。
+
+东部教会自称为“东正教”（**Easter Orthodox Church**），其中的**orthodox**是“正统”的含义，他们认为东正教会保留了最原始的教导和崇敬的教会传统。东正教标榜“正统性”（**orthodox**），所以相对保守，如严格遵守不进行偶像崇拜的传统，教堂内外都没有立体塑像，宗教仪式更加复杂和神秘。
+
+> 英语词根**`ortho`**表示“正的”，与此相反的词根是**`hetero`**，表示“不正”。
+
+以罗马为中心的西部教会自称为“罗马公教会”(**The Roman Catholic Church**)，其中的**catholic**是“普遍的，一般的”的意思，表示他们才是惟一真正的普世教会。罗马公教会于16世纪传入中国后，因其信徒将所崇奉的神称为"天主"，因而在中国被称为天主教。
+
+天主教标榜“普世性”（**catholic**），所以宗教仪式相对简单，入教门槛较低，教众规模和分布范围远远超过东正教。
+
+- **orthodox**： ['ɔːθədɒks]
+  - adj.正统的，传统的，惯常的
+  - 东正教的
+  - n.正统的人，东正教
+- **orthopedics**：[,ɔ:θə'pi:dɪks]n.矫形术
+- **heterodox**：['het(ə)rə(ʊ)dɒks] adj.异端的
+- **orthography**：[ɔː'θɒgrəfɪ] n.正确拼字，正字法
+- **catholic**： ['kæθlɪk] 
+  - adj.普遍的，天主教的
+  - n.天主教，天主教徒
+- **catholicism**：[kə'θɔlisizəm]n.天主教，天主教义
+- **catholicon**： [kə'θɒlɪkən]n.灵丹妙药，万灵药
+
+
+
+
+
+### 4. nepotism（裙带关系）：教会高官起用自己的私生子
+
+中世纪期间，和世俗社会一样，基督教会中也存在严重的腐败问题。一些教会高官生活腐化，不仅贪污腐败，还蓄养情妇。生下私生子后，往往对外宣称是自己的nephew（侄子或外甥）。
+
+这些人往往会想方设法把所谓的nephew安排到教会的肥差或重要位置上。人们对此现象十分反感，在拉丁语将其称为nepotismo，其中nepo就是nephew的意思。英语单词nepotism就来源于此，用来表示“裙带关系”。
+
+- nepotism：['nepətɪz(ə)m] n.裙带关系，起用亲戚，任人唯亲
+- nephew：['nɛfju] n.侄子，外甥
+
+
+
+nephew - 该词起源于意大利。中世纪，在罗马天主教会中重用亲属之风盛极一时。主教们，尤其是教皇，因无子嗣，常常凭借权势偏袒乃至重用其私生子或侄甥，委任他们为教士，甚至授予他们待遇优厚的各种高级神职。
+
+15世纪一位臭名昭著的教皇——亚历山大六世（Pope Alexander VI, 1431-1503）将自己的亲戚安插在教会最高职位上，例如为巩固其权力他竟然任命年仅16岁的私生子博尔吉亚（Cesare Borgia）为大主教，任命年轻的侄甥乔凡尼（Giovanni）为主教。
+
+他这一任人唯亲的做法影响极坏，招致广泛的批评和指责。在英语中侄甥作nephew，教士的私生子也婉称nephew，该词源于拉丁语nepōs；而重用私生子或侄甥则被世人戏称为nepotism，它源出意大利语nepotismo。
+
+嗣后，nepotism不再囿于nephew，而用以泛指“重用亲属”、“任人唯亲”，或表示“裙带关系”。
+
+- Nepotism sometimes occurs in political appointment. (WBD) 政治任命有时存在重用亲属的现象。
+- Nepotism and corruption were widespread in the then government. 在当时的政府中裙带关系和腐败现象非常普遍。
+- The mayor's son got a city job through nepotism. (NED) 市长的儿子通过裙带关系获得一份城里的工作。
+- The newspaper accused the governor's office of nepotism. 该报指责州长办公室搞裙带关系。
+
+
+
+### 5.ghost（鬼魂）：人的灵魂或精神
+
+
+古代人相信人拥有灵魂，在古英语中称为gast，在中古英语中拼写改为gost，在现代英语中拼写改为ghost，原本既可以表示死人的灵魂，也可以表示活人的灵魂，相当于来自拉丁语的spirit（精神、心灵）。到了14世纪时，词义变为专指死人的灵魂，即“鬼魂、幽灵”。但词组Holy Ghost（圣灵）一词中ghost依然保留了原意。
+
+- ghost：[gəʊst] n.鬼，鬼魂，幽灵vt.作祟于，替……代笔vi.替人代笔
+- ghostly：['ɡostli] adj. 幽灵的；可怕的；影子似的
+- aghast：[ə'ɡæst] adj. 吓呆的，惊骇的；吃惊的
+- Holy Ghost：圣灵
+
+
+
+ghost - 在古英语的词形为gāst，中古英语变为gost，原指“心灵”（soul）或“精神”（spirit），到了14世纪开始用于“鬼魂”或“幽灵”这一今天最常用的词义。但基督教里所谓三位一体（the Trinity）中的the Holy Ghost（圣灵）仍保留古英语时的旧义。到了20世纪基督徒往往直接把它说成the Holy Spirit，以避免可能的误解。
+
+英语中另有一词ghastly（恐怖的；死人般的；糟透的）和ghost有些关系。和ghost一样，该词源自gāst（心灵；精神），中古英语词形为gastlich，到了16世纪因和ghost相联系而被加上字母h，变成ghastly。这一拼法是英国诗人斯宾塞（Edmund Spenser, 1552-1599）首先使用的。
+
+- Do you believe in ghosts? 你相信有鬼吗？
+- People say ghosts haunt that old house. 人们说那所旧屋常常闹鬼。
+- A priest was called in to exorcise the ghost. (OCD) 一位教士受召前来驱鬼。
+- He looked so terrified I thought he'd seen a ghost. (LDE) 他看上去如此害怕，我真以为他看见鬼了。
+
+- 
+
+
+
+## 场所
+
+### 1. chapel（小教堂）：供奉圣徒马丁斗篷的礼拜堂 
 
 四世纪时，在法兰西的都尔市（Tours）里有一位名叫马丁的基督教僧侣。他原本是一名罗马士兵，后来受洗成为了一名虔诚的基督教徒。
 
@@ -271,69 +425,41 @@ chapel - 公元4世纪法国图尔（Tours）有一位主教名叫圣马丁（St
 
 
 
-### 3. Catholic 普世的教会
+### 2. parlor（会客室）：修道院中接待访客或僧侣交谈的房间
 
-**Catholic** - 要了解Catholic的来龙去脉和语义演变，我们有必要先追溯基督教的一段历史。
+> 来自古法语 parler,说话，词源同 parley,Parliament.引申词义说话的地方，会客室，后用于指店铺，店面等。
 
-与佛教、伊斯兰教并称为世界三大宗教的基督教是公元一世纪起源于巴勒斯坦，由耶稣基督创立的。1054年基督教分裂为东西两派，史称东西教会大分裂（**the Great Schism**），形成**Eastern Orthodox Christian Church**（“东派教会”，即“东正教会”）和**Western Roman Christian Church**（“西派教会”，指以罗马教皇为首的基督教西派，自称“公教”，即“天主教”）。
+<img src="./images/image-20220126172907218.png" alt="image-20220126172907218" style="zoom: 50%;" /> 
 
-> **schism**【ˈskɪzəm】：
->
->  (formal) 分裂；宗派活动；（尤指）教会分裂
-> strong disagreement within an organization, especially a religious one, that makes its members divide into separate groups
+源自法语动词parler 'to talk, converse'（谈话，交谈）。在13世纪的英格兰，parlour专指寺院或修道院内的谈话室、接待室，以后指中上层家庭的会客室，由男人专用，女人则在酒宴后退席到(with)drawing room。
 
-16世纪欧洲的宗教改革运动（**the Reformation**）又导致了西欧天主教会内部的大分裂（**Schism of the West**），形成**Protestantism**（新教）和**Roman Catholicism**（罗马天主教会）。
+到了19世纪男人和女人都在parlo(u)r内进行社交活动。今天parlo(u)r不再指会客室，其作用已为**sitting room**，**living room**等语所取代，它一般指“营业室”，只出现于
 
-**Catholic**一词源自希腊语***katholikós***，原义是“普遍的；无所不包的”，14世纪经由古法语（***catholique***）或教会拉丁语（***catholicus***）进入英语：
+- beauty parlo(u)r（美容院），
+- ice cream parlo(u)r（冰淇淋店），
+- dental parlo(u)r（牙科诊室），
+- funeral parlo(u)r（殡仪馆），
+- massage parlo(u)r（按摩院），
+- tea parlo(u)r（茶室）
 
-- 所以最初**Catholic**被用来表示“全基督教的”
-- 以后又特指1054年后东正教会对天主教的称谓
-- 现在则主要指宗教改革后新教对旧教（即罗马天主教）的称谓。
+等搭配中
 
-1534年亨利八世宣布脱离罗马教会，确立了英国国教会（**Church of England**）。从那以后**Catholic**开始在英语中用于原来的词义，即“广泛的；普遍的”，但首字母须小写。
+修道院是僧侣们修炼的地方，大部分地方都需要保持安静，以免影响僧侣的静修。只有少数房间专门用来接待外来的访客或供僧侣们交谈所用。
 
-例　
+这种房间在古法语中被称为***parleor***，来自***parler***（会谈）。英语单词**parlor**就来源于此，现在通常用来表示美容院、按摩院等地的业务室。与它同源的单词有**parley**（会谈）、**parliament**（国会）等。
 
-- Is she (a) Protestant or (a) Catholic? 她是新教教徒还是天主教教徒？
-- As a young person he had more catholic tastes than he does now. (CID) 他在年轻时兴趣比现在广泛得多。
-- Her musical tastes were **catholic** and ranged from classical to jazz. (NED) 她的音乐爱好范围甚广，从古典音乐到爵士乐，她都有兴趣。
-
-
-
-catholic ['kæθlɪk] adj.天主教的；宽宏大量的，n.天主教徒；罗马天主教。前缀cat(a)-表down,towards,concerning，如catapult ['kætəpʌlt] n.石弩，词根hol-表whole。
-
-基督教在罗马帝国东部希腊地区兴起时，面临与犹太教、波斯的拜火教等的竞争，为发展信徒，教会强调了其普遍性，concerning all。
+- parlor：['pɑrlɚ] n.客厅，会客室，业务室
+- parley： ['pɑːlɪ] n.vt.会谈，谈判
+- parliament：['pɑːləm(ə)nt] n.国会，议会
+- parliamentary： [,pɑrlə'mɛntri] adj. 议会的；国会的；议会制度的
+- parliamentarian： ['pɑrləmən'tɛrɪən] n. 国会议员，熟练而又有经验的议员adj. 议会的
+- parlance： ['pɑrləns] n. 说法；用语；语调；发言
 
 
 
-### 4. Orthodox（东正教）和Catholic（天主教）的由来
-
-公元1054年，基督教分裂成东西两个教会。双方都认为自己的教会才是由基督/宗徒使徒所开创的正宗教会，并且都不让对方拥有这头衔。
-
-东部教会自称为“东正教”（**Easter Orthodox Church**），其中的**orthodox**是“正统”的含义，他们认为东正教会保留了最原始的教导和崇敬的教会传统。东正教标榜“正统性”（**orthodox**），所以相对保守，如严格遵守不进行偶像崇拜的传统，教堂内外都没有立体塑像，宗教仪式更加复杂和神秘。
-
-> 英语词根**`ortho`**表示“正的”，与此相反的词根是**`hetero`**，表示“不正”。
-
-以罗马为中心的西部教会自称为“罗马公教会”(**The Roman Catholic Church**)，其中的**catholic**是“普遍的，一般的”的意思，表示他们才是惟一真正的普世教会。罗马公教会于16世纪传入中国后，因其信徒将所崇奉的神称为"天主"，因而在中国被称为天主教。
-
-天主教标榜“普世性”（**catholic**），所以宗教仪式相对简单，入教门槛较低，教众规模和分布范围远远超过东正教。
-
-- **orthodox**： ['ɔːθədɒks]
-  - adj.正统的，传统的，惯常的
-  - 东正教的
-  - n.正统的人，东正教
-- **orthopedics**：[,ɔ:θə'pi:dɪks]n.矫形术
-- **heterodox**：['het(ə)rə(ʊ)dɒks] adj.异端的
-- **orthography**：[ɔː'θɒgrəfɪ] n.正确拼字，正字法
-- **catholic**： ['kæθlɪk] 
-  - adj.普遍的，天主教的
-  - n.天主教，天主教徒
-- **catholicism**：[kə'θɔlisizəm]n.天主教，天主教义
-- **catholicon**： [kə'θɒlɪkən]n.灵丹妙药，万灵药
 
 
-
-### 5. purgatory（炼狱）：净化有罪灵魂的地方
+### 3. purgatory（炼狱）：净化有罪灵魂的地方
 
 <img src="./images/web3-holy-souls-purgatory1.jpg" alt="How long does purgatory last?" style="zoom:67%;" />
 
@@ -356,76 +482,6 @@ catholic ['kæθlɪk] adj.天主教的；宽宏大量的，n.天主教徒；罗�
 - **purge**：[pɝdʒ] v. 净化；清洗；通便n. 净化；泻药
 
 
-
-### 6. nepotism（裙带关系）：教会高官起用自己的私生子
-
-中世纪期间，和世俗社会一样，基督教会中也存在严重的腐败问题。一些教会高官生活腐化，不仅贪污腐败，还蓄养情妇。生下私生子后，往往对外宣称是自己的nephew（侄子或外甥）。
-
-这些人往往会想方设法把所谓的nephew安排到教会的肥差或重要位置上。人们对此现象十分反感，在拉丁语将其称为nepotismo，其中nepo就是nephew的意思。英语单词nepotism就来源于此，用来表示“裙带关系”。
-
-- nepotism：['nepətɪz(ə)m] n.裙带关系，起用亲戚，任人唯亲
-- nephew：['nɛfju] n.侄子，外甥
-
-
-
-nephew - 该词起源于意大利。中世纪，在罗马天主教会中重用亲属之风盛极一时。主教们，尤其是教皇，因无子嗣，常常凭借权势偏袒乃至重用其私生子或侄甥，委任他们为教士，甚至授予他们待遇优厚的各种高级神职。
-
-15世纪一位臭名昭著的教皇——亚历山大六世（Pope Alexander VI, 1431-1503）将自己的亲戚安插在教会最高职位上，例如为巩固其权力他竟然任命年仅16岁的私生子博尔吉亚（Cesare Borgia）为大主教，任命年轻的侄甥乔凡尼（Giovanni）为主教。
-
-他这一任人唯亲的做法影响极坏，招致广泛的批评和指责。在英语中侄甥作nephew，教士的私生子也婉称nephew，该词源于拉丁语nepōs；而重用私生子或侄甥则被世人戏称为nepotism，它源出意大利语nepotismo。
-
-嗣后，nepotism不再囿于nephew，而用以泛指“重用亲属”、“任人唯亲”，或表示“裙带关系”。
-
-- Nepotism sometimes occurs in political appointment. (WBD) 政治任命有时存在重用亲属的现象。
-- Nepotism and corruption were widespread in the then government. 在当时的政府中裙带关系和腐败现象非常普遍。
-- The mayor's son got a city job through nepotism. (NED) 市长的儿子通过裙带关系获得一份城里的工作。
-- The newspaper accused the governor's office of nepotism. 该报指责州长办公室搞裙带关系。
-
-
-
-### 7.ghost（鬼魂）：人的灵魂或精神
-
-
-古代人相信人拥有灵魂，在古英语中称为gast，在中古英语中拼写改为gost，在现代英语中拼写改为ghost，原本既可以表示死人的灵魂，也可以表示活人的灵魂，相当于来自拉丁语的spirit（精神、心灵）。到了14世纪时，词义变为专指死人的灵魂，即“鬼魂、幽灵”。但词组Holy Ghost（圣灵）一词中ghost依然保留了原意。
-
-- ghost：[gəʊst] n.鬼，鬼魂，幽灵vt.作祟于，替……代笔vi.替人代笔
-- ghostly：['ɡostli] adj. 幽灵的；可怕的；影子似的
-- aghast：[ə'ɡæst] adj. 吓呆的，惊骇的；吃惊的
-- Holy Ghost：圣灵
-
-
-
-ghost - 在古英语的词形为gāst，中古英语变为gost，原指“心灵”（soul）或“精神”（spirit），到了14世纪开始用于“鬼魂”或“幽灵”这一今天最常用的词义。但基督教里所谓三位一体（the Trinity）中的the Holy Ghost（圣灵）仍保留古英语时的旧义。到了20世纪基督徒往往直接把它说成the Holy Spirit，以避免可能的误解。
-
-英语中另有一词ghastly（恐怖的；死人般的；糟透的）和ghost有些关系。和ghost一样，该词源自gāst（心灵；精神），中古英语词形为gastlich，到了16世纪因和ghost相联系而被加上字母h，变成ghastly。这一拼法是英国诗人斯宾塞（Edmund Spenser, 1552-1599）首先使用的。
-
-- Do you believe in ghosts? 你相信有鬼吗？
-- People say ghosts haunt that old house. 人们说那所旧屋常常闹鬼。
-- A priest was called in to exorcise the ghost. (OCD) 一位教士受召前来驱鬼。
-- He looked so terrified I thought he'd seen a ghost. (LDE) 他看上去如此害怕，我真以为他看见鬼了。
-
-
-
-### 8. dispense（豁免）：基督教会发放的特许状
-
-> dis-分开，散开 + pens-悬挂，称量 + -e
->
-> v. 分发, 分配; 特许, 提供; 配药, 发药
-
-英语单词**dispense**来自拉丁语***dispensare***，是***dispendere***的反复动词形式，由**`dis`**（out）和**`pendere`**（称重）构成，字面意思就是“按重量分发”，因此英语单词**dispense**的本意就是“分发、分配”，并由此派生出**dispenser**（分配者、药剂师、自动售货机）和**dispensary**（药房、诊疗所、防治站）等单词。
-
-然而，在辞典中，dispense还有另一个更加常用的词义，即“豁免、免除”。这个词义是怎么产生的呢？
-
-原来，在中世纪的基督教会中，教会和主教有权分发一种特许状，拥有这种许可的人享有特权，可以做一些原本禁止做的事，或免做一些原本必须要做的事。拉丁语dispendere常被用来表示这种特许状的分发。
-
-由于这种特许状能够“豁免、免除”持有人罪过或责任的，因此dispendere一词也就衍生出“豁免、免除”之意，源自该词的英语单词dispense自然也就继承了这一义项。
-
-- **dispense**：[dɪ'spens] v.分发，分配；豁免，免除
-- **dispensation**：[dɪspen'seɪʃ(ə)n] n. 分配；免除；豁免；天命
-- **dispenser**：[dɪ'spensə] n.分发者，分配者，药剂师，自动售货机
-- **dispensary**：[dɪ'spens(ə)rɪ] n.药房、诊疗所、防治站（分发药品的地方）
-- **dispensable**：[dɪ'spɛnsəbl] adj. 可有可无的；非必要的
-- **indispensable**： ['ɪndɪ'spɛnsəbl] adj. 不可缺少的；绝对必要的；责无旁贷的n. 不可缺少之物；必不可少的人
 
 
 
