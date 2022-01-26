@@ -361,44 +361,80 @@ anim-（生命）：代表生命之源的灵魂
 
 *Avengers: Infinity War* depicts the beginning of the Avengers' attempt to protect the Infinity Stones from the **[villainous](https://www.cbr.com/were-in-endgame-now-infinity-war-meme/)** Thanos who wants to use them to erase half of humanity from existence. Thanks to his mystical training, [Doctor Strange](https://www.cbr.com/doctor-strange-2-prepares-filming-in-london/) is able to see each of the 14 million possible outcomes from their fight against Thanos. **All but one end in failure.** Much to Tony Stark's dismay, Doctor Strange gives up the Time Stone to Thanos. When Stark questions his motives, Doctor Strange simply states, "We're in the endgame now."
 
-<img src="./images/image-20210922113934344.png" alt="image-20210922113934344" style="zoom: 67%;" />
+<img src="./images/image-20210922113934344.png" alt="image-20210922113934344" style="zoom: 67%;" /> 
 
 
 
-### Barbarian
+### barber（理发师）：古代负责修剪胡须的匠人
 
-<img src="./images/image-20211008153803764.png" alt="image-20211008153803764" style="zoom: 50%;" />
+> 来自拉丁语 barba,胡子，词源同 barber.
 
-**barbarian**（蛮族）：不会讲希腊语的外地人。
+古希腊人是不修剪胡须的，所以我们看到古希腊名人如苏格拉底的画像都是一脸的大胡子。因为修剪胡须需要锋利的剃刀，而古代无法制造能够达到这种要求的刀具。古埃及人最早用石块后来用青铜刀具刮胡子，但这种做法并没有流传至希腊。
 
-在古代欧洲，希腊的文明程度最高，因此当时的希腊人对本民族的文化尤其是希腊语非常骄傲，嘲笑外地人所讲的语言就像是“吧啦吧啦”（***barbar***）的鸟语，所以就用***barbaros***这个单词来形容文化程度低下的外地人。经过拉丁语流传至英语后，产生了**barbarous**（野蛮的）和**barbarian**（蛮族）这些词汇。“蛮族”指的是希腊和罗马周围的文明程度较低的其他民族，主要包括凯尔特人、日耳曼人、斯拉夫人等。后来，这些蛮族部落在欧洲大范围迁徙并入侵罗马帝国，建立了众多的蛮族小政权，是众多欧洲当代国家的源头。位于北非的柏柏尔人（**berber**）也被归入蛮族，该民族的英文名称一样来自希腊语***barbaros***。
+到了亚历山大时期，他要求所有士兵都要剃须，以免在战斗中被敌人揪住胡须。从此后，剃须的做法才在希腊开始流行。公元前299年，**Ticinius Mena**首次将一位剃须匠人带到罗马。随后，修剪胡子和剃须的做法在罗马人中迅速普及，剃须被看作是文明、进步的象征。
 
-- barbarian：[bɑː'beərɪən] n.野蛮人，蛮族
-- barbarous：['bɑːb(ə)rəs] adj.野蛮的，未开化的，残暴的
-- barbaric：[bɑr'bærɪk] adj. 野蛮的，粗野的；原始的
-- barbarism：['bɑrbərɪzəm] n. 野蛮；原始；未开化；暴虐
-- barbarity：[bɑr'bærəti] n. 残暴；粗野
-- Berber： ['bə:bə] n.柏柏尔人，柏柏尔语
+那时候剃须需要专业的匠人，因为剃须所需的锋利剃刀只有专业匠人才有。他们的工作范围除了剃须和理发外，甚至还包括给病人实施放血这样的外科手术，因为他的剃刀可当手术刀使用。现在理发店门口红白相间标识以前其实是“本店可做外科手术”的暗示。
+
+<img src="./images/image-20220125134953797.png" alt="image-20220125134953797" style="zoom:80%;" /> 
 
 
 
-### buccaneer /ˌbʌkəˈnɪr/
+英语单词**barber**就反映了古代理发师的剃须职责。**barber**来源于拉丁语中表示“胡须”的单词**barba**，英语单词**barb**（倒刺、钩子）、**beard**（胡须）都与此同源。
 
-**buccaneer**（海盗）：专门掠夺西班牙商船的“皇家海盗”。
+现在随着家用剃须刀的普及，人们早已经习惯了在家中剃须，所以barber的职责也已不再包含剃须了，但它的拼写依然在提示它曾经的含义。
 
-在大航海时代，西班牙和葡萄牙率先开展航海探险事业，积极在新发现的美洲大陆进行殖民，从美洲掠夺了大量财富，成为那个时代的霸主。1630年左右，一群在加勒比海域进行探险投机的法国人竞争不过西班牙人，被西班牙人赶到一座海岛上。从此以后，这群法国人以此为据点，做起了海盗生意，专门袭击西班牙商船，声势越来越大，越来越多的法国人以及英国人、荷兰人也加入进来，将这项专门针对西班牙商船的海盗事业越做越大，并且还赢得了本国政府的支持，获得政府颁发的“私掠许可证”，成为奉旨打劫的“皇家海盗”，就算被西班牙军队俘虏后还可以享受战俘待遇，而不是像普通海盗那样被绞死。在后来英国和西班牙的大海战中，***英国海军就依靠这些“皇家海盗”击败了西班牙的无敌舰队，终结了西班牙的霸主地位***。
+- **barber**：[ˈbɑːrbər] n.理发师v.理发，修剪，当理发师
 
-在法语中，这群海盗被称为“***boucanier***”，源自加勒比海土著语***buccan***（烤肉架），字面意思就是“使用烤肉架烤肉的人”，因为这群海盗也喜欢使用这种架子烤肉吃。英国人将其英语化为**buccaneer**。1684年，著名法国作家Alexandre Exquemelin描写17世纪加勒比海盗的名著《美洲海盗》的英译版本出版后，buccaneer一词更是广为流传，成为了“海盗”（pirate）的同义词。
+- **barb**：[bɑːb] n.（鱼钩、箭头上的）倒钩vt.装倒钩
+
+- **beard**：[bɪəd] n.（嘴唇上下及下巴的）胡须。
+
+- **beard the lion in his den **虎口拔牙。
+
+  《圣经.撒母耳记》中，年轻的牧羊人大卫夸耀他曾经从一只狮子口中救下来过一只羊羔。当狮子过来攻击他的时候，他揪住了狮子的胡须并杀死了它。后来大卫又战胜了巨人歌利亚并最终成为了以色列的国王。He's in his office, so let's beard the lion in his den now. 
+
+### Barbarian 不会讲希腊语的野蛮人
+
+<img src="./images/image-20211008153803764.png" alt="image-20211008153803764" style="zoom: 50%;" /> 
+
+在古代欧洲，希腊的文明程度最高，因此当时的希腊人对本民族的文化尤其是希腊语非常骄傲，嘲笑外地人所讲的语言就像是“吧啦吧啦”（***barbar***）的鸟语，所以就用***barbaros***这个单词来形容文化程度低下的外地人。
+
+经过拉丁语流传至英语后，产生了**barbarous**（野蛮的）和**barbarian**（蛮族）这些词汇。
+
+“蛮族”指的是希腊和罗马周围的文明程度较低的其他民族，主要包括凯尔特人、日耳曼人、斯拉夫人等。后来，这些蛮族部落在欧洲大范围迁徙并入侵罗马帝国，建立了众多的蛮族小政权，是众多欧洲当代国家的源头。位于北非的柏柏尔人（**berber**）也被归入蛮族，该民族的英文名称一样来自希腊语***barbaros***。
+
+- **barbarian**：[bɑː'beərɪən] n.野蛮人，蛮族
+- **barbarous**：['bɑːb(ə)rəs] adj.野蛮的，未开化的，残暴的
+- **barbaric**：[bɑr'bærɪk] adj. 野蛮的，粗野的；原始的
+- **barbarism**：['bɑrbərɪzəm] n. 野蛮；原始；未开化；暴虐
+- **barbarity**：[bɑr'bærəti] n. 残暴；粗野
+- **Berber**： ['bə:bə] n.柏柏尔人，柏柏尔语
+
+
+
+### buccaneer /ˌbʌkəˈnɪr/ 专门掠夺西班牙商船的“皇家海盗” 
+
+在大航海时代，西班牙和葡萄牙率先开展航海探险事业，积极在新发现的美洲大陆进行殖民，从美洲掠夺了大量财富，成为那个时代的霸主。
+
+1630年左右，一群在加勒比海域进行探险投机的法国人竞争不过西班牙人，被西班牙人赶到一座海岛上。从此以后，这群法国人以此为据点，做起了海盗生意，专门袭击西班牙商船，声势越来越大，越来越多的法国人以及英国人、荷兰人也加入进来，将这项专门针对西班牙商船的海盗事业越做越大，并且还赢得了本国政府的支持，获得政府颁发的“私掠许可证”，成为奉旨打劫的“皇家海盗”，就算被西班牙军队俘虏后还可以享受战俘待遇，而不是像普通海盗那样被绞死。在后来英国和西班牙的大海战中，***英国海军就依靠这些“皇家海盗”击败了西班牙的无敌舰队，终结了西班牙的霸主地位***。
+
+<img src="./images/image-20220125135542896.png" alt="image-20220125135542896" style="zoom: 67%;" /> 
+
+在法语中，这群海盗被称为“***boucanier***”，源自加勒比海土著语***buccan***（烤肉架），字面意思就是“使用烤肉架烤肉的人”，因为这群海盗也喜欢使用这种架子烤肉吃。英国人将其英语化为**buccaneer**。
+
+1684年，著名法国作家Alexandre Exquemelin描写17世纪加勒比海盗的名著《美洲海盗》的英译版本出版后，**buccaneer**一词更是广为流传，成为了“海盗”（**pirate**）的同义词。
 
 在荷兰语中，这群海盗被称为***vrijbuiten***，由**`vrij`**（free）+ **`buiten`**（booty，掠夺品），演变为英语中的**freebooter**和**filibuster**，都表示“海盗”。
 
 同样源于加勒比海土著语***buccan***（烤肉架）还有单词**barbecue**（烧烤），它是经由西班牙、法语进入英国的。
 
-- buccaneer：[,bʌkə'nɪə] n.海盗vi.做海盗
-- freebooter：['friːbuːtə] n.海盗
-- filibuster：['fɪlɪbʌstə] n.海盗，暴兵，阻挠议事的议员，阻挠议事的行为 vi. 掠夺，阻挠议事
-
-
+- **buccaneer**：[,bʌkə'nɪə] 
+  - n.海盗
+  - vi.做海盗
+- **freebooter**：['friːbuːtə] n.海盗
+- **filibuster**：['fɪlɪbʌstə] 
+  - n.海盗，暴兵，阻挠议事的议员，阻挠议事的行为 
+  - vi. 掠夺，阻挠议事
 
 
 
