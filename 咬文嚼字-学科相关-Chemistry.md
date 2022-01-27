@@ -82,7 +82,7 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 
 
 
-## -ium<sup>[2]</sup> 名词后缀
+## -ium<sup>[2]</sup> 名词后缀(-ia是其复数形式)
 
 ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这些词复数形式一般是-ia形式。
 
@@ -375,4 +375,3 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 - **intoxication**：[ɪn,tɒksɪ'keɪʃn] n.中毒，陶醉，喝醉
 - The young are permanently in a state of resembling intoxication.年轻人永远处在一种陶醉的状态中。
 - Intoxication interferes with memory and thinking, speech and coordination. 醉酒影响记忆、思考、语言与协调性。
-  
