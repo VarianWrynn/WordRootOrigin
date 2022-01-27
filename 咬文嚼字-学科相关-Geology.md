@@ -256,19 +256,15 @@ alto - 此系音乐术语，源自拉丁语altus，但却是直接借自意大�
 
 
 
+### 其他单词
+
+| 单词                               | 解释                                                         | 单词                                                         | 解释                                                         |
+| ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **glaci-ier**   <br />【ˈɡleɪʃər】 | **`glaci-`** 表示“冰；光滑”。源自拉丁语 glacies "ice."<br/>更多同源词...<br/>**`-ier`** {24}表名词，“人或物”。<br />A **glacier** is an extremely large mass of ice which moves very slowly, often down a mountain valley. | **oro-gen-y**                          <br />【ɔːˈrɑːdʒəni】 | n. 造山运动(地层褶皱形成山脉的过程) <br/>oro-山 + gen-出生 + -y<br/><br/>oro- = mountain, 表示“山”， 源自希腊语 oros "mountain"<br/>gen- = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。<br/>-y 表名词，“人或小东西”，常带有戏谑性和爱称。<br/>词源说明(童理民)  <br/>1 - 来自希腊语 oros,山，词源同 oread,orient.-gen,产生，造，词源同 gene,generate.即造山运动。<br />1 . the folding , faulting , and uplift of the Earth ' s crust to form mountain ranges , often accompanied by volcanic and seismic activity |
+|                                    |                                                              |                                                              |                                                              |
+|                                    |                                                              |                                                              |                                                              |
 
 
-### glacier | glaci-ier 【ˈɡleɪʃər】 冰川
 
-推荐：
-glaci-冰 + -er。
 
-glac∙ier  [词根树]
-**`glaci-`** 
-表示“冰；光滑”。源自拉丁语 glacies "ice."
-更多同源词...
-**`-ier`** {24}
-表名词，“人或物”。
-
-A **glacier** is an extremely large mass of ice which moves very slowly, often down a mountain valley.
 

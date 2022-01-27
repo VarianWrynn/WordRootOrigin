@@ -40,7 +40,7 @@
 | **Prot-ium**<br />【prəʊtɪəm】<br />氕[piē]                  | 质子数1，它的原子由一个质子和一个电子组成，是氢的主要形式,，氕为氢的主要成分，约占普通氢的99.98%。 | **prot-on**<br />【ˈproʊtɑːn】                       | **`prot-`** = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”。<br/>a very small piece of matter (= a substance) with a positive electric charge that forms part of the nucleus (= central part) of an atom<br />质子 |
 | **Deuter-ium**<br />【djuːˈtɪriəm】<br />氘[dāo]             | 重氢,原子核中有一个质子和一个中子，氢中有0.02%的氘。 在大自然的含量约为一般氢的7000分之一 ，用于热核反应 | **deuter-on**<br />【djuːtərɒn】                     | the nucleus of deuterium（氘核）                             |
 | **trit-ium**<br />【ˈtrɪtiəm】<br />[氚[chuān]](https://baike.baidu.com/item/%E6%B0%95%E6%B0%98%E6%B0%9A/8757957) | 杜撰词，来自希腊语 tritos,第三，词源同 three,third.-ium,化学元素后缀。比较 deuterium.<br />称作超重氢。原子核中有一个质子和两个中子。并带有[放射性](https://baike.baidu.com/item/放射性)，会发生[β衰变](https://baike.baidu.com/item/β衰变)，其[半衰期](https://baike.baidu.com/item/半衰期)为12.43年。由于氚的β衰变只会放出高速移动的电子，不会穿透人体，因此只有大量吸入氚才会对人体有害。 | **trit-on**<br />【ˈtraɪtən】                        | （贝壳）法螺，北螈，氚核<br />small usually bright-colored semiaquatic salamanders of North America and Europe and northern Asia |
-|                                                              |                                                              | **Neptun-ium**<br />【nepˈtjuːniəm】                 | 在***化学领域***，93号元素以海神命名，称为 **Neptunium**（镎），因为它排在 92 号元素 **Uranium**（铀）的后面，而 **Uranium** 就是以天神乌拉诺斯命名的。<br />镎(放射性化学元素) |
+| **tantalum**<br />【ˈtæntələm】                              | 金属元素钽的英文名字**tantalum**也来自坦塔罗斯，因为这种物质可见而不可得，难以从矿石中分离提炼。另外，钽不能吸收酸，也令人想起了坦塔罗斯无法喝到水。<br />a chemical element. Tantalum is a hard silver-grey metal used in the production of electronic parts and of metal plates and pins for connecting broken bones. | **Neptun-ium**<br />【nepˈtjuːniəm】                 | 在***化学领域***，93号元素以海神命名，称为 **Neptunium**（镎），因为它排在 92 号元素 **Uranium**（铀）的后面，而 **Uranium** 就是以天神乌拉诺斯命名的。<br />镎(放射性化学元素) |
 | **Plutonium**<br />【pluːˈtoʊniəm】                          | 在科学领域，科学家将一种新发现的超铀元素命名为 Plutonium（钚），源自 Pluto（冥 王星），因为这种元素在元素周期表中排名 94 号，位于 Neptunium（镎）之后，恰如冥王星位于海王星之后。 | **Titan-ium**<br />【tɪˈteɪniəm】                    | 极其坚固、可耐高温、强酸强碱的金属钛（titanium）             |
 | **Ion-ium**<br />【aɪ'onɪəm】                                | 锾（Io）（钍的同位素，Th230）<br />词源来自古希腊神话美女伊娥 | **iso-tope**[^1]<br />【ˈaɪsətoʊp】                  | 表示“相等，异构，同种”。<br/>tope- <br/>表示“地方”，来源于希腊语 topos。医学上 ectopia (ec- = ex- + top- + -ia) 表示...异位。 |
 | **Tellur-ium**<br />【teˈlʊriəm】                            | 碲。词源来自古罗马神话大地女神忒勒斯                         | **Selen-ium**<br />【səˈliːniəm】                    | 1817 瑞典化学家柏采利乌斯（**Berzelius**）在生产硫酸过程中发现一种红色粉末，发现它 是一种性质与碲相似的新元素。为了使之与罗马大地女神忒勒斯（**Tellus**）之意命名的碲 （**Tellurium**）相对应，便以希腊神话中的月亮女神塞勒涅的名字命名，称为 **Selenium**（硒）。<br />硒(化学元素，用于制造电气设备和有色玻璃，人体缺此元素可致抑郁等病) |
@@ -63,12 +63,12 @@
 
 xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是1898年英国化学家拉姆齐（Sir William Ramsay, 1852-1916）发现的，他在重新分馏六个星期前所发现的稀有气体氦时分离制得氙。他取希腊语xénos 'strange, stranger'（陌生的，陌生人）的中性形式，将它命名为xenon，这是因为该气体极为稀少，且化学性质不活泼的缘故。
 
-英语有个借自希腊语的组合语素xeno-也是源于希腊语xénos的，它含有“陌生人”、“外国人”、“陌生的”、“外来的”等义。英语中有好些借用词含有此一成分，诸如：
+英语有个借自希腊语的组合语素**`xeno-`**也是源于希腊语xénos的，它含有“陌生人”、“外国人”、“陌生的”、“外来的”等义。英语中有好些借用词含有此一成分，诸如：
 
-- xenophobia（恐外症，对外国人的极度畏惧／憎恨）
-- xenophobe（恐惧外国人或陌生人的人）
-- xenophile（祟外者）
-- xenomania（祟外狂，媚外）等。
+- **xenophobia**（恐外症，对外国人的极度畏惧／憎恨）
+- **xenophobe**（恐惧外国人或陌生人的人）
+- **xenophile**（祟外者）
+- **xenomania**（祟外狂，媚外）等。
 
 - Since xenon is a noble gas, it doesn't combine easily with other elements. (NED) 氙是惰性气体，所以不容易和其他元素化合。
 

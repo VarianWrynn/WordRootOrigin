@@ -145,13 +145,17 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 ### mosquito  （蚊子）：小飞虫
 
-> n. 蚊子
+> 来自西班牙语 mosca,蚊子，-ito,小词后缀，来自拉丁语 musca,蚊子，来自 PIE*mu,蚊子，拟声词，模仿蚊子嗡嗡的声音，词源同 moth,midge.
 
 蚊子的体型通常很小，因此在古代***西班牙***语中被称为**mosquito**，是**`mosca`**（飞虫）的指小形式，字面意思就是“小飞虫”。英语单词mosquito就直接来自西班牙语。
 
 (**anopheles【ə'nɒfəˌlɪz】**词根则是来自古希腊)
 
-- mosquito：[mə'skito] n.蚊子
+- **mosquito**：[mə'skito] n.蚊子
+
+- （比较）**mosque**【mɑːsk】 n. 清真寺 (a building in which Muslims worship )
+
+  > 来自阿拉伯语 masjid,祷告的地方，清真寺，来自 ma-,表方位，sajada,俯伏在地，祈祷，祷告。
 
 
 
