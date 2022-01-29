@@ -223,7 +223,7 @@ bead的这一词义沿用了好几个世纪。约在公元14世纪，念珠祈�
 
 
 
-### 8. dispense（豁免）：基督教会发放的特许状
+### 3. dispense（豁免）：基督教会发放的特许状
 
 > dis-分开，散开 + pens-悬挂，称量 + -e
 >
@@ -954,6 +954,35 @@ jubilee - 据《圣经旧约·利未记》（Leviticus）钦定英译本第25章
 > - Linda fell for his charm and his rugged good looks. 琳达为他的魅力和他的粗线条英俊外貌所倾倒。
 
 
+
+### 6. scapegoat（替罪羊）：在赎罪日背负人的罪恶离开的山羊
+
+> 缩写自 escape,逃跑，goat,羊。来自圣经中的宗教典故，古犹太人将每年的七月十日定为“赎罪日”，并在这一天举行赎罪祭。其中通过拈阄决定两只公羊的命运，一只杀了作祭品，另一只由大祭司将双手按在羊头上，宣称犹太民族在一年中所犯下的罪过，已经转嫁到到这头羊身上。接着，使把这头替罪羊放逐到旷野，即将人的罪过带入无人之境，最后，把那赎罪的羊烧死，因而引申词义替罪羊。见百度百科。
+
+根据摩西制定的律法规定，每年的赎罪日，犹太人都要挑出两只山羊，一只作为祭品献给上帝，称为“the Lord’s goat”。另一只则给绑在祭坛下，祭司用手按羊，代表众人向上帝忏悔这一年的罪过，然后把这只羊带到旷野中放掉，表示它背负着人的罪恶离去，从而洗净了人的灵魂。这只羊在英语中就叫做scape goat，后来合并为scapegoat，字面意思是“旷野的羊”，但通常被翻译为“替罪羊”，因为它承担了人的罪恶。
+
+scapegoat首次出现在1530年英国宗教改革家和《圣经》译者廷代尔所翻译的《圣经》英文版本中。廷代尔首创了该词，用来翻译拉丁语caper emissarius（旷野的羊、替罪羊）。19世纪早期，scapegoat才发展出非宗教方面的用法，指替别人承担罪恶和过错的意思。
+
+- **scapegoat**：['skeɪpgəʊt] n.替罪羊，替人顶罪者，替身vt.使成为替罪羊
+- **landscape**：['lænd'skep] n. 风景；风景画；景色；山水画；乡村风景画；地形
+
+**摩西英语(摩西)**
+
+英国神学家丁道尔根据拉丁语caper emissarius所创，原指赎罪日这天用来顶替人类罪恶而被弃之荒野的山羊。过去总是认为scape是escape逃避，实际是landscape风景中的scape，而这个scape在这表情况和状态，实际和friendship的后缀-ship相同。
+
+--------------
+
+该词源出古代犹太人习俗。据《圣经旧约·利未记》（Leviticus）（标准译本的修订本）第16章第8节所载，古代犹太教每年在赎罪日（Yom Kippur，即Day of Atonement）都要举行隆重祭礼。
+
+仪式一开始，希伯来人（即古犹太人）将两只公山羊（goat）带到祭坛前，由大祭司（high priest）拈阄决定其命运。一只山羊献祭上帝；另一只山羊为负罪羊，大祭司用手按着它的头，以忏悔的方式表示已将众人的罪恶移嫁至羊头上，随后把羊逐之荒野交与恶鬼阿撒泻勒（Azazel），实际上是让这只羊把众人之罪象征性地带离人间。
+
+这只负罪羊在希伯来文中本来叫做“献给阿撒泻勒的山羊”（goat for Azazel），在希腊语中将它译成“被放逐的山羊”（goat sent out），在拉丁文中则译之为“被派遣的山羊”（emissary goat）。英
+
+格兰新教殉教者、人文主义者廷德尔（William Tyndale, 1492?-1536）在1530年出版的《圣经》英译本中把它译作scapegoat，其中scape乃escape（逃脱）一词的缩略。如今scapegoat只用于喻义，意指“代人受过的人”，即“替罪羊”。其实，汉语中的“替罪羊”就是出自同一典故的。
+
+- When things don't go well, people always look for a scapegoat. (CAE) 在情况不妙的时候，人们总要寻找替罪羊。
+- He had never thought that his friends would make a scapegoat of him. 他没想到他的朋友会把他作为替罪羊。
+- He claimed that he had been made a scapegoat for the failures of management. 他声称他成了经营失败的替罪羊。
 
 
 
