@@ -148,6 +148,30 @@ a. 辅助的, 备用的
 
 
 
+## Sublime
+
+<img src="./images/image-20220130204522064.png" alt="image-20220130204522064" style="zoom:80%;" /> 
+
+> sub-在…下面 + lim-限制 + -e → 在限制下不乱做事 → 崇高的。
+>
+> sub∙lime  [词根树]
+> **`sub-`** = under, beneath; behind; from under; resulting from further division，表示“在下面，次一等，副手，下一级，接近”等。源自拉丁语 sub "under."
+> **`lime-`** = threshold, 表示“门槛，限制”。
+
+- a. 高尚的, 壮观的, 卓越的
+- v. 提高, (使)变高尚, (使)纯化, (使)升华
+- n. 庄严, 崇高, 顶点
+
+【比较级：sublimer；最高级：sublimest；过去分词：sublimed；现在分词：subliming；第三人称单数：sublimes】
+
+
+词源说明(童理民)  
+
+- sub-,在下，向上，-lim,门槛，界限，词源同 limit.
+- 引申比喻义接近完美的界限，升华，使高尚。引申词义崇高的，壮观的。
+
+
+
 ## 物品
 
 
