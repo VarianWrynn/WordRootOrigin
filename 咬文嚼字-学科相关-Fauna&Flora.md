@@ -307,6 +307,29 @@ vt. 学舌, 机械地模仿
 
 
 
+### scavenger（清道夫）：古代对外地商人征收关税的人
+
+> 回构自 scavenger,搭荒者，捡破烂者。
+
+英语单词**scavenger**来自诺曼时代的英国法语**scawager**，本意是“在大街上对外地商人征收关税的人”。在封建时期，商人到外地经商需要向当地领主缴纳税金，称为scawage，而负责征收scawage的人就是scawager。
+
+英语单词**scavenger**就来源于此。后来，这些人又增加了负责街道清洁的职责，因此**scavenger**又产生了“清道夫、拾荒者”的含义，后来又产生了“食腐动物”的含义。
+
+从14世纪至16世纪，许多英国城镇都制定了保护本地商人的法律。外来行商（**travelling merchants**）若把货品在市场上摊开展示出来卖，就会被征收一种名为scavage（字面义为“展示”）的税，负责收此税金的人被称作scavager。
+
+16世纪的scavager除了收税还有保持街道清洁的职责。与此同时，***scavager***的词形演变为**scavenger**，变化形式和**messenger**（送信人←**messager**←**message**），**passenger**（乘客←**passager**←**passage**）二词完全相同，中间多了一个插入音n。
+
+后来这项税被取消了，**scavenger**就转指“清道夫”，最后又变成“捡破烂者”的代称。到了17世纪从**scavenger**逆构出动词**scavenge**，用以表示“在废弃物中捡可用物品”，如今反倒比**scavenger**常用得多。
+
+<img src="./images/image-20220130210048408.png" alt="image-20220130210048408" style="zoom: 33%;" /> 
+
+- **scavenger**： ['skævɪn(d)ʒə] n.食腐动物，清道夫，拾荒者
+- **scavenge**：['skævɪndʒ] 
+  - vt. 打扫；排除废气；以…为食
+  - vi. 清除污物；打扫
+
+
+
 
 # Flora
 

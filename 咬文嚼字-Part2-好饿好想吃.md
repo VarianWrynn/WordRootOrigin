@@ -3,6 +3,39 @@
 
 [toc]
 
+## Gourmand vs gourmet
+
+**gourmet 【ˈɡʊrmənd】**与**gourmand【ɡʊrˈmeɪ】**均为法语借用词，都保留了原先的拼法，发音也基本不变，两者有时会被混用，但其差别是明显的。
+
+**gourmet**于1820年左右进入英语，源自古法语**gromet**，原义为“酒店伙计”、“品酒人”（wine taster），以后受**gourmand**的影响，转指精于品尝美酒和美食的人，即“美食家”，也指“讲究饮食的人”。如今也常作形容词用，表示“制作美食佳酿的”或“精美的”。
+
+**gourmand**从15世纪进入英语起就用于古法语的原义：“贪吃的人”，但在18世纪时曾一度用以指“美食家”，而到19世纪gourmet在英语出现后，此义便又逐渐被gourmet所取用，因此，今天gourmand仍然用于原义。
+
+- **`gorg-`**,**`gurg-`** 
+  = throat, 表示“喉”。源自拉丁语 gurges "throat," also "gulf, whirlpool."
+
+- **gourmand**: [ˈɡʊrmənd] n. 美食家;大肚子;大肚汉;喜欢吃喝的人
+
+  > 来自法语，词源不详。可能来自 vor-,吞食，词源同 voracity,gorge.
+
+- **gourmet**: [ɡʊrˈmeɪ] n .  美食家；讲究饮食的人；美酒美食品尝家
+
+  > 来自古法语groumet, 酒管，酒侍。可能来自groom, 仆人，管酒的人，词义进一步引申为品酒家，美食家。比较butler。
+
+- They're real gourmets and buy only the best cuts of meat. (LLA) 他们极为讲究饮食，只买最好的肉块。
+- Our speciality foods will appeal particularly to the gourmet. (CID) 我们的特色佳肴会特别吸引美食家。
+  Have you tried that new gourmet restaurant? (CID) 你试过那家新开的菜肴精美的餐馆了没有？
+- His wife is a gourmet cook. 他的妻子能做一手好菜。
+
+**摩西英语(摩西)**
+
+- **gourmand** ['gʊəmənd; 'gɔː-] n. 美食家；贪食者
+- **gourmet** ['gʊəmeɪ; 'gɔː-] n. 美食家。
+
+怎样区分这俩吃货呢？**a gourmand regards quantity more than quality, a gourmet quality more than quantity**.即gourmand重量多于重质，gourmet重质多于重量，江湖派一些，gourmand，妈的mand真能吃！
+
+
+
 ## 荤的
 
 ### Cow v.s Beef / Sheep v.s Mutton
@@ -212,6 +245,8 @@ Tangential Trivia: \$1,000 in 1915 would be the equivalent of \$23,500 today.
 
 > **`drunk`** a. 喝醉了的 drink的过去式
 > **`-ard`** 表名词，“不好的人”。源自日耳曼语 *-hart, *-hard "hold, hardy."
+>
+>  来自拉丁语 **mustum**,新酒，新酿制葡萄酒，**`-ard`**,名词后缀。来自古罗马时期的芥末烹调方法，即把新酒与芥末籽拌在一起用以给面团调味，后就以该词命名这种植物。
 
 芥末（**mustard**）是一种历史悠久的调味品。它是用芥菜的种子经过碾磨之后制成的。最早的时候，芥末是和醋混合在一起形成膏状，就像我们今天看到的芥末酱一样。
 
@@ -225,14 +260,6 @@ Tangential Trivia: \$1,000 in 1915 would be the equivalent of \$23,500 today.
 
 - **mustard**：['mʌstəd] n.芥末，芥菜，深黄色
 - **must**：[mʌst] n. 未发酵葡萄汁
-
-
-
-**词源说明(童理民)** ： 
-
-来自拉丁语 **mustum**,新酒，新酿制葡萄酒，**`-ard`**,名词后缀。来自古罗马时期的芥末烹调方法，即把新酒与芥末籽拌在一起用以给面团调味，后就以该词命名这种植物。
-
-
 
 **摩西英语(摩西)：**
 
@@ -251,6 +278,27 @@ aux. 必须
 
 1. 来自古英语 motan,有能力做，有必要做，-st,过去分词后缀，来自 Proto-Germanic*mot,能力，力量，来自 PIE*med,测量，衡量，采取手段，词源同 measure,medical.其在古英语时期语气并不是很强烈，后不断强化。比较 noblesse oblige.
 2. 来自拉丁语 vinum mustum,新酒，新酿葡萄酒，来自 mustus,新鲜的，水灵的，来自 PIE*meus,湿的，带水气的，词源同 mist,moist.
+
+
+
+### vinegar（醋）：酒变酸后得到的调味品
+
+> vin-,葡萄，葡萄酒，-egar,酸的，词源同 acid.用来指醋。
+
+醋（**vinegar**）是由酒精在醋酸杆菌等微生物的作用下转化而成的。传说，中国古人在用粮食酿酒过程中，有人觉得酒糟扔掉太可惜，就存放起来。过来一段时期后，发现酒糟转变成了另一种味道酸甜的调味品，这就是醋的来历。
+
+英语单词**vinegar**也反应了醋和酒之间的关系。它来自古法语vinaigre，由vin（wine，酒）和aigre（sour，变酸）组成，其源头是拉丁语vinum acetum（变酸的酒）。由此可推测，西方的醋最早也是由酒变酸后形成的。
+
+- **vinegar**：['vɪnɪgə] n.醋
+
+
+
+酒放久变酸了即成醋。英语中意指“醋”的vinegar按其词源的字面义讲就含有“酸酒”的意思。古法语称醋为vyn egre，vyn源于拉丁语vīnum 'wine'（酒），egre源于拉丁语acer/acris 'sour'（酸的），两部分合起来就是sour wine（酸酒）。以后vyn egre演变为vinaigre (vin 'wine' + aigre 'sour')，从法语来看其字面含义更是显而易见了。英语vinegar一词就是由此而来。
+
+例　
+
+- This wine tastes like vinegar. (CID) 这酒的味道像醋。
+- Mary sprinkled some vinegar on her French fries. (NED) 玛丽在炸土豆条上洒了几滴醋。
 
 
 
