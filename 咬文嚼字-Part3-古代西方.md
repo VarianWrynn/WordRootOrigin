@@ -626,7 +626,7 @@ a. 绯红色的, 鲜红色的
 
 
 
-### **bridegroom (新娘的马夫:给新娘做牛做马的男人)**
+### bridegroom (新娘的马夫:给新娘做牛做马的男人)
 
 > A **bridegroom** is a man who is getting married.
 >
@@ -796,6 +796,26 @@ jackal - 长期以来，人们在词源上一直把jackal和jack相联系，可�
 n.
 1 . a medium - sized noisy bird of the crow family known for stealing things , especially shiny objects . 
 2 . a bird with a black head and a grey body that steals shiny objects . It is a type of crow . 
+
+
+
+##### a (比较) Crow：乌鸦
+
+> 拟声词，模仿乌鸦的叫声。比较 crane,cock.
+
+n. 乌鸦; 啼叫声, 喔喔叫声
+vi. 啼叫, 报晓; 自鸣得意
+【第三人称单数：crows；现在分词：crowing；过去式：crowed】
+
+**摩西英语(摩西)**
+
+- **crow's nest**: 桅杆瞭望台。
+
+  古代北欧人出海时，习惯将乌鸦装在笼子里带上船，估摸着快到岸边了，鸟笼被放在桅杆高处并把鸟放出来，然后船顺着鸟飞行的方向航行，就能到达岸边。现在crow's nest可以指任何瞭望台，比如山顶上的也可以。The sailor in the crow's nest is right,we are close to the land. 
+
+- **crow's foot** 不是乌鸦的脚，而是眼角的鱼尾纹；
+
+  pedigree n.族谱，字面意思是foot of a crane ，为啥呢？因为鹤脚的形状象家谱。重点是词根ped,pod,pus与foot同源，而英语本土词汇crane与pedigree中的gree同源，都表示鹤这种wading bird涉禽。但是crane与crow不同源，确可以放到一起记忆，可能都是拟声。
 
 
 

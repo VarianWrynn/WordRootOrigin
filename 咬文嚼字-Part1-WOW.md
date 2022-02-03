@@ -168,7 +168,7 @@ arbiter和arbitrator同源，在现代都能表示“仲裁人”，区别在于
 
   
 
-### lieutenant [luːˈtenənt]
+### lieutenant : （陆军）中尉；（海军或空军）上尉
 
 （中尉）：代理指挥官职位的军官
 
@@ -181,8 +181,8 @@ arbiter和arbitrator同源，在现代都能表示“仲裁人”，区别在于
 
 16世纪70年代后用来表示中尉军衔，仅次于上尉（**captain**）。
 
-- **lieutenant：[lef'tenənt]** n.中尉，副官，助理人员
-- **lieutenancy：[lef'tenənsɪ]** n. 代理官员；中尉之军衔
+- **lieutenant：[luːˈtenənt]** n.中尉，副官，助理人员
+- **lieutenancy：[lʊˈtenənsi]** n. 代理官员；中尉之军衔
 - **tenant：['tɛnənt]** n. 承租人；房客；佃户；居住者vt. 租借
 
 
