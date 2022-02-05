@@ -530,7 +530,7 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
-
+## 医学单词故事
 
 ### placebo（安慰剂）
 
@@ -591,3 +591,21 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 1. [词源趣谈 | 死人和活人都需要的placebo（安慰剂）](https://mp.weixin.qq.com/s/vrP08asSBbgq1MG1iQ69zg)
+
+
+
+## allergy（过敏）：人体对疫苗的异常反应
+
+> alle-,相异，不同，-erg,驱动，词源同 synergy,work.
+>
+> all∙erg∙y  [词根树]
+> all- = other, to change, 表示“其他的，改变状态”。源自拉丁语 alius "another, other, different."
+>
+> erg- = energy, work, 表示“能量，活动，工作”。源自希腊语 ergon “work”
+
+1906 年，奥地利儿科医师皮尔凯（***Pirquet***）发现许多病人在第二次注射由马血清制成的天花疫苗的时候，都产生了严重的病理反应。他首次将这种现象称之为**allergy**，由希腊语**`allos`**（另一个）和**`ergon`**（活动、活性）构成，原意为“异常反应”，我国则译为“变态反应”，即“过敏反应”。皮尔凯也因此被国际公认为过敏反应之父。
+
+- **allergy**：['ælədʒɪ] n.过敏症，反感，厌恶
+- **allergic**： [ə'lɝdʒɪk] adj. 对…过敏的；对…极讨厌的
+- **allergen**：['ælɚdʒən] n. 过敏原
+
