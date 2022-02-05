@@ -261,22 +261,34 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 
+### **`glyc-`**  / **`gluc-`** = sweet, 表示“甜”，构成医学词汇时表示“葡萄糖”{14+3}
+
+> 源自希腊语 glukus "sweet."
+
+
+
+| 单词                                          | 解释                                                         | 单词                               | 解释                                                         |
+| --------------------------------------------- | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ |
+| **gluc-ose** <br />【ˈɡluːkoʊs】              | 葡萄糖;右旋糖 a type of sugar that is found in fruit and is easily changed into energy by the human body<br />**gluc-甜 + -ose，构词形式 glucos-**。<br />**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br/>**`glucos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet." | **glyco-gen**<br />【ˈglaɪkədʒɪn】 | n. 糖原<br/>推荐：glyco-甜 + -gen，原<br/>**`glyco-`** = sweet, 表示“甜”，构成医学词汇时表示“葡萄糖”。源自希腊语 glukus "sweet."<br/>**`-gen`** 中文翻译成“...原”，原意表示“产生” |
+| **glycer∙ol **          <br />【ˈglɪsəˌroʊl】 | n. 甘油, 丙三醇<br/>推荐：glycer-甘油 + -ol<br/>**`glycer-`** = sweet, 表示“甜”，构成医学词汇时表示“葡萄糖”。源自希腊语 glukus "sweet." | **glycer∙ine**<br />【ˈɡlɪsərɪn】  | n. 甘油, 丙三醇： a thick sweet clear liquid made from fats and oils and used in medicines, beauty products and explosives<br/>推荐：glycer-甜 + -ine<br/>**`glycer-`** = sweet, 表示“甜”，构成医学词汇时表示“葡萄糖”。源自希腊语 glukus "sweet."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
+|                                               |                                                              | glyc∙ation                         | n. 糖化；糖化作用；醣化<br/>**`glyc-`** = sweet, 表示“甜”，构成医学词汇时表示“葡萄糖”。源自希腊语 glukus "sweet."<br/>**`-ation`** 表名词，“行为、动作、状态、过程、结果；物品”等。 |
+
+
+
 ## -ose
-
-
 
 ### 1. 表示“碳水化合物” {13}
 
 > **`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”
 
-| 单词                           | 解释                                                         | 单词                             | 解释                                                         |
-| ------------------------------ | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
-| **visc∙ose**<br />【ˈvɪskoʊz】 | **`visc-`** = poison, virus, 表示“毒，病毒”。源自拉丁语 virus "poison, sap of plants, slimy liquid, a potent juice"。<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br />a chemical made from cellulose , used to make fibres which can be used to make clothes, etc（黏胶） | **glucos∙e** <br />【ˈɡluːkoʊs】 | **gluc-甜 + -ose，构词形式 glucos-**。<br />**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br/>**`glucos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet." |
-| galact∙ose                     | galact- <br/>= milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” | lact∙ose                         | lact- <br/>= milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” |
-| sacchar∙ose                    | sacchar- <br/>= sugar, 表示“糖”。<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” | xyl∙ose                          | xyl- <br/>= wood，表示“木头”。<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物 |
-| sucr∙ose                       | sucr∙ose  [词根树]<br/>sucr- <br/>= sugar, 表示“糖”。<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” | malt∙ose                         | malt- <br/>= malt, 表示“麦芽”。源自古英语 mealt "malt."<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” |
-| visc∙ose                       | visc- <br/>= poison, virus, 表示“毒，病毒”。源自拉丁语 virus "poison, sap of plants, slimy liquid, a potent juice"。<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” | fruct∙ose                        | fruct- <br/>= fruit, 表示“果实”。原始含义也表示“享受”，古时候资源匮乏，为了“享受”，必须“精打细算，勤俭节约”。源自拉丁语 frux "fruit," frui "to enjoy," 和 fructus "enjoyment, produce."<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” |
-|                                |                                                              |                                  |                                                              |
+| 单词                               | 解释                                                         | 单词                             | 解释                                                         |
+| ---------------------------------- | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
+| **visc∙ose**<br />【ˈvɪskoʊz】     | **`visc-`** = poison, virus, 表示“毒，病毒”。源自拉丁语 virus "poison, sap of plants, slimy liquid, a potent juice"。<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br />a chemical made from cellulose , used to make fibres which can be used to make clothes, etc（黏胶） | **gluc-ose** <br />【ˈɡluːkoʊs】 | 葡萄糖;右旋糖 a type of sugar that is found in fruit and is easily changed into energy by the human body<br />**gluc-甜 + -ose，构词形式 glucos-**。<br />**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br/>**`glucos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet." |
+| **galact∙ose**<br />【gəˈlæktoʊs】 | 半乳糖（a simple sugar found in lactose）<br />**`galact-`** = milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物” | **lact∙ose**<br />【ˈlæktoʊs】   | (chemistry 化) 乳糖:a type of sugar found in milk and used in some baby foods<br />**`lact-`** = milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物” |
+| **sacchar∙ose**<br />【sækərəʊs】  | 蔗糖：a complex carbohydrate found in many plants and used as a sweetening agent(甜味剂)<br />**`sacchar-`** = sugar, 表示“糖”。<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物” | **xyl∙ose**<br />【zaɪləʊs】     | 木糖：a sugar extracted from wood or straw<br />**`xyl-`** = wood，表示“木头”。<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物 |
+| **sucr∙ose**<br />【ˈsuːkroʊs】    | 蔗糖： the form of sugar that is obtained from sugar cane and sugar beet<br />**`sucr-`** = sugar, 表示“糖”。<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物” | **malt∙ose**<br />【ˈmɔːltoʊz】  | 麦芽糖： a sugar that substances in the body make from starch (= a food substance found in flour, rice, potatoes, etc.)<br />**`malt-`** = malt, 表示“麦芽”。源自古英语 mealt "malt."<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物” |
+| **visc∙ose**<br />【ˈvɪskoʊz】     | 黏胶a chemical made from cellulose , used to make fibres which can be used to make clothes, etc.<br />**`visc-`** = poison, virus, 表示“毒，病毒”。源自拉丁语 virus "poison, sap of plants, slimy liquid, a potent juice"。<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物” | **fruct∙ose**<br />【ˈfrʌktoʊs】 | 果糖，左旋糖(存于果汁、蜂蜜中) a type of sugar found in fruit juice and honey<br />**`fruct-`** = fruit, 表示“果实”。原始含义也表示“享受”，古时候资源匮乏，为了“享受”，必须“精打细算，勤俭节约”。源自拉丁语 frux "fruit," frui "to enjoy," 和 fructus "enjoyment, produce."<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物” |
+|                                    |                                                              |                                  |                                                              |
 
 #### viscos∙ity 【vɪˈskɑːsəti】
 
