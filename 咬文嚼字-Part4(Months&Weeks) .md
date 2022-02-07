@@ -330,6 +330,136 @@ Thursday：['θə:zdi; -dei]n.星期四
 
 
 
+# 24节气倒计
+
+
+
+节气是中国特有的概念，英文没有固定翻译版本。
+
+
+
+### 节气 Solar term
+
+节气是根据地球绕太阳的运行规律而进行划分的，故称 **Solar term**。
+
+<img src="./images/image-20220207150813303.png" alt="image-20220207150813303" style="zoom:80%;" /> 
+
+
+
+Solar 来自拉丁文，表示“跟太阳有关的”，比如太阳系solar system，太阳能 solar energy；而Term 表示“时间段”，24节气就是一年中的24个时间段。
+
+所以“24节气”的英文就是 24 solar terms。
+
+
+
+下面我们按照**正序**，也就是从**“立春”**到**“大寒”**给大家梳理一遍：
+
+
+
+### 立春，雨水
+
+<img src="./images/image-20220207151042510.png" alt="image-20220207151042510" style="zoom:50%;" /><img src="./images/image-20220207151156560.png" alt="image-20220207151156560" style="zoom:47%;" />
+
+1. **立春 Beginning of Spring**
+
+2. **雨水 Rain Water**
+
+前两个比较简单——“立春”表示“春天的开始”，英文 **Beginning of Spring**；“雨水”也是字面含义，翻译为 **Rain Water**。
+
+### 3. **惊蛰 Awakening of Insects**
+
+<img src="./images/image-20220207151341674.png" alt="image-20220207151341674" style="zoom:50%;" /> 
+
+第三个需要解释一下——“惊蛰”。中国古人造字也挺有意思啊，你看这个“蛰”，底下是“虫”，“蛰”表示冬眠中的蛇虫鼠蚁，不吃不动。
+
+而“惊”字表示“春雷惊醒了这些冬眠的动物”， 所谓“春雷惊百虫”。惊蛰之后，万物复苏，这些蛇虫鼠蚁就要出洞了。
+
+我们再来看“惊蛰”的翻译：**Awakening of Insects**。
+
+冬眠的动物种类繁多，无法逐一翻译，就找了 **insects**（昆虫类）当个代表。
+
+
+
+### 4. 春分 Spring Equinox
+
+<img src="./images/image-20220207151802456.png" alt="image-20220207151802456" style="zoom:50%;" /> 
+
+“春分”是24节气中**四**个重要的时间节点之一（另外三个是秋分、冬至、夏至）。因为这一天，太阳直射赤道，也就意味着全球昼夜平分，Equinox 就是“昼夜平分点”的意思。
+
+**`Equi-`**表示**equal**（相等）；**`nox`** 是古罗马神话中的“夜神”，后来指“黑夜”，所以请记住，**equinox** 字面含义就是“昼夜相等”。
+
+所以春分（**Spring Equinox**）还是秋分（**Autumn Equinox**）是一年当中两个昼夜平分点，过了之后，就要“昼长夜短”，或“夜长昼短”了。
+
+来看“清明”，不要和“清明节”混淆，节气这种的“清明”就是字面意思“清澈明朗”，指个时节阳光明媚、草木萌动，自然界呈现生机勃勃的景象。
+
+
+
+### 5. 清明 Pure Brightness
+
+<img src="./images/image-20220207151821870.png" alt="image-20220207151821870" style="zoom:47%;" /> 
+
+来看“清明”，不要和“清明节”混淆，节气这种的“清明”就是字面意思“清澈明朗”，指个时节阳光明媚、草木萌动，自然界呈现生机勃勃的景象。
+
+所以“清明”翻译为 **Pure Brightness**，把“清澈明朗”的本质翻译出来了。
+
+ 
+
+### 6. 谷雨 Grain Rain
+
+<img src="./images/image-20220207151844717.png" alt="image-20220207151844717" style="zoom: 50%;" /> 
+
+“谷雨”表示在这个时节雨水增多，农民伯伯开始播种了，所以英文是 **Grain Rain**，大家记住这个 **Grain**（谷物），后面很多节气都要用到它。
+
+
+
+### 7.  立夏 Beginning of Summer
+
+<img src="./images/image-20220207172053478.png" alt="image-20220207172053478" style="zoom:50%;" /> 
+
+“立夏”表示“夏天的开始”，翻译不多解释——Beginning of Summer。
+
+### 8. 小满 Grain bud
+
+<img src="./images/image-20220207172136167.png" alt="image-20220207172136167" style="zoom:50%;" /> 
+
+“小满”指的是谷雨时播种的作物开始发芽，“小满”表示还未成熟，只是谷物发芽的状态，所以用 grain buds 来表示。
+
+
+
+### 9. 芒种 Grain in Ear
+
+<img src="./images/image-20220207172220909.png" alt="image-20220207172220909" style="zoom:50%;" /> 
+
+ “芒种”表示“有芒的麦子快收，有芒的稻子可种”，指北方收麦和南方种稻之时。“芒”字指“**作物籽粒外壳上的细刺**”，***同时又跟“忙”同音***，暗指这时是农民伯伯最忙的时候。
+
+英语为什么要翻译成 **Grain in Ear**？ 
+
+**Ear** 此处不是“耳朵”的意思啊，而是谷类植物的“穗”，大家可以在留言区把稻穗的 emoji 表情打出来 🌾——你看，饱满的稻穗挂下来，像弯弯的耳朵吧？大家也可以这样记。
+
+**Grain in Ear** 字面意思是“稻穗里的谷物”，强调丰收的概念。
+
+
+
+## 10. 夏至 Summer Solstice
+
+<img src="./images/image-20220207172619161.png" alt="image-20220207172619161" style="zoom:50%;" /> 
+
+### 11. 小暑 Minor Heat
+
+<img src="./images/image-20220207172640209.png" alt="image-20220207172640209" style="zoom:50%;" /> 
+
+
+
+## 12. 大暑 Major Heat
+
+<img src="./images/image-20220207172705011.png" alt="image-20220207172705011" style="zoom:50%;" /> 
+
+
+
+### Reference
+
+1. [冬奥会开幕式“24节气倒计”太高级！英语为何这样翻译？--谢侃](https://mp.weixin.qq.com/s/C4BlHkwzKWt5y4pRvdx2yg)
+
 
 
 ## 扑克牌
