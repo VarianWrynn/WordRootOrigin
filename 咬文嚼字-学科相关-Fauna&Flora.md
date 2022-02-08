@@ -218,11 +218,11 @@ guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿�
 
 ## 鸟类
 
-| 单词       | 解释                                                         | 单词     | 解释                                                         |
-| ---------- | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
-| **Parrot** | n. 鹦鹉, 应声虫<br/>vt. 学舌, 机械地模仿<br /><img src="./images/image-20211117134249336.png" alt="image-20211117134249336" style="zoom: 67%;" /><br />词源不详，可能来自法语方言 Pierre,人名 Peter 的法语形式。<br />比较 parakeet,petrel.由于该鸟学人说话的习惯，也用于形容人鹦鹉学舌。 | Parakeet | 虎皮鹦鹉<br /><img src="./images/image-20211117134344729.png" alt="image-20211117134344729" style="zoom: 50%;" /><br />**Common name**: [Parakeet](https://worldbirds.com/parakeet/), Budgerigar, Budgie |
-| **pipits** | n. 鹨<br/>词源说明(童理民)  <br/>1 - 拟声词，模仿这种小鸟的叫声。 |          |                                                              |
-|            |                                                              |          |                                                              |
+| 单词                       | 解释                                                         | 单词                            | 解释                                                         |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ |
+| **parrot**<br />【ˈpærət】 | n. 鹦鹉, 应声虫<br/>vt. 学舌, 机械地模仿<br /><img src="./images/image-20211117134249336.png" alt="image-20211117134249336" style="zoom: 67%;" /><br />词源不详，可能来自法语方言 Pierre,人名 Peter 的法语形式。<br />比较 parakeet,petrel.由于该鸟学人说话的习惯，也用于形容人鹦鹉学舌。 | **parakeet**<br />【ˈpærəkiːt】 | 虎皮鹦鹉<br /><img src="./images/image-20211117134344729.png" alt="image-20211117134344729" style="zoom: 50%;" /><br />**Common name**: [Parakeet](https://worldbirds.com/parakeet/), Budgerigar, Budgie |
+| **pipits**<br />【ˈpɪpɪt】 | n. 鹨，小百灵<br/><img src="./images/image-20220208101206814.png" alt="image-20220208101206814" style="zoom: 50%;" /><br />词源说明(童理民)  <br/>1 - 拟声词，模仿这种小鸟的叫声。 | **moa**<br />【ˈmoʊə】          | n. 恐鸟<br/><img src="./images/image-20220208101349504.png" alt="image-20220208101349504" style="zoom: 67%;" /><br />词源说明(童理民)  <br/>1 - 新西兰一种已经灭绝的不能飞的大鸟，来自毛利语。 |
+| **dodo**<br />【ˈdoʊdoʊ】  | 渡渡鸟(不能飞行，现已灭绝);笨人;蠢人<img src="./images/image-20220208101711734.png" alt="image-20220208101711734" style="zoom: 45%;" /> |                                 |                                                              |
 
 
 

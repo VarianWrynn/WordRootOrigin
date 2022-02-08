@@ -550,6 +550,18 @@ trivial-关于该词的来源存在两种说法，但只是略有差别。
 
 
 
+### vaudeville 歌舞杂耍表演(尤流行于20世纪初)
+
+据传，15世纪时在法国诺曼底有位漂洗工（fuller）名叫巴斯兰（Olivier Basselin），创作了许多讽刺戏谑的饮酒歌，在当地广受欢迎。他工作的地方是一个名为Vau de Vire的峡谷，因此他所编写的歌便被称为chanson du Vau de Vire 'song of the valley of the Vire'（维尔山谷之歌）。这类歌曲曾经在法国风靡一时，后来被简称为Vau de Vire，而且渐渐地和另一类歌曲voix de ville（都市之声）弄混，进而演变为vau de ville，最后又合为一个词vaudeville。17世纪以后vaudeville被带进了巴黎的剧院，常常穿插在喜剧、哑剧等的演出中。18世纪时英语吸收了该词，起初用以指“通俗歌曲”。到了19世纪，美国人借用了vaudeville来指英国人所说的variety，即“歌舞杂耍表演”。从19世纪晚期至20世纪50年代vaudeville这一轻松欢快的娱乐形式风行全美国，在大城市和新开垦的边远地区尤为流行。它包括10至15个互不相关的单独表演节目，其中有魔术、杂技、喜剧、驯兽、耍把戏、歌舞等。许多著名的喜剧明星和演员一开始都从事过vaudeville表演。
+
+- vaudeville 【ˈvɔːdəvɪl】 歌舞杂耍表演(尤流行于20世纪初)
+
+- The movie studio's founder had gotten his start in vaudeville. (NED) 那位电影制片厂的创办人是搞杂耍表演起家的。
+- Vaudeville was very popular in the United States in the early 1900s. (NED) 20世纪初歌舞杂耍表演在美国十分流行。
+
+词源说明(童理民)  
+1 - 词源有争议，通常认为来自法语 voix de ville,即 village voice,原指村庄或山谷里面的娱乐表演，引申词义歌舞杂耍表演等。
+
 
 
 
