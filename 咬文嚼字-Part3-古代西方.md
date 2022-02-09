@@ -23,6 +23,39 @@
 
 
 
+
+
+### budget（预算）：装财务预算书的皮包
+
+> 来自拉丁语 bulga,皮袋子，钱夹，词源同 ball,膨胀，鼓起，球。预算来自钱夹比喻义。比较bourse,钱夹，股票交易所。
+
+英语单词**budget**源自法语***bougette***（小钱包），是古法语***bouge***（钱包）的指小形式。后缀**`-et`**表示“小”，如**widget**（小部件、小工具）、**closet**（小房间）、**bullet**（子弹，小球）。
+
+单词**budget**原本表示小钱包，后来泛指任何尺寸的钱包，尤其是皮质的钱包。那么，它的意思是如何从“皮包”变成“预算”的呢？原来，在过去，英国财政大臣到议会提请审批财政预算时，通常将预算材料事先装在一个皮包中，在会场上再从皮包中掏出来。所以当时的人们就用“**open the budget**”（打开皮包拿出预算材料）来表示“提出预算”。时间长了，**budget**一词的意思就逐渐从“装预算材料的皮包”转变为“预算”本身了。
+
+- **budget**： ['bʌdʒɪt] n.预算，预算费vt.把……编入预算vi.编制预算adj.廉价的
+
+
+
+**英语词源趣谈(庄和诚)**
+
+该词原义为“皮包”或“钱袋”，它源自拉丁语**bulga**（皮包），但却是通过法语指小词***bougette***（钱袋）进入英语的。我们从辞书里尚能查到这一古义。
+
+旧时店主把钱放在钱袋里，做预算时就得先打开钱袋，数一数现金。据说从前英国财政大臣在议会上提出预算时也有个习惯：先打开皮包（**open the budget**），取出有关文件。于是人们就常常将“皮包”同“预算”相联系。久而久之，**budget**的词义逐渐引申为“预算”或“预算案”。至今英语还保留着**open the budget**一语，但它已丧失原义，现仅用于引申义“***向议会提出预算案***”。
+
+关于**budget**词义的这种演变还有另外一种解释。1733年，英国财政大臣沃波尔爵士（Robert Walpole, 1676-1745）提出了一项不得人心的消费税议案，有一本政治小册子将他比作“集市上打开假药包的江湖医生”（a mountebank at a fair opening his budget of crank medicines），从此以后budget就和政府财政预算联系起来了。**budget**亦可作动词用，表示“编预算”、“计划”或“安排”。
+
+英语另有一个词**bulge**（膨胀）和**budget**是同源词，也是源于拉丁语**bulga**的。
+
+- The firm has drawn up a budget for the coming financial year. (CID) 公司已制定了下一财政年度的预算。
+- It's important to balance one's budget. 使收支平衡十分重要。
+- We'll have to budget more carefully in the future. We've spent far more than we can afford. (LLA) 我们在将来必须更精打细算。我们的开支已远远超出我们所能承受的。
+- You will have to learn how to budget your time to get all your work done. (CAE) 要把所有工作都做完的话，你必须安排好自己的时间。
+
+
+
+
+
 ## 外交
 
 

@@ -59,7 +59,7 @@
 
 > 来自拉丁语 thesauras,仓库，储藏室，来自希腊语 thesauros,仓库，储藏室，来自 PIE*dhe,做，放置，词源同 do,fact,thesis.后 19 世纪词典编纂学家借用该拉丁词来命名同义词词典，最终引申该词义。
 
-**thesaurus** - 19世纪直接借自拉丁语，源于希腊语***thēsaurós***，本义为**treasure**（财宝）或**treasure house**（宝库）。
+**thesaurus** 【θɪˈsɔːrəs】- 19世纪直接借自拉丁语，源于希腊语***thēsaurós***，本义为**treasure**（财宝）或**treasure house**（宝库）。
 
 - 在凯撒（Julius Caesar, 100-44 BC）时代，当**thesaurus**进入拉丁语时，它喻指**storehouse of knowledge**（知识宝库）；
 - 在文艺复兴时期，它成了几部大型希腊语、拉丁语辞书的书名；
@@ -89,27 +89,39 @@
 
 
 
+
+
+##  -zoan = animal, 表示“动物”{6}
+
+> 源自希腊语 zôion "animal" 的复数 zoia.
+
+
+
+| 单词                                   | 解释                                                         | 单词 | 解释 |
+| -------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **proto∙zoan** <br />【ˌproʊtəˈzoʊən】 | n. 原生动物<br/>推荐：proto-原始 + -zoan, 动物<br/><br/>proto- = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”。<br/>-zoan = animal, 表示“动物”。源自希腊语 zôion "animal" 的复数 zoia.<br/>词源说明(童理民)  <br/>1 - proto-,原始的，最早的，-zo,动物，词源同 zoo. |      |      |
+|                                        |                                                              |      |      |
+|                                        |                                                              |      |      |
+
+
+
 ## mammal ['mæm(ə)l] n.哺乳动物
 
 > **mammal[ˈmæml]**
-> mamm- 
-> = breast, 表示“乳房”。源自拉丁语 mamma "breast."
->
-> -al 
-> 表名词，“人，物，状态”
+> mamm- = breast, 表示“乳房”。源自拉丁语 mamma "breast."
+> 
+>-al 表名词，“人，物，状态”
 
 这个单词是瑞典生物学家林奈根据拉丁单词mammalis（意思是of the breast，词根mamma-表示乳头，因为所有的雌性哺乳动物都用乳汁喂养幼崽）创造。林奈所处的时代，欧洲很多妇女习惯把婴儿交给奶妈喂养，导致婴儿死亡率奇高。林奈创造这个单词，同时也是在提倡母乳喂养。 
 
 > **mamm∙ary  [ˈmæməri]**
-> mamm- 
-> = breast, 表示“乳房”。源自拉丁语 mamma "breast."
->
-> -ary 
-> 表形容词，“…的”。
+> mamm- = breast, 表示“乳房”。源自拉丁语 mamma "breast."
+> 
+>-ary 表形容词，“…的”。
 
 ### baby
 
-mammal - baby一词来自babe，原为babe的指小词，一度指“玩具娃娃”。babe则是模仿婴儿哭声baba构成的儿语拟声词，中古英语作baban，曾作标准词用，意指“婴儿”，而今多见于诗歌语言，其原先地位已为后来者baby所取代。
+**baby**一词来自**babe**，原为**babe**的指小词，一度指“玩具娃娃”。babe则是模仿婴儿哭声baba构成的儿语拟声词，中古英语作baban，曾作标准词用，意指“婴儿”，而今多见于诗歌语言，其原先地位已为后来者baby所取代。
 
 在非正式用语中，babe常用以表示对妻子、丈夫、情人的昵称，相当于汉语“宝贝”。baby除指“婴儿”还可转义为“年纪最小的人”、“孩子气的人”等；作动词用时，则表示“把……当婴儿对待”。
 

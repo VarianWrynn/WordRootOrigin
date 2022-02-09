@@ -609,3 +609,25 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 - **allergic**： [ə'lɝdʒɪk] adj. 对…过敏的；对…极讨厌的
 - **allergen**：['ælɚdʒən] n. 过敏原
 
+
+
+### clinic 诊所
+
+> clin- = bed, 表示“床”。源自希腊语 cline "bed."
+>
+> -ic 表形容词，“…的”。
+>
+> 来自 PIE*klei,倾斜，词源同 lean,incline.原义为躺下，病床，医生上门给病人看病的病床。
+
+clinic - 源自拉丁语clīnicus，原义是“卧床不起的人”（bedridden person），再往上可溯源至希腊语klīnē 'bed'（床）。该词是作为形容词于17世纪进入英语的，用以表示“卧床不起的”（bedridden），同时也用作名词，仍保留拉丁语的原义。
+
+到了18世纪clinic不再用作形容词，其形容词身份被派生词clinical所取代。clinic的今义“诊所”是19世纪末从法语clinique或德语Klinik借用过来的。
+
+以后又由此引申出“门诊部”、“（医院的）科”、“专科医院”、“门诊”等义，而clinical除了表示“诊所的”或“医院的”，又被赋予了“临床的”、“冷静客观的”等义。
+
+
+
+- She is being treated at the school clinic. 她在学校的医务室接受治疗。
+- Dr. Li holds a clinic on Monday mornings. 李医生每星期一上午门诊。
+- The medical students will begin their clinical training next month. (CID) 医科学生将在下月开始临床实习。
+
