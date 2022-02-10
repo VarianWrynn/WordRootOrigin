@@ -4,6 +4,25 @@
 
 [toc]
 
+## 术语表
+
+
+
+| 单词                                                         | 解释                                                         | 单词                                                         | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **divisor**<br />【dɪˈvaɪzər】                               | A **[divisor](https://leetcode-cn.com/problems/perfect-number/)** of an integer `x` is an integer that can divide `x` evenly.<br />除数;除子<br />***When you [divide](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/divide) 21 by 7, 7 is the divisor.*** | **factor**                                                   | 因子;因数; a number that divides into another number exactly<br />***1, 2, 3, 4, 6 and 12 are the factors of 12.*** |
+| common divisor                                               | 公约数<br />公约数，亦称“公因数”。它是指能同时整除几个整数的数 [1] 。如果一个整数同时是几个整数的[约数](https://baike.baidu.com/item/约数/8417882)，称这个整数为它们的“公约数”；公约数中最大的称为最大公约数。对任意的若干个[正整数](https://baike.baidu.com/item/正整数/8461335)，1总是它们的公因数。 | Common factor                                                | 公因数<br />公因数，亦称“[公约数](https://baike.baidu.com/item/公约数/1063409)”。它是一个能同时整除若干整数的[整数](https://baike.baidu.com/item/整数/1293937) [1] 。如果一个整数同时是几个整数的[因数](https://baike.baidu.com/item/因数/9539111)，称这个整数为它们的“公因数”；公因数中最大的称为最大公因数。 |
+| [**prime factor**](https://leetcode-cn.com/problems/ugly-number-ii/) | [质因数](https://www.mathsisfun.com/definitions/prime-factor.html): A factor that is a prime number.<br />In other words: any of the prime numbers that can be multiplied to give the original number.<br />Example: The prime factors of 15 are 3 and 5 (because 3×5=15, and 3 and 5 are prime numbers).<br /><img src="./images/image-20220210173034509.png" alt="image-20220210173034509" style="zoom: 67%;" /> | [**prime number**](https://www.mathsisfun.com/definitions/prime-number.html) | prime number**素数**（也叫**质数**），指只能被1和自身整除且大于1的自然数。A whole number above 1 that can **not** be made by multiplying other whole numbers.<br /><img src="./images/image-20220210173157396.png" alt="image-20220210173157396" style="zoom:67%;" /><br />词根prim与first同源，意思就是最初的、开始的。其应用于数学概念开始于1560年。我们最为熟悉的应该就是primary school小学和prime minister首相；总理这两个例子了。<br />人是primate灵长类动物是因为你我在哺乳动物中first in order。 |
+| relatively prime                                             | 互质<br />互质是公约数只有1的两个整数，叫做互质整数。[公约数](https://baike.baidu.com/item/公约数/1063409)只有1的两个[自然数](https://baike.baidu.com/item/自然数/385394)，叫做互质自然数，后者是前者的特殊情形。 | multiple                                                     | 倍数                                                         |
+|                                                              |                                                              | Least Common Multiple                                        | 最小公倍数                                                   |
+| The simplest fraction                                        | 最简分数<br />最简分数，是分子、[分母](https://baike.baidu.com/item/分母/5421449)只有[公因数](https://baike.baidu.com/item/公因数)1的分数，或者说分子和分母[互质](https://baike.baidu.com/item/互质/577412)的分数，又称[既约分数](https://baike.baidu.com/item/既约分数/1332623)。如：二分之一，三分之二，九分之八，八分之三等等。 | Reduction                                                    | 约分                                                         |
+|                                                              |                                                              |                                                              |                                                              |
+| [ugly number](https://leetcode-cn.com/problems/ugly-number-ii/) | An ugly number is a positive integer whose **prime factors** are limited to 2, 3, and 5. | [perfect number](https://leetcode-cn.com/problems/perfect-number/) | A [perfect number](https://en.wikipedia.org/wiki/Perfect_number) is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. <br />对于一个 **正整数**，如果它和除了它自身以外的所有 **正因子** 之和相等，我们称它为 「完美数」。<br />eg：28 = 1 + 2 + 4 + 7 + 14 <br />1, 2, 4, 7, 和 14 是 28 的所有正因子。那么28是个完美数 |
+
+
+
+
+
 ##  math-  = learn, 表示“学习、知识”{6}
 
 math- 
