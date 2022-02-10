@@ -16,12 +16,20 @@
 
 | 单词                                                         | 解释                                                         | 单词                                                    | 解释                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
-| **saur-ian**<br />【ˈsɔːriən】                               |                                                              | **dino-saur**<br />【ˈdaɪnəsɔːr】                       |                                                              |
+| **saur-ian**<br />【ˈsɔːriən】                               |                                                              | **dino-saur**<br />【ˈdaɪnəsɔːr】                       | n. 恐龙<br/>推荐：dino-恐怖的 + saur-蜥蜴，用于指恐龙。<br/>dino- 表示“害怕，恐惧”。源自希腊语 deinos "fearful, monstrous."<br/>saur- = lizard, 表示“蜥蜴” |
 | **bronto-saur-us**<br />【ˌbrɑːntəˈsɔːrəs】                  | bronto- <br/>= thunder, 表示“雷”。源自希腊语 bronte "thunder."<br />雷龙;原始的雷龙;雷龙属<br /><img src="./images/image-20211206150521739.png" alt="image-20211206150521739" style="zoom: 39%;" /> | **ichthyo-saur**<br />【ɪkθɪəsɔ:ə】                     | **`ichthyo-`** <br/>= fish, 表示“鱼”。源自希腊语 ikhthus "fish."<br />（古生）鱼龙<br /><img src="./images/image-20211206150804322.png" alt="image-20211206150804322" style="zoom: 33%;" /> |
 | **megalo-saur-us**<br />【ˌmeɡələˈsɔːrəs】                   | 巨蜥，巨齿龙(最早得到科学研究的恐龙之一)<br /><img src="./images/image-20211206151100085.png" alt="image-20211206151100085" style="zoom: 33%;" /> | **ptero-saur**<br />【ˈterəˌsɔr】                       | 翼龙<br /><img src="./images/image-20211206151232874.png" alt="image-20211206151232874" style="zoom:33%;" /> |
-| **plesio-saur**<br />【plisɪrsɔ】                            | 蛇颈龙;蛇颈龙类<br /><img src="./images/image-20211206151357014.png" alt="image-20211206151357014" style="zoom:33%;" /> | **plesio-saur-us**<br />【ˌplisɪəˈsɔrəs】               | 蛇颈龙;蛇颈龙属;中生代十分繁盛的蛇颈蜥属;蛇颈龙类            |
-| **stego-saur-us**<br />【ˌsteɡə'sɔrəs】                      | 剑龙<br /><img src="./images/image-20211206151533926.png" alt="image-20211206151533926" style="zoom: 67%;" /> | **tyranno-saur-us**<br />【tɪˌrænə'sɔrəs】              | 暴龙<br /><img src="./images/image-20211206151658404.png" alt="image-20211206151658404" style="zoom:33%;" /> |
+| **plesio-saur**[^2]<br />【plisɪrsɔ】                        | 蛇颈龙;蛇颈龙类<br /><img src="./images/image-20211206151357014.png" alt="image-20211206151357014" style="zoom:33%;" /><br />n. 蛇颈龙<br/>推荐：plesio-接近 + saur-蜥蜴。<br/>**`plesio-`** = near, 表示“接近，近似于”。源自希腊语 plesios "near."<br/>**`saur-`** = lizard, 表示“蜥蜴”。 | **plesio-saur-us**<br />【ˌplisɪəˈsɔrəs】               | 蛇颈龙;蛇颈龙属;中生代十分繁盛的蛇颈蜥属;蛇颈龙类            |
+| **stego-saur-us**[^1]<br />【ˌsteɡə'sɔrəs】                  | 剑龙<br /><img src="./images/image-20211206151533926.png" alt="image-20211206151533926" style="zoom: 67%;" /><br />**`tect-,teg-`** = cover, 表示“盖上”。源自拉丁语 tegere "to cover," tegula "tile."<br/>**`saur-`** = lizard, 表示“蜥蜴”。 | **tyranno-saur-us**<br />【tɪˌrænə'sɔrəs】              | 暴龙<br /><img src="./images/image-20211206151658404.png" alt="image-20211206151658404" style="zoom:33%;" /> |
 | **ankylo-saur**                           <br />【ˈæŋkɪləsɔːr】 | **`ankylo-`** <br/>表示“弯曲、僵硬、粘连”。源自希腊语 ankulos "crooked, bent."<br />甲龙(食草恐龙，全身披甲)<br /><img src="./images/image-20211206150130465.png" alt="image-20211206150130465" style="zoom: 50%;" /> | **psitaco-saurus**         <br />【psit·ta·co·sau·rus】 | **`psittaco-`** <br/>= parrot, 表示“鹦鹉”。源自希腊语 psittakos "a parrot."<br />鹦鹉嘴龙<br /><img src="./images/image-20211206145829359.png" alt="image-20211206145829359" style="zoom: 39%;" /> |
+
+[^1]: 来自希腊语 stegos,屋顶，屋顶瓦，来自 PIE*steg,覆盖，词源同 deck,detective,tegular.-saurus,恐龙，词源同 dinosaur.因这种恐龙背部覆盖有三角板而得名。<br/>**detect** [dɪ'tekt] vt.察觉；探测。前缀de-表away from,down，<br>词根**`teg-`**,**`tect-`**表to cover or cover，与日耳曼词源的**thatch** [θætʃ] n.茅草；浓密的头发；茅草屋顶，vt.用茅草覆盖屋顶，同源，<br>也与希腊词根**`stego-`**同源，比如**stegosaurus** [,steɡə'sɔːrəs] n.剑龙（有背甲）。**detect**，就是除掉盖子。
+
+
+
+[^2]: 是一类适应浅水环境中生活的类群，个体较大，且长颈，据推测非常“接近”现代爬行动物，并因此得名。
+
+
 
 ### 1. Dinosaure(恐龙)：令人恐怖的蜥蜴
 
