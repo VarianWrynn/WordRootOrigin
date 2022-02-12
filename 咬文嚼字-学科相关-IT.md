@@ -8,36 +8,18 @@
 
 
 
-## matrix 母体与矩阵
-
-n. **母体, 子宫, 基质, 脉石, 模型, 矩阵**
-
-> 推荐：
-> matri-母亲 + x → 母亲 → 母体。
-
-> 词根分解  [词根树]
-> **`matern-,matr-` **
-> = mother, 表示“母性，母亲”，源自拉丁语 mater "mother", 属格形式 matris。母亲生出各种各样的孩子，就好像原材料做出各种物品一样，由此引出材料的含义。
-
-<img src="./images/image-20220122160949872.png" alt="image-20220122160949872" style="zoom:50%;" /> 
-
-**词源说明(童理民)**  
-
-1 - 来自拉丁语 matrix,子宫，母体，来自 mater,母亲。引申词义社会环境，并用于指科学术语矩阵。见电影《黑客帝国》。
-
-**摩西英语(摩西)**
-
-matrix ['meɪtrɪks] n.矩阵；模型；[生物][地质] 基质；母体；子宫。拉丁词源，与英语本族单词mother同源。英国学者William Tyndale在自己从拉丁语翻译作英语的《圣经》中第一次将这个单词引入了英语。体会一下所有的意思，**都和母亲在子宫里孕育胎儿这一现象有关。矩阵？括号里包含（孕育）着数集**。 
+| 单词                              | 解释                                                         | 单词                                 | 解释                                                         |
+| --------------------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
+| **hash**<br />【hæʃ】             | Hash 杂烩 => 哈希表<br />n. 剁碎的食物, 杂乱无章的的一大堆, 杂烩, 复述, <br />【计】散列 <br />vt. 切碎, 搞糟 <br /><img src="./images/image-20220212172559666.png" alt="image-20220212172559666" style="zoom: 25%;" /><br />1 - 来自法语 hacher,剁，剁碎，词源同 hatchet.<br />引申词义跺碎的肉丁土豆，拼定比较 bake,batch. |                                      |                                                              |
+| **matrix**[^1]<br />【ˈmeɪtrɪks】 | n. **母体, 子宫, 基质, 脉石, 模型, 矩阵**<br />推荐： matri-母亲 + x → 母亲 → 母体。<br /><img src="./images/image-20220122160949872.png" alt="image-20220122160949872" style="zoom: 33%;" /><br /> 词根分解  [词根树] **`matern-,matr-` ** = mother, 表示“母性，母亲”，源自拉丁语 mater "mother", 属格形式 matris。<br />母亲生出各种各样的孩子，就好像原材料做出各种物品一样，由此引出材料的含义。<br />来自拉丁语 matrix,子宫，母体，来自 mater,母亲。引申词义社会环境，并用于指科学术语矩阵。见电影《黑客帝国》。 | Sublime<br />【səˈblaɪm】            | a. 高尚的, 壮观的, 卓越的 <br />v. 提高, (使)变高尚, (使)纯化, (使)升华<br /> n. 庄严, 崇高, 顶点<br />sub-在…下面 + lim-限制 + -e → 在限制下不乱做事 → 崇高的。<br /> **`sub-`** = under, beneath; behind; from under; resulting from further division，表示“在下面，次一等，副手，下一级，接近”等。源自拉丁语 sub "under." <br />**`lime-`** = threshold, 表示“门槛，限制”。<br />  <img src="./images/image-20220130204522064.png" alt="image-20220130204522064" style="zoom: 50%;" /><br />sub-,在下，向上，-lim,门槛，界限，词源同 limit. 引申比喻义接近完美的界限，升华，使高尚。引申词义崇高的，壮观的。 |
+| compil∙ation                      | n. 编辑, 编纂, 编辑(编纂)物<br/>推荐：compile【编辑】 + -ation表名词，是单词compile 派生的名词。<br/><br/>**`compile`** vt. 编译, 编辑, 编纂, 收集<br/>**`-ation`** 表名词，“行为、动作、状态、过程、结果；物品”等。 | com∙pil∙e                            | vt. 编译, 编辑, 编纂, 收集<br/>推荐：com-强调 + pil-堆积，词源同pile , pellet。<br/><br/>**`com-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。源自拉丁语 com "with (collective and intensive prefix.)"<br/>**`pil-`** = pillar, heap, 表示“柱，堆，堆积”。<br/>词源说明(童理民)  <br/>1 - com-,表强调，-pil,堆积，词源同 pile,pellet. |
+|                                   |                                                              | **aux∙ili∙ary**<br />【ɔːɡˈzɪliəri】 | n. 辅助者, 辅助物, 附属机构, 助动词<br/>a. 辅助的, 备用的<br />**`aux-`** = increase, 表示“增加”，auth-引申为产生，创造。源自拉丁语 augere (过去分词 auctus) "to increase."<br/>**`-ary`** 表名词，“人，场所，物”。 |
 
 
 
-## Hash 杂烩 => 哈希表
+[^1]:matrix ['meɪtrɪks] n.矩阵；模型；[生物][地质] 基质；母体；子宫。拉丁词源，与英语本族单词mother同源。英国学者William Tyndale在自己从拉丁语翻译作英语的《圣经》中第一次将这个单词引入了英语。体会一下所有的意思，**都和母亲在子宫里孕育胎儿这一现象有关。矩阵？括号里包含（孕育）着数集**。 
 
-n. 剁碎的食物, 杂乱无章的的一大堆, 杂烩, 复述, 【计】散列
-vt. 切碎, 搞糟
-【复数：hashes；过去分词：hashed；现在分词：hashing】
 
-1 - 来自法语 hacher,剁，剁碎，词源同 hatchet.引申词义跺碎的肉丁土豆，拼定比较 bake,batch.
 
 
 
@@ -117,17 +99,7 @@ vt. 切碎, 搞糟
 
 <img src="./images/image-20220201230213437.png" alt="image-20220201230213437" style="zoom: 50%;" /> 
 
-## aux∙ili∙ary 【ɔːɡˈzɪliəri】
 
-> aux∙ili∙ary  [词根树]
-> aux- 
-> = increase, 表示“增加”，auth-引申为产生，创造。源自拉丁语 augere (过去分词 auctus) "to increase."
-> 更多同源词...
-> -ary 
-> 表名词，“人，场所，物”。
-
-n. 辅助者, 辅助物, 附属机构, 助动词
-a. 辅助的, 备用的
 
 
 
@@ -223,28 +195,6 @@ a. 辅助的, 备用的
 1. [What is Breadcrumb & How It Eases Navigation? Explained with Examples](https://vwo.com/blog/why-use-breadcrumbs/)
 
 
-
-## Sublime
-
-<img src="./images/image-20220130204522064.png" alt="image-20220130204522064" style="zoom:80%;" /> 
-
-> sub-在…下面 + lim-限制 + -e → 在限制下不乱做事 → 崇高的。
->
-> sub∙lime  [词根树]
-> **`sub-`** = under, beneath; behind; from under; resulting from further division，表示“在下面，次一等，副手，下一级，接近”等。源自拉丁语 sub "under."
-> **`lime-`** = threshold, 表示“门槛，限制”。
-
-- a. 高尚的, 壮观的, 卓越的
-- v. 提高, (使)变高尚, (使)纯化, (使)升华
-- n. 庄严, 崇高, 顶点
-
-【比较级：sublimer；最高级：sublimest；过去分词：sublimed；现在分词：subliming；第三人称单数：sublimes】
-
-
-词源说明(童理民)  
-
-- sub-,在下，向上，-lim,门槛，界限，词源同 limit.
-- 引申比喻义接近完美的界限，升华，使高尚。引申词义崇高的，壮观的。
 
 
 
