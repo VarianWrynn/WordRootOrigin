@@ -482,6 +482,25 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## immuno- 表示“免疫”{41}
+
+> immuno- 
+> 表示“免疫”，由 im-（否定） + muni-（公共的）组成，字面含义“不接触公共的（东西）”。源自拉丁语 munus "duty, work, gift."
+>
+> im-,不，非，-mun,公共的，履行公共服务的，词源同 common,communicate.即免除公共责任或义务，后引申词义免疫的，受保护的。
+
+
+
+| 单词     | 解释 | 单词 | 解释 |
+| -------- | ---- | ---- | ---- |
+| im∙mun∙e |      |      |      |
+|          |      |      |      |
+|          |      |      |      |
+
+
+
+
+
 ## rhe-,rrhex,rrhea-= to flow, 表示“流” {35}
 
 古希腊人认为风湿病是由多余的液体流入关节引起韧带肿胀，所以命名为 rheumatism。源自希腊语 rhein "to flow," rheuma "stream, humor of the body."
@@ -513,20 +532,34 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
-## immuno- 表示“免疫”
+## chol- = bile, 表示“胆，胆汁” 源自希腊语 khole "bile." {16}
 
-> immuno- 41
-> 表示“免疫”，由 im-（否定） + muni-（公共的）组成，字面含义“不接触公共的（东西）”。源自拉丁语 munus "duty, work, gift."
->
-> im-,不，非，-mun,公共的，履行公共服务的，词源同 common,communicate.即免除公共责任或义务，后引申词义免疫的，受保护的。
+> 古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."
 
 
 
-| 单词     | 解释 | 单词 | 解释 |
-| -------- | ---- | ---- | ---- |
-| im∙mun∙e |      |      |      |
-|          |      |      |      |
-|          |      |      |      |
+| 单词                                  | 解释                                                         | 单词 | 解释 |
+| ------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **melan∙chol∙y**<br />【ˈmelənkɑːli】 | n. 忧郁, 悲哀, 愁思<br/>a. 忧郁的, 使人悲伤的, 愁思的<br/>推荐：<br/>melan-黑 + chol-胆汁 + -y → 胆汁发黑 → 忧郁。<br/><br/>melan- = black, 表示“黑”。源自希腊语 melas "black."<br/>chol- = bile, 表示“胆，胆汁”。 |      |      |
+|                                       |                                                              |      |      |
+|                                       |                                                              |      |      |
+
+
+
+### melancholy（忧郁）：导致人性情忧郁的黑胆汁
+
+> 来自拉丁语 melancholia,来自希腊语 malankholia,黑胆汁过度分泌， 忧郁，悲伤，来自 melas,黑的，词源同 melanin,khole,胆汁，词源同 gall.在古代观念中，人的忧郁，悲伤等是由于黑胆汁的过度分泌引起的。参照 humor,体液，体液学说。
+
+四体液学说还认为，一个人如果体内黑胆汁太多，就会变得“性情忧郁”。在希腊语中，“黑胆汁”被称为*melankholia*，由***melanos***（黑）和***khole***（胆汁，choler）组合而成。该词进入英语后拼写演变为**melancholy**，含义转变为 “忧郁、悲哀”。
+
+- **melancholy**：['melənkəlɪ] n.忧郁；悲哀；愁思adj. 忧郁的；使人悲伤的
+- **melancholia**：[,mɛlən'kolɪə] n. 忧郁症
+- **melancholic**：[,mɛlən'kɑlɪk] 
+  - adj. 忧郁的；抑郁的；患忧郁症的
+  - n. 忧郁症患者
+- **melanin**：['mɛlənɪn] n. 黑色素
+
+
 
 
 
