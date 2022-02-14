@@ -26,10 +26,6 @@
 
   
 
-##  [Taxonomic rank](https://en.wikipedia.org/wiki/Taxonomic_rank)
-
-
-
 ## phyt- = plant, 表示“植物” {37}
 
 > 源自希腊语 phutos, phuton "a plant."
@@ -156,6 +152,22 @@ A **larva** is an insect at the stage of its life after it has developed from an
 - （比较）**mosque**【mɑːsk】 n. 清真寺 (a building in which Muslims worship )
 
   > 来自阿拉伯语 masjid,祷告的地方，清真寺，来自 ma-,表方位，sajada,俯伏在地，祈祷，祷告。
+
+
+
+
+
+
+
+
+
+## flagell- = whip, 表示“鞭子”。源自拉丁语 flagrum "a whip."{7}
+
+| 单词                                                   | 解释                                                         | 单词             | 解释                                                         |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
+| **flagell-um  **                  <br />【fləˈdʒɛləm】 | n. 鞭毛, 鞭状葡萄枝, 鞭子<br/>推荐：flagell-鞭子 + -um<br/><br/>f**`lagell-`** = whip, 表示“鞭子”。源自拉丁语 flagrum "a whip."<br/>词源说明(童理民)  <br/>1 - 词源同 flagellate,鞭笞。用于解剖学名词。 | cysto-flagellata | n. 囊状鞭毛虫类<br/>推荐：Cysto-囊+ flagellata【鞭毛虫类】<br/><br/>Flagellata 【医】 鞭毛虫类<br/>**`cyst-`** = bladder, pouch, 表示“囊”, 医学上引申为“膀胱”。源自希腊语 kustis "bladder, bag" < "bellows."<br/>**`flagell-`** = whip, 表示“鞭子”。源自拉丁语 flagrum "a whip." |
+|                                                        |                                                              |                  |                                                              |
+|                                                        |                                                              |                  |                                                              |
 
 
 
@@ -344,11 +356,12 @@ also *-in*, adjectival word-forming element, Middle English, from Old French *-i
 | chlor-ine                              |                                                              | curarine                                             |                                                              |
 | iod-ine                                |                                                              | epi-nephr-ine                                        |                                                              |
 |                                        |                                                              | vasel-ine                                            |                                                              |
-| chol-ine                               |                                                              | fluor-ine                                            |                                                              |
+| **cholr-ine**<br />【ˈklɔːriːn】       | n. 氯<br/>推荐：chlor-氯 + -ine<br/><br/>**`chlor-`** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 | **chol-ine**<br />【kəʊli:n】                        | n. 胆碱<br/>推荐：chol-胆 + -ine<br/><br/>**`chol-`** = bile, 表示“胆，胆汁”。古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
 | **mescal-ine**     <br />【ˈmeskəlɪn】 | 墨斯卡林，仙人球毒碱(从仙人球中提取的致幻剂)<br />a drug obtained from a type of cactus , that affects people's minds and makes them see and hear things that are not really there | **aspir-in**<br />【ˈæsprɪn】                        | 阿司匹林,一种解热镇痛药品的商标名称。<br />a drug used to reduce pain, fever and inflammation |
 | dis-cip-l-ine                          | **`dis-`**分开 + **`cip-`**抓住 + **`-l-`** + **`-ine`**。引申词义训练，必要的纪律，惩罚。 | doctr-ine                                            | = to teach, 表示“教”。源自拉丁语 docere "to teach."          |
 | fam-ine                                | fam-来自拉丁语fames,饥饿，饥荒                               | rout-ine                                             | **route** n. 路径, 途径, 路线 vt. 确定路线, 按规定路线发送。<br />常规;正常顺序;生活乏味;无聊;(演出中的)一套动作，一系列笑话(等) |
 | mar-ine                                | 舰队，水兵                                                   | **glycer∙ine**<br />【ˈɡlɪsərɪn】                    | n. 甘油, 丙三醇： a thick sweet clear liquid made from fats and oils and used in medicines, beauty products and explosives<br/>推荐：glycer-甜 + -ine<br/>**`glycer-`** = sweet, 表示“甜”，构成医学词汇时表示“葡萄糖”。源自希腊语 glukus "sweet."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
+| fluor-ine                              |                                                              |                                                      |                                                              |
 
 [^3]: nectar（甘露）：神的饮品。希腊神话众神饮用的琼浆玉液叫做nektar，由nek-（死亡）和-tar（战胜）组成，字面意思就是“战胜死亡”，据说神仙们饮用后可以永葆美貌并长生不老。英语单词nectar就来来源于此。nectar：['nektə] n.花蜜，甘露，琼浆玉液，神酒，美味的饮料 <br>nectarous：['nektərəs] adj.甘美的，神酒似的
 
@@ -418,7 +431,7 @@ vacc-
 | **halit-osis **                             <br />【ˌhælɪˈtoʊsɪs】 | **`halit-`** = breathe, 表示“呼吸”，来自拉丁语。<br/>**`-osis`** 医学词根，表示“病理状况”，复数形式 -oses。<br />a condition in which the breath smells unpleasant | **acid-osis**                         <br />【ˌæsəˈdoʊsəs】 | **`acid`** n. 酸, 酸类物质, 尖刻, 迷幻药 a. 酸的, 酸性的, 尖刻的, 敏锐的<br/>**`-osis`** 医学词根，表示“病理状况”，复数形式 -oses。<br />abnormally high acidity (excess hydrogen-ion concentration) of the blood and other body tissues |
 | **`parasit∙osis`**<br />【ˌpærəsaɪ'təʊsɪs】                  | **`parasite`** <br/>n. 寄生生物, 寄生虫, 食客<br />a parasitic disease or infestation | **pollin∙osis**<br />【ˌpɑləˈnosɪs】                        | **`pollen`** n. 花粉 vt. 传授花粉给<br /> seasonal rhinitis resulting from an allergic reaction to pollen |
 | **psych∙osis**  <br />【saɪˈkoʊsɪs】                         | **`psych-`** = soul, 表示“灵魂，心理，精神”。源自希腊语 psykhe "spirit, soul."<br />a serious mental illness that affects the whole personality | **toxic∙osis**<br />【tɒksɪ'kəʊsɪs】                        | **`toxic-`** = poison, 表示“毒”。源自希腊语 toxon "bow."<br/>any disease or condition caused by [poisoning](https://www.collinsdictionary.com/zh/dictionary/english/poisoning) |
-| **zoo∙nos∙is**<br />【zəʊ'ɒnəsɪs】                           | **`-osis`** 医学词根，表示“病理状况”，复数形式 -oses。<br/>**`zoo-`** = animal, 表示“动物”。源自希腊语 zoon, zoion "living being, animal."<br/>**`nos-`** = disease，表示“疾病”。源自希腊语nosos "disease, sickness, malady."<br />an animal disease that can be transmitted to humans（人畜（兽）共患病） |                                                             |                                                              |
+| **zoo∙nos∙is**<br />【zəʊ'ɒnəsɪs】                           | **`-osis`** 医学词根，表示“病理状况”，复数形式 -oses。<br/>**`zoo-`** = animal, 表示“动物”。源自希腊语 zoon, zoion "living being, animal."<br/>**`nos-`** = disease，表示“疾病”。源自希腊语nosos "disease, sickness, malady."<br />an animal disease that can be transmitted to humans（人畜（兽）共患病） | **chlor-osis**<br />【klə'rəʊsɪs】                          | 萎黄病；缺绿病;褪绿部分 iron deficiency anemia in young women<br />  **`chlor-`** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color." <br />**`-osis`** 医学词根，表示“病理状况”，复数形式 -oses。 |
 
 
 
@@ -515,6 +528,20 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## cyst-= bladder, pouch, 表示“囊”, 医学上引申为“膀胱”{24}
+
+> 源自希腊语 kustis "bladder, bag" < "bellows."
+
+| 单词             | 解释                                                         | 单词 | 解释 |
+| ---------------- | ------------------------------------------------------------ | ---- | ---- |
+| cysto-flagellata | n. 囊状鞭毛虫类<br/>推荐：Cysto-囊+ flagellata【鞭毛虫类】<br/><br/>Flagellata 【医】 鞭毛虫类<br/>**`cyst-`** = bladder, pouch, 表示“囊”, 医学上引申为“膀胱”。源自希腊语 kustis "bladder, bag" < "bellows."<br/>**`flagell-`** = whip, 表示“鞭子”。源自拉丁语 flagrum "a whip." |      |      |
+|                  |                                                              |      |      |
+|                  |                                                              |      |      |
+
+
+
+
+
 ## pneumon- = lung, 表示“肺”{19}
 
 > pneumon- 
@@ -535,14 +562,17 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 ## chol- = bile, 表示“胆，胆汁” 源自希腊语 khole "bile." {16}
 
 > 古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."
+>
+> 注意区分 【chlor-  = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish{32 】
 
 
 
-| 单词                                  | 解释                                                         | 单词 | 解释 |
-| ------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
-| **melan∙chol∙y**<br />【ˈmelənkɑːli】 | n. 忧郁, 悲哀, 愁思<br/>a. 忧郁的, 使人悲伤的, 愁思的<br/>推荐：<br/>melan-黑 + chol-胆汁 + -y → 胆汁发黑 → 忧郁。<br/><br/>melan- = black, 表示“黑”。源自希腊语 melas "black."<br/>chol- = bile, 表示“胆，胆汁”。 |      |      |
-|                                       |                                                              |      |      |
-|                                       |                                                              |      |      |
+| 单词                                  | 解释                                                         | 单词                              | 解释                                                         |
+| ------------------------------------- | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
+| **cholr-ine**<br />【ˈklɔːriːn】      | n. 氯<br/>推荐：chlor-氯 + -ine<br/><br/>**`chlor-`** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 | **chol-ine **   <br />【kəʊli:n】 | n. 胆碱<br/>推荐：chol-胆 + -ine<br/><br/>**`chol-`** = bile, 表示“胆，胆汁”。古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
+| **melan∙chol∙y**<br />【ˈmelənkɑːli】 | n. 忧郁, 悲哀, 愁思<br/>a. 忧郁的, 使人悲伤的, 愁思的<br/>推荐：<br/>melan-黑 + chol-胆汁 + -y → 胆汁发黑 → 忧郁。<br/><br/>melan- = black, 表示“黑”。源自希腊语 melas "black."<br/>chol- = bile, 表示“胆，胆汁”。 |                                   |                                                              |
+|                                       |                                                              |                                   |                                                              |
+|                                       |                                                              |                                   |                                                              |
 
 
 
