@@ -330,15 +330,68 @@ Thursday：['θə:zdi; -dei]n.星期四
 
 
 
-# 24节气倒计
+## 节日
+
+### Valentin
+
+> n. 情人, 情人节礼物
+> **`vail-,val-` **= strong, worth, 表示“强壮，价值”。源自拉丁语 valere "to be strong."
+>
+> 来自拉丁语 Valentinus,意大利守护圣人，字面意思为力量，能力，词源同 valiant.据说是因为其纪念日期间，恰好是鸟儿互相选择伴侣的时候，因而引申词义情人节。
+
+**英语词源趣谈(庄和诚)**
+
+**valentine** - 2月14日是西方的**St. Valentine's Day**（圣瓦伦庭节）。人们在这一天庆祝浪漫的爱情并向心爱的人寄情人卡、赠送红玫瑰或巧克力，表示倾慕之情。按传统的做法，情人卡上是不署名的，所以收到情人卡的人就得自己猜这卡是谁寄来的了。
+
+有的人还特地在这一天选择情人。实际上这可以说是专为情侣设立的节日，所以人们也称之为“情人节”。在此节日赠送给情人的礼物或贺词、贺卡、图画，在此节日选定送礼致意的情人等，在英语中均可用**valentine**一词来表示。
+
+**St. Valentine**是公元3世纪一位基督教殉教者。根据传说，有两个**St. Valentine**同日殉难，一个是意大利牧师、医生，另一个是意大利境内特尔尼（Terni）的主教，可能原本就是一人。
+
+<img src="./images/image-20220214163428294.png" alt="image-20220214163428294" style="zoom: 67%;" /> 
+
+英国教士勃特勒（Alban Butler, 1710-1773）所写《圣徒故事集》（Lives of the Saints）一书中讲述的二者故事几乎完全一致。**Valentine**因为帮助受罗马皇帝迫害的基督教徒而被逮捕，先遭棍打，后被斩首。死刑是公元270年2月14日于罗马执行的。因此，后人便把2月14日作为**St. Valentine**的祝典日，称**St. Valentine's Day**。
+
+这一节日以后变成情人节则是由于两个日期上的巧合，与这两位圣徒毫无关系：2月14日正巧是古时传统的鸟类择偶日，而2月15日又是古罗马的牧神节（**Lupercalia**），一个与爱情有关的节日。英国诗人乔叟在他写的《百鸟会议》（Assembly of Fowls）一诗中提到鸟类在St. Valentine's Day这一天择偶交配：
+
+> For this was on Saint Valentine's Day,
+>
+> When ev'ry fowl cometh to choose her make.
+
+莎翁在《仲夏夜之梦》（Midsummer Night's Dream）一剧中也将这两者联系在一起：
+
+> Good morrow, friends! St. Valentine is past;
+>
+> Begin these wood-birds but to couple now?
+
+青年人是富于想像力的，正如一位作家所说的，青年人很容易由此联想到爱情。他们选择在这一天以抽签方式选择情侣，并给情侣赠送礼品。到了19世纪初期，青年人还在这一天给异性友人寄诙谐信或情书。到最后，与**St. Valentine's Day**重合的鸟类择偶日逐渐地演变为情人节。然而，这种源于古罗马的习俗在今天的西方社会已经引不起公众多大的兴趣，情人节只是因为贺卡业的发达才得以保留至今。
+
+例　
+
+- He got some valentines on Valentine's Day. 他在情人节那天收到一些情人卡。
+- I gave my valentine candy and flowers. (NED) 我送糖果和鲜花给我的情人。
+- The message on the card said 'Be my Valentine'. (CID) 卡上写的是“做我的情人吧”。
+- Most of the valentine cards either had hearts on them or were very rude. (CID) 大多数的情人卡要么上面画有一颗心，要么非常粗俗。
+
+
+
+**Reference:**
+
+1. [6 Surprising Facts About St. Valentine
+   Who was St. Valentine, and why do we celebrate him on February 14? Get the facts about this enigmatic character.](https://www.history.com/news/6-surprising-facts-about-st-valentine)
+
+
+
+# 24节气
 
 
 
 节气是中国特有的概念，英文没有固定翻译版本。
 
+24节气是中国人对自然观察和农忙实践的重要经验总结和知识体系，2016年，联合国教科文组织将“二十四节气”列入人类非物质文化遗产代表作名录。
 
 
-### 节气 Solar term
+
+### 0. 节气 Solar term
 
 节气是根据地球绕太阳的运行规律而进行划分的，故称 **Solar term**。
 
@@ -356,15 +409,17 @@ Solar 来自拉丁文，表示“跟太阳有关的”，比如太阳系solar sy
 
 
 
-### 立春，雨水
+### 1. 立春 Beginning of Spring
 
-<img src="./images/image-20220207151042510.png" alt="image-20220207151042510" style="zoom:50%;" /><img src="./images/image-20220207151156560.png" alt="image-20220207151156560" style="zoom:47%;" />
+<img src="./images/image-20220207151042510.png" alt="image-20220207151042510" style="zoom:50%;" /> 
 
-1. **立春 Beginning of Spring**
+“立春”表示“春天的开始”，英文 **Beginning of Spring**；
 
-2. **雨水 Rain Water**
+### 2.  雨水 Rain Water
 
-前两个比较简单——“立春”表示“春天的开始”，英文 **Beginning of Spring**；“雨水”也是字面含义，翻译为 **Rain Water**。
+<img src="./images/image-20220207151156560.png" alt="image-20220207151156560" style="zoom:47%;" /> 
+
+“雨水”也是字面含义，翻译为 **Rain Water**。
 
 ### 3. **惊蛰 Awakening of Insects**
 
@@ -440,19 +495,138 @@ Solar 来自拉丁文，表示“跟太阳有关的”，比如太阳系solar sy
 
 
 
-## 10. 夏至 Summer Solstice
+### 10. 夏至 Summer Solstice
 
 <img src="./images/image-20220207172619161.png" alt="image-20220207172619161" style="zoom:50%;" /> 
+
+
+
+这里需要重点讲讲“夏至”。
+
+前面说过，24节气中有四个关键时间节点，**夏至**也是其中一个。“***至***”表示“**极端**”，指地球公转过程中运行到离太阳最远的点，一年中分别有两次。
+
+夏至时，太阳光直射北回归线；冬至时，太阳光直射南回归线。这个“至点”在英文中叫 **solstice**，来自拉丁文 ***solstitium***，sol 就是 solar（太阳），词根 **stit** 就是停止，静止，表示太阳到达离地最远点。
+
+> sol,太阳，-st,站住，停止，词源同 stand,-ice,名词后缀。**字面意思即太阳停止的地方**，用于指夏至（北回归线）或冬至（南回归线）。
+>
+> 推荐：sol-太阳 + stice
+> **`st-,sta-,stat-,stan-,stant-,stin-`** = stand, 表示“站、立”。
+>
+> **`sol-`** = sun, 表示“太阳”。源自拉丁语 sol "the sun."
+
+夏至之后，就是北半球的炎炎夏日。
 
 ### 11. 小暑 Minor Heat
 
 <img src="./images/image-20220207172640209.png" alt="image-20220207172640209" style="zoom:50%;" /> 
 
+接下来就是“小暑”和“大暑”两个节气，这两个节气很好理解，英语翻译也简单 **minor heat** 和 **major heat**。
+
+**Minor** 表示“小的、次要的”，未成年人就可以用 **minor** 来表示；**major** 是 **minor** 的反义词，表示“大的、主要的”。
 
 
-## 12. 大暑 Major Heat
+
+### 12. 大暑 Major Heat
 
 <img src="./images/image-20220207172705011.png" alt="image-20220207172705011" style="zoom:50%;" /> 
+
+
+
+### 13.立秋 Beginning of Autumn
+
+<img src="./images/image-20220214164222525.png" alt="image-20220214164222525" style="zoom:50%;" /> 
+
+“立秋”不多解释，Beginning of Autumn，秋天的开始。
+
+### 14.处暑 End of Heat
+
+<img src="./images/image-20220214164330291.png" alt="image-20220214164330291" style="zoom:50%;" /> 
+
+“处暑”就是“暑气的终结”，英文是 end of heat，也很好理解。
+
+### 15.白露 White Dew
+
+<img src="./images/image-20220214164353498.png" alt="image-20220214164353498" style="zoom:50%;" /> 
+
+“白露”是指天气变凉之后，挂在植物叶子上白色的露珠，非常有诗意的一个词，李白名句“露从今夜白，月是故乡明”，描写的就是“白露”时节。
+
+英语翻译不难，按字面翻译的，叫 **White Dew**，**Dew** 就是露珠的意思。
+
+
+
+### 16.秋分 Autumn Equinox
+
+<img src="./images/image-20220214164650033.png" alt="image-20220214164650033" style="zoom:50%;" /> 
+
+“秋分”其实前面提到过，原理跟“春分”一样，太阳光直射赤道，全球昼夜相等，**Equinox** 表示“昼夜平分点”，这里就不赘述了。
+
+
+
+### 17.寒露 Cold Dew
+
+<img src="./images/image-20220214164719525.png" alt="image-20220214164719525" style="zoom:50%;" /> 
+
+“寒露”的“露”还是白露的那个露 **Dew**，但一个“寒”字，点明了气温的下降，英文是 **Cold Dew**。
+
+
+
+### 18.霜降 Frost's Descent
+
+<img src="./images/image-20220214164742949.png" alt="image-20220214164742949" style="zoom:50%;" /> 
+
+“霜降”表示气温进一步下降，都开始落霜了，**Frost’s Descent** 也是字面翻译，**frost** 表示“霜”，**descent** 表示“下降”、“落下”。
+
+对了，这个词还可以表示血统、出身，这是引申义了，因为血统讲究的就是传承，这也是从上到下的概念。**descendant** 表示后裔、后代、子孙。
+
+有人可能会问霜降的“降”为啥不用 **fall**，**drop**？因为不如 **descent** 高级。
+
+
+
+### 19.立冬 Beginning of Winter
+
+<img src="./images/image-20220214164927819.png" alt="image-20220214164927819" style="zoom:50%;" /> 
+
+“立冬”是冬天的开始，**Beginning of Winter**。
+
+
+
+### 20.小雪 Minor Snow
+
+<img src="./images/image-20220214164949031.png" alt="image-20220214164949031" style="zoom:50%;" /> 
+
+
+
+“小雪”: Minor Snow
+
+### 21.大雪 Major Snow
+
+<img src="./images/image-20220214165012846.png" alt="image-20220214165012846" style="zoom:50%;" /> 
+
+“大雪”: Major Snow
+
+
+
+### 22.冬至 Winter Solstice
+
+<img src="./images/image-20220214170502975.png" alt="image-20220214170502975" style="zoom:50%;" /> 
+
+ 
+
+“冬至”就是地球又运行到了离日最远点，此时太阳直射南回归线。
+
+
+
+### 23.小寒 Minor Cold
+
+<img src="./images/image-20220214165311196.png" alt="image-20220214165311196" style="zoom:50%;" /> 
+
+
+
+### 24.大寒 Major Cold
+
+<img src="./images/image-20220214165424317.png" alt="image-20220214165424317" style="zoom: 50%;" /> 
+
+
 
 
 
