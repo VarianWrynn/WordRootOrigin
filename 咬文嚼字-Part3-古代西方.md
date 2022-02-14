@@ -125,6 +125,8 @@
 
 ### ringleader(头目) 围成一圈跳舞的领舞者
 
+> ring,马戏场，leader,领班，老板。字面意思即马戏场老板，比喻用法。
+
 ringleader - 昔日，在英国上流社会的社交晚会上，人们开始跳舞前总先围成一个圈子（ring），然后由一人带头起舞（lead the ring），这个领舞者就被称作ringleader。
 
 到了19世纪ring引申为“团伙”或“帮派”，ringleader的词义也随之贬降为“首恶”、“元凶”或“（带领其他人犯法或闹事的）头目”。
@@ -135,8 +137,63 @@ ringleader - 昔日，在英国上流社会的社交晚会上，人们开始跳�
 - The judge sentenced the ringleader of criminals to life in prison. (NED) 法官判处首恶分子终身监禁。
 - Once they caught the ringleader, it was easy to round up the rest of the gang. (CID) 他们一抓住首恶，围捕其他恶棍就容易了。
 
-**词源说明(童理民)**  
-1 - ring,马戏场，leader,领班，老板。字面意思即马戏场老板，比喻用法。
+
+
+
+
+### bigwig（大人物）：欧洲上流人士戴的大假发
+
+> big【大】 + wig【假发】过去假发象征着一种社会地位。
+>
+> **`big`** a. 大的, 重要的 ad. 大量地
+> **`wig` **n. 假发, 斥责 v. 激动, 发狂 (~ out)
+
+在十八世纪的欧洲，很多社会上流人士喜欢佩戴假发（wig）。据说法国国王 [路易十三（ Louis XIV ）](https://medium.com/@nicolvalentin/big-wigs-how-louis-xiv-shaped-the-history-of-hair-9080034898a7)是始作俑者。
+
+<img src="./images/image-20220214110327005.png" alt="image-20220214110327005" style="zoom: 50%;" /> 
+
+在当时，满头浓发被看作是男性力量的表现，而这位国王却是个秃头。为了掩饰这一缺陷，路易十三就戴上了一顶长度及臀的原色卷发。大臣们纷纷效仿，从而使得佩戴假发成为当时的一种时尚。我们在一些欧洲古装剧中还能看到法官和律师们佩戴着白色的假发。
+
+假发的大小与佩戴者的身份地位密切相关。一般来说地位越高者，佩戴的假发越大越长。所以人们就是用**bigwig**（大假发）这个单词来表示大人物。
+
+- **bigwig**： ['bɪgwɪg] n.权贵之人，有重大影响力的人
+- **wig**： [wɪg]n.假发
+
+
+
+**英语词源趣谈(庄和诚)**:
+
+**bigwig** - 假发除了可作戏装、乔装用品之外，还被用作个人装饰品或职位的标志。
+
+几个世纪以前，假发在欧洲十分流行，至17世纪发展到最高峰，成为阶级及地位的标志，法国国王路易十四中年时喜欢戴假发，欧洲各国王族纷纷效仿，尤其在英国，身份越高者或自认为身份越高者，所戴假发就越大。
+
+按当时习俗，只有贵族、法官和主教可戴假发。美国独立战争和法国大革命之后，各种地位标志被荡涤殆尽，假发便不多见了。如今仅在英国法庭尚可见到法官和律师戴着垂肩假发。
+
+**bigwig**一词反映了那个时代的英国习俗。bigwig由big（大的）和wig（假发）二词复合组成，用以喻指“要人”、“大亨”或“名人”，通常用在口语中。
+
+意指“假发”的wig一词是**periwig** 【perɪwɪg】的缩略，而**periwig**则又是***peruke***的异体。两者同出一源，都源自法语***perruque***。
+
+例
+
+- They were invited to a lunch with local bigwigs. 他们被邀请与当地要人们共进午餐。
+- She has called a meeting of party bigwigs to discuss their strategy for the next election. (CID) 她已召集了党内要员开会讨论下次选举的策略。
+
+**摩西英语(摩西)**
+
+bigwig ['bɪgwɪg] n.权贵之人；有重大影响的人。法国波旁王朝的国王路易十三年轻时就秃头了，于是佩戴假发（wig）遮丑，权贵们出于讨好的目的开始模仿。那年头假发的购买和护理需要不少钱，因此只有权贵能买得起用得起。后来贵族头上的假发越发以大为美，甚至大到很夸张的程度，**bigwig**就借指权贵了。
+
+
+
+### magnate
+
+> magnate 【ˈmæɡneɪt】：n. 大官, 巨头
+
+> 推荐：magn-大 + -ate
+> magn- = great, 表示“大，伟大”，源自拉丁语 magnus "great"， 其最高级形式为 maximus。
+> -ate 表名词，“人或地位”。
+
+词源说明(童理民)  
+1 - 来自拉丁语 magnus,伟大的，巨大的，富贵的，词源同 major,master.引申词义伟人，贵族等，但现多含贬义。
 
 
 
