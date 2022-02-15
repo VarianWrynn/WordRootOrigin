@@ -506,6 +506,32 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## 内外
+
+### endo- = within, 表示“内部”。源自希腊语 endon, endo- "within."{51}
+
+| 单词                              | 解释                                                         | 单词                              | 解释                                                         |
+| --------------------------------- | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
+| **ecto∙therm**<br />【ektəʊθɜːm】 | n. 冷血动物<br/>推荐：ecto-外 + therm-热<br/><img src="./images/image-20220215084735601.png" alt="image-20220215084735601" style="zoom: 33%;" /><br/>**`ecto-`** 表示“外”，一般用于医学领域。源自希腊语 ex, ek "out of, from."<br/>**`therm-`** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat." | **endo-therm** <br />【endəθɜ:m】 | n. 热血动物<br/>推荐：endo-内 + therm-热<br/><img src="./images/image-20220215085226641.png" alt="image-20220215085226641" style="zoom:80%;" /><br/>**`endo-`** = within, 表示“内部”。源自希腊语 endon, endo- "within."<br/>**`therm-`** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat." |
+|                                   |                                                              |                                   |                                                              |
+|                                   |                                                              |                                   |                                                              |
+
+
+
+### ecto- 表示“外”，一般用于医学领域。源自希腊语 ex, ek "out of, from."{9}
+
+| 单词                              | 解释                                                         | 单词                              | 解释                                                         |
+| --------------------------------- | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
+| **ecto∙therm**<br />【ektəʊθɜːm】 | n. 冷血动物<br/>推荐：ecto-外 + therm-热<br/><img src="./images/image-20220215084735601.png" alt="image-20220215084735601" style="zoom: 33%;" /><br/>**`ecto-`** 表示“外”，一般用于医学领域。源自希腊语 ex, ek "out of, from."<br/>**`therm-`** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat." | **endo-therm** <br />【endəθɜ:m】 | n. 热血动物<br/>推荐：endo-内 + therm-热<br/><img src="./images/image-20220215085226641.png" alt="image-20220215085226641" style="zoom:80%;" /><br/>**`endo-`** = within, 表示“内部”。源自希腊语 endon, endo- "within."<br/>**`therm-`** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat." |
+|                                   |                                                              |                                   |                                                              |
+|                                   |                                                              |                                   |                                                              |
+
+
+
+
+
+
+
 ## immuno- 表示“免疫”{41}
 
 > immuno- 
