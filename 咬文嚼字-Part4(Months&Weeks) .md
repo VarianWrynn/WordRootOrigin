@@ -468,7 +468,7 @@ Solar 来自拉丁文，表示“跟太阳有关的”，比如太阳系solar sy
 
 “雨水”也是字面含义，翻译为 **Rain Water**。
 
-### 3. **惊蛰 Awakening of Insects**
+### 3. 惊蛰 Awakening of Insects
 
 <img src="./images/image-20220207151341674.png" alt="image-20220207151341674" style="zoom:50%;" /> 
 
@@ -530,6 +530,8 @@ Solar 来自拉丁文，表示“跟太阳有关的”，比如太阳系solar sy
 
 ### 9. 芒种 Grain in Ear
 
+Grain in Ear—the 9th of the 24 solar terms; the day marking the beginning of the 9th solar term (June 5, 6, or 7, the end of the grain-growing season and the last chance for sowing)
+
 <img src="./images/image-20220207172220909.png" alt="image-20220207172220909" style="zoom:50%;" /> 
 
  “芒种”表示“有芒的麦子快收，有芒的稻子可种”，指北方收麦和南方种稻之时。“芒”字指“**作物籽粒外壳上的细刺**”，***同时又跟“忙”同音***，暗指这时是农民伯伯最忙的时候。
@@ -538,7 +540,15 @@ Solar 来自拉丁文，表示“跟太阳有关的”，比如太阳系solar sy
 
 **Ear** 此处不是“耳朵”的意思啊，而是谷类植物的“穗”，大家可以在留言区把稻穗的 emoji 表情打出来 🌾——你看，饱满的稻穗挂下来，像弯弯的耳朵吧？大家也可以这样记。
 
+> Ear: the top part of a grain plant, such as wheet, that contains the seeds.
+>
+> > ears of corn: 玉米穗
+
 **Grain in Ear** 字面意思是“稻穗里的谷物”，强调丰收的概念。
+
+> - Once the time of grain in ear passes, it will be no use plantin 过了芒种，不可强种。
+> - The Grain in Ear tells people that the wheat has ripened.芒种告诉人们小麦已经成熟了。
+> - Season of Grain in Ear, river Chinese Campagna a light green. 种时节，江汉平原一片绿。
 
 
 
