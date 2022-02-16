@@ -19,12 +19,18 @@
 例
 
 - Boswell wrote a famous biography of Dr. Johnson. 博斯韦尔为约翰逊博士写过一本著名的传记。
-
 - Famous people often have several very different biographies written about them. (CID) 名人们通常都有几种内容大相径庭的传记。
-
 - Every sophomore is required to take biology. 每一位二年级生必修生物学。
 
-  
+
+
+| 单词                            | 解释                                                         | 单词 | 解释 |
+| ------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **micro-be**<br />【ˈmaɪkroʊb】 | n. 微生物, 细菌<br/>推荐micro-微小的 + be-生命<br/><br/>**`micro-`** = small, 表示“小”。源自希腊语 (s)mikros "small."<br/>**`be-`** = life, 表示“生命，生物”。源自希腊语 bios "life."<br/>词源说明(童理民)  <br/>1 - micro-,微小的，-be,生命，词源同 biology,zoo.引申词义微生物。 |      |      |
+|                                 |                                                              |      |      |
+|                                 |                                                              |      |      |
+
+
 
 ## phyt- = plant, 表示“植物” {37}
 
