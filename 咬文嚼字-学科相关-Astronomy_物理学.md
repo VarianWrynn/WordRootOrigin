@@ -30,6 +30,8 @@
 - **astral**： ['æstrəl] adj. 星的；星际的
 - **asteroid**：['æstərɔɪd] n. 小行星；海盘车；小游星adj. 星状的
 
+<img src="./images/image-20220216135913820.png" alt="image-20220216135913820" style="zoom: 50%;" /> 
+
 #### astrology
 
 **astrology** - 按古代占星术，通过星辰运行可以预卜人事的吉凶祸福。占星家认为人间面临灾难皆因星辰处于凶位或凶向所致。
@@ -45,7 +47,7 @@
 > - Natural disasters such as the drought two years ago have left the region devastated. (LLA) 自然灾害，如两年前的旱灾，使那个地区一片荒芜。
 > - Their first date was a disaster. 他们的第一次约会就彻底失败了。
 
-
+ 
 
 | 单词                                    | 解释                                                         | 单词 | 解释 |
 | --------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
