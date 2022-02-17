@@ -349,7 +349,7 @@ also *-in*, adjectival word-forming element, Middle English, from Old French *-i
 | anti-febr-ine                          |                                                              | dopam-ine                                            | compound organic chemical, 1959, from *DOPA,* the amino acid (from first letter of elements of *dioxyphenylalanine*), + [amine](https://www.etymonline.com/word/amine?ref=etymonline_crossreference). |
 | chlor-ine                              |                                                              | curarine                                             |                                                              |
 |                                        |                                                              | **iod-ine**<br />【ˈaɪədaɪn】                        | n. 碘, 碘酒<br/><br/>**`iod-`** 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。<br/><img src="./images/image-20220217090337200.png" alt="image-20220217090337200" style="zoom: 33%;" /><br />词源说明(童理民)  <br/>1 - 来自希 腊语 ideides,紫色的 ，来自 io-,紫色， 词源同 violet,-eides,像，相 似，词源同alkaloid,ovoid,idea.后 1814 年，英国化学家 Humphrey Davy 借用该希腊词来表示化学元素碘。 |
-| epi-nephr-ine                          |                                                              | vasel-ine                                            |                                                              |
+| epi-nephr-ine                          |                                                              | vasel-ine                                            | 凡士林                                                       |
 | **cholr-ine**<br />【ˈklɔːriːn】       | n. 氯<br/>推荐：chlor-氯 + -ine<br/><br/>**`chlor-`** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 | **chol-ine**<br />【kəʊli:n】                        | n. 胆碱<br/>推荐：chol-胆 + -ine<br/><br/>**`chol-`** = bile, 表示“胆，胆汁”。古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
 | **mescal-ine**     <br />【ˈmeskəlɪn】 | 墨斯卡林，仙人球毒碱(从仙人球中提取的致幻剂)<br />a drug obtained from a type of cactus , that affects people's minds and makes them see and hear things that are not really there | **aspir-in**<br />【ˈæsprɪn】                        | 阿司匹林,一种解热镇痛药品的商标名称。<br />a drug used to reduce pain, fever and inflammation |
 | dis-cip-l-ine                          | **`dis-`**分开 + **`cip-`**抓住 + **`-l-`** + **`-ine`**。引申词义训练，必要的纪律，惩罚。 | doctr-ine                                            | = to teach, 表示“教”。源自拉丁语 docere "to teach."          |
@@ -378,7 +378,7 @@ penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander
 - The doctor prescribed some penicillin to fight my infection. (NED) 为了治疗我的感染，医生给我开了一些青霉素。
 - She has a penicillin allergy. 她对青霉素过敏。
 
-<img src="./images/image-20211217163310133.png" alt="image-20211217163310133" style="zoom:67%;" />
+<img src="./images/image-20211217163310133.png" alt="image-20211217163310133" style="zoom:67%;" /> 
 
 
 #### aspirin 阿司匹林：一种解热镇痛药品的商标名称
@@ -398,18 +398,16 @@ penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander
 
 #### vaccine 疫苗
 
-vacc-
+> **`vacc-`**=bull, 表示*牛*，来源于拉丁语**vacca**.
+>
+> **`-ine`** 表名词，“状态，药物，化学物品”等
 
-> =bull, 表示*牛*，来源于拉丁语**vacca**.
+琴纳（Edward Jenner,18世纪英国医生）将用于人体接种的牛痘苗称为**vaccine virus**，其中**vaccine**来自拉丁语**vaccinus**（母牛的），原本是个形容词，后来演变为名词。不仅可用来表示用于预防天花的牛痘苗，还可以表示任何一种用于接种的疫苗。
 
--ine
+- **vaccinate**: `/'væksɪneɪt/`  vt.给……接种疫苗vi.接种疫苗
+- **vaccination** ：[,væksɪ'neɪʃən] n.接种疫苗
 
-> 表名词，“状态，药物，化学物品”等
 
-琴纳（Edward Jenner,18世纪英国医生）将用于人体接种的牛痘苗称为vaccine virus，其中vaccine来自拉丁语vaccinus（母牛的），原本是个形容词，后来演变为名词。不仅可用来表示用于预防天花的牛痘苗，还可以表示任何一种用于接种的疫苗。
-
-- vaccinate: `/'væksɪneɪt/`  vt.给……接种疫苗vi.接种疫苗
-- vaccination ：[,væksɪ'neɪʃən] n.接种疫苗
 
 #### alkali（碱）：古阿拉伯人从灰烬中提取的物质
 
@@ -437,6 +435,39 @@ vacc-
 
 
 
+
+#### vaseline 凡士林
+
+vaseline - 提起凡士林，不少学习英语的都知道是从英语的vaseline音译而来的，但是对vaseline的由来，恐怕就未必有很多人了解了。这一直可以追溯到欧洲移民来到北美新大陆的早期。这些移居者经常发现一种奇特现象，冰凉的山洞中汇成的河水流入地底下神秘地消失后，竟在数英里外重又冒出地面，然而，此时水面上却蒙上薄薄一层油，宛如彩虹，闪闪发光。此外，移居者还发现一股股泉水破地而出，水面同样蒙着薄薄一层油。
+
+过了些时候，移居者目睹印第安人把水面上的油撇起来，敷在烧伤、刀伤、擦伤等伤口处。后来欧洲移民也模仿着做，有些人还把撇取的油装瓶当作药物出售，并称这种油为“印第安油”。
+
+整整一个世纪过去了。一位来自新英格兰，名叫乔治·比斯塞尔（George Bissell, 1821-1884）的年轻教师对这种油很感疑惑。他暗自思忖：“能不能从地下取出一种更浓的油呢？”
+
+比斯塞尔把他的想法对一个叫埃德温·德雷克（Edwin Drake, 1819-1880）的朋友讲了。他们一起到宾夕法尼亚州泰特斯维尔（Titusville）附近钻了一口世界上最早的油井。附近的居民认为这种做法是徒劳无益的，因此称这一工程为“德雷克的徒劳而又愚蠢之举”。
+
+然而，此举后来却成了一种了不起的工业壮举。1859年8月27日，德雷克他们果然在距地面25米的油层中打出了石油。
+
+发现石油的消息不胫而走，数日后一直传到纽约市布鲁克林区一位化学家耳中。这位化学家名叫罗伯特·契斯柏洛（Robert A. Chesebrough, 1837-1938），他正在进行一项费时而艰巨的工作：从煤炭中提取煤油。当他一听到这消息，明白自己吃亏了，因为从石油中提取煤油要比从煤炭中提取容易得多了。契斯伯洛觉得不能因此无所事事，决定迁居泰特斯维尔。
+
+一天，他在观看德雷克和工人们钻井时，发现一种蜡状物质附在巨大的钻头上。工人们把它弄下来扔掉。可是他们遇有刀伤或烧伤时，总是首先用这种东西往伤口上一抹。
+
+契斯柏洛拿了些回家，用它做试验，最后成功地从中提取了一种洁净的糊状物。他在自己身上的伤口涂了一些作试验，发现伤痛大有减轻之感，伤口也愈合得快些。他立即向政府申请专利以保护他的产品，并将之命名为vaseline。1872年Vaseline被契斯柏洛公司（the Chesebrough Manufacturing Company）作为产品的正式商标名。
+
+vaseline这个名称契斯柏洛一定是费尽心思才造出来的，它是三种语言的混合词。他先是取了德语词Wasser（水）中的was-加上希腊语élaion（油）中的el，再加上拉丁词缀-ine构成了waserline。后来他转念一想，w在德语中不是发成英语中的v吗？于是他才最后把该物质定名为vaseline。
+
+契斯柏洛所发现的物质学名叫petrolatum或petroleum jelly（矿脂，石油冻），然而他所用的商标名vaseline却作为其俗名一直沿用至今。
+
+例　“Try some Vaseline on those cold sores,”Jim suggested. (CWR) “在冻疮上搽一些凡士林吧，”吉姆建议说。
+
+"Vaseline is great for dry skin," Nancy said. (CWR) “凡士林对干燥的皮肤很适用，”南希说。
+
+词源说明(童理民)  
+1 - 来自德语，vas-,水，词源同 water,-el,油，词源同 oil,-ine,化学名词后缀。因从石油提炼而得名。
+
+英英  
+n.
+1 . [ Brands and Products ] a thick oily substance used on dry skin 
 
 ## -osis  医学词根，表示“病理状况”{130}
 
