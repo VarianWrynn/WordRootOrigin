@@ -226,6 +226,34 @@ bigwig ['bɪgwɪg] n.权贵之人；有重大影响的人。法国波旁王朝�
 
 
 
+
+
+### boulevard（林荫大道）：在废弃的城墙上修建的宽阔马路
+
+> 由bulwark改编的变体词。bulwark, 防御，堡垒。原指军事城墙，后指城墙改造的散步道路，然后借指普通的林荫大道，大道。
+
+在中世纪，重要的城市或要塞都会修筑城墙。城墙顶部有宽阔的通道以便防御人员的通行。这种城墙在荷兰语中被称为***bolwerc***。从该词产生了英语单词**bulwark**（壁垒）和法语单词**boulevard**。
+
+<img src="./images/image-20220217085655344.png" alt="image-20220217085655344" style="zoom:50%;" /> 
+
+火药发明后，城墙的防护作用大大降低，常常被废弃不用。城墙顶部的宽阔通道成了人们散步遛马的好去处。有些城市甚至拆掉城墙，在原来的地方修建马路。由于在城墙遗址上修建的马路通常都比较宽阔，因此**boulevard**一词产生了“大马路、大道”的含义。该词进入英语后，专门用来表示“大道”，尤其是两旁有林荫的漂亮大道。
+
+美国洛杉矶市的日落大道（**Sunset Boulevard**）是全球知名的一条马路，是好莱坞名流文化和星光璀璨的标志符号。以**Sunset Boulevard**为名的还有五十年代的美国经典电影、舞台剧和相关影视剧等。
+
+<img src="./images/image-20220217085604956.png" alt="image-20220217085604956" style="zoom: 67%;" /> 
+
+- **boulevard**： ['buːləvɑːd] n.林荫大道，大马路
+
+
+
+
+**摩西英语(摩西)**
+**boulevard** ['buːləvɑːd] n.[建] 林荫大道。14世纪，法语从近邻的荷兰语引入了这个单词（原型为单词**bulwark** ['bʊlwək] n.壁垒；保障；防波堤，vt. 保护）。
+
+这里**`boule-`**同**bole**[boʊl]树干，**`vard`**(-wark)同**work**，**bulwark**本指城墙外起巩固性质的第二道墙。巴黎扩大后，城墙向外扩，原有的两道城墙间成了道路。
+
+
+
 ### Bourgeoisie 【ˌbʊrʒwɑːˈziː】 | bourgeois 【ˈbʊəʒwɑː】
 
 >  the middle classes in society.
@@ -268,32 +296,54 @@ borrow ['bɒrəʊ] v.借。借是与还相对的。凭什么借给你？熟人�
 
 ### borough（自治市）：带碉堡的城市
 
-英语单词borough（自治市）来自原始日耳曼语burgs（城堡、要塞），本意是“带碉堡的城市”。西方好多城市都以burg或burgh结尾，如汉堡（Hamburg）、爱丁堡（Edinburgh）、匹兹堡（Pittsburgh），这里的burg或burgh都来自原始日耳曼语burgs（城堡、要塞），指的是带碉堡的城市，也就是说，这些城市以前其实是要塞或城堡。
+英语单词**borough**（自治市）来自原始日耳曼语**`burgs`**（城堡、要塞），本意是“带碉堡的城市”。
 
-在欧洲封建时期，城镇的主权原本属于封建贵族即所谓“领主”（Lord）的，是其封地的一部分。后来，随着工商业的发展，城镇越来越繁荣，市民的经济地位提高了，对封建贵族的压榨越来越不满。所以市民们想方设法争取城市自治。
+西方好多城市都以**`burg`**或**`burgh`**结尾，如:
+
+- 汉堡（Hamburg）、
+- 爱丁堡（Edinburgh）、
+- 匹兹堡（Pittsburgh）
+
+这里的**burg**或**burgh**都来自原始日耳曼语burgs（城堡、要塞），指的是带碉堡的城市，也就是说，这些城市以前其实是要塞或城堡。
+
+在欧洲封建时期，城镇的主权原本属于封建贵族即所谓“领主”（**Lord**）的，是其封地的一部分。后来，随着工商业的发展，城镇越来越繁荣，市民的经济地位提高了，对封建贵族的压榨越来越不满。所以市民们想方设法争取城市自治。
 
 刚开始时，市民们用钱从领主那里一项一项地赎回城市的各种权利。那个时候市民们通过经商积累了大量货币，而领主的收入主要是封地上的各种农产品，所以缺乏货币。在11、12世纪又赶上了十字军东征运动，大批领主要参加十字军，亟需便于携带的金银货币充当盘缠，所以就把城镇的很多权利都卖给市民了。
 
-但金钱不能买到所有权利，所以领主和市民最后免不了要开战，城市的自治权就是通过赎买和战争的方式获得的。因此自治市中常常修筑了各种防御工事，用来保卫城市的主权。因为自治市往往都是这种带碉堡的城市，所以人们就用原本表示“带碉堡的城市”的
+但金钱不能买到所有权利，所以领主和市民最后免不了要开战，城市的自治权就是通过赎买和战争的方式获得的。因此自治市中常常修筑了各种防御工事，用来保卫城市的主权。因为自治市往往都是这种带碉堡的城市，所以人们就用原本表示“带碉堡的城市”的borough一词来表示“自治市”了。
 
-
-
-- borough一词来表示“自治市”了。
-- borough：['bʌrə] n.自治市，区
-- burg：[bɜːg] n.镇、城、村
-- burgh：['bʌrə] n.（苏格兰）自治市，城镇
+- **borough**：['bʌrə] n.自治市，区
+- **burg**：[bɜːg] n.镇、城、村
+- **burgh**：['bʌrə] n.（苏格兰）自治市，城镇
 
 
 
 ### Hamburg | hamburger
 
-**hamburger** - 这是当今人们熟知的一个德语外来词，其由来可以追溯到许多世纪以前。鞑靼人喜欢生吃切碎的牛肉丝，以后这种吃法经由俄国波罗的海地区传入德国。**Hamburg**（汉堡）人在做法上作了一些改进，把碎牛肉制成饼状，再加以烹调，成了一种类似牛排的菜肴，名之曰**Hamburger**。
+<img src="./images/image-20220217085029253.png" alt="image-20220217085029253" style="zoom:50%;" /> 
 
-19世纪中期，在第一次德国移民浪潮中，以**Hamburger**命名的这一名菜随着德国移民进入了美国，很受美国人喜爱。1836年，一道以**Hamburg steak**（汉堡牛排）命名的菜出现在美国人的菜单上。这就是**hamburger**的前身。当时Hamburg steak的做法与今天的hamburger已经很接近了，就是用碎牛肉和洋葱、胡椒粉拌在一起。以后Hamburg steak又作hamburger steak和hamburg，最后人们还是直接采用了原德语名称hamburger，只是首字母不大写而已。
+**hamburger** - 这是当今人们熟知的一个德语外来词，其由来可以追溯到许多世纪以前。鞑靼人喜欢生吃切碎的牛肉丝，以后这种吃法经由俄国波罗的海地区传入德国。**[Hamburg](https://en.wikipedia.org/wiki/Hamburg)**（汉堡）人在做法上作了一些改进，把碎牛肉制成饼状，再加以烹调，成了一种类似牛排的菜肴，名之曰**Hamburger**。
 
-19世纪英国营养学家[J. H. Salisbury](https://en.wikipedia.org/wiki/James_H._Salisbury)对此菜肴赞扬备至，他劝人们一天至少吃上三次，hamburger因此得了一个别称Salisbury【ˈsælzbəri】 steak。到了1912年许多人都喜欢在面包片里夹上hamburger，于是hamburger一词除了表示“汉堡牛排”又多了一层意义：“夹牛肉饼的面包片”，现通译为“汉堡包”。
+> **Hamburg** is the [second-largest city](https://en.wikipedia.org/wiki/List_of_cities_in_Germany_by_population) in [Germany](https://en.wikipedia.org/wiki/Germany) after [Berlin](https://en.wikipedia.org/wiki/Berlin), as well as the overall [7th largest city](https://en.wikipedia.org/wiki/List_of_cities_in_the_European_Union_by_population_within_city_limits) and largest non-[capital city](https://en.wikipedia.org/wiki/Capital_city) in the [European Union](https://en.wikipedia.org/wiki/European_Union) with a population of over 1.84 million(汉堡是德国仅次于柏林的第二大城市，也是欧盟第七大城市和最大的非首都城市，人口超过184万)
+>
+> <img src="./images/image-20220217084446692.png" alt="image-20220217084446692" style="zoom: 40%;" /> 
 
-此后hamburger也被用以指“（用来做汉堡包的）绞碎的牛肉”。第二次世界大战期间美国肉类的匮乏使hamburger身价倍增，并进而取代了hot dog（热狗），从此以后hamburger成了最受美国人欢迎的快速食品。出售该快速食品的食品店、售货店以及售货摊在美国几乎随处可见，而且出现了花样繁多的夹心面包，诸如cheeseburger，fishburger，nutburger，beefburger，turkeyburger，clam-burger，muttonburger，shrimpburger等。在这些以**`-burger`**结尾的复合词中，词根通常表示所夹之物的名称，而**`-burger`**则作为一个后缀，表示各种类似于hamburger的夹心面包。
+19世纪中期，在第一次德国移民浪潮中，以**Hamburger**命名的这一名菜随着德国移民进入了美国，很受美国人喜爱。1836年，一道以**Hamburg steak**（汉堡牛排）命名的菜出现在美国人的菜单上。这就是**hamburger**的前身。当时**Hamburg steak**的做法与今天的**hamburger**已经很接近了，就是用碎牛肉和洋葱、胡椒粉拌在一起。以后**Hamburg steak**又作**hamburger steak**和**hamburg**，最后人们还是直接采用了原德语名称**hamburger**，只是首字母不大写而已。
+
+19世纪英国营养学家[J. H. Salisbury](https://en.wikipedia.org/wiki/James_H._Salisbury)对此菜肴赞扬备至，他劝人们一天至少吃上三次，**hamburger**因此得了一个别称**Salisbury**【ˈsælzbəri】 **steak**。到了1912年许多人都喜欢在面包片里夹上**hamburger**，于是**hamburger**一词除了表示“汉堡牛排”又多了一层意义：“夹牛肉饼的面包片”，现通译为“汉堡包”。
+
+此后**hamburger**也被用以指“（用来做汉堡包的）绞碎的牛肉”。第二次世界大战期间美国肉类的匮乏使**hamburger**身价倍增，并进而取代了**hot dog**（热狗），从此以后**hamburger**成了最受美国人欢迎的快速食品。出售该快速食品的食品店、售货店以及售货摊在美国几乎随处可见，而且出现了花样繁多的夹心面包，诸如：
+
+- **cheeseburger**
+- **fishburger**，
+- **nutburger**，
+- **beefburger**，
+- **turkeyburger**，
+- **clam-burger**，
+- **muttonburger**，
+- **shrimpburger**
+
+等。在这些以**`-burger`**结尾的复合词中，词根通常表示所夹之物的名称，而**`-burger`**则作为一个后缀，表示各种类似于hamburger的夹心面包。
 
 例　
 
