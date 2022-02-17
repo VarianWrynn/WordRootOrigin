@@ -193,6 +193,12 @@ guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿�
 
 ## reptile 爬行动物
 
+| 单词                 | 解释                                                         | 单词 | 解释 |
+| -------------------- | ------------------------------------------------------------ | ---- | ---- |
+| adder<br />【ˈædər】 | n. 黄颔蛇<br/>英英  <br/>n.<br/>1 . a snake belonging to a family of mostly nonvenomous snakes . King snakes , garter snakes , and water snakes are colubrids . |      |      |
+|                      |                                                              |      |      |
+|                      |                                                              |      |      |
+
 
 
 ### [alligator/crocodile（鳄鱼）](https://mp.weixin.qq.com/s/O1_wRK1OZQeP0ICRN6KtXw)
@@ -203,7 +209,7 @@ guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿�
 
 => **[ˈæ-lɪ-ɡeɪ-tər]**
 
-<img src="./images/image-20211129151656105.png" alt="image-20211129151656105" style="zoom: 25%;" />
+<img src="./images/image-20211129151656105.png" alt="image-20211129151656105" style="zoom: 25%;" /> 
 
 当西班牙殖民者初次踏上美洲大陆，遇到美洲特有的短吻鳄时，就用西班牙语称其为***el lagarto***（**the lizard**，蜥蜴）。后来英国殖民者沿用了西班牙人对其的称谓，在英语中将其称作***lagarto***。但在16世纪末期，有些人误将西班牙语中的定冠词**`el`**也看作该词的一部分，因此就从西班牙语**`el lagarto`**中产生了英语单词**alligator**。
 
@@ -211,7 +217,7 @@ guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿�
 
 ### crocodile
 
-<img src="./images/image-20211129151954116.png" alt="image-20211129151954116" style="zoom:50%;" />
+<img src="./images/image-20211129151954116.png" alt="image-20211129151954116" style="zoom:50%;" /> 
 
 > The difference between an alligator (left) and a crocodile (right).
 
@@ -581,3 +587,27 @@ If you see grapefruit growing on a tree, you will notice that they grow in clust
 
 1. [The Forbidden Fruit….Grapefruit?](https://ferrebeekeeper.wordpress.com/2015/01/19/the-forbidden-fruit-grapefruit/)
 2. [How did the grapefruit get its name? It doesn't look like a grape.](https://www.loc.gov/everyday-mysteries/agriculture/item/how-did-grapefruit-get-its-name-it-doesnt-look-like-a-grape/?__cf_chl_captcha_tk__=OEhcWOaDjT.WRNPpdDGMBIrjL4LunT8LKeqF5hWOGkQ-1641883745-0-gaNycGzNCJE)
+
+
+
+## 其他
+
+<img src="./images/image-20220217170018714.png" alt="image-20220217170018714" style="zoom:50%;" /> 
+
+### jungle（丛林）：未被开垦的荒原
+
+> 来自印度语 jangal,森林，荒漠，无人居住的土地。现多用于比喻义指水泥丛林，钢铁丛林。
+
+英语单词**jungle**常常被翻译为“丛林”，很多人往往分不清它和**forest**（森林）之间的差异。
+
+其实，从词源上来看，**jungle**和**forest**的差异一目了然。**jungle**来自印地语***jangal***（未被开垦的荒原），源自梵语***jangala***（荒芜的）。
+
+该词进入英语后，常被用来表示“长有茂密的热带植被和树木的地带”，但受其词源含义的影响，常常被用来比喻“**缺乏法律和秩序的蛮荒之地**”。
+
+这是**jungle**和**forest**（森林）的最大差别。
+
+- jungle：['dʒʌŋɡl] n. 
+  - 丛林
+  - 缺乏法律和秩序的蛮荒之地
+  - 弱肉强食的地方
+
