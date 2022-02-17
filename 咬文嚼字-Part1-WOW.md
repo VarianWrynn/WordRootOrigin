@@ -518,6 +518,29 @@ Goth：[ɡɔθ] n. 野蛮人；粗野的人；哥特人
 
 
 
+
+
+### tavern /ˈtævərn/ 酒馆, 客栈
+
+<img src="./images/image-20220217164118965.png" alt="image-20220217164118965" style="zoom:50%;" /> 
+
+> taber-,taver- 
+> = hub, 表示“小屋”。是词根 trabe, trave 的拼写异体。源自拉丁语 trabs "bean, timber."
+
+
+
+**词源说明(童理民)**  
+
+来自古法语 taverna,酒馆，旅店，来自拉丁语 taberna,帐篷，酒馆，旅店，异化自*traberna,屋梁，柱子，来自 PIE*treb,居住，聚居，屋梁，词源同 trave,thorp,troop.拼写比较 tornado,来自西班牙语 tronada,异化自拉丁语 tonare,词源同 thunder.
+
+**摩西英语(摩西)**
+
+tavern [ˈtævən] n.客栈； 酒馆。古罗马的旅行图上，公路两旁用稻草编织的、装葡萄酒的包装袋的符号表示可以用餐的地方，相当于现在的快餐店。
+
+其拉丁词源有个单词tabernacle [ˈtæbənækl] n.临时房屋；帐篷；壁龛（拉丁元音间的b在法语里变为v，后缀-cle指小）。与英国地名后缀-thorp（村庄）同源。 
+
+
+
 ## 副本
 
 ### gossamer v.s cobweb
