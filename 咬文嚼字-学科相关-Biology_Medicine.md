@@ -238,30 +238,6 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
-### phlegm （粘液）：导致人性情冷淡的粘液
-
-> 词根分解  [词根树]
-> **`phlegm-**` 
-> = flame, 表示“发炎”。源自希腊语 phlegein "to burn."
-
-根据四体液学说，体内粘液占比较高的人性情冷淡、反应迟钝。因此，英语单词phlegm（粘液）的形容词phlegmatic就产生了“冷淡的、迟钝的”等含义。
-
-古医学体液理论构成人体的血液，黏液，胆汁，黑胆汁四种体液之一。来自希腊语 phlegma,发热，由体热所致的多痰症，来自 phlegein,燃烧，发热，来自 PIE*bhel,照耀，燃烧，词源同 blaze,bleach.
-
-后在中世纪医学理论认为体内多痰会致人**冷淡**，**迟钝**，但是，被误解为冷淡是**冷静**，**镇定**的表现，因此，产生模糊和矛盾的词义。
-
-- **phlegm**：[flem] n. 痰；粘液
-- **phlegmatic**：[fleg'mætɪk] adj. 冷淡的；迟钝的；冷漠的
-- **phlegmy**：['flɛmi] adj. 痰的；生痰的；含痰的
-
-1. the thick mucus secreted by the walls of the respiratory passages , especially during a cold 
-2. calmness or composure that is not easily disturbed 
-3. in medieval medicine , one of the four basic bodily fluids . Phlegm was believed to be cold and moist in nature and to cause sluggishness and apathy . 
-4.  a thick yellow or green substance that you get in your nose and throat , especially when you have a cold 
-5. the ability to be calm in a dangerous or frightening situation 
-
-
-
 ### acne（痤疮）：acme的误写
 
 acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
@@ -277,7 +253,7 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 
 
 
-### fren-（精神）：控制人精神的横膈膜
+## fren-（精神）：控制人精神的横膈膜
 
 横隔膜是胸腔和腹腔之间的分隔，它位于心脏和双侧肺脏的下面，肝脏、脾脏、胃的上方，就像一个大圆盘平放在身体内部分隔了胸腹腔。由于横膈膜与心脏距离较近，古人看到人情绪激动时心跳也会加快，便以为横膈膜是负责人精神状态的器官，因此英语中表示“横膈膜”的词根fren-/phren-同时还可以表示“精神”，产生了很多与“精神”相关的单词。
 
@@ -291,9 +267,44 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 
 
 
+## 粘液
+
+### 1. myx- = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick." {6}
+
+| 单词                                | 解释                                                         | 单词       | 解释                                                         |
+| ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| **myx-oma**<br />【mɪks'əʊmə】      | n. 粘液瘤<br/>推荐：myx-粘液 + -oma肿瘤<br/><br/>**`myx-`** = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick."<br/>**`-oma`** = "tumor, mass, swelling", 名词后缀，表示“...肿、...瘤”等。正确的复数形式是 -omata。<br/><img src="./images/image-20220218085701876.png" alt="image-20220218085701876" style="zoom:50%;" /><br />词源说明(童理民)  <br/>1 - 来自希腊语 myxa,黏液，词源同 mucus,muggy.-oma,瘤，肿块，词源同 myeloma,carcinoma. | myx-oma-s  | 粘液瘤（myxoma的复数）<br/>推荐：myx-粘液 + oma-瘤 + -s<br/><br/>**`myx-`** = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick."<br/>**`-oma`** = "tumor, mass, swelling", 名词后缀，表示“...肿、...瘤”等。正确的复数形式是 -omata。 |
+| **myx-omata**<br />【mɪkˈsəʊmətə】  | 粘液瘤<br/>推荐：myx-粘液 + -omata, 瘤<br/><br/>**`myx`**- = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick."<br/>**`-omata`** = "tumor, mass, swelling", 名词后缀，表示“...肿、...瘤”等。正确的复数形式是 -omata。 |            |                                                              |
+| **myx-edema **<br />【mɪksɪ'di:mə】 | n. 粘液水肿<br/>单词笔记   ［添加］<br/>推荐：<br/>myx-粘液 + edema【n. 水肿】<br/><br/>**`myx-`** = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick."<br/>**`edema`** n. 水肿, 浮肿 | myxo-edema | n. 粘液水肿<br/>推荐：myxo-粘液 + edema【n. 水肿】<br/>**`myxo-`** = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick."<br/>**`edema`** n. 水肿, 浮肿 |
+|                                     |                                                              |            |                                                              |
+
+
+
+### 2. phlegm （粘液）：导致人性情冷淡的粘液 {5}
+
+> 词根分解  [词根树]
+> **`phlegm-`** {5}
+> = flame, 表示“发炎”。源自希腊语 phlegein "to burn."
+
+根据四体液学说，体内粘液占比较高的人性情冷淡、反应迟钝。因此，英语单词**phlegm**（粘液）的形容词**phlegmatic**就产生了“冷淡的、迟钝的”等含义。
+
+古医学体液理论构成人体的血液，黏液，胆汁，黑胆汁四种体液之一。来自希腊语 phlegma,发热，由体热所致的多痰症，来自 phlegein,燃烧，发热，来自 PIE*bhel,照耀，燃烧，词源同 blaze,bleach.
+
+后在中世纪医学理论认为体内多痰会致人**冷淡**，**迟钝**，但是，被误解为冷淡是**冷静**，**镇定**的表现，因此，产生模糊和矛盾的词义。
+
+- **phlegm**：[flem] n. 痰；粘液
+- **phlegmatic**：[fleg'mætɪk] adj. 冷淡的；迟钝的；冷漠的
+- **phlegmy**：['flɛmi] adj. 痰的；生痰的；含痰的
+
+1. the thick mucus secreted by the walls of the respiratory passages , especially during a cold 
+2. calmness or composure that is not easily disturbed 
+3. in medieval medicine , one of the four basic bodily fluids . Phlegm was believed to be cold and moist in nature and to cause sluggishness and apathy . 
+4. a thick yellow or green substance that you get in your nose and throat , especially when you have a cold 
+5. the ability to be calm in a dangerous or frightening situation 
+
+
+
 # Medicine [ˈmedɪsn]
-
-
 
 
 
@@ -569,6 +580,14 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## -oma = "tumor, mass, swelling", 名词后缀，表示“...肿、...瘤”等。正确的复数形式是 -omata{46}
+
+| 单词                           | 解释                                                         | 单词 | 解释 |
+| ------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **myx-oma**<br />【mɪks'əʊmə】 | n. 粘液瘤<br/>推荐：myx-粘液 + -oma肿瘤<br/><br/>**`myx-`** = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick."<br/>**`-oma`** = "tumor, mass, swelling", 名词后缀，表示“...肿、...瘤”等。正确的复数形式是 -omata。<br/><img src="./images/image-20220218085701876.png" alt="image-20220218085701876" style="zoom:50%;" /><br />词源说明(童理民)  <br/>1 - 来自希腊语 myxa,黏液，词源同 mucus,muggy.-oma,瘤，肿块，词源同 myeloma,carcinoma. |      |      |
+|                                |                                                              |      |      |
+|                                |                                                              |      |      |
+
 
 
 ## immuno- 表示“免疫”{41}
@@ -733,7 +752,7 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
-## allergy（过敏）：人体对疫苗的异常反应
+### allergy（过敏）：人体对疫苗的异常反应
 
 > alle-,相异，不同，-erg,驱动，词源同 synergy,work.
 >
@@ -769,4 +788,32 @@ clinic - 源自拉丁语clīnicus，原义是“卧床不起的人”（bedridde
 - She is being treated at the school clinic. 她在学校的医务室接受治疗。
 - Dr. Li holds a clinic on Monday mornings. 李医生每星期一上午门诊。
 - The medical students will begin their clinical training next month. (CID) 医科学生将在下月开始临床实习。
+
+
+
+### recipe（食谱）：医生处方中的第一个字
+
+> re-,向后，往回，-cip,抓住，词源同 receive,participate.引申词义食谱，秘诀。
+
+古代西方医生在开处方时，第一个字通常是拉丁语**recipe**，意思是**take**（服用），后来缩写为**Rx**，并且**R**的最后一笔和**x**的第一笔重合。学过西医的中国医生在开处方时也是这样写的，不信可以翻开自己看病时医生开的处方单看看。
+
+<img src="./images/image-20220218092949016.png" alt="image-20220218092949016" style="zoom:67%;" /> 
+
+因此，单词**recipe**在英语中原本表示“处方”，到了17世纪时逐渐用来表示“食谱”，而用prescription来表示“处方”。不过，从医生处方的第一个字上依然能看出recipe的初始含义。
+
+与**recipe**同源的英语单词还有**receive**（接收）、**reception**（接收）等。
+
+
+
+- **recipe**：['resɪpɪ] n.食谱，菜谱，处方
+- **receive**：[rɪ'siv] vt. 收到；接待；接纳vi. 接收
+- **reception**：[rɪ'sɛpʃən] n. 接待；接收；招待会；感受；反应
+
+
+
+**英语词源趣谈(庄和诚)**
+
+**recipe** - 在处方上我们常常可以见到**Rx**这一符号。这是什么意思呢？从中世纪以来，**R**一直被用作处方的符号，它代表**recipe**（处方）。**recipe**借自拉丁语，原为拉丁语动词recipere 'to take, receive'（取；服用）的命令式，意为‘**take (it)’**。
+
+14世纪进入英语之初，**recipe**是医药处方上的第一个字，意思是“**服用以下……**”，因此在英语中最初指“处方”，现在多指“食谱”。但又为什么多加了个**x**呢？R后面本来没有x，但却有根斜线号**/**。**/**是罗马神话的主神、医药的保护神朱庇特（**Jupiter**）的标志。**/**和**R**的尾部相交，看起来很像**Rx**，人们就索性写成**Rx**了。
 

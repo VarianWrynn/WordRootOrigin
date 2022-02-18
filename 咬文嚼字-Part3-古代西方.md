@@ -99,6 +99,43 @@
 
 
 
+n. 名声, 名人
+【复数：celebrities】
+范围：专四,专八,GRE,考研
+单词笔记   ［添加］
+推荐：
+celebr-荣誉 + -ity, 表名词
+
+词根树   
+-itycelebr-celebr.ity
+
+celebr∙ity  [词根树]
+celebr- 
+= honor, 表示“荣誉”。源自拉丁语 celeber "(of a place) much frequented, hence famous."
+更多同源词...
+-ity 
+表名词，指具备某种性质。
+
+
+### celebrate（庆祝）：古人集会敬拜神灵的习俗
+
+<img src="./images/image-20220218085038385.png" alt="image-20220218085038385" style="zoom:80%;" /> 
+
+> 来自拉丁语 celeber,拥挤的，出名的。
+
+英语单词**celebrate**来自拉丁语***celebrare***，字面意思是“大量人频繁做的”，来自***celeber***（频繁的，参与者众多的）。
+
+**celebrate**原本是一个宗教术语，指很多人聚集到一起敬拜神灵，通常是为了庆祝神灵的生日。后来其宗教色彩逐渐淡化，可用来表示庆祝任何一件事。但在其衍生词**celebrated**中，它应该取其原意“很多人提及和赞美”，所以是“有名的”，而不是“被庆祝的”。同样，**celebrity**指的是“有名的人”，而不是“被庆祝的人”。
+
+- **celebrate**：['sɛlɪbret] v.庆祝，赞美，举行宗教仪式
+- **celebration**：[,sɛlɪ'breʃən] n. 庆典，庆祝会；庆祝；颂扬
+- **celebrant**：['selɪbr(ə)nt] n. 司仪神父；主持仪式的人
+- **celebratory**：['sɛləbrətɔri] adj. 庆祝的；庆贺的；快乐的
+- **celebrated**：['sɛlə'bretɪd] adj.有名的，有名望的
+- **celebrity**：[sə'lɛbrəti] n.名人，名声
+
+
+
 ## 大佬
 
 ### tycoon(大亨) - tycoon直接借自日语“大君”。
@@ -194,7 +231,7 @@ bigwig ['bɪgwɪg] n.权贵之人；有重大影响的人。法国波旁王朝�
 
 
 
-### magnate
+### magnate 大官, 巨头
 
 > magnate 【ˈmæɡneɪt】：n. 大官, 巨头
 
@@ -1115,7 +1152,6 @@ a. 服装浮华的, 极好的
 
 来自词根`dent-`（齿）的常见单词还有**dental**（牙齿的），**dentist**（牙科医生），**trident**（三叉戟、三齿鱼叉）等等。
 
-
 **词根dent-（齿）**
 
 - indenture：[ɪnˈdentʃə(r)] n.契约，合同
@@ -1454,3 +1490,4 @@ die的词源说明：
 - **lottery**： ['lɒt(ə)rɪ] n.彩票，抽奖
 - **lotto**：['lɑto] n. 乐透型彩票，猜号码的游戏
 
+​	
