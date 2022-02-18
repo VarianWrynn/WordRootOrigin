@@ -321,15 +321,25 @@ To distinguish them, we say in french :
 
 
 
+### gyr- = ring, circle, 表示“旋转”{15}
+
+| 单词                                            | 解释                                                         | 单词                                          | 解释                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
+| **gyre**<br />【dʒaɪə】                         | n. 旋回, 回转, 旋转, 漩涡  a circle or spiral <br/>vi. 旋回<br/>**`gyre-`** = ring, circle, 表示“旋转”。<br/><img src="./images/image-20220218093911511.png" alt="image-20220218093911511" style="zoom:67%;" /> | **gyro**                  <br />【ˈdʒaɪˌroʊ】 | n. 陀螺仪, 回转仪, 陀螺<br/>gyro- = ring, circle, 表示“旋转”。<br /><img src="./images/image-20220218094056577.png" alt="image-20220218094056577" style="zoom:50%;" /> |
+| **gyro-compass  **    <br />【ˈdʒaɪroʊˌkʌmpəs】 | n. 旋转罗盘, 回转罗盘<br/>推荐：gyro-转 + compass【脑回】<br/><br/>**`gyro-`** = ring, circle, 表示“旋转”。<br/>**`compass`** n. 指南针, 范围, 音域 vt. 包围, 达到, 图谋, 理解<br /><img src="./images/image-20220218094242670.png" alt="image-20220218094242670" style="zoom:50%;" /> | **gyr∙al**<br />【dʒaɪərəl】                  | a. 旋转的<br/>推荐：gyr-转 + -al<br/><br/>gyr- = ring, circle, 表示“旋转”。<br/>-al 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix. |
+| **gyrus**<br />【dʒaɪrəs】                      | n. 回转, 脑回 a rounded ridge on the outer layer of the brain <br/>推荐：gyr-旋转 + -us<br/><br/>gyr- = ring, circle, 表示“旋转”。 |                                               |                                                              |
+
+<img src="./images/1200px-Gehirn%2C_lateral_-_Hauptgyri_beschriftet.svg.png" alt="Supramarginal gyrus - Wikipedia" style="zoom:50%;" /> 
+
 ### [Aegis](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651800934&idx=1&sn=35ceebf8622625188190dad1cec81bbf&chksm=842cde8db35b579bbf0b3a20050a3517ebcd0efecdcf6932711b453aa4825f91d474fc4a66b3&scene=178&cur_album_id=1297162942844207107#rd) （宙斯盾）
 
 在古希腊神话中，神王宙斯拥有一块神盾。它是火神赫菲斯托斯特地为宙斯锻造的，上面还蒙有一块曾经哺育过宙斯的母山羊阿玛尔忒亚的毛皮。这块盾牌拥有巨大的魔力，只要摇晃一下，就会天摇地动，电闪雷鸣。
 
-<img src="./images/image-20210906150211896.png" alt="image-20210906150211896" style="zoom:67%;" />
+<img src="./images/image-20210906150211896.png" alt="image-20210906150211896" style="zoom: 50%;" /> 
 
 后来，宙斯因为宠爱女儿雅典娜，就把这块盾牌送给了雅典娜。雅典娜在盾牌中间安上了蛇发女妖美杜莎的头，进一步增强了神盾的魔力，任何被其光芒照到的人都会化为石头。从此以后雅典娜战无不胜、所向披靡。
 
-<img src="./images/image-20210906150250758.png" alt="image-20210906150250758" style="zoom: 50%;" />
+<img src="./images/image-20210906150250758.png" alt="image-20210906150250758" style="zoom: 40%;" /> 
 
 这块神奇的盾牌在希腊语中叫做**aigis**，可能源自名词**aigos（山羊）**，因为它上面蒙有一块山羊皮。
 
@@ -352,8 +362,6 @@ To distinguish them, we say in french :
 
 
 **aegis**：['iːdʒɪs] n.保护，庇护，支持，赞助
-
-- 
 
 
 
