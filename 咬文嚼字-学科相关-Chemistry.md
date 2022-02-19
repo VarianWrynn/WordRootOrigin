@@ -132,7 +132,7 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 
 ## -ite 与 ide
 
-### 1. 名词后缀：和化学相关(源自法语) {54}
+### 1. -ite 名词后缀：和化学相关(源自法语) {54}
 
 **`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。
 
@@ -150,30 +150,19 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 
 据Pliny the elder老普利尼记载，罗马人Obsius在埃塞俄比亚发现了这种石头，因此这种石头被称为obsianus lapis，意思是Obsius's stone（），对Obsianus lapis的误读产生了obsidianus和随后的obsidian。
 
+#### pomegranate（石榴）：有许多颗粒的水果。
 
+英语单词**pomegranate**（石榴）来自拉丁语***pomum granatum***，字面意思就是“有许多颗粒的水果”，由**pome**（水果）+ **grenate**（颗粒、纹理）构成。石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。
 
-#### grain / core / maize (颗粒)
-
-**corn**乃本族词，来自古英语。在英国**corn**统指“谷类”，在英格兰指“小麦”，在苏格兰和爱尔兰则指“燕麦”。17世纪英国殖民者来到美洲大陆看见当地玉米，就把它称作**Indian corn**。由于当时玉米为新英格兰地区种植的唯一粮食作物，所以后来人们逐渐地把修饰性形容词Indian省略了，corn就这样成了玉米的美国名称，而英国英语则仍沿用**maize**。在美国英语口语中**corn**也指“威士忌酒”，因为美国威士忌酒多用玉米酿成。
-
-**grain**（谷类，谷物）和**kernel**（果仁，核，谷粒）二词在词源上同**corn**有较密切的亲缘关系，三词均可溯源到同一印欧词根。**grain**源于拉丁语***grānum***，直接借自法语***grain***，而**kernel**系**corn**之指小形式，由**corn**加指小后缀**`-el`**所构成。
-
-- Buy peanuts and corn chips for the party. (CID) 给晚会买些花生和玉米片。
-- The chickens are raised on a diet of corn and other grains. (OCD) 这些鸡是用玉米和其他谷类饲养的。
-
-#### **pomegranate**（石榴）：有许多颗粒的水果。
-
-英语单词pomegranate（石榴）来自拉丁语pomum granatum，字面意思就是“有许多颗粒的水果”，由pome（水果）+ grenate（颗粒、纹理）构成。石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。
-
-- pomegranate：['pɒmɪgrænɪt] n.石榴
-- grain： [ɡren] n. 粮食；谷物；颗粒；纹理v. （使）成谷粒
-- engrain：[ɪn'ɡreɪn] vt. 使根深蒂固；把…染成木纹色adj. 根深蒂固的
-- granulate：['grænjə,let] v.（使）成颗粒状；（使）表面变粗糙
-- granite： ['grænɪt] n. 花岗岩
+- **pomegranate**：['pɒmɪgrænɪt] n.石榴
+- **grain**： [ɡren] n. 粮食；谷物；颗粒；纹理v. （使）成谷粒
+- **engrain**：[ɪn'ɡreɪn] vt. 使根深蒂固；把…染成木纹色adj. 根深蒂固的
+- **granulate**：['grænjə,let] v.（使）成颗粒状；（使）表面变粗糙
+- **granite**： ['grænɪt] n. 花岗岩
 
 
 
-### 2. -ite形容词、名词、动词后缀，表示“属于或和...相关”{38}
+### 2. -ite 形容词、名词、动词后缀，表示“属于或和...相关”{38}
 
 > 来自拉丁语和希腊语。
 
@@ -234,6 +223,18 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 | in-vert-ase               <br />【ɪnvəˌteɪs】 | 转化酶<br />an enzyme that catalyzes the hydrolysis of sucrose into **glucose** and fructose | hydr-ase                      | an enzyme that catalyzes the addition or removal of water |
 | lact-ase<br />【ˈlækˌteɪs】                   | **`lact-`** = milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。<br />any of a group of enzymes (trade name Lactaid) that hydrolyze lactose to **glucose** and galactose | integr-ase<br />【ɪntɪgreɪs】 | 整合酶                                                    |
 |                                               |                                                              |                               |                                                           |
+
+
+
+### **`zyme-`** = to ferment, 表示“发酵”。源自希腊语 zume "leaven."{20}
+
+
+
+| 单词                               | 解释                                                         | 单词                            | 解释                                                         |
+| ---------------------------------- | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ |
+| **en-zym-e **<br />【ˈenzaɪm】     | n. 酶<br/>推荐：en-使… + zym-发酵 + -e → 使发酵 → 酶。<br/><br/>**`en-`** 表示“入、内、在...之内、使...”，来自古法语 en-。<br />在字母 b, m, p 前拼写同化为 em-。<br/>**`zym-`** = to ferment, 表示“发酵”。源自希腊语 zume "leaven."<br/>词源说明(童理民)  <br/>1 - en-,进入，使，-zym,发酵，词源同 eczema,zymurgy. | **zymo-gen**<br />【zaɪmədʒen】 | n. 酶原, 发酵性细菌<br/>推荐：zymo-酶 + gen...原<br/><br/>**`zymo-`** = to ferment, 表示“发酵”。源自希腊语 zume "leaven."<br/>**`-gen`** 中文翻译成“...原”，原意表示“产生”。 |
+| **zymo-logy**<br />【zaɪ'mɒlədʒɪ】 | n. 酶学, 发酵学<br/>推荐：zymo-酶 + -logy学，学科<br/><br/>**`zymo-`** = to ferment, 表示“发酵”。源自希腊语 zume "leaven."<br/>**`-logy`** = science, 表示“科学，学科”， |                                 |                                                              |
+|                                    |                                                              | **gran-zyme**                   | n. 颗粒酶;粒酶;和颗粒酶;蛋白酶;颗粒溶解酶<br/>**`gran-`** = grain, 表示“颗粒”。源自拉丁语 granum "grain."<br/>**`zyme-`** = to ferment, 表示“发酵”。源自希腊语 zume "leaven." |
 
 
 

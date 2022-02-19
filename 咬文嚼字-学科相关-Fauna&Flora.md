@@ -457,6 +457,37 @@ a. 紫罗兰色的; 堇菜科的
 
 ## 谷物
 
+
+
+### **`gran-`** = grain, 表示“颗粒”。源自拉丁语 granum "grain."{21}
+
+| 单词                                              | 解释                                                         | 单词                                                       | 解释                                                         |
+| ------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
+| **gran-ite**                    <br />【ˈɡrænɪt】 | **`gran-`** = grain, 表示“颗粒”。源自拉丁语 granum "grain."<br />gran-颗粒 + -ite, 表名词。因这种岩石颗粒状的纹理而得名。<br />花岗岩：I'm so hard, bitches call me granite | **pome-granate**                    <br />【ˈpɑːmɪɡrænɪt】 | （石榴）：有许多颗粒的水果。英语单词pomegranate（石榴）来自拉丁语pomum granatum<br />字面意思就是“有许多颗粒的水果”，由pome（水果）+ grenate（颗粒、纹理）构成。<br />石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。 |
+| **gran-zyme**                                     | n. 颗粒酶;粒酶;和颗粒酶;蛋白酶;颗粒溶解酶<br/>**`gran-`** = grain, 表示“颗粒”。源自拉丁语 granum "grain."<br/>**`zyme-`** = to ferment, 表示“发酵”。源自希腊语 zume "leaven." |                                                            |                                                              |
+|                                                   |                                                              |                                                            |                                                              |
+
+#### grain / core / maize (颗粒)
+
+**corn**乃本族词，来自古英语。在英国**corn**统指“谷类”，在英格兰指“小麦”，在苏格兰和爱尔兰则指“燕麦”。17世纪英国殖民者来到美洲大陆看见当地玉米，就把它称作**Indian corn**。由于当时玉米为新英格兰地区种植的唯一粮食作物，所以后来人们逐渐地把修饰性形容词Indian省略了，corn就这样成了玉米的美国名称，而英国英语则仍沿用**maize**。在美国英语口语中**corn**也指“威士忌酒”，因为美国威士忌酒多用玉米酿成。
+
+**grain**（谷类，谷物）和**kernel**（果仁，核，谷粒）二词在词源上同**corn**有较密切的亲缘关系，三词均可溯源到同一印欧词根。**grain**源于拉丁语***grānum***，直接借自法语***grain***，而**kernel**系**corn**之指小形式，由**corn**加指小后缀**`-el`**所构成。
+
+- Buy peanuts and corn chips for the party. (CID) 给晚会买些花生和玉米片。
+- The chickens are raised on a diet of corn and other grains. (OCD) 这些鸡是用玉米和其他谷类饲养的。
+
+#### pomegranate（石榴）：有许多颗粒的水果。
+
+英语单词**pomegranate**（石榴）来自拉丁语***pomum granatum***，字面意思就是“有许多颗粒的水果”，由**pome**（水果）+ **grenate**（颗粒、纹理）构成。石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。
+
+- **pomegranate**：['pɒmɪgrænɪt] n.石榴
+- **grain**： [ɡren] n. 粮食；谷物；颗粒；纹理v. （使）成谷粒
+- **engrain**：[ɪn'ɡreɪn] vt. 使根深蒂固；把…染成木纹色adj. 根深蒂固的
+- **granulate**：['grænjə,let] v.（使）成颗粒状；（使）表面变粗糙
+- **granite**： ['grænɪt] n. 花岗岩
+
+
+
 ### einkorn v.s emmer
 
 > and rippling fields of wild barley and wild wheat varieties such as emmer and einkorn.
