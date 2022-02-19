@@ -298,28 +298,17 @@ Tangential Trivia: \$1,000 in 1915 would be the equivalent of \$23,500 today.
 
 > -ate 表示“...盐”{42} 这个盐应该是工业/化学领域的盐，和salt这种可食用盐是两码事
 
-| 单词 | 解释                                                         | 单词 | 解释 |
-| ---- | ------------------------------------------------------------ | ---- | ---- |
-| salt | n. 盐, 风趣, 刺激<br/>a. 含盐的, 咸的, 风趣的, 辛辣的<br/>vt. 加盐于, 用盐腌<br />salt- <br/>= salt, 表示“盐”，来自拉丁语。源自拉丁语 sal "salt."<br />来自古英语 sealt,盐，来自 Proto-Germanic*saltom,盐，来自 PIE*sal,盐，词源同 halogen,saline. |      |      |
-|      |                                                              |      |      |
-|      |                                                              |      |      |
-
-
-
-英语词源趣谈(庄和诚)
-salt - 当我们了解到salary一词竟是来自意为“盐”的拉丁语sal时，都不免会感到有点惊奇。salary与“盐”之间究竟有什么联系呢？盐在古代被视为珍品，把盐泼翻甚至被人看作是凶兆。古罗马军队把盐作为军饷的一部分，按日实行定量配给，用食盐配给的这部分饷金拉丁文叫salārium（由sal派生而成），相当于英语salt-allowance或salt money。以后，尽管这部分军饷为金钱所取代，但salārium一词却保留了下来。法语借用了该词，作salarie，14世纪进入英语，以salary的形式出现，而且词义被扩展了，用以泛指“薪金”、“薪水”。今天我们尚能从be worth one's salt（称职，胜任）和earn one's salt（自食其力）这两个习语看到salt和salary的历史痕迹。
-
-例　For some people, job satisfaction is more important than a high salary. (LLA) 对某些人来说，工作满意度比高薪更重要。
-
-This position offers an annual salary of 50,000. 这一职位年薪5万美元。
-
-He earns/gets quite a good/high/decent salary in his present job. 他现在的工作薪金不菲／很高／尚可观。
-
-The boss put up/raised everyone's salary by 4,000 last year, because profits were good. (CID) 因为效益不错，老板去年给每个人提薪4000元。
+| 单词                    | 解释                                                         | 单词                                | 解释                                                         |
+| ----------------------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
+| **salt**<br />【sɔːlt】 | n. 盐, 风趣, 刺激<br/>a. 含盐的, 咸的, 风趣的, 辛辣的<br/>vt. 加盐于, 用盐腌<br />salt- <br/>= salt, 表示“盐”，来自拉丁语。源自拉丁语 sal "salt."<br />来自古英语 sealt,盐，来自 Proto-Germanic*saltom,盐，来自 PIE*sal,盐，词源同 halogen,saline. | **saus-age**      <br />【ˈsɔːsɪdʒ} | n. 香肠, 腊肠<br/>推荐：<br/>来自 sauce,盐渍物，调味料，酱，-age,名词后缀。引申词义香肠。词义演变比较 toilet,原义为网，装化妆品的网兜。<br/><br/>**`sal-,salt-`** = salt, 表示“盐”，来自拉丁语。源自拉丁语 sal "salt."<br/>**`-age`** 表示“状态，总称”。 |
+|                         |                                                              |                                     |                                                              |
+|                         |                                                              |                                     |                                                              |
 
 
 
 #### salary（工资）：古罗马军队发给士兵的买盐津贴
+
+> 来自拉丁语 salarium,薪金，薪水，薪俸，来自 sal,盐，词源同 salt,盐。字面意思即买盐钱，因盐的重要性而得名，或来自古代社会给士兵发盐的真实历史。
 
 英语单词**salary**（工资）来源于拉丁语名词**salarium**，本意是“用来买盐的津贴”，其中的**`sal`**指的就是**salt**（盐）。
 
@@ -328,6 +317,16 @@ The boss put up/raised everyone's salary by 4,000 last year, because profits wer
 罗马军队专门为士兵买盐提供津贴，并且这部分津贴是军饷的重要组成部分，定时发放，十分稳定。所以人们就用**salary**一词来表示一个人稳定可靠的收入，即“工资”。
 
 当西方人想表示一个人称职时，会使用习语**worth one’s salt**（配得上给他的盐）。还有一个跟盐有关的习语，**sit above the salt**（坐在盐罐上首），表示“上座”，这是因为盐罐是餐桌上的重要器皿，只有贵宾才能紧挨着盐罐坐，所以盐罐上方的座位就是上座。
+
+**英语词源趣谈(庄和诚)**
+
+ 当我们了解到**salary**一词竟是来自意为“盐”的拉丁语sal时，都不免会感到有点惊奇。**salary**与“盐”之间究竟有什么联系呢？
+
+盐在古代被视为珍品，把盐泼翻甚至被人看作是凶兆。古罗马军队把盐作为军饷的一部分，按日实行定量配给，用食盐配给的这部分饷金拉丁文叫***salārium***（由sal派生而成），相当于英语**salt-allowance**或**salt money**。
+
+以后，尽管这部分军饷为金钱所取代，但***salārium***一词却保留了下来。法语借用了该词，作***salarie***，14世纪进入英语，以**salary**的形式出现，而且词义被扩展了，用以泛指“薪金”、“薪水”。
+
+今天我们尚能从**be worth one's salt**（称职，胜任）和**earn one's salt**（自食其力）这两个习语看到salt和salary的历史痕迹。
 
 
 
@@ -381,11 +380,13 @@ The boss put up/raised everyone's salary by 4,000 last year, because profits wer
 
 > -ate 表示“...盐”{42} 这个盐应该是工业/化学领域的盐，和salt这种可食用盐是两码事
 
-| 单词        | 解释                                                         | 单词 | 解释 |
-| ----------- | ------------------------------------------------------------ | ---- | ---- |
-| **hal-ide** | n. 卤化物<br/>a. 卤化物的<br/>推荐：hal-盐 + -ide<br/><br/>hal- = salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."<br/>-ide 22<br/>化学名词后缀，表示“...化物”如oxide氧化物。 |      |      |
-|             |                                                              |      |      |
-|             |                                                              |      |      |
+| 单词                                   | 解释                                                         | 单词                          | 解释                                                         |
+| -------------------------------------- | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
+| **hal-ide**                            | n. 卤化物<br/>a. 卤化物的<br/>推荐：hal-盐 + -ide<br/><br/>**`hal-`** = salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."<br/>**`-ide`** 化学名词后缀，表示“...化物”如oxide氧化物。 | **hal-ite**<br />【hælaɪt】   | n. 石盐, 岩盐<br/>推荐：hal-盐 + -ite<br/><img src="./images/image-20220219125021549.png" alt="image-20220219125021549" style="zoom: 36%;" /><br/>**`hal-`** = salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。 |
+| **hal-o-gen[^1] ** <br />【ˈhælədʒən】 | n. 卤素 <br/>推荐：halo-盐 + -gen => **salt-producer**<br/><br/>**`halo-`** = salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."<br/>**`gen-`** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。<br/>词源说明(童理民)  <br/>1 - halo-,盐，词源同 salt,-gen,生成，词源同 generate.即生成盐的卤素。 | **halcyon**<br />【ˈhælsiən】 | 来自希腊语 ***halkyon***,希腊神话中形如翠鸟的神鸟，来自 **`hal-`**,海，词源同 **salt**。<br />**halogen**,-kyon,孕育，来自 PIE*keue,膨胀，词源同 cave,cumulus. |
+|                                        |                                                              |                               |                                                              |
+
+[^1]: 摩西英语(摩西)<br/>希腊词根**halo-**表示盐，本意是海水（海水是咸的哦），因此**halogen** ['hælədʒən] n.卤素是化学元素周期表中的一组元素，因为这组元素能够与金属发生化学发应生成盐类物质（词根gen表生产、产生，halogen字面意思**salt-producer**），比如氯元素Cl与金属钠Na发生反应会生成生活中必不可少的食盐氯化钠。
 
 
 

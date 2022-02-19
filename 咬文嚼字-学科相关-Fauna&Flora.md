@@ -254,7 +254,7 @@ guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿�
 
 
 
-#### **Petrel** /ˈpetrəl/
+### **Petrel** /ˈpetrəl/
 
 <img src="./images/PLate-Wilsons-Storm-Petrel_uit_INDD_2048.jpg" alt="Wilson&#39;s Storm Petrel - The Sound Approach" style="zoom:80%;" />
 
@@ -274,19 +274,37 @@ guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿�
 
 - stormy：有暴风雨(或暴风雪)的;群情激愤的;激烈争吵的
 
-#### **petrify**　　
-
-/ˈpetrɪfaɪ/　v. 把……吓呆；使惊呆
-
-借自法语pétrifier，源自拉丁语petra 'stone'和facere 'to make'，故字面原义为“使变成石头”、“使石化”，今多用于喻义，表示“把……吓呆”或“使惊呆”，常用被动语态。（参见petrol）
-
-eg:
-
-- As soon as she got on stage she was petrified with fright. 她一登台就吓呆了。
-- He had the gun pointed at my head. I was absolutely petrified. (LLA) 他用枪指着我的头。我完全吓呆了。
-- I stood petrified as the dog came bounding up to me. 当那条狗朝我扑过来的时候，我吓得呆站在那里。
 
 
+### halcyon（神翠鸟）：殉情自尽的痴情夫妻
+
+> 风神的女儿和女婿因得罪宙斯被变成神翠鸟（halcyon）。在冬至前后的两周时间，大海会风平浪静以便鸟儿能孕育后代，据说就是来自起父亲风神的护佑。
+
+<img src="./images/image-20220219124326712.png" alt="image-20220219124326712" style="zoom: 50%;" /> 
+
+希腊神话中，风神有一个女儿叫艾尔莎奥妮（**Alcyone**），嫁给了黎明女神的儿子、国王西克斯（**Ceyx**)。两口子非常恩爱，竟然得意地自比宙斯和赫拉，结果惹恼了宙斯和赫拉，决定要好好惩罚这两个不敬神灵的凡人。于是，有一天，西克斯在海上航行的时候溺水而亡，艾尔莎奥妮伤心愈绝，跳崖身亡。
+
+众神被她的痴情感动，就将西克斯与艾尔莎奥妮双双变成神翠鸟（**halcyon**），从此永不分离。 传说中这对恩爱的夫妻在波浪上抚育他们的孩子，而艾尔莎奥妮的父亲风神因为眷顾女儿， 每年十二月份，他就会平息海浪，便于翠鸟在海上筑窝，生育后代。所以单词**halcyon**还有“风浪平息”的含义。
+
+- **halcyon**： ['hælsɪən; -ʃ(ə)n] 
+  - n.神翠鸟，翡翠鸟
+  - adj.宁静的，平稳的
+- **halcyon** days：太平时期
+
+<img src="./images/image-20220219124247120.png" alt="image-20220219124247120" style="zoom:67%;" /> 
+
+**词源说明(童理民)**  
+
+来自希腊语 ***halkyon***,希腊神话中形如翠鸟的神鸟，来自 **`hal-`**,海，词源同 **salt**。
+
+**halogen**,-kyon,孕育，来自 PIE*keue,膨胀，词源同 cave,cumulus.
+
+传说在冬至前后的两周时间，这种鸟在海面上筑巢孕育下一代，平时惊涛骇浪的大海会风平浪静，因此，引申词义太平的。
+
+**摩西英语(摩西)**
+
+- **Halcyon** days冬至前后十四天风平浪静的日子；太平盛世。希腊神话中，Halcyon是风神Aeolus的女儿，因其丈夫溺亡，所以欲投海自尽之时被神变作一只翠鸟，并在每年冬天的12月14日至冬至前后的半个月内命令海上不得有风浪，让Halcyon变成的翠鸟能在海面上筑巢孵化后代，所以Halcyon days指风平浪静的日子。 
+- **halcyon** ['hælsɪən] n.翠鸟，adj.宁静的。冬至前后一周风平浪静的日子为“**halcyon days**”，为啥呢？**Alcyone**是风神**Aeolus**之女，嫁给**Cyex**后过于舒坦，竟以“宙斯”和“赫拉”相称，愤怒的宙斯将**Cyex**葬身海底，**Alcyone**投海自尽。宙斯将二人化作一对翠鸟而其在岸上孵卵时，**Aeolus**令这期间海上不得有风。
 
 
 
