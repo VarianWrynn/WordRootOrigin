@@ -130,7 +130,7 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 
 
 
-## -ite
+## -ite 与 ide
 
 ### 1. 名词后缀：和化学相关(源自法语) {54}
 
@@ -192,6 +192,20 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 | Sodomite      |      | term-ite     |      |
 | tri-log-ite   |      | Gothma-ite   |      |
 | tr-ite        |      |              |      |
+
+
+
+### 3. -ide 化学名词后缀，表示“...化物”如oxide氧化物{22}
+
+> **`-ine`**: 该元素组成的物品，比如氯气、咖啡因等
+>
+> **`-ide`**: 该元素和其他元素组合成的物品，如：氯化物（Chloride (Cl-) forms when chlorine (Cl2) reacts with hydrogen or [sodium](https://www.ahealthyphilosophy.com/article/sodium-an-essential-macromineral).）、氧化物等 
+
+| 单词                                 | 解释                                                         | 单词                          | 解释                                                         |
+| ------------------------------------ | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
+| **iod-ide**<br />【ˈaɪədaɪd】        | n. 碘化物<br/>推荐：iod-碘 + -ide<br/><br/>**`iod-`** 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。<br/>**`-ide`** 化学名词后缀，表示“...化物”如oxide氧化物。<br/><img src="./images/image-20220219101454884.png" alt="image-20220219101454884" style="zoom:67%;" /><br />词源说明(童理民)  <br/>1 - 来自 iodine,碘，-ide,化学名词后缀。 | **iod-ine**<br />【ˈaɪədaɪn】 | n. 碘, 碘酒<br/><br/>**`iod-`** 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。<br/><img src="./images/image-20220217090337200.png" alt="image-20220217090337200" style="zoom: 33%;" /><br />词源说明(童理民)  <br/>1 - 来自希 腊语 ideides,紫色的 ，来自 io-,紫色， 词源同 violet,-eides,像，相 似，词源同alkaloid,ovoid,idea.后 1814 年，英国化学家 Humphrey Davy 借用该希腊词来表示化学元素碘。 |
+| **chlor-ide**    <br />【ˈklɔːraɪd】 | n. 氯化物<br/>推荐：chlor-氯 + -ide<br/><br/>chlor- = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."<br/>-ide <br/>化学名词后缀，表示“...化物”如oxide氧化物。 |                               |                                                              |
+|                                      |                                                              |                               |                                                              |
 
 
 

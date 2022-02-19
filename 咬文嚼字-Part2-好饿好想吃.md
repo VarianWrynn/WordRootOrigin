@@ -292,7 +292,102 @@ Tangential Trivia: \$1,000 in 1915 would be the equivalent of \$23,500 today.
 
 
 
-## 料酱的
+## 调味品
+
+### salt- = salt, 表示“盐”，来自拉丁语。源自拉丁语 sal "salt."{16}
+
+> -ate 表示“...盐”{42} 这个盐应该是工业/化学领域的盐，和salt这种可食用盐是两码事
+
+| 单词 | 解释                                                         | 单词 | 解释 |
+| ---- | ------------------------------------------------------------ | ---- | ---- |
+| salt | n. 盐, 风趣, 刺激<br/>a. 含盐的, 咸的, 风趣的, 辛辣的<br/>vt. 加盐于, 用盐腌<br />salt- <br/>= salt, 表示“盐”，来自拉丁语。源自拉丁语 sal "salt."<br />来自古英语 sealt,盐，来自 Proto-Germanic*saltom,盐，来自 PIE*sal,盐，词源同 halogen,saline. |      |      |
+|      |                                                              |      |      |
+|      |                                                              |      |      |
+
+
+
+英语词源趣谈(庄和诚)
+salt - 当我们了解到salary一词竟是来自意为“盐”的拉丁语sal时，都不免会感到有点惊奇。salary与“盐”之间究竟有什么联系呢？盐在古代被视为珍品，把盐泼翻甚至被人看作是凶兆。古罗马军队把盐作为军饷的一部分，按日实行定量配给，用食盐配给的这部分饷金拉丁文叫salārium（由sal派生而成），相当于英语salt-allowance或salt money。以后，尽管这部分军饷为金钱所取代，但salārium一词却保留了下来。法语借用了该词，作salarie，14世纪进入英语，以salary的形式出现，而且词义被扩展了，用以泛指“薪金”、“薪水”。今天我们尚能从be worth one's salt（称职，胜任）和earn one's salt（自食其力）这两个习语看到salt和salary的历史痕迹。
+
+例　For some people, job satisfaction is more important than a high salary. (LLA) 对某些人来说，工作满意度比高薪更重要。
+
+This position offers an annual salary of 50,000. 这一职位年薪5万美元。
+
+He earns/gets quite a good/high/decent salary in his present job. 他现在的工作薪金不菲／很高／尚可观。
+
+The boss put up/raised everyone's salary by 4,000 last year, because profits were good. (CID) 因为效益不错，老板去年给每个人提薪4000元。
+
+
+
+#### salary（工资）：古罗马军队发给士兵的买盐津贴
+
+英语单词**salary**（工资）来源于拉丁语名词**salarium**，本意是“用来买盐的津贴”，其中的**`sal`**指的就是**salt**（盐）。
+
+为什么**salary**（工资）原本是“买盐的津贴”呢？原来，古代只有少数地方产盐，而制盐技术落后，交通不便，所以盐特别珍贵，被称为“***白色金子***”。
+
+罗马军队专门为士兵买盐提供津贴，并且这部分津贴是军饷的重要组成部分，定时发放，十分稳定。所以人们就用**salary**一词来表示一个人稳定可靠的收入，即“工资”。
+
+当西方人想表示一个人称职时，会使用习语**worth one’s salt**（配得上给他的盐）。还有一个跟盐有关的习语，**sit above the salt**（坐在盐罐上首），表示“上座”，这是因为盐罐是餐桌上的重要器皿，只有贵宾才能紧挨着盐罐坐，所以盐罐上方的座位就是上座。
+
+
+
+**相关单词：**
+
+- **`sal-`**：盐
+
+- **salt**：[sɔlt] n.盐
+
+- **salty**：['sɔlti] adj. 咸的；含盐的
+
+- **salary**： ['sælərɪ] n.工资，薪水
+
+- **worth one’s salt**： 称职
+
+- **sit above the salt** 坐上席；受尊敬。
+
+  盐在过去还是比较金贵的，所以欧洲人宴请宾客时，会请贵宾坐在紧挨着主人的位置，因为餐桌多为长方形，所以贵宾的位置相当于**sit above the salt**（餐桌上盛盐的罐子），而其他客人则是sit below the salt。
+
+  > They all stood up and asked Peter to sit above the salt. 
+
+- **take with a grain of salt** 对...持保留意见。
+
+  罗马人击败本都国王**Mithridate**后，发现这位传说中百毒不侵的国王的药方中有这样一服药方：胡桃、芸香和无花果碾碎混合后配少许盐服用能助防毒。其实这些东西一起吃有啥味呀，加点盐能调味是真的。
+
+  > All this is speculative,so take it with a grain of salt. 
+
+- **not worth one's salt** 不称职。
+
+  不起眼的盐在古代很贵重的，罗马士兵的薪水的一部分就是所谓的“盐饷”，salary ['sælərɪ] n.薪水，与日耳曼词源的salt盐同源，同时也与希腊词源的**`halo-`**同源。He has had three jobs in the past year, and all his employers have said that he is not worth his salt. 
+
+
+
+#### salad（色拉）：用盐水泡过的蔬菜
+
+沙拉（**salad**）是西方人非常喜爱的菜肴之一，通常由蔬菜、水果再加上一些调味酱制成。
+
+在现代，制作沙拉时通常使用沙拉酱作为调味品，而在古代，制作沙拉的调味品通常就是盐水。**salad**一词的来源就与“盐”有关。它来自拉丁语***salata***，字面意思就是**salted**（用盐腌的、用盐泡过的）。
+
+不过和泡菜不同，沙拉通常是用新鲜蔬菜制成，在盐水中泡的时间很短，达到调味的效果即可。现在，随着各种沙拉酱的出现，很少有人还使用盐水来制作沙拉，但**salad**这个单词的拼写依然显示了它和盐之间的关系。
+
+- **salad**：['sæləd] n.沙拉，色拉
+- **salt**：[sɔlt] n. 盐
+  - adj. 咸水的；含盐的，咸味的；盐腌的
+  - vt. 用盐腌；给…加盐
+- **salty**：['sɔlti] adj. 咸的；含盐的
+
+
+
+### hal- 7= salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."{7}
+
+> -ate 表示“...盐”{42} 这个盐应该是工业/化学领域的盐，和salt这种可食用盐是两码事
+
+| 单词        | 解释                                                         | 单词 | 解释 |
+| ----------- | ------------------------------------------------------------ | ---- | ---- |
+| **hal-ide** | n. 卤化物<br/>a. 卤化物的<br/>推荐：hal-盐 + -ide<br/><br/>hal- = salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."<br/>-ide 22<br/>化学名词后缀，表示“...化物”如oxide氧化物。 |      |      |
+|             |                                                              |      |      |
+|             |                                                              |      |      |
+
+
 
 ### mustard（芥末）：沉浸在未发酵葡萄汁中的调味品
 
