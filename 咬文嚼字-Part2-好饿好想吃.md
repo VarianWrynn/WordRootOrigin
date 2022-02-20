@@ -140,7 +140,7 @@
 
 
 
-### [beef](http://www.dorflersmeats.com/butcher-shop/beef/)
+### [beef](http://www.dorflersmeats.com/butcher-shop/beef/) 牛肉
 
 
 
@@ -148,11 +148,79 @@
 
 
 
-### [Veal](http://www.dorflersmeats.com/butcher-shop/veal/)
+### [Veal](http://www.dorflersmeats.com/butcher-shop/veal/) 小牛肉
 
 > 词源说明(童理民)  <br/>1 - 来自拉丁语 vitulus,小牛，字母 t 脱落，来自 PIE*wet,年，词源同 vellum,wether.原指尚未成年的小牛，后指小牛肉。
 
 <img src="./images/dorflers-veal-cuts.jpg" alt="dorflers-veal-cuts" style="zoom:90%;" /> 
+
+
+
+
+
+n. 火鸡, 无用的家伙, 土耳其
+【复数：turkeys】
+范围：四级,专四,考研,雅思,高考
+单词笔记   ［添加］
+英语词源趣谈(庄和诚)
+turkey - 火鸡乃西方圣诞节和美国感恩节晚餐必备菜肴之一，其英语名称turkey是因其错误地被认为来自Turkey（土耳其）而得名的。该鸟原产北美洲，16世纪西班牙人从墨西哥把它引进欧洲。当时一般欧洲人的地理知识较为贫乏，他们常常将东方，特别是中国、印度及土耳其等国视为一切奇异舶来品的出产地。由于火鸡有几分形似早先取道土耳其进入欧洲，已有turkey-cock之称的珠鸡（guinea fowl，亦作guinea cock），所以当火鸡在英国广为饲养时，英国人就以turkey-cock来命名，后来又缩略为turkey。法国人则称之为“印度鸡”（la poule d'Inde），以后缩略为dinde，阳性形式作dindon。17世纪英国殖民者来到北美大陆看见这种野生的异国禽鸟时，也以turkey称之。该词早在1607年就见诸英格兰探险家史密斯（John Smith, 1580-1631）的作品中。
+
+例　We raise turkeys mainly for the Christmas market. (OCD) 我们饲养火鸡主要是为了供应圣诞市场。
+
+Turkeys make a funny gobbling sound. (OCD) 火鸡发出有趣的咯咯叫声。
+
+Turkey is his favorite food at Thanksgiving dinner. 火鸡是感恩节晚宴上他最喜爱的食品。
+
+词源故事(钱磊)
+
+### turkey（火鸡）：形如“土耳其鸡”的北美大鸟
+
+15、16世纪的土耳其（**Turkey**）首都君士坦丁堡是连接欧亚的重要贸易枢纽，很多商人在那里销售来自非洲的商品，其中就包含一种产自非洲马达加斯加岛的大型鸟类。这种鸟原本叫做“珍珠鸡”（**guinea fowl**），但在土耳其被商人改称为“土耳其鸡”（**Turkey cock**）销往英国。后来这种鸟被英国人简称为turkey。当
+
+英国人来到美洲大陆殖民时，发现当地也出产一种体型巨大的鸟类，长相与珍珠鸡很像，误以为是珍珠鸡的一种，便也将这种鸟称为**turkey**。其实，这种鸟与产自非洲的珍珠鸡并非同类，而是北美特有的火鸡，后来成为北美人们感恩节上的常见佳肴。
+还有一种说法认为，火鸡被北美殖民者发现后，经由土耳其人走向世界，故被称为**turkey**。
+
+- **turkey**：['tɜːkɪ] n.火鸡，笨蛋
+- **Turkey**：['tɜːkɪ] n.土耳其
+- **Turkish**：[ˈtɜːkɪʃ] adj.土耳其的，土耳其人的，土耳其语的
+
+
+
+横跨亚欧的土耳其共和国前段时间大张旗鼓地开展更名活动，要将英语国名从Turkey改为Türkiye。
+
+据悉，土耳其政府已正式开始与联合国交涉，希望能获准在所有国际正式场合用Türkiye代替Turkey。尽管联合国方面至今不置可否，但土耳其外交部已悄悄将其官方网站和文件上的国名改为Türkiye。
+
+<img src="./images/image-20220220160235732.png" alt="image-20220220160235732" style="zoom: 67%;" /> 
+
+Türkiye来自土耳其语，意思就是“突厥人的国家”。而英语单词Turkey来自拉丁语Turchia，意思就是“突厥人的土地”。
+
+土耳其为什么放着好好的Turkey不用，硬要换成Türkiye呢？这是因为，Turkey这个单词在英语中，除了表示“土耳其”外，还可以表示“火鸡”（turkey），就是美国人在感恩节常吃的那种大鸟。
+
+火鸡为什么也叫做turkey呢？难道是巧合？当然不是，火鸡的英文名turkey其实就来自土耳其的国名Turkey，本意就是“土耳其鸡”。
+
+15、16世纪的土耳其（Turkey）首都君士坦丁堡是连接欧亚的重要贸易枢纽，很多商人在那里销售来自非洲的商品，其中就包含一种产自非洲马达加斯加岛的大型鸟类。这种鸟被葡萄牙人叫做guinea fowl（珍珠鸡），在土耳其被改称为Turkey cock（土耳其鸡），销往欧洲各国。因此在英语中被简称为turkey。
+
+<img src="./images/image-20220220160323978.png" alt="image-20220220160323978" style="zoom: 50%;" /> 
+
+火鸡给人呆头呆脑的感觉，所以在美国人口语中，turkey还含有“笨蛋、失败之作”的意思。由于土耳其的英文名Turkey和火鸡的名字turkey完全一样，所以在西方媒体中，土耳其常常被调侃为“火鸡国”。
+
+土耳其人素来好面子，一心想复兴“奥斯曼帝国”的昔日荣光，对Turkey这个名称自然是越看越别扭，最终做出了更改英文国名的决定。
+
+土耳其这次“更名”最大的掣肘恐怕是书写法：土耳其新国名“Türkiye”中的“ü”并非常用的拉丁字母，这会让出版、新闻报道等需要涉及输入法的文字工作变得非常麻烦。作为折衷，ü可能会用拉丁字母u代替。
+
+**词源说明(童理民)  :**
+
+词源同 **Turkey**,土耳其。在 16 世纪时，有一种类似火鸡的禽鸟叫 guinea fowl,几内亚禽鸟，或几内亚鸡，从马达加斯加经过土耳其进入欧洲，所以又称为 turkey,后来西班牙殖民者发现美洲新大陆后，他们注意到当地有一种较大的火鸡长得与这种非洲禽鸟非常相似，且这种鸟个头巨大，非常笨拙，因此，他们也把这种鸟叫作 turkey,并引进欧洲。后随着生物学分类更加细化，人们发现这两种禽鸟实际上属于不同种类，为以示区别，后来就把美洲的禽鸟叫 turkey,把非洲的禽鸟借用希腊语 meleagris 称呼。
+
+**摩西英语(摩西)**
+
+**guinea pig** ['ginipig] 豚鼠；荷兰猪。这是一个典型的misnomer误称（wrong naming），因为它既与Guinea几内亚无关，还不是pig猪。17世纪期间，Guinea泛指一个比较模糊的地理概念，比如当时火鸡turkey就叫做guinea-fowl几内亚家禽。好玩的是，turkey火鸡也与Turkey土耳其无关，土耳其是其中转地而已。
+
+
+
+**Reference:**
+
+1. [誓要跟火鸡（turkey）划清界限，土耳其（Turkey）更改英文国名！--钱磊博士](https://mp.weixin.qq.com/s/9gjwMNAw6LePw_KAm1-FJw)
 
 
 
