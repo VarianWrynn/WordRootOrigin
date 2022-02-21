@@ -103,7 +103,18 @@
 
 
 
-## millionaire 百万富翁
+## -aire,人，对应英语-ary. 引申词义百万富翁{5}
+
+| 单词                                       | 解释                                                         | 单词                                              | 解释                                                         |
+| ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| **million-aire**<br />【ˌmɪljəˈner】       | n. 百万富翁, 大富豪<br/>推荐：million【n. 百万, 无数】 + -aire表名词<br/><br/>**`million`** n. 百万, 无数 num. 百万<br/>**`-aire`** 表名词。<br />someone who has more than a million pounds or dollars | concession-aire                                   | . 让受人, 特许权所有人<br/>推荐：concession【让步】 + -aire<br/><br/>**`concession`** n. 许可, 特许权; 特许经营, 摊位; 让步; 减价<br/>**`-aire`** 表名词。<br /><img src="./images/image-20220221092332946.png" alt="image-20220221092332946" style="zoom:67%;" /> |
+| **zillion-aire**<br />【zɪljə'neə】        | n. 大富翁, 亿万富翁，财富多得不可计算的人<br/>推荐：zillion【无限大的数字】 + -aire<br/><br/>**zillion** n. 无限大的数字 | **zillion**<br />【ˈzɪljən】                      | n. 无限大的数字，很大量<br/>词源说明(童理民)  <br/>1 - 根据 million,billion 等词杜撰出来的一个词。 |
+| **doctrin-aire  **  <br />【ˌdɑːktrɪˈner】 | n. 空论家, 纯理论家, 教条主义者<br/>a. 空谈理论的, 脱离实际的<br/>推荐：doctrine【教条】 + -aire。<br/><br/>**`doctrine`** n. 教条, 学说<br/>**-`aire`** 表名词。<br/>词源说明(童理民)  <br/>1 - 来自 doctrine,教义，学说，词义贬义化。 | **question-n-aire**        <br />【ˌkwestʃəˈner】 | n. 调查表, 问卷<br/>推荐：question【问题】 + -n- + -aire名词后缀，即-ary . 引申词义调查问卷。<br/><br/>**`question`** n. 问题, 询问 v. 询问, 审问, 怀疑<br/>**`-aire`** 表名词。<br/>词源说明(童理民)  <br/>1 - 来自 question,问题。-aire,名词后缀，即-ary.引申词义调查问卷。 |
+|                                            |                                                              |                                                   |                                                              |
+
+
+
+### millionaire 百万富翁
 
 **millionaire** - ***million***系直接借自古法语，源于意大利语***millione***，按字面义是a thousand thousands（一千个千），汉语作“百万”。
 
@@ -126,7 +137,7 @@
 
  
 
-### -aire,人，对应英语-ary. 引申词义百万富翁
+### 
 
 
 

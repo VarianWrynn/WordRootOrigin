@@ -8,7 +8,7 @@
 
 
 
-**chemistry（化学）：古阿拉伯人的炼金术**
+## **chemistry（化学）：古阿拉伯人的炼金术**
 
 在古代，有很多人希望能找到一种方法，将低贱的金属变为金子。这种方法就是所谓的炼金术。据说炼金术最早在古埃及兴起，在阿拉伯语中叫做al kimiya。其中，al是定冠词，相当于英语中的the，kimiya据说是埃及的古称，字面意思是“黑色泥土构成的大地”。
 
@@ -21,6 +21,16 @@
 - **chemist**： ['kemɪst]n. 化学家；化学工作者；药剂师；炼金术士
 - **chemical**： ['kemɪk(ə)l] adj.化学的n.化学制品
 - **chemistry**： ['kemɪstrɪ] n.化学，化学过程
+
+
+
+| 单词                     | 解释                                                         | 单词                               | 解释                                                         |
+| ------------------------ | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ |
+| **mica**<br />【ˈmaɪkə】 | n. 云母<br/>单词笔记   ［添加］<br/><img src="./images/image-20220221094714970.png" alt="image-20220221094714970" style="zoom: 50%;" /><br />词源说明(童理民)  <br/>1 - 来自拉丁语 mica,谷粒，面包屑，来自 PIE*smik,小的，微粒的，<br />词源同 micron,microbe.后借用该词来指云母，因云母呈现的细微颗粒而得名。 | **muscovite**<br />【ˈmʌskəʊvaɪt】 | 白云母;云母;白雲母;莫斯科人;莫斯科公国<br /><img src="./images/image-20220221094504711.png" alt="image-20220221094504711" style="zoom: 50%;" /><br />1 . somebody who comes from Moscow , Russia <br/>2 . a common mica mineral consisting of potassium（/pəˈtæsiəm/，钾） aluminum silicate . |
+|                          |                                                              |                                    |                                                              |
+|                          |                                                              |                                    |                                                              |
+
+
 
 
 
@@ -51,6 +61,7 @@
 | **german-ium**<br />【dʒɜːrˈmeɪniəm】                        | **锗**。来自其发现者 19 世纪德国科学家 Clemens Alexander Winkler 以祖国 Germany 命名的金属元素。<br /> chemical element. Germanium is a shiny grey element that is similar to a metal (= is a metalloid ) . | **gall-ium**<br />【ˈɡæliəm】                        | 镓<br />gall-镓 + -ium, 法国科学家 Paul **Lecoq de Boisbaudran** 在1875年发现这种金属元素后，用自己祖国的名字 (Gallic, 高卢的) 为其命名，同时这也是他本人的名字 coq 的拉丁语翻译 gallus。<br />**`gall-`** 表示“高卢，法国，镓，鸡”。来自拉丁语 Gallia“高卢人”和另外一个同形的拉丁语 gallus “公鸡”的词干。 |
 | **holm-ium**<br />【ˈhoʊlmiəm】                              | Holmium 1 - 来自 **Holmia**,***瑞典首都 Stockholm 拉丁名字***，该稀土元素发现者 19 世纪瑞典化学家 Per TeodorCleve 以此命名，以纪念他的家乡。 | **Palladium**<br />【pəˈleɪdiəm】                    | 英语单词 **palladium** 就来自帕拉斯的名字，表示“守护神”。著名化学家 Wollaston 用它来命名他新发明的金属元素钯。 |
 | **xenon**<br />【ˈzenɑːn】                                   | 氙<br />来自希腊语 xenos,客人，陌生人，其发现者苏格兰化学家 William Ramsay 因这种元素发现困难而命名。比较 krypton,dysprosium. | **irid-ium**<br />【ɪˈrɪdiəm】                       | 铱<br />a chemical element. Iridium is a very hard yellow-white metal, used especially in making alloys . |
+| **potass-ium**<br />【pəˈtæsiəm】                            | n. 钾<br/>推荐：potass-钾 + -ium<br/><img src="./images/image-20220221095058968.png" alt="image-20220221095058968" style="zoom:67%;" /><br/>potass- 表示“钾”。<br/>-ium 表示金属元素。<br/>词源说明(童理民)  <br/>1 - 来自 potash,钾碱，-um,化学元素。 |                                                      |                                                              |
 
 
 
