@@ -496,6 +496,13 @@ Solar 来自拉丁文，表示“跟太阳有关的”，比如太阳系solar sy
 
 
 
+- equinox【ˈekwɪnɑːks】： 
+
+  > 二分时刻；昼夜平分时；春分；秋分
+  > one of the two times in the year (around 20 March and 22 September) when the sun is above the equator and day and night are of equal length
+
+
+
 ### 5. 清明 Pure Brightness
 
 <img src="./images/image-20220207151821870.png" alt="image-20220207151821870" style="zoom:47%;" /> 

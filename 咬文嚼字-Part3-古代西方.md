@@ -1562,6 +1562,8 @@ die的词源说明：
 
 ### lottery（彩票）：热那亚人针对议员选举的博彩游戏
 
+<img src="./images/image-20220221160237128.png" alt="image-20220221160237128" style="zoom: 50%;" /> 
+
 > 来自 lot,抽签，抓阄，引申词义彩票。
 
 现代意义的彩票发源于意大利。在16世纪初期的意大利北部热那亚共和国，人们每年从90名候选人中随机选取5人作为城市议会的议员，方法是把90人的名字写在90个小球上，从中随机抽取5个小球，名字写在这5个小球上的人就成为议员。
@@ -1573,4 +1575,31 @@ die的词源说明：
 - **lottery**： ['lɒt(ə)rɪ] n.彩票，抽奖
 - **lotto**：['lɑto] n. 乐透型彩票，猜号码的游戏
 
-​	
+
+
+### hazard（冒险）：用骰子来玩的赌博游戏
+
+<img src="./images/SL3675.png" alt="CAUTION FALL HAZARD SIGN | Graphic Products" style="zoom:80%;" /> 
+
+> 来自古法语 hasard,来自西班牙语 azar,骰子，掷骰子赌博，来自阿拉伯语 zahr,骰子，拼写受后缀-ard 影响俗化。由赌博引申词义危险，危害。参照 dicey.
+
+英语单词**hazard**来自阿拉伯语***al zahr***（the dice），意思是“骰子”。在十字军东征期间，十字军在东方从阿拉伯人那里学会了一些用骰子来玩的游戏，也将这个词带回了欧洲，原本指的是用骰子来玩的赌博游戏。由于这种游戏都需要冒险、赌运气，所以**hazard**一词就衍生出了“冒险、赌运气”等含义。
+
+- **hazard**：['hæzəd] vt.赌运气，冒……的风险，使遭受危险n.冒险，危险，冒险的事
+- **hazardous**：['hæzədəs] adj.有危险的，冒险的，碰运气的
+- **haphazard**： ['hæphæzəd] adj. 偶然的；随便的；无计划的n. 偶然；偶然事件adv. 偶然地；随意地
+
+**英语词源趣谈(庄和诚)**
+
+hazard始见于十字军东征时期，它借自法语***hasard***和西班牙语***azar***，并可一直追溯至阿拉伯语***al zahr 'the dice'***（骰子；掷骰游戏）。
+
+因此，早在13世纪hazard原先也指“掷骰游戏”，直到16世纪末仍用于此义。莎士比亚的历史剧《亨利五世》（Henry V, 1599）第3幕第7场中阿金库尔战役（the battle of Agincourt）前夕法国贵族朗菩尔（Lord Rambures）对法国元帅和皇太子说，“Who will go to hazard with me for twenty prisoners?”（谁来跟我掷一把骰子，拿二十个俘虏作赌注？）其中hazard一词的意义就可说明这一点。
+
+由此我们也可多少知道，掷骰游戏曾在西欧风行一时。作为一种赌博，掷骰游戏总是有危险，赌注下得越大，危险就越大。于是从16世纪以后，**hazard**除用于本义外又逐渐引申出“危险”、“危险源”、“危险物”等义，用到今天，原义已几乎丧失，引申义反倒成了主要词义。
+
+例
+
+- Wet roads are a hazard to drivers. 道路湿滑会对司机构成危险。
+- Smoking is both a health hazard and a fire hazard. (CID) 吸烟既是健康的敌人，又是火灾隐患。
+- Polluted underground water sources were a hazard to human health and to wildlife. (LLA) 受污染的地下水源危及人类的健康和野生动植物。
+- Flashing signs warned drivers of potential hazards ahead. (LLA) 闪光路标警告司机前面有潜在危险。
