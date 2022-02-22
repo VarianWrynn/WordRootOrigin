@@ -231,7 +231,25 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 | **sulf∙ate**<br />【sʌlˌfeɪt】     | n. 硫酸盐, 硫酸脂<br/>推荐 sulf-硫 + -ate<br/>**`sulf-`** = sulfur, 表示“硫”。<br/>**`-ate`** 表示“...盐”。 | cyan∙ate                                       | n. 氰酸盐<br/>推荐：cyan-氰 + -ate<br/>cyan- = blue, 表示“蓝，青，氰”。词根来源于希腊语。<br/>-ate 表示“...盐”。 |
 | citr∙ate                           | n. 柠檬酸盐<br/>citr- = lemon, 表示“柠檬”。<br/>-ate 表示“...盐”。 | iod∙ate                                        | vt. 以碘处理<br/>n. 碘酸盐<br/>推荐：iod-碘 + -ate, 表动词<br/>iod- 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。 |
 |                                    |                                                              |                                                |                                                              |
-| chlor∙ate                          | n. 氯酸盐<br/>推荐：chlor-氯 + ate<br/>chlor- = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."<br/>-ate 表示“...盐”。 |                                                |                                                              |
+| **chlor∙ate**<br />【ˈklɔreɪt】    | n. 氯酸盐，氯化<br/>推荐：chlor-氯 + ate<br/>chlor- = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."<br/>-ate 表示“...盐”。 |                                                |                                                              |
+
+
+
+
+
+## oxy- / oxide = **sharp**, **acid**, 表示“尖锐；酸；含氧的”，作为词缀 -oxide 表示“...氧化物”{40}
+
+> 也用作 oxygen【氧】 的缩写
+>
+> 源自希腊语 oxys "sharp, keen, acid" 的复合词形式。
+
+
+
+| 单词                                               | 解释                                                         | 单词                                                    | 解释                                                         |
+| -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+| **di-oxide**                 <br />【daɪˈɑːksaɪd】 | n. 二氧化物<br/>推荐：di-二 + -oxide, 氧化物<br/><br/>di- 表示“两个，双”。源自希腊语 dis "twice;" dikha "in two."<br/>oxide- = sharp, acid。<br/>词源说明(童理民)  <br/>1 - di-,二，oxide,氧化物。 | **oxy-toc-in**                   <br />【ˌɑksəˈtoʊsən】 | n. 催产素<br/>推荐：oxy-锐敏 + toc-分娩 + -in<br/><br/>**`oxy-`** = sharp, acid。<br/>**`toc-`** 4医学词根表示“分娩”。源自希腊语 tokos "childbirth."<br/>**`-in`** 表示名词，用于化学、生物学、医药。 |
+|                                                    |                                                              |                                                         |                                                              |
+|                                                    |                                                              |                                                         |                                                              |
 
 
 
