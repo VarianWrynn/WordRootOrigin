@@ -181,8 +181,18 @@ Turkey is his favorite food at Thanksgiving dinner. 火鸡是感恩节晚宴上�
 还有一种说法认为，火鸡被北美殖民者发现后，经由土耳其人走向世界，故被称为**turkey**。
 
 - **turkey**：['tɜːkɪ] n.火鸡，笨蛋
+
 - **Turkey**：['tɜːkɪ] n.土耳其
+
 - **Turkish**：[ˈtɜːkɪʃ] adj.土耳其的，土耳其人的，土耳其语的
+
+- **turqu-o-ise **【ˈtɜːrkwɔɪz】: 
+
+  > **`turqu-`**, = Turk 突厥 (原意strong) + 
+  >
+  > -**`oise`**附在地名后构成形容词，字面意思：土耳其的石头，因蓝玉首先发现于土耳其斯坦(**Turkestan**) 。
+
+<img src="./images/image-20220223172728853.png" alt="image-20220223172728853" style="zoom:50%;" /> 
 
 
 
@@ -250,6 +260,39 @@ Türkiye来自土耳其语，意思就是“突厥人的国家”。而英语单
 - Would you like a pickle with that sandwich? (FWF) 你的三明治要不要配泡菜？
 - These cucumbers are just the right size for pickling. (CWR) 这些黄瓜拿来腌大小正合适。
 - Lisa bought some pickles at the deli. (NED) 莉萨在熟食店买了点泡菜。
+
+
+
+
+
+### grape（葡萄）：用来采集葡萄的钩子
+
+> 可能来自 PIE*grep,弯钩，词源同 crook,croquet.原指剪葡萄的钩子，后指葡萄。
+
+在英语中，葡萄酒是**wine**，葡萄藤是**vine**，为什么葡萄偏偏是**grape**呢？
+
+原来，在古英语中，葡萄本是***winberige***（wine berry），后来才被来自古法语的***grape***取代。
+
+而***grape***源自古日耳曼语***krappon***，本指采集葡萄的钩子，其根本词义是“弯曲”。与此同源的英语单词还有**grapple**（抓住）、**grapnel**（抓钩）。
+
+- **grape**：[greɪp] n.葡萄，葡萄酒，葡萄树
+
+- **grapple**： ['græpl] v. 抓住；格斗n. 抓住；格斗
+
+  > grap∙p∙le  [词根树]
+  > grap- 
+  > = hook, 表示“钩子”。词源说明(童理民)  
+  > 1 - 词源同 grab,grasp.由抓住引申词义扭打，搏斗。
+
+- **grapnel**： ['græpnl] n. 抓钩；小锚
+
+
+
+**摩西英语(摩西)**
+
+sour grapes酸葡萄心理。
+
+西方故事集《伊索寓言》中讲，有只饥饿的狐狸，对葡萄藤上晶莹剔透的葡萄垂涎欲滴，可是如论如何努力也够不到葡萄吃，于是在心里安慰“反正那些葡萄还没有成熟，是酸的”，这种渴望得到但是怎样也得不到后产生的安慰心理就是“酸葡萄心理”。The criticisms are sour grapes. 
 
 
 

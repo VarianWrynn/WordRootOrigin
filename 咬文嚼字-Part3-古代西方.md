@@ -83,40 +83,45 @@ visa - visa是个很普通的词，意思是“签证”，可用作名词，也
 
 ### custom（海关）：外地商人向当地领主缴纳通行税的惯例
 
+<img src="./images/image-20220223162526944.png" alt="image-20220223162526944" style="zoom: 25%;" /> 
+
 > custom- 
 > 由com- (together) + idio- (oneself) 复合而成基本含义表示“习惯、惯例”引申为“海关”。源自拉丁语 suescere "to accustom, get 
 
-英语单词custom含有“习俗”和“海关、关税”两个意思。这两个意思是怎么联系在一起的呢？原来，custom的本意是“习俗、惯例”，之所以含有“海关、关税”之意，是因为缴纳关税原本是一种惯例。
+英语单词**custom**含有“***习俗***”和“***海关、关税***”两个意思。这两个意思是怎么联系在一起的呢？原来，custom的本意是“习俗、惯例”，之所以含有“海关、关税”之意，是因为缴纳关税原本是一种惯例。
 
 外地商人向当地领主缴纳保护费的做法是一种历史悠长的惯例。早在古希腊时代，雅典成为爱琴海沿岸的商贸中心。外地商人为了保障自己在当地的贸易权利和利益，就向雅典城邦当局赠送礼物。后来，雅典以使用其港口为名，正式向来往商品征收一定比例的费用。
 
 在英国，外地商人进入某地进行商贸活动时，需要向当地领主缴纳一项customary tolls（例行通行税）。因此，英语单词custom便衍生了“关税”的含义，通常采用复数形式。后来custom又可以用来表示征收关税的场所，即海关。
 
-- custom：['kʌstəm] n.习俗，惯例；关税，海关；经常光顾，老顾客adj.定做的，定制的
-- customer：['kʌstəmə] n.（老）顾客，海关工作人员
-- customary：['kʌstə'mɛri] adj.惯例的，通常的
+- **custom**：['kʌstəm] 
+  - n.习俗，惯例；关税，海关；经常光顾，老顾客
+  - adj.定做的，定制的
+- **customer**：['kʌstəmə] n.（老）顾客，海关工作人员
+- **customary**：['kʌstə'mɛri] adj.惯例的，通常的
 
-词源说明(童理民)  
+**词源说明(童理民)**  
+
 1 - 来自拉丁语 consuetus,来自 suet-,自己的，词源同 self,desuetude.即形成自己的习惯。对进口商品惯常性的征收一定的税金或费用并最终形成专门的政府机构，词义由惯例引申为海关。
 
 
 
+**英语词源趣谈(庄和诚)**
 
+**costume**与**custom**是同源姐妹词，都源于拉丁语consuētūdō（风俗；习惯），而且都是转道法语而来的，但在时间上有先后之别。
 
-英语词源趣谈(庄和诚)
-custom - costume与custom是同源姐妹词，都源于拉丁语consuētūdō（风俗；习惯），而且都是转道法语而来的，但在时间上有先后之别。
+**custom**早在12世纪就已从古法语来到英语中，原古法语词形为***custome***/***costume***，约在1200年左右就已被赋予现今仍在使用的词义：“风俗”、“习惯”等。
 
-custom早在12世纪就已从古法语来到英语中，原古法语词形为custome/costume，约在1200年左右就已被赋予现今仍在使用的词义：“风俗”、“习惯”等。costume却迟至18世纪才进入英语，它完全保留了原法语词形，当时的词义是“某个时期和地方的风俗习惯”（manners and customs belonging to a particular time and place），到了19世纪转指“某个时期或地方的穿着式样”（mode of dress appropriate to a particular time or place），最后又限于指某个时期的服装，或指某一国家或民族的穿着，也指特定场合所穿的服装（包括戏装、泳装）。
+**costume**却迟至18世纪才进入英语，它完全保留了原法语词形，当时的词义是“某个时期和地方的风俗习惯”（manners and customs belonging to a particular time and place），到了19世纪转指“某个时期或地方的穿着式样”（mode of dress appropriate to a particular time or place），最后又限于指某个时期的服装，或指某一国家或民族的穿着，也指特定场合所穿的服装（包括戏装、泳装）。
 
-英语另有两个常用词accustom（使习惯于），customer（顾客）跟costume，custom有密切的亲缘关系，前者可以看作是后者的派生词。accustom源于古法语acostumer，由a- 'to'加costume构成。customer乃是custom加后缀-er构成，原先指“惯常到某商店买东西的人”（someone who is accustomed to buy in a store），亦即“常客，老主顾”（customary purchaser），后来词义才扩展为“顾客”或“主顾”的。
+英语另有两个常用词**accustom**（使习惯于），**customer**（顾客）跟***costume***，***custom***有密切的亲缘关系，前者可以看作是后者的派生词。accustom源于古法语acostumer，由a- 'to'加costume构成。customer乃是custom加后缀-er构成，原先指“惯常到某商店买东西的人”（someone who is accustomed to buy in a store），亦即“常客，老主顾”（customary purchaser），后来词义才扩展为“顾客”或“主顾”的。
 
-例　The dancers were all dressed in national costume. 跳舞的人都穿着民族服装。
+例　
 
-The shop has a good selection of bikinis and bathing/swimming costumes. (CID) 该店荟集了各式比基尼和其他泳装。
-
-These customs still prevail in remote areas. 这些风俗在偏僻地区仍然流行。
-
-He is one of our regular customers. 他是我们的一位老主顾。
+- The dancers were all dressed in national costume. 跳舞的人都穿着民族服装。
+- The shop has a good selection of bikinis and bathing/swimming costumes. (CID) 该店荟集了各式比基尼和其他泳装。
+- These customs still prevail in remote areas. 这些风俗在偏僻地区仍然流行。
+- He is one of our regular customers. 他是我们的一位老主顾。
 
 
 
