@@ -904,6 +904,66 @@ trivial-关于该词的来源存在两种说法，但只是略有差别。
 
 
 
+
+n. 学徒, 生手
+vt. 使做学徒
+【第三人称单数：apprentices；现在分词：apprenticing；过去式：apprenticed】
+范围：专四,托福,GRE,雅思
+单词笔记   ［添加］
+推荐：
+ap-=ad- , to + prehend抓住 → 抓住师傅教的内容 → 学徒。
+
+词根树   
+ap-prehens-,prehend-ap.prentice
+
+ap∙prentice  [词根树]
+prehens-,prehend- 
+= catch, 表示“抓住”。源自拉丁语 prehendere "to grasp, seize", 源自 pre-“前” + hend- “抓住”。源自拉丁语 prehendere "to get hold of, seize, grasp."
+更多同源词...
+ap- 
+来自拉丁介词ad, 表示“朝、向、去，或弱化为强调”。在字母 b, f, g, l, n, p, r, s, t 前同化为 ab-, af-, ag-, al-, an-, ap-, ar-, as-, at-；在 c, k, qu 前同化为 ac-；在 sc, sp, st 前缩写成 a-.
+
+
+
+### apprentice（学徒）：处于学习阶段的手工艺人4
+
+<img src="./images/image-20220224160321566.png" alt="image-20220224160321566" style="zoom:67%;" /> 
+
+在古代西方的手工艺行业中，广泛采取学徒制（**apprenticeship**）的教育培训方式。学徒（**apprentice**）是手工艺行业中最低一级，要寄宿在行业中最高一级的master（师傅）家中充当学徒，一边为师傅干活，一边学习和实习。
+
+通常要学习3到6年后才能出师，升为“熟练工”（**journeyman**）。在大多数手工艺行业公会中，工匠的职称一般都划分为:
+
+- “学徒”（**apprentice**）
+- “熟练工”（**journeyman**）
+- “师傅”（**master**）这三个级别。
+
+英语单词**apprentice**来自古法语***aprentiz***（学习者），而后者来自动词***aprendre***。同源的英语单词有apprehend（理解）。
+
+- **apprentice**：[ə'prentɪs] n.学徒，生手vi.当学徒vt.使……当学徒
+- **apprenticeship**：[ə'prentɪ(s)ʃɪp] n.学徒制，学徒期，学徒身份
+- **apprehend**：[æprɪ'hend] vt.理解，逮捕，忧虑vi.理解，担心
+
+
+
+**英语词源趣谈(庄和诚)**
+
+意指“学徒”的**apprentice**，14世纪源自古法语***aprendre*** 'to learn'（学）的派生词***aprentis*** 'someone learning'。
+
+在中世纪的行会（**trade guild**）里**apprentice**的级别最低，列于**journeyman**（计日工，熟练工）之下。
+
+例　
+
+- Dan left school at 16 and started work as an apprentice mechanic. (LLA) 丹16岁离开学校，开始当机修工学徒。
+
+
+
+**摩西英语(摩西)**
+
+masterpiece ['mɑːstəpiːs] n.杰作。中世纪工匠从入门到独立操作分三个级别：apprentice学徒、craftsman技工（或journeyman熟练工）和master（或artisan工匠）。要想得到行业协会的认可并具有master（或artisan）的身份，技工需要有一件（a piece of work）能证明自己具备成为master的作品才可以。
+
+
+
+
 ## 人物
 
 
@@ -1450,7 +1510,7 @@ The plastic bristles on this broom are easy to clean. (CWR) 这把扫帚上的�
 
 
 
-### **perfume**（香水）：用来消毒和清洁空气的熏香之烟。
+### perfume（香水）：用来消毒和清洁空气的熏香之烟。
 
 在中世纪时期的欧洲，当有人死于传染病时，尸体被抬走后，人人往往会点燃某种香料，用其产生的带有香味的烟雾来熏病人的房间，以达到消毒和去除异味的作用。
 
