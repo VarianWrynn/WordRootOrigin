@@ -799,6 +799,36 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 - **allergic**： [ə'lɝdʒɪk] adj. 对…过敏的；对…极讨厌的
 - **allergen**：['ælɚdʒən] n. 过敏原
 
+### nausea（恶心）：海上航行时的晕船现象
+
+> 来自拉丁语 naus,船，词源同 nautical,navigate.其原义为晕船，作呕，后词义通用化。
+
+古代人和现代人一样，在海上航行时也会发生晕船恶心现象。英语单词**nausea**的本意就是表示这种晕船恶心现象。它来自希腊语**nausia**，其中词根**`naus-`**表示“航行”，后缀**`-ia`**表示“病症”。进入拉丁语后，**nausia**的拼写变为***nausea***。不过在现代英语中，**nausea**并不局限于表示“晕船”，通常仅仅表示“恶心”。
+
+- **nausea**： [ˈnɔ:ziə] n.恶心，晕船，极度的憎恶
+- **nauseate**：['nɔzɪet] 
+  - vi. 作呕；厌恶；产生恶感
+  - vt. 使厌恶；使恶心；使作呕
+- **nauseous**：['nɔʃəs] adj. 令人作呕的；厌恶的
+- **nauseant**：['nɔsɪənt] adj. 引起呕吐的n. 呕吐剂
+
+
+
+**英语词源趣谈(庄和诚)**
+
+**nausea**在今天一般多用以表示“恶心”或“憎恶”，但其原义乃是法国人所说的mal de mer 'sickness of the sea'，即seasickness（晕船）。该词借自希腊语nausíā（晕船），源出希腊词根naûs 'ship'（船），故其字面义为‘shipsickness’而不是seasickness，与汉语“晕船”倒是有异曲同工之处。
+
+然而巧的是**nausea**的最后三个字母恰恰是‘**sea**’，和英语的**sea**（海）词形毫无二致。英语另有两个词**navy**（海军）和**naval**（海军的），若究其根源，也源自意为“船”的希腊词根***naûs***。
+
+**nausea**是16世纪始用于英语的，到了17世纪又派生出动词形式**nauseate**（使恶心，感到恶心；使感到厌恶）和形容词形式**nauseous**（令人作呕的；令人厌恶的）等词。
+
+例　
+
+- Cancer drugs often have unpleasant side effects, such as nausea and loss of hair. (LLA) 治癌药物常有令人不适的副作用，如恶心和脱发。
+- Early pregnancy is often accompanied by nausea. (LDC) 早期妊娠常伴有恶心。
+- The pitching and rolling of the ship filled me with nausea. (FWF) 那只船颠簸摇晃，我晕船晕得很厉害。
+- He felt dizzy and nauseated from the fumes. (LAA) 他闻到油烟味就感到眩晕和恶心。
+
 
 
 ### clinic 诊所

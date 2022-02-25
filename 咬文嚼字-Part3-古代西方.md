@@ -752,6 +752,8 @@ anim-（生命）：代表生命之源的灵魂
 
 ### Barbarian 不会讲希腊语的野蛮人
 
+> 来自拉丁语 barba,胡子，严格意义上指刮胡子的师傅。
+
 <img src="./images/image-20211008153803764.png" alt="image-20211008153803764" style="zoom: 50%;" /> 
 
 在古代欧洲，希腊的文明程度最高，因此当时的希腊人对本民族的文化尤其是希腊语非常骄傲，嘲笑外地人所讲的语言就像是“吧啦吧啦”（***barbar***）的鸟语，所以就用***barbaros***这个单词来形容文化程度低下的外地人。
@@ -766,6 +768,17 @@ anim-（生命）：代表生命之源的灵魂
 - **barbarism**：['bɑrbərɪzəm] n. 野蛮；原始；未开化；暴虐
 - **barbarity**：[bɑr'bærəti] n. 残暴；粗野
 - **Berber**： ['bə:bə] n.柏柏尔人，柏柏尔语
+
+
+
+**英语词源趣谈(庄和诚)**
+
+**barber** - 理发师的工作乃修剪头发、胡子等。英语中表示“理发师”的barber一词即源自意为“胡须”的拉丁语**barba**。理发店外面的旋转标志彩柱，英语叫**barber pole**。旧时欧洲的理发师兼做外科手术，因此barber pole一般呈红白双色，以此象征理发师为人裹伤所用的绷带。
+
+例　
+
+- I was sitting in the barber shop when I heard the news. (CAE) 我是坐在理发店里听到那个消息的。
+- As well as a haircut, a man can have a shave or get his beard trimmed when he goes to a barber. (CID) 男人去理发店，除了理发之外还可以刮脸或修剪胡子。
 
 
 
