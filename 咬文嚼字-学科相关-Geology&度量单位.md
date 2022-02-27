@@ -156,6 +156,52 @@ ceno-
 
 
 
+### therm= heat, 表示“热”{78}
+
+> 源自希腊语 thermos "warm, hot, heat."
+
+
+
+| 单词                              | 解释                                                         | 单词                                        | 解释                                                         |
+| --------------------------------- | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ |
+| **ecto∙therm**<br />【ektəʊθɜːm】 | n. 冷血动物<br/>推荐：ecto-外 + therm-热<br/><img src="./images/image-20220215084735601.png" alt="image-20220215084735601" style="zoom: 33%;" /><br/>**`ecto-`** 表示“外”，一般用于医学领域。源自希腊语 ex, ek "out of, from."<br/>**`therm-`** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat." | **endo-therm** <br />【endəθɜ:m】           | n. 热血动物<br/>推荐：endo-内 + therm-热<br/><img src="./images/image-20220215085226641.png" alt="image-20220215085226641" style="zoom:80%;" /><br/>**`endo-`** = within, 表示“内部”。源自希腊语 endon, endo- "within."<br/>**`therm-`** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat." |
+| thermo-                           | pref. 热....                                                 | therm-ic                                    | 热的，由热造成的                                             |
+| therm-al                          | 热的，热量的，温泉的                                         | therm-el                                    | 热电温度计                                                   |
+| therm-ion                         | 热离子                                                       | thermo-os                                   | 热水瓶                                                       |
+| thermo-taxis                      | 趋温性，向热性，体温调节                                     | thermo-taxic                                | 趋温性的，向热性的额，体温调节的                             |
+| ago-therm-al                      | 地温的，地热的                                               | geo-therm-ic                                | 地温的，地热的                                               |
+| exo-therm-ic                      | 发热的，发出热量的                                           | thermo-gen-ic                               | 生热的，产热的                                               |
+| thermo-genesis                    | 生热作用                                                     | thermo-genet-ic                             | 生热的，生热作用的                                           |
+| thermo-chemistry                  | 热化学                                                       | therm-alloy                                 | 热合金                                                       |
+| thermo-paint                      | 示温涂料，测温漆                                             | thermo-color                                | 热敏油漆，色温标示，示温涂料                                 |
+| thermo-labile                     | 不耐人的，热感的，受热即分解/破坏的                          | thermo-lysis                                | 热分解作用，热散作用                                         |
+| thermo-plast-ic                   | 热熟性的                                                     | thermo-plastcity                            | 热塑性                                                       |
+| alumino-therm-y                   | 铝热发                                                       | **a-therm-ancy** <br />【əˈθɜːrmənsi】      | n. 不透热性<br/>推荐：a-不，非 + therm-热 + -ancy, 表名词<br/>**`a-`** 加在单词前，表示“在…的”；表示“不、无、非”；表示“加强”。源自希腊语 a-, an- "not."<br/>**`therm-`** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat."<br/>**`-ancy`** = -ance, 表示“性质，状况”。 |
+| a-atherm-ic                       | 不导热的                                                     | **dia-therm-ancy** <br />【ˌdaɪə'θɜ:mənsɪ】 | n. 透热性<br/>推荐：dia-穿过 + therm-热 + -ancy, 表名词<br/>**`dia-`** 表示“穿过，二者之间”。<br/>**`therm-`** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat."<br/>**`-ancy`** = -ance, 表示“性质，状况”。 |
+| thermo-meter                      | 温度测定法                                                   | therm                                       | n. 签卡，克卡，撒姆(煤气热量单位)                            |
+| iso-therm                         | 等温线                                                       | thermo-meter                                | 温度计，体温计                                               |
+| thermo-graph                      | 温度记录器                                                   | thermo-set                                  | 热固性的，热变定的                                           |
+| thermo-regulation                 | 温度调节                                                     | thermo-regulator                            | 温度调节器                                                   |
+| thermo-ammeter                    | 热电流表                                                     | thermo-scope                                | 体验器，温差对                                               |
+| therm-istor                       | 热敏电阻                                                     | thermo-barometer                            | 温度气压计，虹吸气压表                                       |
+| baro-thermo-graph                 | 气压温度计，其他温度计记录器                                 | bathy-thermo-graph                          | 海水测温仪                                                   |
+| **thermo-period-ism**             | n. 温周期现象<br/>推荐：thermo-热 + periodism【周期】<br/><br/>**`thermo-`** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat."<br/>**`period`** n. 时期, 节段, 节, 句点, 学时, 周期 a. 当时特有的, <br/>**`-ism`** 抽象名词后缀 | thermo-dynam-ic                             | 热力学的，使用热动力的                                       |
+| thermo-dynamics                   | 热力学                                                       | aero-thermo-dynamics                        | 空气热力学                                                   |
+| therm-sphere                      | 热大气层，热电离层                                           | thermo-jet                                  | 热力喷气发动机                                               |
+| thermo-nuclear                    | 热核的，热核武器的                                           | thermo-pile                                 | 温差电堆，热电堆                                             |
+| electro-therm-al                  | 电热的                                                       | electro-therm-ics                           | 电热学                                                       |
+| thermo-eletr-ic                   | 热电的                                                       | thermo-electri-city                         | n 温差电，热电                                               |
+| thermo-electron                   | 热电子                                                       | epi-therm-al                                | 超热的                                                       |
+| hypo-therm-ia                     | 低体温                                                       | thermo-theraphy                             | 温热疗法                                                     |
+| dia-therm-ia                      | 透热疗法                                                     | dia-term-ic                                 | 透热疗法的                                                   |
+| radio-therm-y                     | 短波透热，热放射疗法                                         | thermo-phil-ic                              | 适温的，喜温的                                               |
+
+1
+
+
+
+
+
 
 
 ## Geography 地理

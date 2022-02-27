@@ -368,3 +368,152 @@ momentum [mə'mentəm] n.势头；[物] 动量；动力；冲力。词根的意�
 
 - **spectacle**：['spɛktəkl] n. 景象；场面；奇观；壮观；公开展示；表相 n.眼镜
 
+
+
+# 量子力学
+
+## atom（原子）：不可再细分的最小颗粒
+
+> a-,不，非，-tom,切，词源同 anatomy.因古代认为原子是最小的不可切分的单位而得名。
+
+古希腊人认为，物质是不可能无限地分割下去的，到最后会小到不可再分，这种不可再分的最小微粒就是“原子”。
+
+最先提出原子学说的是古希腊爱奥尼亚学派中的留基伯。他的学生德谟克利特（Democritus, 460-370 BC,古希腊哲学家）特继承并发展了原子学说，并用原子学说来解释宇宙。他认为宇宙由原子和虚空组成，原子从古以来就存在于虚空之中，既不能创生，也不能毁灭，它们在无限的虚空中运动着构成万物。
+
+他还提出原子在数量上无限，在形式上是多样的，如水的原子是圆而光滑的，它们相互间不能“勾住”，因而就像小球那样相互滚来滚去，而铁的原子则粗糙不平，因而互相粘附在一起成为“固体”，火的原子是多刺的，这便是烧灼使人感到痛的原因。
+
+在希腊语中，原子被称作***atomos***，由**`a`**（not）+**`tomos`**（cut）构成，意思就是“不可分割）。后来这个词进入英语，演变为**atom**。现在我们知道原子并非不可分割，比原子更小的是**夸克**。
+
+- **atom**： ['ætəm] n.原子
+- **atomic**：[ə'tɑmɪk] adj. 原子的，原子能的；微粒子的
+- **atomize**：['ætəmaɪz] vt. 使分裂为原子；将…喷成雾状；使遭受原子弹轰炸vi. 分裂
+- **atomistic**：[,ætə'mɪstɪk] adj. 原子的；原子论的
+- The splitting of the atom was a milestone in the history of science. (FWF) 使原子产生核裂变是科学史上的一个里程碑。
+- An atom is made up of protons, neutrons, and one or more electrons. (NED) 原子由质子、中子和一个或多个电子组成。
+- There's not an atom of truth in what she says. 她说的话没有丝毫真实性。
+
+### insect（昆虫）：身体分节的虫子
+
+古代西方看到蚂蚁、甲虫等昆虫大多数都有一个共同特点，身体都是一节一节的，因此以为昆虫都是这样的。英语单词**insect**（昆虫）和**entomology**（昆虫学）都反映了古代人的这种观念。
+
+**insect**来自拉丁语***insectum***，本意是“cut up”（切断）。**entomology**来自希腊语***entomos***，本意也是“cut up”（切断）。
+
+- **`sect-`**：切，分割
+- **insect**： ['ɪnsekt] n.昆虫
+- **section**： ['sɛkʃən] 
+  - n. 截面；部分；部门；地区；章节
+  - v.划分，切割，分段
+- **sector**：['sɛktɚ] n. 部门；扇形，扇区；象限仪
+- **`tom-`**：切，分割
+- **entomology**：[ˌentə'mɒlədʒi] n.昆虫学
+- **atom**：['ætəm] n. 原子。字面意思为“不可分割”
+
+
+
+<img src="D:\Githubs\1WordRootOrigin\images\8iAb98LjT-e1619140177840.jpg" alt="img" style="zoom:67%;" />
+
+
+
+## Molecule
+
+|                                    |                                                              |                                               |                                                              |
+| ---------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
+| **molecule** <br />【ˈmɑːlɪkjuːl】 | n. 分子, 些微 推荐： mole-堆 + -cule小 → 很小的东西堆在一起 → 分子。<br />**`-ule`** 23 表名词，“小…”。源自拉丁语 -ulus, 小词后缀。 <br />**`mole-`**  = heap, 表示“堆”。源自拉丁语 moles "heavy bulk, mass, massive structure."<br />来自拉丁语 moles,大块，防洪堤，大工程，大建筑物，-cul,小词后缀。用于化学术语分子 | **molecular**           <br />【məˈlekjələr】 | a. 分子的, 由分子组成的<br/>推荐：molecule【分子】 + -ar表形容词。<br/>**`molecule`** <br/>n. 分子, 些微<br/>**`-ar`** 表形容词，“…的”。源自拉丁语 -alis, adjective suffix. |
+|                                    |                                                              |                                               |                                                              |
+|                                    |                                                              |                                               |                                                              |
+
+
+
+
+
+## -on  表名词，指人，物和一些物理学上的名词
+
+**ions**: Ions are electrically charged atoms.离子是带电的原子。
+
+| 单词                                                         | 解释                                                         | 单词                                 | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
+| **Prot-ium**<br />【prəʊtɪəm】<br />氕[piē]                  | 质子数1，它的原子由一个质子和一个电子组成，是氢的主要形式,，氕为氢的主要成分，约占普通氢的99.98%。 | **prot-on**<br />【ˈproʊtɑːn】       | **`prot-`** = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”。<br/>a very small piece of matter (= a substance) with a positive electric charge that forms part of the nucleus (= central part) of an atom<br />质子 |
+| **Deuter-ium **                     <br />【djuːˈtɪriəm】<br />氘[dāo] | 重氢,原子核中有一个质子和一个中子，氢中有0.02%的氘。 在大自然的含量约为一般氢的7000分之一 ，用于热核反应 | **deuter-on**    <br />【djuːtərɒn】 | the nucleus of deuterium（氘核）                             |
+| **trit-ium**<br />【ˈtrɪtiəm】<br />[氚[chuān]](https://baike.baidu.com/item/%E6%B0%95%E6%B0%98%E6%B0%9A/8757957) | 杜撰词，来自希腊语 tritos,第三，词源同 three,third.-ium,化学元素后缀。比较 deuterium.<br />称作超重氢。原子核中有一个质子和两个中子。并带有[放射性](https://baike.baidu.com/item/放射性)，会发生[β衰变](https://baike.baidu.com/item/β衰变)，其[半衰期](https://baike.baidu.com/item/半衰期)为12.43年。由于氚的β衰变只会放出高速移动的电子，不会穿透人体，因此只有大量吸入氚才会对人体有害。 | **trit-on**<br />【ˈtraɪtən】        | （贝壳）法螺，北螈，氚核<br />small usually bright-colored semiaquatic salamanders of North America and Europe and northern Asia |
+| **nucleus**<br />【ˈnuːkliəs】                               | **`nucle-`**核 + -us. 引申词义原子核，细胞核。<br />(physics 物) 核；原子核： the part of an atom that contains most of its mass and that carries a positive electric charge；<br />(biology 生) 细胞核： the central part of some cells, containing the genetic material |                                      |                                                              |
+| **ion**<br />【ˈaɪən】                                       | (physics 物 or chemistry 化) 离子<br/>an atom or a molecule with a positive or negative electric charge caused by its losing or gaining one or more electrons | **phot-on**<br />【ˈfoʊtɑːn】        | n. 光子, 光量子, 光度<br/>推荐：<br/>phot-光 + on            |
+| **electr-on<**br />【ɪˈlektrɑːn】                            | a very small piece of matter (= a substance) with a negative electric charge, found in all atoms<br />电子 | **neutr-on**<br />【ˈnuːtrɑːn】      | a very small piece of matter (= a substance) that carries no electric charge and that forms part of the nucleus (= central part) of an atom<br />中子 |
+
+
+
+## proto-（第一）：变化多端的海中老人普罗透斯
+
+普罗透斯（**Proteus**）是希腊神话中的一个早期海神，荷马史诗中所说的“海中老人”之一。他有预测未来的神通，但只向能逮住他的人透露预言。为了避免被人逮住，他拥有随意改变自己形状的神力。他居住在尼罗河三角洲海岸外的法罗斯岛上，以放牧海兽为生。
+
+根据荷马史诗的记载，参加特洛伊战争的斯巴达国王墨涅拉奥斯（Menelaus）从特洛伊启程回国前触犯了神灵，被困在法罗斯岛上。在这里他遇到了普罗透斯的女儿。后者向他透露了普罗透斯的秘密，还告诉他制服普罗透斯的诀窍。于是，墨涅拉奥斯带着手下，身披海豹皮，悄悄接近普罗透斯，趁他瞌睡时，突然抓住他，任凭他千变万化也不松手。普罗透斯最后没办法，只好变回原形投降，向墨涅拉奥斯透露了他所需要的预言。
+
+普罗透斯的名字Proteus非常有意思，它来自希腊语protos（第一）。古话说，一生二，二生四，四生万物，Proteus这个名字就暗示着他能够千变万化。英语词根proto-（第一、最初）就来源于此。由Proteus衍生出形容词protean，意思是“千变万化的”。
+
+- **`proto-`**：第一，最初
+
+- **Proteus**：['prəʊtɪəs] n. 多变的人；普罗透斯（希腊海神）；变形杆菌属
+
+- **protean**： ['prəʊtɪən; prəʊ'tiːən] adj.千变万化的，一人分饰多角的，变形虫的
+
+- **protocol**：['protə'kɔl] n. 协议；草案；礼仪v. 拟定。本意为“第一页”
+
+- **proton**：['protɑn] n. 质子
+
+- **protein**： ['protin] n. 蛋白质；朊adj. 蛋白质的
+
+- **protoplasm**：['protəplæzəm] n. 原生质；原浆；细胞质
+
+- **prototype**： ['protə'taɪp] n. 原型；标准，模范
+
+- **prototypical**：[,protə'tɪpɪkl] adj. 原型的；典型的
+
+- **protagonist**：[prə'tæɡənɪst] n. 主角，主演；主要人物，领导者
+
+  
+
+<img src="D:\Githubs\1WordRootOrigin\images\image-20210928163853651.png" alt="image-20210928163853651" style="zoom: 67%;" />
+
+
+
+##  ion（离子）：被化为白牛的美女伊娥（Io）
+
+在希腊神话中，伊俄（**Io**）是一位美丽的凡人少女，是河神伊那科斯的女儿，赫拉神殿 的女祭司。宙斯爱上了她，在乌云的掩护下与她相会。心生疑虑的赫拉驱散乌云。宙斯怕事 情败露，将伊俄变成一头小母牛。赫拉识破了丈夫的诡计，将计就计地向宙斯讨要了这头小 母牛，命令百眼巨人严密看管。
+
+宙斯派出赫尔墨斯杀死了百眼巨人。赫拉仍然不肯放过伊俄，派出一群牛虻，不断叮咬 被变为小母牛的依娥。为了躲避牛虻的叮咬，伊俄四处奔跑，渡过了伊俄渡过了博斯普鲁斯([Bosporus Strait](https://baike.baidu.com/item/%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E6%B5%B7%E5%B3%A1/1371859?fromtitle=%E5%8D%9A%E6%96%AF%E6%99%AE%E9%B2%81%E6%96%AF%E6%B5%B7%E5%B3%A1&fromid=1005745&fr=aladdin),又名：伊斯坦布尔海峡) 海峡，该海峡因此而得名（博斯普鲁斯意为“***牛所通过***”）。然后又穿过地中海，来到了埃 及。从此这片海便以她的名字命名，叫爱奥尼亚海（**Ionian Sea**，伊俄之海）。
+
+![image-20211015134057463](D:\Githubs\1WordRootOrigin\images\image-20211015134057463.png)
+
+最后，宙斯请 求赫拉放过可怜的少女，伊俄才得以恢复原形。
+
+伊俄的名字 **Io** 在希腊语中就是“流浪”的意思，英语单词 **ion**（离子）与此同源。在天 文学上，**Io** 被用来命名木星的第一颗卫星。在化学中，元素锾（Ionium）的命名也源于此。
+
+- **Io**：[,aɪ 'o] n. 木卫一，伊俄 
+- **Ionia**：[ai'əunjə] n. 爱奥尼亚 
+- **Ionian**：[ai'əunjən] 
+  - n.爱奥尼亚人 
+  - adj.爱奥尼亚的，爱奥尼亚人的 
+- **Ionium**：[aɪ'onɪəm] n. 锾（一种化学元素，第 90 号元素钍的放射性同位素）
+
+
+
+## quark 物理学家的反拉丁命名论
+
+夸克是一种基本粒子，为构成物质的基本单元。两个上夸克和一个下夸克组成一个质子，两个下夸克和一个上夸克组成一个中子。
+**quark** 原为一种喜欢上上下下蹦跳的海鸟，为拟声构词，模仿这种海鸟的叫声。
+
+发现该物理粒子的美国科学家 **Murray Gell-Mann** 希望为其取一个朗朗上口的名字，避免落入俗套（科学界流行从希腊和拉丁语中找词来命名科学术语）。后来在一本小说的打油诗中找到一名”**Three quarks for Muster Mark**”,向麦克老人三呼夸克。
+
+这个词听起来既有穿透力，又较好的契合了这种物质的基本属性，因此以此命名。
+
+
+
+##  ohm(欧姆）, amp（安培）, volt （伏特），watt(瓦特)
+
+1881年巴黎国际电学会议通过一项决议，为了纪念对电磁学作出巨大贡献的法国物理学家**André Marie Ampère** (1775-1836)，***电流强度***的单位以他的姓氏命名为**ampere**，口语常作**amp**，汉语译为“安培”，简称“安”。
+
+在此以前为了纪念意大利物理学家**Alessandro Volta** (1745-1827)，电压单位已定名为**volt**，汉语作“伏特”或简称“伏”。
+
+另外两个电学的常用单位名称，即***电阻单位***  **ohm**（欧姆）和 ***功率单位*** **watt**（瓦特）则分别得名于德国物理学家**Georg Simon Ohm** (1789-1854)和英国发明家**James Watt** (1736-1819)。
+
+- This piece of equipment needs a thirty-amp fus
+
