@@ -218,7 +218,7 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
-## Core- （心）：源自心脏的意识活动
+## Core- （心）：源自心脏的意识活动 {52}
 
 我们中国人认为心脏是人的意识活动的场所，所以才有“心灵”、“心理”、“心思”等词汇。和我们东方人一样，古代西方人也有类似的观念，所以很多表示意识活动的单词都由表示心脏的词根**`cord-`**构成。该词根来自拉丁语**`cor/cordis`**（心脏）。词根**`card-/cardio-`**（心脏）来自希腊语***kardia***，但最终源头和**`cord-`**一样来自原始印欧语词根**`kerd-`**。
 

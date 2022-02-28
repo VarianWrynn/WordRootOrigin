@@ -18,7 +18,7 @@
 | The simplest fraction                                        | 最简分数<br />最简分数，是分子、[分母](https://baike.baidu.com/item/分母/5421449)只有[公因数](https://baike.baidu.com/item/公因数)1的分数，或者说分子和分母[互质](https://baike.baidu.com/item/互质/577412)的分数，又称[既约分数](https://baike.baidu.com/item/既约分数/1332623)。如：二分之一，三分之二，九分之八，八分之三等等。 | Reduction                                                    | 约分                                                         |
 |                                                              |                                                              |                                                              |                                                              |
 | [ugly number](https://leetcode-cn.com/problems/ugly-number-ii/) | An ugly number is a positive integer whose **prime factors** are limited to 2, 3, and 5. | [perfect number](https://leetcode-cn.com/problems/perfect-number/) | A [perfect number](https://en.wikipedia.org/wiki/Perfect_number) is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. <br />对于一个 **正整数**，如果它和除了它自身以外的所有 **正因子** 之和相等，我们称它为 「完美数」。<br />eg：28 = 1 + 2 + 4 + 7 + 14 <br />1, 2, 4, 7, 和 14 是 28 的所有正因子。那么28是个完美数 |
-| **thousand-th**                     <br />【ˈθaʊznθ】        | a. 第一千的, 千分之一的<br/>推荐：<br/>thousand【千】 + -th<br/><br/>**thousand** num. 千 a. 成千的, 许多的 n. 许许多多<br/>**`-th`** 构成基数词。 |                                                              |                                                              |
+| **thousand-th**                     <br />【ˈθaʊznθ】        | a. 第一千的, 千分之一的<br/>推荐：<br/>thousand【千】 + -th<br/><br/>**thousand** num. 千 a. 成千的, 许多的 n. 许许多多<br/>**`-th`** 构成基数词。 | **difference**<br />【ˈdɪfrəns】                             | the amount that sth is greater or smaller than sth else(差；差额) |
 
 
 
@@ -127,8 +127,6 @@ gon-
 
 > A **compendium** is a short but detailed collection of information, usually in a book. (通常指书中的)概要，纲要)
 
-
-
 这部专著书名中的**al jebr**一词，在阿拉伯语中表示“断开部分的重新连接”，在医学领域表示“断骨的重新连接”，其中的**al**是定冠词，相当于英语中的**the**。花刺子模用这个词语来表示代数学中的“还原”，是代数计算的两项基本操作之一。
 
 **`al jebr`**一词进入拉丁语后，变成了**algebra**，后来又进入了英语，被用来表示代数学。
@@ -205,20 +203,9 @@ a. 说明的
 
 > ex∙pon∙ent  [词根树]
 >
-> - ex- 
->   表示“从，从...离开，从...向外，向外，向上”，来自PIE *eghs, 向外。
->   - 该原始印欧语根进入希腊语产生变体形式 ek-, 
->   - 进入英语拼写演变为 ec-；
->   - 进入拉丁语演变成 ex-；
->   - 在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；
->   - 在字母f前同化为 ef-。
->   - 源自希腊语 ex, ek "out of, from." 拉丁语 ex, ex- "out of, away from."
->
-> - pon- 
->   = put, 表示“放置”，和 pos“放”同源。源自拉丁语 ponere "put, palce."
->
-> - -ent 
->   表名词，“…人”。
+> - ex- 表示“从，从...离开，从...向外，向外，向上”，来自PIE *eghs, 向外。
+> - pon- = put, 表示“放置”，和 pos“放”同源。源自拉丁语 ponere "put, palce."
+> - -ent 表名词，“…人”。
 
 **exponent** n. [数] 指数；典型；说明者，adj. 说明的。指数？
 
