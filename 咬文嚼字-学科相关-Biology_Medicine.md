@@ -216,9 +216,11 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
+## 一 core 三连
 
 
-## Core- （心）：源自心脏的意识活动 {52}
+
+### Core- （心）：源自心脏的意识活动 {52}
 
 我们中国人认为心脏是人的意识活动的场所，所以才有“心灵”、“心理”、“心思”等词汇。和我们东方人一样，古代西方人也有类似的观念，所以很多表示意识活动的单词都由表示心脏的词根**`cord-`**构成。该词根来自拉丁语**`cor/cordis`**（心脏）。词根**`card-/cardio-`**（心脏）来自希腊语***kardia***，但最终源头和**`cord-`**一样来自原始印欧语词根**`kerd-`**。
 
@@ -234,42 +236,37 @@ A **larva** is an insect at the stage of its life after it has developed from an
 - cardiology：[,kɑrdɪ'ɑlədʒi] n. 心脏病学
 - cardiopathy： [,kɑrdɪ'ɑpəθi] n. 心脏病
 
-### hormone  激素也叫荷尔蒙
-
-**hormone** - 激素也叫荷尔蒙，是人或高等动物内分泌腺分泌的有机物质。它直接进入血液，对肌体的代谢、生长、发育和繁殖等起重要的调节作用，如甲状腺素、肾上腺素、胰岛素等都是激素。
-
-激素的英语名称**hormone**（汉语的旧称荷尔蒙即由此音译而来）是英国科学家斯特林博士（E. H. Sterling）取自希腊语动词hormân 'stimulate, excite'（刺激，使兴奋）的现在分词hormôn，并在词尾加-e杜撰而成的。
-
-他在1905年8月15日出版的《柳叶刀》（The Lancet）杂志的一篇文章中提及该物质时说，“这些化学信使（chemical messengers）我们可以称之为hormone。”
-
-例
-
-- We are governed by the hormones that circulate around our bodies. (CCE) 我们受在我们周身循环的荷尔蒙调节支配。
-- Dairy cows are often given hormones to promote milk production. (CAE) 乳牛常常被注射荷尔蒙以增加奶产量。
-- Those children do not produce enough growth hormone. 那些孩子缺乏生长激素。
 
 
 
-### acne（痤疮）：acme的误写
 
-acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
+### chord- = string, 表示“线”。原指“肠子”，后引申为线、绒毛、脉络等 {19}
 
-单词**acne**指的是青少年脸上常见的粉刺、痤疮，它实际上与单词**acme**（顶点、最高点）同源。单词**acne**和**acme**都源自希腊语***akmas***，本意是“点”，同时还可以表示脸上的斑点。
-
-<img src="./images/image-20211211100552119.png" alt="image-20211211100552119" style="zoom:50%;" />	
-
-6世纪时，在将希腊语**akmas**直译为拉丁语时，译者看花了眼，将字母**`m`**看成了**`n`**，译成了拉丁语***aknas***。这一错误保留至今，并演变成了英语单词**acne**，专指“粉刺、痤疮”。
-
-- acne：['ækni] n. 粉刺，痤疮
-- acme：['ækmi] n. 顶点，极点；最高点
+>  源自希腊语 khorde "gut, string."
 
 
 
-## fren-（精神）：控制人精神的横膈膜
+| 单词                        | 解释                                                         | 单词                      | 解释 |
+| --------------------------- | ------------------------------------------------------------ | ------------------------- | ---- |
+| chord-ate<br />【'kɔːdeɪt】 | a. 具有脊索的, 脊索动物门的<br/>n. 脊索动物<br/>推荐：chord-脊索 + -ate<br/><br/>chord- 19= string, 表示“线”。原指“肠子”，后引申为线、绒毛、脉络等 。源自希腊语 khorde "gut, string." | cordate<br />【'kɔːdeɪt】 |      |
+|                             |                                                              |                           |      |
+|                             |                                                              |                           |      |
+
+### cor- = pupil, 表示“瞳孔”{5}
+
+| 单词        | 解释                                                         | 单词 | 解释 |
+| ----------- | ------------------------------------------------------------ | ---- | ---- |
+| cor-ectopia | 【医】 瞳孔异位<br/>推荐：cor-瞳孔 + ectopia【n. 异位】<br/><br/>cor- = pupil, 表示“瞳孔”。<br/>ectopia n. 出位, 异位 |      |      |
+|             |                                                              |      |      |
+|             |                                                              |      |      |
+
+
+
+## fren-（精神）：控制人精神的横膈膜 {12}
 
 横隔膜是胸腔和腹腔之间的分隔，它位于心脏和双侧肺脏的下面，肝脏、脾脏、胃的上方，就像一个大圆盘平放在身体内部分隔了胸腹腔。由于横膈膜与心脏距离较近，古人看到人情绪激动时心跳也会加快，便以为横膈膜是负责人精神状态的器官，因此英语中表示“横膈膜”的词根fren-/phren-同时还可以表示“精神”，产生了很多与“精神”相关的单词。
 
-- fren-/phren-：精神
+- fren-/phren- /phreno：精神
 - diaphragm：['daɪəfræm] n.横隔膜，隔板，快门，光圈
 - phrenic：['frɛnɪk] adj. 横隔膜的；精神的
 - frenzy：['frenzɪ] n.狂暴，狂怒，暴怒vt.使发狂，使狂怒
@@ -327,6 +324,41 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 
 
 [^4]: 词源说明(童理民)<br>1 - 来自 model 的法语拼写形式，即模子，模型，引申词义模具，铸模。字母 l,d 置换。<br>2 - 来自古古诺斯语 mygla,发霉，来自 PIE*meug,湿的，黏的，词源 mucus,muggy.由湿的引申词义发霉，发霉。-d,过去分词后缀，字母 g 脱落，比较 vagina,vanilla.<br>3 - 来自古英语 molde,泥土，散土，来自 PIE*mele,磨，词源同 meal,mill.由磨引申词义碎土，散土，腐叶土。
+
+
+
+
+
+## 单词故事
+
+### hormone  激素也叫荷尔蒙
+
+**hormone** - 激素也叫荷尔蒙，是人或高等动物内分泌腺分泌的有机物质。它直接进入血液，对肌体的代谢、生长、发育和繁殖等起重要的调节作用，如甲状腺素、肾上腺素、胰岛素等都是激素。
+
+激素的英语名称**hormone**（汉语的旧称荷尔蒙即由此音译而来）是英国科学家斯特林博士（E. H. Sterling）取自希腊语动词hormân 'stimulate, excite'（刺激，使兴奋）的现在分词hormôn，并在词尾加-e杜撰而成的。
+
+他在1905年8月15日出版的《柳叶刀》（The Lancet）杂志的一篇文章中提及该物质时说，“这些化学信使（chemical messengers）我们可以称之为hormone。”
+
+例
+
+- We are governed by the hormones that circulate around our bodies. (CCE) 我们受在我们周身循环的荷尔蒙调节支配。
+- Dairy cows are often given hormones to promote milk production. (CAE) 乳牛常常被注射荷尔蒙以增加奶产量。
+- Those children do not produce enough growth hormone. 那些孩子缺乏生长激素。
+
+
+
+### acne（痤疮）：acme的误写
+
+acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
+
+单词**acne**指的是青少年脸上常见的粉刺、痤疮，它实际上与单词**acme**（顶点、最高点）同源。单词**acne**和**acme**都源自希腊语***akmas***，本意是“点”，同时还可以表示脸上的斑点。
+
+<img src="./images/image-20211211100552119.png" alt="image-20211211100552119" style="zoom:50%;" />	
+
+6世纪时，在将希腊语**akmas**直译为拉丁语时，译者看花了眼，将字母**`m`**看成了**`n`**，译成了拉丁语***aknas***。这一错误保留至今，并演变成了英语单词**acne**，专指“粉刺、痤疮”。
+
+- acne：['ækni] n. 粉刺，痤疮
+- acme：['ækmi] n. 顶点，极点；最高点
 
 
 
