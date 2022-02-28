@@ -1761,5 +1761,5 @@ hazard始见于十字军东征时期，它借自法语***hasard***和西班牙�
 
 - Thirty-two per cent of all women are over-weight, the main culprits being the fats and sugar. (CCE) 百分之三十二的妇女超重，脂肪和糖是罪魁祸首。
 
-Some money was taken from my desk yesterday; I think I know who the culprit is. (LLA) 昨天有人从我的书桌拿走了一些钱；我想我知道是谁干的。
+- Some money was taken from my desk yesterday; I think I know who the culprit is. (LLA) 昨天有人从我的书桌拿走了一些钱；我想我知道是谁干的。
 

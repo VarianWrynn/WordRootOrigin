@@ -154,7 +154,7 @@
 
 
 
-### **gorilla**（大猩猩）：迦太基航海家在西非见到的多毛野人 / chimpanzee(黑猩猩)
+### gorilla（大猩猩）：迦太基航海家在西非见到的多毛野人 / chimpanzee(黑猩猩)
 
 <img src="./images/image-20220223115036791.png" alt="image-20220223115036791" style="zoom:67%;" /> 
 
