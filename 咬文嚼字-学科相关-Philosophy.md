@@ -92,6 +92,32 @@ Martin
 
 
 
+## meta- 表示“超过，改变，在...之后”{49}
+
+> 源自希腊语 meta "between, with, beside, after."
+
+| 单词                                                    | 解释                                                         | 单词                                       | 解释                                                         |
+| ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ |
+|                                                         |                                                              | **meteor**<br />【ˈmiːtiər】               | n. 流星, 大气现象<br/>aer-,aero-,aeri- = air, 表示“空气，充气”等。源自希腊语 aer "air."<br/>meta- 表示“超过，改变，在...之后”。源自希腊语 meta "between, with, beside, after."<br/>词源说明(童理民)  <br/>1 - 来自希腊语 ta meteora,天体现象，天空之上，来自 meta-,在上，-eora,空中的，词源同 air.引申词义气象。<br />后特别用于指流星，可能因流星比较有代表性。其原义见：aerial meteors,风；aqueous meteors,雨；luminous meteors,极光；igneous meteors,流星。 |
+| **meteor-o-log-ist  **     <br />【ˌmiːtiəˈrɑːlədʒɪst】 | n. 气象学者<br/>推荐：meteorology【气象学】 + -ist表人，一般为专家<br/><br/>**`meteorology`** n. 气象学, 气象状态<br/>**`-ist`** 表名词，表示“信仰者，专家或从事某活动的人”。<br/>切换词根显示方式<br/>词源说明(童理民)  <br/>1 - 来自 meteorology,气象学。 | **meteor-logy** <br />【ˌmiːtiəˈrɑːlədʒi】 | n. 气象学, 气象状态<br/>推荐：meteor【大气现象】 + -logy学说。即气象学。<br/><br/>meteor n. 流星, 大气现象<br/>-logy = science, 表示“科学，学科”，由词根 log-, 说，引申而来；<br />-logy 作为词缀表示...学，<br />-logist 作为词缀表示...学家, <br />-logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."<br/>更多同源词...<br/>切换词根显示方式<br/>词源说明(童理民)  <br/>1 - 来自 meteor,大气现象，-logy,学说。即气象学。 |
+|                                                         |                                                              |                                            |                                                              |
+
+
+
+
+
+## `phil- ` /`philo-` = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”{73}
+
+| 单词                                    | 词根                                                         | 单词                                     | 词根                                                         |
+| --------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------ |
+| **philo-gyny **<br />【fɪ'lɒdʒənɪ】     | ~~对女子的喜欢，对女子的爱慕~~ **舔狗**<br />A positive and admiring attitude toward women in general <br /><img src="./images/image-20220122145055988.png" alt="image-20220122145055988" style="zoom: 33%;" /><br />**`philo-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`gyny-`** = woman, 表示“妇女”。源自希腊语 gune "woman." | **philo-gyn-ous**                        | 爱好女人的<br />**`philo-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`gyn-`** = woman, 表示“妇女”。源自希腊语 gune "woman."<br/>**`-ous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。 |
+| **Anglo∙phile**<br />【ˈæŋɡloʊfaɪl】    | n. 亲英者<br/>**`Anglo-`**英国 + phil-爱 + -e<br/>**`angl-`** = English，表示“盎格鲁或英格兰”。<br />因盎格鲁人的故乡位于欧洲大陆西北海岸的一片“钩状”半岛而得名。源自古英语 Englaland "land of angles," 源自 Engle "the Angles."<br/>phile- = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。 | **phil∙ander**<br />【fɪ'lændə】         | vi. 玩弄女性, 调情<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`ander-`** = male, man, 表示“男人”。源自希腊语 aner (词干 andr-) "man."<br/>词源说明(童理民)  <br/>1 - 来自希腊语 philandros,有爱心的人，来自 phil-,爱，-ander,人，男人，词源同 android.后来词义被误解为性欲过度的男人，淫棍，引申词义调戏，玩弄女性。 |
+|                                         |                                                              | **Phila∙delph∙ia**<br />【ˌfɪləˈdɛlfiə】 | 费拉德尔菲亚（女子教名，源于希腊语）费城<br />**`phil-,philo-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`delph-`** = womb, 表示“子宫”。源自希腊语 delphus "womb." |
+| **phil∙ter** <br />【fɪltə(r)】         | phil- <br/>= love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - 来自中古法语 philtre,春药，来自拉丁语 philtrum,春药，来自希腊语 philtron,迷人的魅力，魅惑，来自 philein,爱，爱好，珍爱。-trum,tron,工具格后缀 | **phil∙tre** <br />【ˈfɪltər】           | n. 春药, 灵丹妙药<br/>vt. 用春药迷惑(或使兴奋)<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>更多同源词...<br/>英英  <br/>n.<br/>1 . a magical potion or charm , especially one that causes somebody to fall in love <br/>2 . a special drink that is intended to have a magic effect |
+| **pedo∙phil∙ia** <br />【ˌpiːdəˈfɪliə】 | **`pedo-`** = child, education, 表示“儿童”，引申为“教育”，英式英语中品写成paed-。源自拉丁语 pais (词干 paid-) "child."<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`-ia`** 表名词，表示“某种病”。<br/>sexual desire for children in an adult | **necro∙phil∙ia**<br />【ˌnekrəˈfɪliə】  | **`necro-`** = die, 表示“死”。源自希腊语 nekro "corpse."<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`-ia`** 表名词，表示“某种病”。<br/>1 . sexual feelings for or sexual acts with dead bodies |
+
+1
+
 
 
 ### Philosopher v.s Sophist
@@ -159,27 +185,13 @@ Martin
 
 
 
-#### `phil- ` /`philo-` = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”{73}
-
-| 单词                                    | 词根                                                         | 单词                                     | 词根                                                         |
-| --------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------ |
-| **philo-gyny **<br />【fɪ'lɒdʒənɪ】     | ~~对女子的喜欢，对女子的爱慕~~ **舔狗**<br />A positive and admiring attitude toward women in general <br /><img src="./images/image-20220122145055988.png" alt="image-20220122145055988" style="zoom: 33%;" /><br />**`philo-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`gyny-`** = woman, 表示“妇女”。源自希腊语 gune "woman." | **philo-gyn-ous**                        | 爱好女人的<br />**`philo-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`gyn-`** = woman, 表示“妇女”。源自希腊语 gune "woman."<br/>**`-ous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。 |
-| **Anglo∙phile**<br />【ˈæŋɡloʊfaɪl】    | n. 亲英者<br/>**`Anglo-`**英国 + phil-爱 + -e<br/>**`angl-`** = English，表示“盎格鲁或英格兰”。<br />因盎格鲁人的故乡位于欧洲大陆西北海岸的一片“钩状”半岛而得名。源自古英语 Englaland "land of angles," 源自 Engle "the Angles."<br/>phile- = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。 | **phil∙ander**<br />【fɪ'lændə】         | vi. 玩弄女性, 调情<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`ander-`** = male, man, 表示“男人”。源自希腊语 aner (词干 andr-) "man."<br/>词源说明(童理民)  <br/>1 - 来自希腊语 philandros,有爱心的人，来自 phil-,爱，-ander,人，男人，词源同 android.后来词义被误解为性欲过度的男人，淫棍，引申词义调戏，玩弄女性。 |
-|                                         |                                                              | **Phila∙delph∙ia**<br />【ˌfɪləˈdɛlfiə】 | 费拉德尔菲亚（女子教名，源于希腊语）费城<br />**`phil-,philo-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`delph-`** = womb, 表示“子宫”。源自希腊语 delphus "womb." |
-| **phil∙ter** <br />【fɪltə(r)】         | phil- <br/>= love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - 来自中古法语 philtre,春药，来自拉丁语 philtrum,春药，来自希腊语 philtron,迷人的魅力，魅惑，来自 philein,爱，爱好，珍爱。-trum,tron,工具格后缀 | **phil∙tre** <br />【ˈfɪltər】           | n. 春药, 灵丹妙药<br/>vt. 用春药迷惑(或使兴奋)<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>更多同源词...<br/>英英  <br/>n.<br/>1 . a magical potion or charm , especially one that causes somebody to fall in love <br/>2 . a special drink that is intended to have a magic effect |
-| **pedo∙phil∙ia** <br />【ˌpiːdəˈfɪliə】 | **`pedo-`** = child, education, 表示“儿童”，引申为“教育”，英式英语中品写成paed-。源自拉丁语 pais (词干 paid-) "child."<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`-ia`** 表名词，表示“某种病”。<br/>sexual desire for children in an adult | **necro∙phil∙ia**<br />【ˌnekrəˈfɪliə】  | **`necro-`** = die, 表示“死”。源自希腊语 nekro "corpse."<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`-ia`** 表名词，表示“某种病”。<br/>1 . sexual feelings for or sexual acts with dead bodies |
-
-
-
 #### Reference
 
 1. [词源趣谈 | sophist（有智慧的人）和philosopher（爱智慧的人），谁更有智慧？--钱博士英语](https://mp.weixin.qq.com/s/bkIvQ1tZH21MaruRBlb78g)
 
 
 
-
-
-### cynic
+## cynic
 
 > **`cyn-`** = dog, 表示“狗”，源自希腊语。
 > **`-ic`** 表名词，“人或学科”。
@@ -195,7 +207,7 @@ Martin
 
 
 
-#### cynic- 犬儒派（古希腊哲学学派）
+### cynic- 犬儒派（古希腊哲学学派）
 
 **cynic -** 公元前4世纪希腊有一个哲学学派叫犬儒学派，希腊文作Kynikós/Kunikós，意思是snarlers（嗥叫的狗）。
 
@@ -221,7 +233,7 @@ Martin
 
 ------------------
 
-#### cynic（愤世嫉俗的）：对他人行为动机的恶意揣测
+### cynic（愤世嫉俗的）：对他人行为动机的恶意揣测
 
 单词cynic源于古代希腊的一个哲学流派“犬儒主义”（Cynicism）。
 

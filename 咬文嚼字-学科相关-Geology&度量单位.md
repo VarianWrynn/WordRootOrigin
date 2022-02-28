@@ -54,24 +54,18 @@ https://upload.wikimedia.org/wikipedia/commons/7/77/Geologic_Clock_with_events_a
 
 
 
-#### 1. paleo-  = old, 表示“古，旧”
+#### 1. paleo-  = old, 表示“古，旧” {13}
 
 > **`paleo-`** = old, 表示“古，旧”。源自希腊语 palai "long ago."
 
 
 
-| 单词                                  | 解释           | 单词                                                   | 解释                                                         |
-| ------------------------------------- | -------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
-|                                       |                |                                                        |                                                              |
-|                                       |                |                                                        |                                                              |
-| paleo-lith         <br />【pelɪolɪθ】 | 【考古】旧石器 | pale-onto-logy              <br />【ˌpeɪliənˈtɑlədʒi】 | 古生物学the earth science that studies fossil organisms and related remains。<br />**`pale-`** = old, 表示“古，旧”+ **`onto`**- 表示“存在”，和词根ess-同源+ **`-logy`** = science, 表示“科学，学科。 |
-|                                       |                | pale-onto-**logist**                                   | **`-logist`** 作为词缀表示...学家,                           |
-
-> **`pale-`** = old, 表示“古，旧”。源自希腊语 palai "long ago."
->
-> **`onto-`** 表示“存在”，和词根ess-同源。源自希腊语 einai (现在分词 ont- "being.") "to be."
->
-> **`-logy`** = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."
+| 单词                                      | 解释                                                         | 单词                                                   | 解释                                                         |
+| ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
+|                                           |                                                              |                                                        |                                                              |
+|                                           |                                                              |                                                        |                                                              |
+| **paleo-lith**         <br />【pelɪolɪθ】 | n. 旧石器<br/>推荐：paleo-古 + lith-石<br/><br/>**`paleo-`** = old, 表示“古，旧”。源自希腊语 palai "long ago."<br/>**`lith-`** = stone, 表示“石头” | pale-onto-logy              <br />【ˌpeɪliənˈtɑlədʒi】 | 古生物学the earth science that studies fossil organisms and related remains。<br />**`pale-`** = old, 表示“古，旧”+ **`onto`**- 表示“存在”，和词根ess-同源+ **`-logy`** = science, 表示“科学，学科。<br />**`pale-`** = old, 表示“古，旧”。源自希腊语 palai "long ago." |
+|                                           |                                                              | pale-onto-**logist**                                   | **`onto-`** 表示“存在”，和词根ess-同源。源自希腊语 einai (现在分词 ont- "being.") "to be."**`-logist`** 作为词缀表示...学家, |
 
 
 
@@ -116,11 +110,9 @@ ceno-
 
 ### Crust
 
-<img src="./images/Earth_poster.svg" alt="Crust (geology) - Wikipedia" style="zoom: 36%;" />
+<img src="./images/Earth_poster.svg" alt="Crust (geology) - Wikipedia" style="zoom: 36%;" /> 
 
-
-
-![image-20211108172452341](./images/image-20211108172452341.png)
+<img src="./images/image-20211108172452341.png" alt="image-20211108172452341" style="zoom:80%;" /> 
 
 #### mantle 
 
@@ -144,8 +136,6 @@ ceno-
 
 
 
-
-
 **Reference：**
 
 1. [Cloak Vs Cape: What Is the Difference? -- Silver Bobbin](https://silverbobbin.com/cloak-vs-cape/)
@@ -156,7 +146,7 @@ ceno-
 
 
 
-### therm= heat, 表示“热”{78}
+## therm= heat, 表示“热”{78}
 
 > 源自希腊语 thermos "warm, hot, heat."
 
@@ -196,11 +186,15 @@ ceno-
 | dia-therm-ia                      | 透热疗法                                                     | dia-term-ic                                 | 透热疗法的                                                   |
 | radio-therm-y                     | 短波透热，热放射疗法                                         | thermo-phil-ic                              | 适温的，喜温的                                               |
 
-1
 
 
+## lith- = stone, 表示“石头”{29}
 
-
+| 单词                                      | 解释                                                         | 单词                                      | 解释                                                         |
+| ----------------------------------------- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
+| **paleo-lith**         <br />【pelɪolɪθ】 | n. 旧石器<br/>推荐：paleo-古 + lith-石<br/><br/>**`paleo-`** = old, 表示“古，旧”。源自希腊语 palai "long ago."<br/>**`lith-`** = stone, 表示“石头” | **paleo-lith-ic**<br />【ˌpeɪlɪəʊ'lɪθɪk】 | a. 旧石器时代的<br/>推荐：Paleolith【旧石器】 + -ic表形容词，是单词paleolith 派生的形容词。<br/><br/>**`paleolith`** n. 旧石器<br/>**`-ic`** 表形容词，“…的”。<br/>词源说明(童理民)  <br/>1 - paleo-,远古的，-lith,石头，词源同 lighology. |
+|                                           |                                                              |                                           |                                                              |
+|                                           |                                                              |                                           |                                                              |
 
 
 
