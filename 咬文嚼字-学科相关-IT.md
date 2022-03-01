@@ -282,3 +282,76 @@ When used as **verbs**, **cant** means to speak with the jargon of a class or su
 
 1. [The difference between Cant and Jargon](https://diffsense.com/diff/cant/jargon)
 2. [9 examples of tech jargon that must be stopped](https://www.brandchemistry.com.au/blog/9-examples-of-tech-jargon-that-must-be-stopped)
+
+
+
+## Mock data
+
+> Mock:
+>
+> - 可能来自拉丁语 ***mucus***,鼻涕，即作出擤鼻涕的动作以表示嘲笑和嘲弄，并引申词义模仿。或直接来自拟声词，模仿模仿的声音。
+>
+> - 不要打成monk data, moke data
+
+
+
+为什么模拟数据不叫stimulate data, 而是叫 mock data?
+
+先看**mock**的本意是嘲笑 ：
+
+> to [laugh](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/laugh) at someone, often by [copying](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/copy) them in a [funny](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/funny) but [unkind](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/unkind) way
+>
+> **嘲笑，嘲弄；（常指为取笑而）模仿**
+>
+> - They were mocking him because he [kept](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/kept) [falling](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/falling) off his [bike](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/bike).他们一个劲儿嘲笑他，因为他老是从自行车上摔下来。
+>
+> - She made [fun](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/fun) of him by mocking his [limp](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/limp).她模仿他一瘸一拐地走路来取笑他。
+
+
+
+再由这个通过**模仿**（**something made as an imitation**)别人达到嘲笑的目的，引申出形容词：假的；高仿的；防治的；假装的 之意：
+
+> not [real](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/real) but [appearing](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/appear) or [pretending](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/pretend) to be [exactly](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/exactly) like something
+>
+> **假的；仿制的；假装的**
+>
+> - mock [cream](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/cream)人造奶油
+> - mock [leather](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/leather)人造革
+> - mock [surprise](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/surprise)假装出来的惊讶
+
+
+
+### [What is Mocking?](https://stackoverflow.com/questions/2665812/what-is-mocking)
+
+[Prologue](https://stackoverflow.com/questions/2665812/what-is-mocking): If you look up the noun *mock* in the dictionary you will find that one of the definitions of the word is *something made as an imitation*.
+
+> Mocking is primarily used in unit testing. An object under test may have dependencies on other (complex) objects. To isolate the behavior of the object you want to replace the other objects by mocks that simulate the behavior of the real objects. This is useful if the real objects are impractical to incorporate into the unit test.
+>
+> In short, mocking is creating objects that simulate the behavior of real objects.
+
+At times you may want to distinguish between *mocking* as opposed to *stubbing*. There may be some disagreement about this subject but my definition of a stub is a "minimal" simulated object. The stub implements just enough behavior to allow the object under test to execute the test.
+
+A mock is like a stub but the test will also verify that the object under test calls the mock as expected. Part of the test is verifying that the mock was used correctly.
+
+To give an example: You can stub a database by implementing a simple in-memory structure for storing records. The object under test can then read and write records to the database stub to allow it to execute the test. This could test some behavior of the object not related to the database and the database stub would be included just to let the test run.
+
+If you instead want to verify that the object under test writes some specific data to the database you will have to mock the database. Your test would then incorporate assertions about what was written to the database mock.
+
+
+
+### Mocks, fakes, and stubs
+
+Classification between mocks, fakes, and [stubs](https://en.wikipedia.org/wiki/Test_stub) is highly inconsistent across the literature. Consistent among the literature, though, is that they all represent a production object in a testing environment by exposing the same interface.
+
+Which out of *mock*, *fake*, or *stub* is the simplest is inconsistent, but the simplest always returns pre-arranged responses (as in a [method stub](https://en.wikipedia.org/wiki/Method_stub)). On the other side of the spectrum, the most complex object will fully simulate a production object with complete logic, exceptions, etc. Whether or not any of the mock, fake, or stub trio fits such a definition is, again, inconsistent across the literature.
+
+For example, a mock, fake, or stub method implementation between the two ends of the complexity spectrum might contain [assertions](https://en.wikipedia.org/wiki/Assertion_(computing)) to examine the context of each call. For example, a mock object might assert the order in which its methods are called, or assert consistency of data across method calls.
+
+In the book *[The Art of Unit Testing](https://en.wikipedia.org/wiki/The_Art_of_Unit_Testing)*[[7\]](https://en.wikipedia.org/wiki/Mock_object#cite_note-7) mocks are described as a fake object that helps decide whether a test failed or passed by verifying whether an interaction with an object occurred. Everything else is defined as a stub. In that book, *fakes* are anything that is not real, which, based on their usage, can be either *stubs* or *mocks*.
+
+
+
+**Reference:**
+
+1. [[What is Mocking?](https://stackoverflow.com/questions/2665812/what-is-mocking)](https://stackoverflow.com/questions/2665812/what-is-mocking)
+2. [Mock object--Wikipedia](https://en.wikipedia.org/wiki/Mock_object)

@@ -208,11 +208,11 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 <img src="./images/1200px-Chicken_egg_diagram.svg.png" alt="Amnion - Wikipedia" style="zoom: 50%;" />
 
-| 单词                       | 解释                                                         | 单词 | 解释 |
-| -------------------------- | ------------------------------------------------------------ | ---- | ---- |
-| **amnion**<br />【æmnɪən】 | **`amnion-`** 表示“羊膜”，源自希腊语 amnion "membrane around a fetus"。<br /><br />1 . the inner of the two membranes enclosing the embryo of a bird , reptile , or mammal and its surrounding fluid . <br/>2 . the fluid - filled sac within which the embryo of a bird , reptile , or mammal develops |      |      |
-|                            |                                                              |      |      |
-|                            |                                                              |      |      |
+| 单词                              | 解释                                                         | 单词                                | 解释                                                         |
+| --------------------------------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
+| **amnion**<br />【æmnɪən】        | **`amnion-`** 表示“羊膜”，源自希腊语 amnion "membrane around a fetus"。<br /><br />1 . the inner of the two membranes enclosing the embryo of a bird , reptile , or mammal and its surrounding fluid . <br/>2 . the fluid - filled sac within which the embryo of a bird , reptile , or mammal develops |                                     |                                                              |
+| **glande**                        | n. 龟头, 阴茎头<br/>【复数：glandes】<br/>单词笔记   ［添加］<br/>词源说明(童理民)  <br/>1 - 来自 PIE*gwele,橡实，球体，词源同 globe.因呈球体而得名。 | **gland**<br />【ɡlænd】            | n. 腺, 密封套<br/>**`gland-`** = acorn, 表示“橡子”，含义"腺体"是因为其形状和橡子类似而得名。源自拉丁语 glans (词干 gland-) "an acorn."<br/>词源说明(童理民)  <br/>1 - 来自 PIE*gwele,橡实，球体，词源同 globe.因呈球体而得名，用于解剖学术语。 |
+| **gland-ule **<br />【ɡlændju:l】 | n. 小腺<br/>推荐：gland【腺】 + -ule<br/><br/>gland n. 腺, 密封套 | **glandul-ar**<br />【ˈɡlændʒələr】 | a. 腺的, 含腺的, 天生的, 固有的, 肉体的<br/>推荐：glandule【小腺】 + -ar<br/><br/>glandule n. 小腺 |
 
 
 
@@ -326,6 +326,18 @@ A **larva** is an insect at the stage of its life after it has developed from an
 [^4]: 词源说明(童理民)<br>1 - 来自 model 的法语拼写形式，即模子，模型，引申词义模具，铸模。字母 l,d 置换。<br>2 - 来自古古诺斯语 mygla,发霉，来自 PIE*meug,湿的，黏的，词源 mucus,muggy.由湿的引申词义发霉，发霉。-d,过去分词后缀，字母 g 脱落，比较 vagina,vanilla.<br>3 - 来自古英语 molde,泥土，散土，来自 PIE*mele,磨，词源同 meal,mill.由磨引申词义碎土，散土，腐叶土。
 
 
+
+
+
+## metabol- 表示“代谢，变态”{5}
+
+>  缩写自 metabolism，词根本身由 meta- 变化 + bol- 扔，两部分组成。
+
+| 单词                              | 解释                                                         | 单词                             | 解释                                                         |
+| --------------------------------- | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
+| metabol-ism<br />【məˈtæbəlɪzəm】 | n. 新陈代谢, 变态<br/>推荐：meta-改变 + bol-扔，投 + -ism. 即改变扔的方向，使发生变化，并用于生物学术语新陈代谢。<br/><br />**`metabol-`** 表示“代谢，变态”，缩写自 metabolism，词根本身由 meta- 变化 + bol- 扔，两部分组成。<br/>**`-ism`** 抽象名词后缀，表示“…主义”；“宗教”；“制度、行为”；“…学”、“…术”、“…论”、“…法”；“疾病名称”；“情况、状态”等。<br/>词源说明(童理民)  <br/>1 - meta-,改变，-bol,扔，投，词源同 hyperbole,ballet,ballistic.即改变扔的方向，使发生变化，并用于生物学术语新陈代谢。比较 anabolism. | metabol-ic<br />【ˌmetəˈbɑːlɪk】 | a. 变化的, 变形的, 新陈代谢的<br/>推荐：metabol-代谢 + -ic<br/><br/>metabol- 表示“代谢，变态”，缩写自 metabolism，词根本身由 meta- 变化 + bol- 扔，两部分组成。<br/>-ic 表形容词，“…的”。 |
+|                                   |                                                              |                                  |                                                              |
+|                                   |                                                              |                                  |                                                              |
 
 
 
@@ -718,6 +730,18 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## pneuma- 表示“气，呼吸” {17}
+
+> 源自希腊语 pnein "to breatoe," pneuma "breath, wind, spirit."
+
+| 单词                       | 解释                                                         | 单词                                                         | 解释                                                         |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **pneuma**<br />【njuːmə】 | 基本释义   <br/>n. 元气, 灵魂, 精神<br/>**`pneuma-`** 表示“气，呼吸”。源自希腊语 pnein "to breatoe," pneuma "breath, wind, spirit." | **pneuma-tic  **                         <br />【nuːˈmætɪk】 | a. 充气的, 空气的, 有气胎的, 气动的, 灵魂的<br/>n. 充气轮胎<br/>推荐：pneumat-空气 + -ic表形容词。<br/>**`pneumat-`** 表示“气，呼吸”。源自希腊语 pnein "to breatoe," pneuma "breath, wind, spirit."<br/>**`-ic`** 表形容词，“…的”。<br/>词源说明(童理民)  <br/>1 - 来自希腊语 pneuma,空气，风，呼吸，来自 pnein,吹动，呼吸，来自 PIE*pneu,呼吸，拟声词。 |
+|                            |                                                              |                                                              |                                                              |
+|                            |                                                              |                                                              |                                                              |
+
+
+
 ## chol- = bile, 表示“胆，胆汁” 源自希腊语 khole "bile." {16}
 
 > 古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."
@@ -747,6 +771,32 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
   - adj. 忧郁的；抑郁的；患忧郁症的
   - n. 忧郁症患者
 - **melanin**：['mɛlənɪn] n. 黑色素
+
+
+
+## thym- 表示“胸腺，精神，思想”{8}
+
+> 源自希腊语 thumos "soul, spirit," thumon, thumos "thyme."
+
+| 单词                          | 解释                                                         | 单词 | 解释 |
+| ----------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **thym-us** <br />【ˈθaɪməs】 | n. 胸腺<br/>推荐：thym-胸腺 + -us<br/><br/>thym- 表示“胸腺，精神，思想”。源自希腊语 thumos "soul, spirit," thumon, thumos "thyme."<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 thymus,来自希腊语 thymos,疣子状瘤，古希腊著名医生 Galan 借用该词用以指胸腺，词源同 thymon,百里香。可能因其形如百里香花苞而得名。 |      |      |
+|                               |                                                              |      |      |
+|                               |                                                              |      |      |
+
+
+
+
+
+## viscer- 表示“内脏”。源自拉丁语 viscera（internal organ）{5}
+
+| 单词                                 | 解释                                                         | 单词 | 解释 |
+| ------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **e-viscer-ate**<br />【ɪˈvɪsəreɪt】 | vt. 取出内脏, 除去精华, 切除(病人)器官<br/>vi. (因手术不良)内脏凸出<br/>推荐：e-向外 + viscer-内脏 + -ate。<br/><img src="./images/image-20220301151748474.png" alt="image-20220301151748474" style="zoom:80%;" /><br/>**`e-`** 表示“从，从...离开，从...向外，向外，向上”，来自PIE *eghs, 向外。<br/>**`viscer-`** 表示“内脏”。源自拉丁语 viscera（internal organ）。<br/>**`-ate`** 表动词，“做，造成”。<br/>词源说明(童理民)  <br/>1 - e-,向外，viscera,内脏。 |      |      |
+|                                      |                                                              |      |      |
+|                                      |                                                              |      |      |
+
+
 
 
 
