@@ -26,9 +26,7 @@
 
 ##  math-  = learn, 表示“学习、知识”{6}
 
-math- 
-= learn, 表示“学习、知识”。源自希腊语 manthanein (词干 math-) "to learn."
-更多同源词...
+> math- = learn, 表示“学习、知识”。源自希腊语 manthanein (词干 math-) "to learn."
 
 
 

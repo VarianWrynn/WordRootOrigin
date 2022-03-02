@@ -301,6 +301,20 @@ guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿�
 
 
 
+
+
+### ornitho- = bird, 表示“鸟”。源自希腊语 ornis (词干 ornith-) "bird."{6}
+
+| 单词                                      | 解释                                                         | 单词 | 解释 |
+| ----------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **ornitho-logy**<br />【ˌɔːrnɪˈθɑːlədʒi】 | n. 鸟类学<br/>推荐：ornitho- 鸟 + -logy学说。即研究鸟的 → 鸟类学。<br/><br/>ornitho- = bird, 表示“鸟”。源自希腊语 ornis (词干 ornith-) "bird."<br/>-logy <br/>= science, 表示“科学，学科”，由词根 log-, 说，引申而来；<br/>词源说明(童理民)  <br/>1 - 来自希腊语 ornis 的所有格 ornithos,鸟，-logy,学说。 |      |      |
+|                                           |                                                              |      |      |
+|                                           |                                                              |      |      |
+
+
+
+
+
 ### **Petrel** /ˈpetrəl/
 
 <img src="./images/PLate-Wilsons-Storm-Petrel_uit_INDD_2048.jpg" alt="Wilson&#39;s Storm Petrel - The Sound Approach" style="zoom:80%;" />
