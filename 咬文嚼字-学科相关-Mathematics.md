@@ -115,6 +115,32 @@ gon-
 
 
 
+## vex- = to carry, 表示”带来“，vect- 用在数学领域有“矢量、向量”的含义{13}
+
+> 源自拉丁语 vehere (过去分词 vectus) "to carry."
+
+| 单词                                                         | 解释                                                         | 单词                                              | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| **con-cav-e **                      <br />【kɑːnˈkeɪv】      | a. 凹的<br/>推荐：con-全部 + cav-洞 + -e → 全部像洞一样 → 凹进去的。<br/><img src="./images/image-20220302145329950.png" alt="image-20220302145329950" style="zoom:80%;" /><br/>**`con-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。源自拉丁语 com "with (collective and intensive prefix.)"<br/>**`cav-`** = hole, 表示“洞”，来自拉丁语。<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - con-,表强调，cave,洞穴。即洞穴状，凹进去。 | **con-vex **                  <br />【ˈkɑːnveks】 | a. 中凸的, 凸圆的, 凸面的<br/>n. 凸状, 凸面体, 凸面结构<br/>推荐：con-强调 + vex-=vect-携带，移动，即在拱顶汇集的，形成凸透镜形状的。<br/><img src="./images/image-20220302145215303.png" alt="image-20220302145215303" style="zoom:80%;" /><br/>**`con-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。源自拉丁语 com "with (collective and intensive prefix.)"<br/>**`vex-`** = to carry, 表示”带来“，vect- 用在数学领域有“矢量、向量”的含义。源自拉丁语 vehere (过去分词 vectus) "to carry."<br/>词源说明(童理民)  <br/>1 - con-,表强调，-vex,同-vect,携带，移动，词源同 vector,vehicle.即在拱顶汇集，形成凸透镜形状。 |
+| **con-cav-ity**                        <br />【kɑːnˈkævəti】 | n. 中央凹陷, 凹洼, 凹曲线<br/>推荐：concave【凹的】 + -ity<br/><br/>**`concave`** a. 凹的<br/>**`-ity`** 表名词，指具备某种性质 | **con-vex-ity** <br />【ˌkɒn'veksɪtɪ】            | n. 中凸, 凸状, 凸面<br/>推荐：convex【凸】 + -ity<br/><br/>**`convex`** a. 中凸的, 凸圆的, 凸面的 n. 凸状, 凸面体, 凸面结构<br/>**`-ity`** 表名词，指具备某种性质。 |
+|                                                              |                                                              |                                                   |                                                              |
+
+
+
+## cav- = hole, 表示“洞”，来自拉丁语{8}
+
+
+
+| 单词                                                    | 解释                                                         | 单词                                              | 解释                                                         |
+| ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| **con-cav-e **                      <br />【kɑːnˈkeɪv】 | a. 凹的<br/>推荐：con-全部 + cav-洞 + -e → 全部像洞一样 → 凹进去的。<br/><img src="./images/image-20220302145329950.png" alt="image-20220302145329950" style="zoom:80%;" /><br/>**`con-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。源自拉丁语 com "with (collective and intensive prefix.)"<br/>**`cav-`** = hole, 表示“洞”，来自拉丁语。<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - con-,表强调，cave,洞穴。即洞穴状，凹进去。 | **con-vex **                  <br />【ˈkɑːnveks】 | a. 中凸的, 凸圆的, 凸面的<br/>n. 凸状, 凸面体, 凸面结构<br/>推荐：con-强调 + vex-=vect-携带，移动，即在拱顶汇集的，形成凸透镜形状的。<br/><img src="./images/image-20220302145215303.png" alt="image-20220302145215303" style="zoom:80%;" /><br/>**`con-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。源自拉丁语 com "with (collective and intensive prefix.)"<br/>**`vex-`** = to carry, 表示”带来“，vect- 用在数学领域有“矢量、向量”的含义。源自拉丁语 vehere (过去分词 vectus) "to carry."<br/>词源说明(童理民)  <br/>1 - con-,表强调，-vex,同-vect,携带，移动，词源同 vector,vehicle.即在拱顶汇集，形成凸透镜形状。 |
+|                                                         |                                                              |                                                   |                                                              |
+|                                                         |                                                              |                                                   |                                                              |
+
+
+
+
+
 ## 单词背后的故事
 
 ### [Algebra](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651801001&idx=1&sn=28b6782b8cac44b75b267f001876ce05&chksm=842cde42b35b57547423fbf0a0c5365528ab1e9c6a369ce7e64eb9f2b298dcb7606d606dba3f&scene=178&cur_album_id=1297162942844207107#rd) [ˈældʒɪbrə] 
