@@ -1,4 +1,4 @@
-# 咬文嚼字-Part 1 
+# 咬文嚼字-Part 1-WOW
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文嚼字]
 
 [toc]
@@ -46,6 +46,71 @@
 
 2. (disapproving) 对凶残之事兴趣浓厚的人
    a person who is too interested in unpleasant things such as death and disaster
+
+
+
+
+
+### **villain**（恶棍/反派）：在古罗马农场干活的奴隶
+
+> 来自 villa,村庄，农场。其原义为村民，词义贬义化为恶棍，无赖。
+
+英语单词**villain**源自拉丁语***villanus***，本意为在villa（古罗马农场）干活的人，通常是奴隶或隶农。**villa**是古罗马贵族在乡村的房地产，包括居所和农场。英语单词**village**（农村）、**villager**（村民）等都源自拉丁语***villa***。
+
+由于在***villa***里面干活的奴隶或隶农地位很低，常常遭到贵族老爷的鄙视和呵斥，因此表示他的拉丁语villanus及其衍生的英语单词villain就不可避免地含有了强烈的贬义，并从表示社会地位的卑贱延伸至表示人品的卑贱，逐渐发展出“坏人、恶棍、反派”等负面含义。可以说，这个单词体现了一种强烈的阶级偏见。
+
+- **villain**：['vɪlən] n.坏人，恶棍，反派，罪犯
+- **villainous**：['vɪlənəs] adj.邪恶的，缺德的，恶毒的，堕落的
+- **villa**：['vɪlə] 乡村别墅，农场
+- **village**：['vɪlɪdʒ] n.农村，乡村，郊外
+- **villager**：['vɪlɪdʒə] n.村民，乡村居民
+
+
+
+**英语词源趣谈(庄和诚)**
+
+`villain -` 今指“坏蛋”或“恶棍”的**villain**一词原先并不含贬义。它源自中世纪拉丁语**vīllānus 'farmhand'**，通过法语***vilain***于14世纪进入英语的。
+
+从终极词源来看，**villain**和另一个词**villa**（别墅）都源于拉丁语***vīlla 'country house'***。在中世纪封建时代，这两个词是密切相关的，villa原指“农庄住宅”或“庄园”，而villain则指为villa的主人工作的“农奴”或“农民”。
+
+后来，贵族由于阶级优越感以及他们对农民的阶级偏见，往往把意指农民、乡下人的词语同“愚昧”、“粗野”、“邪恶”等概念联系起来。这样，**villain**的词义就逐渐发生贬降。19世纪出现了一个戏谑性短语**villain of the piece**，指“剧中反面人物”或“首恶”，被德莱塞（***Theodore Dreiser***）、墨多克（***Iris Murdoch***）等作家乃至普通人广泛使用。
+
+但**villa**和出自同一拉丁词源的**village**（乡村）一词至今却仍保留了原拉丁词中的含义。
+
+例:
+
+- The villain cheated the old lady out of her life's savings. (FWF) 这个恶棍骗走了老太太一生的积蓄。
+- He made his reputation as an actor playing villains. (CID) 他以演反派角色而出名。
+- A faulty fuse was the villain of the piece. 毛病就出在保险丝上。
+- The whole village turned out to watch the parade. 全村的人都出来看游行
+
+
+
+**摩西英语(摩西)**
+
+villain ['vɪlən] n.坏人；反派角色；顽童；罪犯。
+
+在掌握着话语权的贵族和领主阶层看来，租种自己土地的这些佃农们粗鄙、肮脏、愚蠢、贪婪而且卑劣不堪，所以，这样的歧视自然而然地在语言中体现了出来。villain这个单词实际与villein是互为异体的关系，核心意思都是那些顽劣的“乡民”或“村民”。
+
+
+
+*Avengers: Infinity War* depicts the beginning of the Avengers' attempt to protect the Infinity Stones from the **[villainous](https://www.cbr.com/were-in-endgame-now-infinity-war-meme/)** Thanos who wants to use them to erase half of humanity from existence. Thanks to his mystical training, [Doctor Strange](https://www.cbr.com/doctor-strange-2-prepares-filming-in-london/) is able to see each of the 14 million possible outcomes from their fight against Thanos. **All but one end in failure.** Much to Tony Stark's dismay, Doctor Strange gives up the Time Stone to Thanos. When Stark questions his motives, Doctor Strange simply states, "We're in the endgame now."
+
+<img src="F:/Lee/Githubs/1WordRootOrigin/images/image-20210922113934344.png" alt="image-20210922113934344" style="zoom: 67%;" /> 
+
+
+
+
+
+#### -ain 表名词，“…人” {4}
+
+| 单词                           | 解释                                                         | 单词                               | 解释                                                         |
+| ------------------------------ | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ |
+| **vill-ain** <br />【ˈvɪlən】  | n. 坏人, 恶棍<br/>推荐：villa【村庄，农场】 + -ain表人，原指奴隶等地位地下的人，有强烈的贬义。<br/><br/>vill- 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."<br/>-ain 表名词，“…人”。 | **cheif-tain** <br />【ˈtʃiːftən】 | n. 酋长, 首领<br/>推荐：chief【领袖】 + -tain<br/><br/>**`-ain`** 表名词，“…人”。<br/>**`chief`** n. 领袖, 酋长, 长官, 主要部分 a. 主要的, 首位的<br/>词源说明(童理民)  <br/>1 - 来自 chief,主要的。<br/><br/>摩西英语(摩西)<br/>chaperon这个单词与cap棒球帽、cape袍子、escape逃脱（run out of the cape）、chief主要的、chieftain酋长、captain队长、capital首都<br />以及chef厨师长（head cooker）和chattel动产；奴隶（财富的体现，论“头”数）等同根，而这个词根与head同源。袍子或斗篷等，或者有一个帽兜来盖头，或从头套着穿。 |
+| **capt-ain **<br />【ˈkæptɪn】 | n. 船长, 指挥官, 海军上校, 首领<br/>vt. 率领, 指挥<br/>推荐：capt-头 + -ain → 首领。<br/><br/>**`cap-,cipit-`** = head, 表示“头”。源自拉丁语 caput "head"<br/>**`-ain`** 表名词，“…人”。 | **river-ain** <br />               | a. 河流的, 河边的, 住在河边的<br/>n. 住在河边的人<br/>推荐：river【河】 + -ain<br/><br/>**`river`** n. 河, 江<br/>**`-ain`** 表名词，“…人”。 |
+|                                |                                                              |                                    |                                                              |
+
+
 
 
 

@@ -262,11 +262,11 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 
 
 
-| 单词                                          | 解释                                                         | 单词                          | 解释                                                      |
-| --------------------------------------------- | ------------------------------------------------------------ | ----------------------------- | --------------------------------------------------------- |
-| in-vert-ase               <br />【ɪnvəˌteɪs】 | 转化酶<br />an enzyme that catalyzes the hydrolysis of sucrose into **glucose** and fructose | hydr-ase                      | an enzyme that catalyzes the addition or removal of water |
-| lact-ase<br />【ˈlækˌteɪs】                   | **`lact-`** = milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。<br />any of a group of enzymes (trade name Lactaid) that hydrolyze lactose to **glucose** and galactose | integr-ase<br />【ɪntɪgreɪs】 | 整合酶                                                    |
-|                                               |                                                              |                               |                                                           |
+| 单词                                                 | 解释                                                         | 单词                                                         | 解释                                                         |
+| ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **in-vert-ase**               <br />【ɪnvəˌteɪs】    | 转化酶<br />an enzyme that catalyzes the hydrolysis of sucrose into **glucose** and fructose | hydr-ase                                                     | an enzyme that catalyzes the addition or removal of water    |
+| **lact-ase **                    <br />【ˈlækˌteɪs】 | **`lact-`** = milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。<br />any of a group of enzymes (trade name Lactaid) that hydrolyze lactose to **glucose** and galactose | integr-ase<br />【ɪntɪgreɪs】                                | 整合酶                                                       |
+|                                                      |                                                              | **telo-mer-ase **                           <br />【təˈloʊməˌreɪz】 | n. 端粒酶<br/><img src="./images/image-20220303115029625.png" alt="image-20220303115029625" style="zoom:80%;" /><br />**`tele-`** = further, 表示“远”，引申为“电”，电从远方来。源自希腊语 tele "far off."<br/>**`mer-`** = part, 表示“部分，分配”，并由分配引申为“奖励”。源自希腊语 méros "part."<br/>**`-ase`** = enzyme, 表示“...酶”。<br />an enzyme in eukaryotic cells that can add telomeres to the ends of chromosomes after they divide |
 
 
 

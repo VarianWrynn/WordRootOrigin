@@ -491,8 +491,64 @@ penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander
 
 琴纳（Edward Jenner,18世纪英国医生）将用于人体接种的牛痘苗称为**vaccine virus**，其中**vaccine**来自拉丁语**vaccinus**（母牛的），原本是个形容词，后来演变为名词。不仅可用来表示用于预防天花的牛痘苗，还可以表示任何一种用于接种的疫苗。
 
-- **vaccinate**: `/'væksɪneɪt/`  vt.给……接种疫苗vi.接种疫苗
-- **vaccination** ：[,væksɪ'neɪʃən] n.接种疫苗
+18世纪时，英国流行一种叫做“天花”（smallpox）的传染病，夺去了很多人的性命。英国医生琴纳（Edward Jenner）在调查研究如何治疗天花时，偶然发现在牧场工作的挤奶女工很少染上天花。他研究后发现，牧场中的奶牛也会得天花，导致皮肤出现脓包（cowpox，牛痘）。挤奶女工接触牛痘脓液后，会染上轻微的天花病，对健康并无大碍， 反而对天花病毒获得了免疫力。
+
+<img src="./images/image-20220303090531175.png" alt="image-20220303090531175" style="zoom:50%;" /> 
+
+琴纳受此启发，从奶牛牛痘中提取脓液，将其接种至人体，使接种者获得对天花的免疫力。这种用来接种的牛痘脓液就是人类历史上发明的第一种疫苗，被琴纳称为vaccine virus（来自奶牛的病毒），后来被简略为vaccine，用来泛指各种疫苗。
+
+单词**vaccine**（疫苗）来自拉丁语，由词根**`vacc-`**（奶牛）加形容词和名词后缀**`-ine`**组成，字面意思是“来自奶牛的（病毒）”。现在，vaccine泛指各种疫苗。比如：
+
+- There is no vaccine against HIV infection. 现在还没有防艾滋病病毒传染的疫苗。
+
+**vaccine**派生出动词**vaccinate**，意思是“给……接种疫苗”，常用被动式。比如：
+
+- All the children were vaccinated against smallpox. 所有孩子都接种了天花疫苗。
+
+**vaccinate**的动名词形式是vaccination，表示“接种疫苗”这个行为本身，比如：
+
+- Anyone who wants to avoid the flu should consider getting a vaccination. 任何希望避免患流感的人都应该考虑接种疫苗。
+
+
+
+**相关单词：**
+
+- **pox**：[pɒks] n.痘，痘疮
+
+- **smallpox**：[ˈsmɔːlpɒks] n.天花
+
+- **cowpox**：[ˈkaʊpɒks] n.牛痘
+
+- **vaccine**：['væksiːn] n.疫苗
+- **vaccinate**：['væksɪneɪt] vt.给……接种疫苗
+- **vaccination**：[ˌvæksɪˈneɪʃn] n.接种疫苗
+
+
+
+**英语词源趣谈(庄和诚)**
+
+**vaccine** - 18世纪天花在英国流行，成为死亡的主要原因。英国医生詹纳（Edward Jenner, 1749-1823）当学徒时就已注意到染过牛痘（**cowpox**）的人不会感染天花（**smallpox**）。
+
+1796年他试验牛痘接种成功，1798年他在论文中指出，接种牛痘病毒能对天花产生持久的免疫。詹纳将牛痘病毒即牛痘苗称为**vaccine virus**，将牛痘称为**vaccine disease**，将牛痘接种称为**vaccine inoculation**。
+
+**vaccine**一词源于拉丁语***vacca*** 'cow'（母牛）的派生词***vaccīnus*** 'of a cow'（母牛的）。起初**vaccine**仅作形容词用，19世纪初由vaccine派生出动词**vaccinate**（种痘；接种）和名词**vaccination**（种痘；接种）。
+
+到了19世纪40年代**vaccine virus**缩略为**vaccine**, **vaccine**开始由形容词转类为名词，直接用以指“牛痘苗”。之后它的词义扩展了，凡用于预防疾病而接种的疫苗人们均称作**vaccine**。
+
+据传，是法国微生物学家巴斯德（Louis Pasteur, 1822-1895）为了纪念詹纳的功绩率先将vaccine和vaccination分别用于广义上的“疫苗”和“接种”的。
+
+例　
+
+- Researchers are trying to develop a vaccine against the disease. (OCD) 研究人员试图培养这种病的疫苗。
+- The vaccine protects children against polio. 这种疫苗使孩子们能预防小儿麻痹症。
+- All children should be vaccinated against measles and other childhood diseases. 所有孩子都应该接种预防麻疹及其他儿童疾病的疫苗。
+- When we went to the tropics, we had to have several different vaccinations. (CID) 我们去热带地区的那阵子，我们得接种好几种不同的疫苗。
+
+
+
+**Reference:**
+
+1. [词源趣谈 | 从奶牛身上提取的vaccine（疫苗） --钱磊博士](https://mp.weixin.qq.com/s/_JTma5wUxf1l77vJjLtCCQ)
 
 
 
@@ -785,6 +841,14 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 |                               |                                                              |      |      |
 
 
+
+## bulla- = ox, 表示“牛”。源自古英语 bulluc "bull." {7}
+
+| 单词                     | 解释                                                         | 单词 | 解释 |
+| ------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **bulla**<br />【ˈbʊlə】 | n. 大疱, 大水疱<br/><br/>**`bulla-`** = ox, 表示“牛”。源自古英语 bulluc "bull." |      |      |
+|                          |                                                              |      |      |
+|                          |                                                              |      |      |
 
 
 
