@@ -262,6 +262,18 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
+## cort-  = skin, 表示“皮” {16}
+
+>  源自拉丁语 corium "skin，hide，leader;" cortex "bark"{16}
+
+| 单词                           | 解释                                                         | 单词 | 解释 |
+| ------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **cort-ex**<br />【ˈkɔːrteks】 | n. 皮层<br/>**`cort-`** = skin, 表示“皮”。源自拉丁语 corium "skin，hide，leader;" cortex "bark"。<br/>词源说明(童理民)  <br/>1 - 来自 PIE*sker,切，词源同 carnal,score.原指树皮，后引申词义大脑皮质。 |      |      |
+|                                |                                                              |      |      |
+|                                |                                                              |      |      |
+
+
+
 ## fren-（精神）：控制人精神的横膈膜 {12}
 
 横隔膜是胸腔和腹腔之间的分隔，它位于心脏和双侧肺脏的下面，肝脏、脾脏、胃的上方，就像一个大圆盘平放在身体内部分隔了胸腹腔。由于横膈膜与心脏距离较近，古人看到人情绪激动时心跳也会加快，便以为横膈膜是负责人精神状态的器官，因此英语中表示“横膈膜”的词根fren-/phren-同时还可以表示“精神”，产生了很多与“精神”相关的单词。
@@ -326,6 +338,14 @@ A **larva** is an insect at the stage of its life after it has developed from an
 [^4]: 词源说明(童理民)<br>1 - 来自 model 的法语拼写形式，即模子，模型，引申词义模具，铸模。字母 l,d 置换。<br>2 - 来自古古诺斯语 mygla,发霉，来自 PIE*meug,湿的，黏的，词源 mucus,muggy.由湿的引申词义发霉，发霉。-d,过去分词后缀，字母 g 脱落，比较 vagina,vanilla.<br>3 - 来自古英语 molde,泥土，散土，来自 PIE*mele,磨，词源同 meal,mill.由磨引申词义碎土，散土，腐叶土。
 
 
+
+## cerebr- = brain, 表示“脑”。源自拉丁语 cerebrum "brain."{9}
+
+| 单词                              | 解释                                                         | 单词 | 解释 |
+| --------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **cerebr-al**<br />【səˈriːbrəl】 | a. 脑的, 大脑的<br/>推荐：cerebr-脑 + -al表形容词。<br/><br/>**`cerebr-`** = brain, 表示“脑”。源自拉丁语 cerebrum "brain."<br/>**`-al`** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix.<br/>词源说明(童理民)  <br/>1 - 来自 cereb-,脑，词源同 horn,角，头。 |      |      |
+|                                   |                                                              |      |      |
+|                                   |                                                              |      |      |
 
 
 
