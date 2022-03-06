@@ -262,6 +262,31 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
+## cyto- = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel." {64}
+
+| 单词                                   | 解释                                                         | 单词                                 | 解释                                                         |
+| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
+| **cyto-plasm**<br />【ˈˈsaɪtoʊplæzəm】 | n. 细胞质,胞浆<br/>推荐：cyto-细胞 + -plasm...质<br/><img src="./images/image-20220306190625191.png" alt="image-20220306190625191" style="zoom:80%;" /><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`plasm-`** = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，-plasm,形成，词源同 plastic. | **cyto-logy** <br />【saɪˈtɑːlədʒi】 | n. 细胞学<br/>推荐：cyto-细胞 + -logy 学，学科<br/><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`-logy`** = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，来自 PIE*skeu,遮盖，隐藏，词源同 hide,house.-logy,学说。比较 cell,小室，细胞。 |
+|                                        |                                                              |                                      |                                                              |
+|                                        |                                                              |                                      |                                                              |
+
+
+
+## plasm- = mold, 表示“模式”。医学领域常引申为“血浆”或“原生质”，“形成”等{60}
+
+> - 表示“模式”。源自希腊语 plasma "something molded or created"。
+> - 医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"
+
+| 单词                                   | 解释                                                         | 单词                                   | 解释                                                         |
+| -------------------------------------- | ------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------ |
+| **proto-plasm**<br />【ˈproʊtəplæzəm】 | n. 原生质 （细胞质）<br/>推荐：proto-原始 , 第一 + -plasm...质<br/><img src="./images/image-20220306190229265.png" alt="image-20220306190229265" style="zoom:67%;" /><br/>proto- = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”。<br/>plasm- = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold" | **cyto-plasm**<br />【ˈˈsaɪtoʊplæzəm】 | n. 细胞质,胞浆<br/>推荐：cyto-细胞 + -plasm...质<br/><img src="./images/image-20220306190625191.png" alt="image-20220306190625191" style="zoom:80%;" /><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`plasm-`** = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，-plasm,形成，词源同 plastic. |
+|                                        |                                                              |                                        |                                                              |
+|                                        |                                                              |                                        |                                                              |
+
+
+
+
+
 ## cort-  = skin, 表示“皮” {16}
 
 >  源自拉丁语 corium "skin，hide，leader;" cortex "bark"{16}
