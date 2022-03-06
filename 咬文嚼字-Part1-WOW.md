@@ -655,6 +655,24 @@ tavern [ˈtævən] n.客栈； 酒馆。古罗马的旅行图上，公路两旁�
 
 ## 其他
 
+### sent- = feel, 表示“感觉”。源自拉丁语 sentire "to feel."{26}
+
+| 单词                         | 解释                                                         | 单词                      | 解释                                                         |
+| ---------------------------- | ------------------------------------------------------------ | ------------------------- | ------------------------------------------------------------ |
+| **sent-ry**<br />【ˈsentri】 | . 哨兵, 看守<br/>vt. 设岗哨<br/>vi. 站岗, 放哨<br/>推荐：sent-感觉 + -ry, 表名词。<br/><img src="./images/image-20220306194629427.png" alt="image-20220306194629427" style="zoom:50%;" /><br/>**`sent-`** = feel, 表示“感觉”。源自拉丁语 sentire "to feel."<br/>词源说明(童理民)  <br/>1 - 可能缩写自 sentinel,-ry,表地点或人，比较 bakery,cavalry.原义为眺望塔，后与 sentinel 词义融合。 | flick-er<br />【ˈflɪkər】 | n. 闪烁, 闪光, 颤动<br/>vi. 闪动, 闪烁, 摇动, 扑动翅膀<br/>vt. 使摇曳, 使闪烁<br/><br/>推荐：flick【轻弹】 + -er。<br/><img src="./images/image-20220306194759158.png" alt="image-20220306194759158" style="zoom: 80%;" /><br/>flick n. 快速的轻打, 轻打声, 弹开 v. 轻弹, 轻轻拂去, 忽然摇动; 浏览<br/>词源说明(童理民)  <br/>1 - 来自 flick,轻弹。<br /><br />that is my burden to bear |
+|                              |                                                              |                           |                                                              |
+|                              |                                                              |                           |                                                              |
+
+
+
+### val- = strong, worth, 表示“强壮，价值”。源自拉丁语 valere "to be strong."{20}
+
+| 单词                      | 解释                                                         | 单词 | 解释 |
+| ------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **val-or**<br />【vælər】 | n. 英勇, 刚勇, 勇猛<br/>推荐：val-强壮 + -or → 强壮状态 → 英勇。<br/><img src="./images/image-20220306194942876.png" alt="image-20220306194942876" style="zoom:67%;" /><br/>val- = strong, worth, 表示“强壮，价值”。源自拉丁语 valere "to be strong."<br/>词源说明(童理民)  <br/>1 - 来自 PIE*wal,强健的，勇敢的，词源同 value,valiant. |      |      |
+|                           |                                                              |      |      |
+|                           |                                                              |      |      |
+
 
 
 ### robe & plunder
