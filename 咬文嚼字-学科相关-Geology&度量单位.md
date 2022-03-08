@@ -334,6 +334,29 @@ alto - 此系音乐术语，源自拉丁语altus，但却是直接借自意大�
 
 
 
+#### meander /miˈændər/
+
+<img src="./images/image-20220307202702245.png" alt="image-20220307202702245" style="zoom:80%;" /> 
+
+> 来自拉丁语 meander,蜿蜒的水道，来自希腊语 Maiandros,河流名，位于现土耳其境内。由于这条河流非常曲折，因此，引申词义蜿蜒，闲逛，散步等。该河流名字面意思可能为伟大的男人或善变的男人，来自 andro-,男人，词源同 android,mai-,伟大的，词源同 magnate,或善变的，词源同 mutable.
+
+**meander** - 你可曾听过一首旋律优美的英国民歌**The Ash Grove**（梣丛）？歌中的第一句这样唱道：Down yonder green valley where streamlets meander，意思是说涓涓小溪沿着绿色山谷蜿蜒而下。
+
+**meander**一词在这里表示“蜿蜒流动”。它来自一河流名，这是小亚细亚古国弗里吉亚（**Phrygia**）境内，即今土耳其西部的一条河流，现名**the Menderes**，古称**the Meander**。该河以其河道蜿蜒曲折著称。
+
+**meander**一词源于希腊语***Maíandros***，16世纪末取道拉丁文、法语进入英语，17世纪以后多作动词用，用于河川，作“蜿蜒”解，用于人则作“漫步”、“闲逛”解。
+
+例　
+
+- The brook meanders through the valley. 那条小溪蜿蜒流过山谷。
+- He meandered around the town with a backpack. 他背着帆布包在镇里四处闲逛。
+- The discussion meandered (on) for hours. 讨论漫无边际地进行了几个小时。
+- She'd begun to meander on about some irrelevant topic, so the chairman shut her up. (LCE) 她开始东拉西扯谈些不相干的题目，所以主席制止了她。
+
+
+
+
+
 ## 度量单位
 
 ### metr- = measure, 表示“计量，测量等”{78}
