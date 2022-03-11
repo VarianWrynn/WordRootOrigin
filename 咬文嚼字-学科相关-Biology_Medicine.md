@@ -374,6 +374,18 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
+## cut- 表示“表皮”。源自拉丁语 cutis "skin{8}
+
+| 单词                            | 解释                                                         | 单词 | 解释 |
+| ------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **cut-icle**<br />【ˈkjuːtɪkl】 | n. 角质层;(手指甲或脚指甲根部的)甲小皮<br/><img src="./images/image-20220311150147928.png" alt="image-20220311150147928" style="zoom: 33%;" /><br />cut- 表示“表皮”。源自拉丁语 cutis "skin."<br/>词源说明(童理民)  <br/>1 - 来自 PIE*skeu,遮盖，保护，词源同 hide,house,custody. |      |      |
+|                                 |                                                              |      |      |
+|                                 |                                                              |      |      |
+
+
+
+
+
 ## metabol- 表示“代谢，变态”{5}
 
 >  缩写自 metabolism，词根本身由 meta- 变化 + bol- 扔，两部分组成。
