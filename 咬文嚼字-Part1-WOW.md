@@ -235,61 +235,6 @@ arbiter和arbitrator同源，在现代都能表示“仲裁人”，区别在于
 
   
 
-### lieutenant : （陆军）中尉；（海军或空军）上尉
-
-（中尉）：代理指挥官职位的军官
-
-英语单词**lieutenant**来自法语短语**lieu tenant**，由:
-
-- **lieu**（代替）
-- **tenant**（持有人）
-
-组成，字面意思就是“代替行使指挥权的人”，指的是在战场上当指挥官牺牲或受伤而无法指挥时，代替行使指挥权的人。
-
-16世纪70年代后用来表示中尉军衔，仅次于上尉（**captain**）。
-
-- **lieutenant：[luːˈtenənt]** n.中尉，副官，助理人员
-- **lieutenancy：[lʊˈtenənsi]** n. 代理官员；中尉之军衔
-- **tenant：['tɛnənt]** n. 承租人；房客；佃户；居住者vt. 租借
-
-
-
-### colonel（上校）：指挥一个纵队的军官
-
-> 词源同 column,柱，纵队。即管理一个纵队的军官。 
->
-> commander of a column of soldiers
-
-英语单词**colonel**（陆军上校）与**column**（柱子、纵队）拼写很相似，它们其实拥有相同的词源，都来自拉丁语单词**columna**（柱子、纵队）。
-
-英语**colonel**（陆军上校）来自意大利语单词***colonnella***，本意就是一个军团中负责指挥一个纵队的军官，在集合时他站在纵队的最前面。而意大利单词***colonnella***来自单词***colonella***（纵队），最终来自拉丁语***columna***（柱子、纵队）。
-
-- **colonel**：['kɝnl] n.陆军上校
-- **column**：['kɑləm] n.柱子，纵队，列，专栏
-
-
-
-**英语词源趣谈（庄和成）**
-
-**colonel** - 对于**colonel**（上校）一词的读音（/ˈkɩːnl/）与拼法极不一致这一点，人们往往感到疑惑不解。要寻找其原因，我们不能不追溯一下**colonel**的历史。
-
-**colonel**来源于意大利语***colonello***，原意为“纵队指挥官”，法语吸收了该词，先作***colonelle***，后因语音异化的影响而改拼为***coronel***。16世纪英语直接从法语借用了后一种形式，即***coronel***。最初***coronel***按三个音节发音，以后逐渐读成两个音节，作/ˈkɩːnl/。
-
-17世纪中期以后，其拼法按意大利语被改为现今通用的形式**colonel**，使它更像原意大利语形式。尽管教师和发音词典竭力想引导人们按新的拼法来读**colonel**一词，但是习惯的力量太大，人们坚持原先的读法。最后专家们只好作罢，接受原发音为**colonel**的标准发音。
-
-例
-
-- Colonel is the military rank between lieutenant-colonel and brigadier. (CID) 上校是在陆军中校之上，准将之下的军衔。
-- Two officers were promoted to colonel in the army last week. (NED) 上周两位军官晋升为陆军上校。
-
-**摩西英语(摩西)**
-
-**colonel** ['kɜːn(ə)l] n.陆军上校。你两条大长腿（L）
-
-却学小短腿**kernel** ['kɜːn(ə)l] n.核心；谷粒的发音，肿么回事？
-
-偶本是意大利colonna，表示**commander of a column of soldiers**，**column**是俺兄弟，法国佬把**`l`**改成了**`r`**，英国人从法国人借来该词后，保留了**`r`**的音，拼写却变回了**`l`**......找谁说理去！
-
 
 
 ### [Legionary v.s Legionnaire](https://inaciem.com/diary/legionary-vs-legionnaire)

@@ -666,6 +666,59 @@ anim-（生命）：代表生命之源的灵魂
 
 
 
+vt. 引诱, 吸引
+n. 魅力, 诱惑力
+【复数：allures；过去分词：allured；现在分词：alluring】
+单词笔记   ［添加］
+推荐：
+al-往 + lure【诱惑】
+
+词根树   
+al-al.lurelure
+
+al∙lure  [词根树]
+al- 
+来自拉丁介词ad, 表示“朝、向、去，或弱化为强调”。在字母 b, f, g, l, n, p, r, s, t 前同化为 ab-, af-, ag-, al-, an-, ap-, ar-, as-, at-；在 c, k, qu 前同化为 ac-；在 sc, sp, st 前缩写成 a-.
+lure 
+n. 饵, 诱惑 vt. 引诱, 诱惑
+
+
+
+### lure（诱惑）：召回猎鹰的引诱物
+
+<img src="./images/image-20220311172939263.png" alt="image-20220311172939263" style="zoom:80%;" /> 
+
+古时在英国和欧洲大陆流行鹰猎，即使用猎鹰来进行狩猎。为了召回飞出去的猎鹰，猎人往往使用由肉食和鲜艳羽毛做出的引诱物。这种引诱物在英语中就称为lure。allure与lure同义，来自古法语alure，表示“to lure”。
+
+- **lure**：n.诱惑，诱饵v.诱惑
+- **allure**：n.诱惑力v.诱惑
+- **allurement**：[ə'lʊrmənt] n. 诱惑；诱惑物
+
+
+
+**英语词源趣谈(庄和诚)**
+
+鹰猎（**falconry**）在英国和欧洲大陆一度极为盛行。
+
+所谓鹰猎乃是放鹰狩猎，即使用鹰、隼等来狩猎的一种活动。这种鹰，即猎鹰（**falcon**），须先经过耐心而得法的驯化和训练，方能用于鹰猎。
+
+狩猎人往往用伴有肉食并系着长绳的一束鲜艳羽毛作引诱物召回猎鹰。这种引诱物英语就称**lure**。
+
+**lure**的终极词源为日耳曼语之古法语词loirre 'bait'（诱饵）。在现代英语中它通常用于贬义，泛指任何“引诱物”或“诱饵”，并引申为“诱惑力”或“吸引力”，也常作动词用，表示“诱惑”或“引诱”。
+
+作为**lure**之同义词的**allure**产生于同一背景。它源自古法语***alurer***，由a 'to'加lure 'falcon's lure'（狩猎人之诱饵）构成。虽然**allure**和**lure**基本同义，也表示“诱惑”、“引诱”和“诱惑力”，但一般不含贬义。
+
+<img src="./images/image-20220311173048919.png" alt="image-20220311173048919" style="zoom:80%;" /> 
+
+例　
+
+- Rewards allure men to brave danger. 重赏之下必有勇夫。
+- Even in her fifties she had lost none of her seductive allure. (LDC) 她虽年过半百，但风韵犹存。
+- Most newspaper journalists find it hard to resist the allure of working in television. (CID) 大多数报纸记者发现很难抗拒在电视台工作的吸引力。
+- He was lured into the job by the offer of a high salary. 他受高薪诱惑才接受了那份工作。
+
+
+
 ## 称呼与职业
 
 
