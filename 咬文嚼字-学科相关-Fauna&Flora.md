@@ -37,7 +37,7 @@
 
 恐龙（**dinosaur**）这名字最早为英国古生物学家欧文（[Sir Richard Owen](https://en.wikipedia.org/wiki/Richard_Owen), 1804-1892）在1842年创造，由希腊语**`deinos`**（恐怖的）和**`sauros`**（蜥蜴）组合而成，字面意思就是“令人恐怖的蜥蜴”。
 
-<img src="./images/image-20211206144545510.png" alt="image-20211206144545510" style="zoom: 67%;" />
+<img src="./images/image-20211206144545510.png" alt="image-20211206144545510" style="zoom: 67%;" /> 
 
 恐龙和蜥蜴拥有相同的祖先，虽然表面上和蜥蜴相似，但实际上其生物结构却远比蜥蜴、蛇、龟等先进。
 
