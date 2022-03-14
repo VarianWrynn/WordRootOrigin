@@ -709,6 +709,7 @@ n.
 | ambly-op-ia                                                  | 弱读                                                         | a-ment-ia                                                    | 智力缺陷                                                     |
 | de-ment-ia                                                   | 痴呆                                                         | ex-ophthalm-ia                                               | 突眼症                                                       |
 | in-somn-ia                                                   | 失眠症                                                       | para-phas-ia                                                 | 语言错乱                                                     |
+|                                                              |                                                              | **pan-dem-ia  ** <br />【pæn'di:mɪə】                        | 【医】 大流行病, 泛流行病<br/>推荐：pan-全部 + dem-人民 + -ia“...病”<br/><br/>**`pan-`** 表示“全部的、广泛的”。<br/>**`dem-`** = people，表示“人民，民众”。源自希腊语 demos "people, land."<br/>**`-ia`** 表名词，表示“某种病”。 |
 
 
 
