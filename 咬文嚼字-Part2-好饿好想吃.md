@@ -270,6 +270,29 @@ Türkiye来自土耳其语，意思就是“突厥人的国家”。而英语单
 
 
 
+## 水果
+
+### [berry](https://en.wikipedia.org/wiki/Berry)
+
+any small, usually stoneless, juicy fruit, [irrespective](https://www.collinsdictionary.com/dictionary/english/irrespective) of [botanical](https://www.collinsdictionary.com/dictionary/english/botanical) structure, as the [huckleberry](https://www.collinsdictionary.com/dictionary/english/huckleberry), strawberry, or [hackberry](https://www.collinsdictionary.com/dictionary/english/hackberry)
+
+<img src="./images/image-20220315085817786.png" alt="image-20220315085817786" style="zoom:80%;" /> 
+
+A **berry** is a small, pulpy, and often edible [fruit](https://en.wikipedia.org/wiki/Fruit). Typically, berries are juicy, rounded, brightly colored, sweet, sour or tart, and do not have a stone or pit, although many pips or seeds may be present. Common examples are [strawberries](https://en.wikipedia.org/wiki/Strawberries), [raspberries](https://en.wikipedia.org/wiki/Raspberries), [blueberries](https://en.wikipedia.org/wiki/Blueberries), [blackberries](https://en.wikipedia.org/wiki/Blackberries), [red currants](https://en.wikipedia.org/wiki/Ribes_rubrum), [white currants](https://en.wikipedia.org/wiki/White_currant) and [blackcurrants](https://en.wikipedia.org/wiki/Blackcurrant). In Britain, **soft fruit** is a [horticultural](https://en.wikipedia.org/wiki/Horticultural) term for such fruits.
+
+
+
+| 单词                                                         | 解释                                                         | 单词                                                         | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              | **Vaccinium** <br />【vækˈsɪnɪəm】                           | a member of a [shrub](https://www.collinsdictionary.com/zh/dictionary/english/shrub) genus including [blueberries](https://www.collinsdictionary.com/zh/dictionary/english/blueberry) and [cranberries](https://www.collinsdictionary.com/zh/dictionary/english/cranberry). <br />（evergreen or deciduous berry-bearing shrubs of northern hemisphere: cranberries） <br />越橘属；越桔属；杜鹃花科越桔属 |
+| **crane-berry**<br />【ˈkrænberi】                           | n. 越橘<br/>推荐：crane【鹤】 + berry【浆果】<br/><img src="./images/image-20220315085217482.png" alt="image-20220315085217482" style="zoom: 80%;" /><br/>crane n. 鹤; 起重机, 吊车 v. 伸长（脖子）; （起重机）吊<br/>berry n. 浆果 vi. 采集浆果<br/>词源说明(童理民)  <br/>1 - 来自 crane 和 berry 的组合词。因这种植物的花蔓远观如白鹤而得名。 | **gooseberry**<br />【ˈɡuːsberi】                            | 醋栗<br /><img src="./images/image-20220315091357896.png" alt="image-20220315091357896" style="zoom:80%;" /> |
+| [huckleberry](https://www.collinsdictionary.com/dictionary/english/huckleberry)<br />【hækberɪ】 | a small soft round purple N American fruit. The bush it grows on is also called a huckleberry .<br />美洲越橘;美洲越橘树<br /><img src="./images/image-20220315091137075.png" alt="image-20220315091137075" style="zoom:80%;" /> | sugarberry<br />【ˈʃʊɡəbərɪ】                                | 密西西比朴;坚硬食物或密西西比朴树;糖朴<br /><img src="./images/image-20220315091311430.png" alt="image-20220315091311430" style="zoom:80%;" /> |
+| [hackberry](https://www.collinsdictionary.com/dictionary/english/hackberry) | 朴属植物；朴树木<br /><img src="./images/image-20220315090938674.png" alt="image-20220315090938674" style="zoom:80%;" /> | [Lingonberries](https://en.wikipedia.org/wiki/Lingonberries) | 越橘；红豆；越橘酱<br />  = cowberry <br /><img src="./images/image-20220315090041909.png" alt="image-20220315090041909" style="zoom:80%;" /> |
+| [Blackberries](https://en.wikipedia.org/wiki/Blackberries)<br />【ˈblækberi】 | 黑莓(有刺灌木);黑莓(浆果)<br /><img src="./images/image-20220315090340832.png" alt="image-20220315090340832" style="zoom:80%;" /> | [Sloe berries](https://en.wikipedia.org/wiki/Prunus_spinosa) | ***Prunus spinosa***, called **blackthorn** or **sloe**, is a species of [flowering plant](https://en.wikipedia.org/wiki/Flowering_plant) in the rose family [Rosaceae](https://en.wikipedia.org/wiki/Rosaceae)<br /><img src="./images/image-20220315090530182.png" alt="image-20220315090530182" style="zoom:80%;" /><br />The fruits are used to make [sloe gin](https://en.wikipedia.org/wiki/Sloe_gin) in Britain |
+| [Cloudberry](https://en.wikipedia.org/wiki/Cloudberry)       | 野生黄莓，云莓；兴安悬钩子；华东覆盆子<br /><img src="./images/image-20220315090730021.png" alt="image-20220315090730021" style="zoom:80%;" /> | **strawberry**<br />【ˈstrɔːberi】                           | <img src="./images/image-20220315091508676.png" alt="image-20220315091508676" style="zoom:80%;" /> |
+
+
+
 
 
 ### grape（葡萄）：用来采集葡萄的钩子
