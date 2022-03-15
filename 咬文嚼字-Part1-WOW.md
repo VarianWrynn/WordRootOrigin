@@ -9,6 +9,59 @@
 
 
 
+n. 老板, 上司, 岩瘤, 浮雕, 母牛
+vt. 指挥, 控制, 浮雕
+【复数：bosses；现在分词：bossing；过去分词：bossed】
+范围：四级,专四,考研,雅思,高考
+单词笔记   ［添加］
+推荐：
+1.老板，来自荷兰语baas, 叔叔。代替过于正式的master.2.凸点，词源同bosom，emboss。
+
+
+
+
+
+### boss（老板）：早期纽约的荷兰移民方言中的“工头”
+
+> 1. 老板，来自荷兰语 baas,叔叔。代替过于正式的 master.
+> 2.  凸点，词源同 bosom,emboss.
+
+1609年，在荷兰东印度公司的赞助下，荷兰人亨利•哈德逊([Henry Hudson](https://en.wikipedia.org/wiki/Henry_Hudson)) 船长和20多名船员，驾驶“半月号”帆船从阿姆斯特丹出发，前往美洲大陆探险。
+
+当年9月，他们达到纽约河地区，用24美元从当地人手中买下了曼哈顿岛，并取名为“新阿姆斯特丹”，从而揭开了纽约历史的第一页。为了纪念哈德逊船长，围绕纽约市的大河被命名为“**哈德逊河**”。
+
+随后，大量荷兰商人和冒险家移民到纽约。他们修建房屋，经营农场，从事贸易，创建了纽约这个世界大都市的初步轮廓。正是在这段时间，荷兰殖民者把荷兰语***baas***带入了英语，演变成立美国俚语**boss**（老板）。
+
+在荷兰语中，***baasd***的原意是“主人、户主”，在纽约的荷兰人用它来称呼监督徒弟的工人师傅。这个词很快被其他人采用，并迅速传遍美国，意义也演变成“老板，头儿”。
+
+- boss： [bɒs] 
+  - n.老板，头儿，首领vt.指挥，调遣，当……的头
+  - vi.当首领，**发号施令**
+- bossy： ['bɒsɪ] adj.专横的，爱发号施令的
+
+
+
+**英语词源趣谈(庄和诚)**
+
+**boss** - 该词往往使人想起17世纪建立纽约市的荷兰殖民者。那时候荷兰人的影响比较大，有一个词在荷兰人中间用得很多，这就是***baas***，意思是“主人”或“工头”。
+
+以后英国人取代了荷兰人的地位，也把***baas***一词接了过来，18世纪末期改拼为**boss**，到了1838年在美国英语中就已十分通用了。
+
+当时一位著名的美国作家库珀（[J. Fenimore Cooper](https://en.wikipedia.org/wiki/James_Fenimore_Cooper), 1789-1851）公开指责boss为粗俗语，并写信给词典编纂家韦伯斯特（[Noah Webster](https://en.wikipedia.org/wiki/Noah_Webster), 1758-1843），要求他帮助制止诸如**boss**，**to belittle**，**to oppose**，**to advocate**一类粗俗词语的使用。
+
+然而，**boss**从进入英语之日起，就显示了强大的生命力。最初它是作为**master**的委婉语使用，也许因为它是外来词，所以不如master那么刺耳，那样含有令人不快的涵义。
+
+在当代英语中，**boss**作为标准语仍然保留了“工头”、“主人”、“老板”等义，尤用于商业和政治方面，在20世纪60年代一度还被用作少年俚语，流行一时，用以表示“第一流的”或“好的”。**boss**还常作动词用，如to boss someone about（把某人差来遣去），由boss派生的形容词bossy（专横的，爱指挥人的）也用得很多。
+
+例　
+
+- I'll have to ask my boss for a day off. (LDC) 我得向老板请一天假。
+- The managing director is a man but my immediate boss is a woman. (LLA) 总裁是个男的，而我的顶头上司是个女的。
+- She's always bossing us about/around. 她总是呼来唤去地指使我们。
+- I don't like taking orders from anybody — I think I'd be much better off being my own boss. (LLA) 我不喜欢听命于任何人——我想要是独立自主我便会更开心些。
+
+
+
 ### abomination（憎恶）：厌恶和躲避不祥之物的迷信做法
 
 > **`ab-`**  表示从，来自（from）；从...离开，离开（away from, sway, off）；不，非，表否定（not, opposite）。在字母v 前缩略成a-，在字母c, t 前扩展为abs-。来自拉丁介词ab。源自希腊语 ab, ab- "away from."

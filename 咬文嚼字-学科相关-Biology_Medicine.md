@@ -14,7 +14,7 @@
 
 **biography**源自希腊语*`biographiā`*，由bíos 'life'加gráphein 'write'构成，从英语构词法来看，就是**`bio-`** 'life'和**`-grahy`** 'writing'的组合，意思是“传记”。若再将biography冠以源于希腊语的组合语素**`auto-`** 'of oneself'（自己的），就构成**autobiography**（自传）。
 
-**biology**是另一个较早产生的bio-衍生词，始见于19世纪初，是仿德语biologie和法语biologie创造的，由bio-加-ology 'the study of'（……学）构成。到了20世纪bio-衍生词猛增了起来，诸如**bioengineering**（生物工程），**bionic**（仿生学的），**biotechnology**（生物技术），**biosphere**（生物圈），**biorhythm**（生物节律），**biochemistry**（生物化学）等等。
+**biology**是另一个较早产生的**`bio-`**衍生词，始见于19世纪初，是仿德语biologie和法语biologie创造的，由bio-加-ology 'the study of'（……学）构成。到了20世纪bio-衍生词猛增了起来，诸如**bioengineering**（生物工程），**bionic**（仿生学的），**biotechnology**（生物技术），**biosphere**（生物圈），**biorhythm**（生物节律），**biochemistry**（生物化学）等等。
 
 例
 
@@ -24,10 +24,12 @@
 
 
 
+## bio-,bi- = life, 表示“生命，生物”。源自希腊语 bios "life." {112}
+
 | 单词                            | 解释                                                         | 单词                                 | 解释                                                         |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
 | **micro-be**<br />【ˈmaɪkroʊb】 | n. 微生物, 细菌<br/>推荐micro-微小的 + be-生命<br/><br/>**`micro-`** = small, 表示“小”。源自希腊语 (s)mikros "small."<br/>**`be-`** = life, 表示“生命，生物”。源自希腊语 bios "life."<br/>词源说明(童理民)  <br/>1 - micro-,微小的，-be,生命，词源同 biology,zoo.引申词义微生物。 | **pro-ger-ia**<br />【prəʊ'dʒɪərɪə】 | 【医】 早老.早衰<br/>推荐：pro-前 + ger-老 + -ia<br/><br/>**`pro-`** 表示“向前，在前”，变体包括 pur-, por-。<br/>**`ger-`** = old, 表示“老”。源自希腊语 geras "old age," geron "old man.". |
-|                                 |                                                              |                                      |                                                              |
+| **biota**<br />【baɪ'əʊtə】     | n.   生物区；生物群 all the plant and animal life of a particular region<br /><img src="./images/image-20220315100044407.png" alt="image-20220315100044407" style="zoom:67%;" /><br />bio-,bi- = life, 表示“生命，生物”。源自希腊语 bios "life."<br/>n.<br/>1 . the total complement of animals and plants in a particular area |                                      |                                                              |
 |                                 |                                                              |                                      |                                                              |
 
 
