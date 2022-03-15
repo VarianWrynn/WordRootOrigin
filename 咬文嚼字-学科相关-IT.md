@@ -215,19 +215,49 @@
 
 
 
+n. 零, 暗号, 密码, 无用的东西, 阿拉伯数字
+v. 计算, 做算术
+【复数：ciphers；现在分词：ciphering；过去分词：ciphered】
+范围：专八,GRE
+单词笔记   ［添加］
+推荐：
+来自阿拉伯语sifr,零，词源同zero.因为古人早期对数字零的认识不足，该词逐渐被赋予神秘 色彩，词义也由零引申为密码。
 
 
 
 
 
+## cipher（密码）：阿拉伯数字中的“零”
+
+> 来自阿拉伯语 sifr,零，词源同 zero.因为古人早期对数字零的认识不足，该词逐渐被赋予神秘色彩，词义也由零引申为密码。
+
+英语单词**cipher**最终来自阿拉伯语***sifr***（零），随阿拉伯数字一道传入欧洲。
+
+在英语中最初表示“零”，后来可以表示所有数字，16世纪早期衍生出“密码、加密信息”之意，因为那时候很多加密信息都是用数字来代替字母。
+
+- **cipher**：['saɪfɚ] 
+  - n.密码，暗号，零
+  - v.计算，做算术，
+  - 使用密码，加密
+- **decipher**：[dɪ'saɪfɚ] 
+  - n.密电译文
+  - v.译码，译解，破译
+- **indecipherable**：['ɪndɪ'saɪfrəbl] adj. 无法解释的；破译不出的；难辨认的
 
 
 
+**英语词源趣谈(庄和诚)**
 
+cipher - zero是又一个源于阿拉伯语的科技用词。意为“空的”或“零”的阿拉伯语***sifr***进入意大利语后，先是拼作***zefiro***，以后缩略为**zero**，法语从意大利语吸收了这个词，作***zéro***，仍用以指“零”，以后英语又从法语直接借了过来。
 
+但**zero**是直到17世纪初期才在英语里被用作数字零的名称。英语另有一个词**cipher**（亦作cypher），在被用以表示“密码”之前也一度指“零”。其实它也源于同一个阿拉伯词，即***sifr***。
 
+例　
 
-
+- The petrol gauge was already at zero. (LDC) 汽油表已指示零位。
+- The economy showed zero growth in the first quarter of this year. (CAE) 在今年第一季度经济是零增长。
+- The message was written in cipher. (CID) 电文是用密码写的。
+- We spent a lot of time figuring out the enemy's cipher. (CAE) 我们花了不少时间破译敌人的密码。
 
 ## 黑话与行话
 

@@ -114,6 +114,7 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 | **nas-turt-ium**<br />【nəˈstɜːrʃəm】                        | 旱金莲(有时用于色拉)<br /><img src="./images/image-20211208104536332.png" alt="image-20211208104536332" style="zoom:40%;" /><br />a garden plant with round flat leaves and red, orange or yellow flowers that are sometimes eaten in salads |
 | **[flagell-um](https://en.wikipedia.org/wiki/Flagellum)  **                  <br />【fləˈdʒɛləm】 | n. 鞭毛, 鞭状葡萄枝, 鞭子 (复数是 **flagella**)<br/>推荐：flagell-鞭子 + -um<br/><br/>**`flagell-`** = whip, 表示“鞭子”。源自拉丁语 flagrum "a whip."<br/><img src="./images/image-20220214122809337.png" alt="image-20220214122809337" style="zoom: 33%;" /><br />词源说明(童理民)  <br/>1 - 词源同 flagellate,鞭笞。用于解剖学名词。 |
 | **col-loqu-ium**<br />【kəˈloʊkwiəm】                        | 复数形式：colloquia （a formal academic seminar or conference）<br /><img src="./images/image-20220220164546780.png" alt="image-20220220164546780" style="zoom: 33%;" /> |
+| **opium**<br /><br />【ˈoʊpiəm】                             | n. 鸦片<br/>【复数：opiums】<br/>**`op-, opo-`** = juice, 表示“汁”。源自希腊语 opos "vegetable juice, 蔬菜汁"<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 opium,鸦片，来自希腊语 opion,罂粟汁，来自 opos,蔬菜汁，植物汁。 |
 
 
 

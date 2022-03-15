@@ -890,6 +890,67 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## dem- = people，表示“人民，民众”。源自希腊语 demos "people, land."{14}
+
+
+
+| 单词                                  | 解释                                                         | 单词                                                   | 解释                                                         |
+| ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
+| **pan-dem-ia  ** <br />【pæn'di:mɪə】 | 【医】 大流行病, 泛流行病<br/>推荐：pan-全部 + dem-人民 + -ia“...病”<br/><br/>**`pan-`** 表示“全部的、广泛的”。<br/>**`dem-`** = people，表示“人民，民众”。源自希腊语 demos "people, land."<br/>**`-ia`** 表名词，表示“某种病”。 | **pan-dem-ic**                     <br />【pænˈdemɪk】 | a. 大流行的, 普遍的, 全世界的<br/>推荐：pan-到处 + dem-人 + -ic表形容词 → 人群中到处流行的。<br/><br/>**`pan-`** 表示“全部的、广泛的”。<br/>**`dem-`** = people，表示“人民，民众”。源自希腊语 demos "people, land."<br/>**`-ic`** 表形容词，“…的”。 |
+| **epi-dem-ic**<br />【ˌepɪˈdemɪk】    | **epi-在...周围 + dem-人民 + -ic → 在人民周围 → 流行的。**<br />**`epi-`** 表示“在…上，在…周围，在…后面”。源自希腊语 epi "on, over, at."<br/>**`dem-`** = people，表示“人民，民众”。源自希腊语 demos "people, land." | **en-dem-ic[^5]**<br />【enˈdemɪk】                    | n. 地方病<br/>a. 某地(或某些人中)流行的, 地方的<br/>推荐：en-在…内 + dem-人民 + -ic → 在人民内 → 地方性的。<br/><br/>en- <br/>表示“入、内、在...之内、使...”，来自古法语 en-。<br/>dem- = people，表示“人民，民众”。源自希腊语 demos "people, land."<br/>-ic 表形容词，“…的”。<br/>词源说明(童理民)  <br/>1 - en-,进入，使，-dem,人民，词源同 demotic,democracy. |
+| epidemical                            | a. 流行性的, 传染的<br/>推荐：epidemic【传染病, 流行病】 + -al<br/><br/>epidemic n. 传染病, 流行病 a. 流行的, 传染性的<br/>-al 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix. |                                                        |                                                              |
+
+
+
+[^5]: 摩西英语(摩西)<br/>endemic [en'demɪk] adj.地方性的，n.地方病。en=in，希腊词根demo与日耳曼语词源的time同源，表common people。如果埃博拉ebola还是只发生在塞拉利昂等地，那它就是地方病。它本身是一种epidemic传染病，前缀epi-表on,upon。如果继续传播，恐怕最坏会成为pandemic n.流行性疾病，前缀pan-表all。
+
+
+
+### What’s the difference between a pandemic, an epidemic, endemic, and an outbreak?
+
+Not all infectious disease terms are created equal, though often they’re mistakenly used interchangeably. The distinction between the words “pandemic,” “epidemic,” and “endemic” is regularly blurred, even by medical experts. This is because the definition of each term is fluid and changes as diseases become more or less prevalent over time.
+
+While conversational use of these words might not require precise definitions, knowing the difference is important to help you better understand public health news and appropriate public health responses.
+
+Let’s start with basic definitions:
+
+- **AN EPIDEMIC** is a disease that affects a large number of people within a community, population, or region.
+- **A PANDEMIC** is an epidemic that’s spread over multiple countries or continents.
+- **ENDEMIC** is something that belongs to a particular people or country.
+- **AN OUTBREAK** is a greater-than-anticipated increase in the number of endemic cases. It can also be a single case in a new area. If it’s not quickly controlled, an outbreak can become an epidemic.
+
+#### Epidemic vs. Pandemic
+
+A simple way to know the difference between an epidemic and a pandemic is to remember the “P” in pandemic, which means a pandemic has a passport. A pandemic is an epidemic that travels.
+
+#### Epidemic vs. Endemic
+
+But what’s the difference between epidemic and endemic? An epidemic is actively spreading; new cases of the disease substantially exceed what is expected. More broadly, it’s used to describe any problem that’s out of control, such as “the opioid epidemic.” An epidemic is often localized to a region, but the number of those infected in that region is significantly higher than normal. For example, when [COVID-19](https://intermountainhealthcare.org/covid19-coronavirus/?utm_source=coronavirus&utm_medium=vanitydomain&utm_campaign=coronavirus20200302) was limited to Wuhan, China, it was an epidemic. The geographical spread turned it into a pandemic.
+
+Endemics, on the other hand, are a constant presence in a specific location. Malaria is endemic to parts of Africa. Ice is endemic to Antarctica.
+
+#### Endemic vs. Outbreak
+
+Going one step farther, an endemic can lead to an outbreak, and an outbreak can happen anywhere. Last summer’s dengue fever outbreak in Hawaii is as an example. Dengue fever is endemic to certain regions of Africa, Central and South America, and the Caribbean. Mosquitoes in these areas carry dengue fever and transmit it from person to person. But in 2019 there was an outbreak of dengue fever in Hawaii, where the disease is not endemic. It’s believed an infected person visited the Big Island and was bitten by mosquitoes there. The insects then transferred the disease to other individuals they bit, which created an outbreak.
+
+You can see why it’s so easy to confuse these terms. They’re all related to one another and there’s a natural ebb and flow between them as treatments become available and measures for control are put in place — or as flare-ups occur and disease begins to spread.
+
+
+
+**Reference:**
+
+1. [What’s the difference between a pandemic, an epidemic, endemic, and an outbreak?](https://intermountainhealthcare.org/blogs/topics/live-well/2020/04/whats-the-difference-between-a-pandemic-an-epidemic-endemic-and-an-outbreak/)
+
+
+
+
+
+
+
+
+
+
+
 ## thym- 表示“胸腺，精神，思想”{8}
 
 > 源自希腊语 thumos "soul, spirit," thumon, thumos "thyme."

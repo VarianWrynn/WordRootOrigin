@@ -36,14 +36,13 @@
 
 ### 1. 在几何学上表示“…形” {142}
 
+| 单词                                                         | 解释                                                         | 单词                                   | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------ |
+| **para-bo-la**                                <br />【pəˈræbələ】 | para-在旁，在周围 + -bol扔，投掷，即扔在旁边的，用于几何术语指抛物线。<br />a mathematical surface in which intersections with planes produce parabolas , ellipses , or hyperbolas | **para-bol-oid** <br />【pə'ræbəlɔɪd】 | 抛物面(a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis , 一种具有平行于一个坐标轴的抛物线截面和垂直于该坐标轴的椭圆截面的表面)<br />**`para-`** <br/>表示“半，类似，辅助，旁，超，异常”，用于化学，意为“对（位），聚，仲，副”，用于医学意为“对，副，衍”，在元音前演变成 par-。源自希腊语 para "beside, alongside of, beyond."<br/>**`bol-`** <br/>= throw, dance, ball, 表示“抛，舞，球”。源自希腊语 ballein "to throw"<br/> |
+| **parable**<br />【ˈpærəbl】                                 | **`para-`**在周围 **`+ ble-`**=bole扔，投掷， 即扔在旁边的，引申词义打比方，讲寓言故事。<br />寓言;(尤指《圣经》中的)寓言故事<br /><br />来自希腊语 parabole,比较，对话，类比，来自 para-,在旁，在周围，-bole,扔，投掷，词源同ballet,ballistic.即扔在旁边的，引申词义打比方，讲寓言故事。拼写受-able 影响俗化。 | **para-bol-ic**<br />【ˌpærəˈbɑːlɪk】  | para-在旁，在周围 + bol-扔 + -ic表形容词<br />寓言的, 比喻的, 抛物线的, 抛物线状的 |
+| **opi-oid**<br />【əʊ'pi:əʊɪd】                              | n. [生化] 阿片样物质; 类鸦片<br/>**`opi-`** = juice, 表示“汁”。源自希腊语 opos "vegetable juice, 蔬菜汁"<br/>**`-oid`** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape." | **opium**<br /><br />【ˈoʊpiəm】       | n. 鸦片<br/>**`op-, opo-`** = juice, 表示“汁”。源自希腊语 opos "vegetable juice, 蔬菜汁"<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 opium,鸦片，来自希腊语 opion,罂粟汁，来自 opos,蔬菜汁，植物汁。 |
 
 
-| 单词                                                         | 解释                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **para-bo-la**                                <br />【pəˈræbələ】 | para-在旁，在周围 + -bol扔，投掷，即扔在旁边的，用于几何术语指抛物线。<br />a mathematical surface in which intersections with planes produce parabolas , ellipses , or hyperbolas |
-| **para-bol-oid**<br />【pə'ræbəlɔɪd】                        | 抛物面(a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis , 一种具有平行于一个坐标轴的抛物线截面和垂直于该坐标轴的椭圆截面的表面)<br />**`para-`** <br/>表示“半，类似，辅助，旁，超，异常”，用于化学，意为“对（位），聚，仲，副”，用于医学意为“对，副，衍”，在元音前演变成 par-。源自希腊语 para "beside, alongside of, beyond."<br/>**`bol-`** <br/>= throw, dance, ball, 表示“抛，舞，球”。源自希腊语 ballein "to throw"<br/> |
-| **para-bol-ic<**br />【ˌpærəˈbɑːlɪk】                        | para-在旁，在周围 + bol-扔 + -ic表形容词<br />寓言的, 比喻的, 抛物线的, 抛物线状的 |
-| **parable**<br />【ˈpærəbl】                                 | **`para-`**在周围 **`+ ble-`**=bole扔，投掷， 即扔在旁边的，引申词义打比方，讲寓言故事。<br />寓言;(尤指《圣经》中的)寓言故事<br /><br />来自希腊语 parabole,比较，对话，类比，来自 para-,在旁，在周围，-bole,扔，投掷，词源同ballet,ballistic.即扔在旁边的，引申词义打比方，讲寓言故事。拼写受-able 影响俗化。 |
 
 
 
