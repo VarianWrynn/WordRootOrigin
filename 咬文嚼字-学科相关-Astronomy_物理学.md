@@ -326,10 +326,17 @@ momentum [mə'mentəm] n.势头；[物] 动量；动力；冲力。词根的意�
 这么看，**gravity**和**gravitation**之间的差异就很明显了：**gravity**是**grave**（沉重的）的名词形式，意思是“沉重性、严重性”，后来万有引力概念诞生后，在非专业场合可以表示“重力、万有引力”，但同时保留了“沉重性、严重性”之意。而**gravitation**出现在万有引力概念诞生之后，是动词**gravitate**（引力作用）的名词形式，专门用来表示“重力、万有引力”，不表示“沉重性、严重性”。
 
 - **`grav-`**：沉重
+
 - **gravity**：['ɡrævəti] n. 重力，地心引力；严重性；庄严
+
 - **grave**：[ɡrev] adj. 重大的；严肃的；黯淡的n. 墓穴，坟墓；死亡vt. 雕刻；铭记
+
 - **gravid**：['grævɪd] adj. 妊娠的；怀孕的。字面意思指身子变沉重
+
+  > 来自 grav-,重，词源同 barometer,gravity.引申词义怀孕。
+
 - **gravitate**：['ɡrævɪtet] vi. 受引力作用；被吸引
+
 - **gravitation**：[,ɡrævɪ'teʃən] n. 重力；万有引力；地心吸力
 
 **词源说明(童理民)**  
@@ -346,6 +353,8 @@ momentum [mə'mentəm] n.势头；[物] 动量；动力；冲力。词根的意�
   **grave**在这里是侯爵，本意是**leader**，**margrave**=**leader of the border region**。
 
 - **grave** [greɪv]这个单词两层含义： adj. 重大的；严肃的；黯淡，n.坟墓，v.雕刻，形容词含义时其词根grav-表heavy，如gravity n.重力；引力和aggravate v.加重；使恶化（to make the situation more heavier）等。名词和动词含义时其词根本意是to dig即挖掘，坟墓是地上挖的坑，雕刻是在固体上蚀刻。
+
+
 
 
 
