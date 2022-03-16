@@ -170,7 +170,7 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 | **gran-ite**                    <br />【ˈɡrænɪt】 | **`gran-`** = grain, 表示“颗粒”。源自拉丁语 granum "grain."<br />gran-颗粒 + -ite, 表名词。因这种岩石颗粒状的纹理而得名。<br />花岗岩：I'm so hard, bitches call me granite | **pome-granate**                    <br />【ˈpɑːmɪɡrænɪt】 | （石榴）：有许多颗粒的水果。英语单词pomegranate（石榴）来自拉丁语pomum granatum<br />字面意思就是“有许多颗粒的水果”，由pome（水果）+ grenate（颗粒、纹理）构成。<br />石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。 |
 | **celest-ite**<br />【selɪstaɪt】                 | **`celest-`** = heaven, 表示“天空”。<img src="./images/image-20211021140331795.png" alt="image-20211021140331795" style="zoom:50%;" /> | **meteor-ite**<br />【ˈmiːtiəraɪt】                        | meteor【流星】 + -ite相关的。用于指陨石。<br />meteor <br/>n. 流星, 大气现象 |
 | **hal-ite**<br />【hælaɪt】                       | n. 石盐, 岩盐<br/>推荐：hal-盐 + -ite<br/><img src="./images/image-20220219125021549.png" alt="image-20220219125021549" style="zoom: 36%;" /><br/>**`hal-`** = salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。 | **graph-ite**<br />【ˈɡræfaɪt】                            | 石墨<br/>推荐：graph-文字，图像 + -ite, 表名词。**后指用于书写的石墨**。<br/><br/>**`graph-`** = write, 表示“写，图”。源自希腊语 graphein "to scratch, draw, write,"<br /> gramma "a picture, written letter, piece of writing," grame "a line."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/><img src="./images/image-20220219123103409.png" alt="image-20220219123103409" style="zoom: 33%;" /> |
-|                                                   |                                                              |                                                            |                                                              |
+| **dendr-ite**<br />【ˈdendraɪt】                  | n. 树突(位于神经元末端的细分支，接收其他神经元传来的信号)<br/>推荐：dendr-树 + -ite<br/><img src="./images/image-20220316210412098.png" alt="image-20220316210412098" style="zoom:80%;" /><br/>**`dendr-`** = tree, 表示“树”。源自希腊语 dendron "tree."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 词源同 tree.前面 den-为 dr 的韵律重复。用于术语树突。拼写比较 gangrene. |                                                            |                                                              |
 
 **obsidian [əb'sɪdɪən]** n.黑曜石。岩浆快速冷却时产生的黑色结晶体，因内部含有氧化铁而呈黑色。
 
@@ -318,6 +318,57 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
  
+
+## amine- 表示“氨”{24}
+
+>  氨是在利比亚的一座 Ammon（埃及主神）神庙附近发现了一种矿物质提取的气体，瑞典化学家将其命名为 ammonia。
+
+
+
+| 单词                                | 解释                                                         | 单词 | 解释 |
+| ----------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **dopa-amine** <br />【ˈdoʊpəmiːn】 | 【化】 多巴胺（**dopamine**）<br/>推荐：dopa【多巴】 + amine-氨<br/><br/>**`dopa`** 【化】 多巴; 二羟基苯丙氨酸 【医】 多巴, 二羟苯基丙氨酸<br/>**`amine-`** 表示“氨”，氨是在利比亚的一座 Ammon（埃及主神）神庙附近发现了一种矿物质提取的气体，瑞典化学家将其命名为 ammonia。 |      |      |
+|                                     |                                                              |      |      |
+|                                     |                                                              |      |      |
+
+
+
+###  [ammonia](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651801153&idx=1&sn=f3c49ec59712d9ff612cb1ed11980260&chksm=842cddaab35b54bcc04beb866207c8ef4a614d3bfe5d25a2b7d45a7806e3b77fa31fd3b66e35&scene=178&cur_album_id=1297162942844207107#rd)
+
+氨是一种无色气体，含有强烈的刺激气味，极易溶于水，是许多食物和肥料的重要成分。英语中表示氨的单词是ammonia，源自古埃及神话中阿蒙神的名字Ammon。
+
+<img src=".\images\image-20210906143700963.png" alt="image-20210906143700963" style="zoom: 50%;" />
+
+18世纪时，化学家从“阿蒙神之盐”（**salt of Ammon**）中提取出一种新的化学元素，就将其命名为**ammonia**，中文译为“氨”。
+
+- **ammonia**：[ə'məʊnɪə] n.（化学元素）氨，氨气，氨水，阿摩尼亚
+- **ammoniac**：[ə'məʊnɪæk] adj.氨的，含氨的
+- **ammonium**：[əˈməʊniəm] n.氨基，铵盐
+
+
+
+**ammonia**的词源可以追溯到古埃及神Ammon/Amon（阿蒙神），在埃及语Ammon是the hidden one的意思。
+
+Ammon本是古埃及宗教所信奉的主神和太阳神，相当于希腊、罗马神话中的宙斯和朱庇特，但后来在希腊、罗马同宙斯、朱庇特混成一体，在斯巴达、罗马等地都有Ammon神庙。
+
+据说在利比亚的一座Ammon神庙附近发现了一种矿物质，古罗马人根据Ammon一词将之命名为sal ammoniac，意思是salt of Ammon，汉语作“硇砂”。此物因有多种用途，故在古代被列为贸易品（article of trade）。
+
+1774年，英国科学家普里斯特利（Joseph Priestley, 1733-1804）把sal ammoniac和石灰放在一起加热，提取了一种新气体，他称之为alkaline air。
+
+七年之后，瑞典化学家贝格曼（Torbern Olaf Bergman, 1735-1784）根据ammoniac一词将之正式命名为**ammonia**，汉语作“氨”，有时也音译为“阿摩尼亚”。
+
+嗣后，科学家们又将**ammonia**和后缀**`-ine`**缩合成**ammine**（氨络的），**amine**（胺）以及**amino acid**（氨基酸）这一复合词中的**amino**（氨基的）。
+
+Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的演变过程，原先的含义the hidden one如今已经全然丧失，不追根溯源就不能把它从普通英语单词中发掘出来。
+
+例　
+
+- This fertilizer contains ammonia. (CWR) 这种肥料含氨。
+- The janitor cleaned the floor with ammonia. (NED) 看门人用阿摩尼亚清洗地板。
+
+
+
+
 
 ## petr- / petro- = stone, 表示“石”。源自希腊语 petra "cliff, rock."{16}
 
@@ -485,18 +536,6 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 ## 其他
-
-### 1. [ammonia](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651801153&idx=1&sn=f3c49ec59712d9ff612cb1ed11980260&chksm=842cddaab35b54bcc04beb866207c8ef4a614d3bfe5d25a2b7d45a7806e3b77fa31fd3b66e35&scene=178&cur_album_id=1297162942844207107#rd)
-
-氨是一种无色气体，含有强烈的刺激气味，极易溶于水，是许多食物和肥料的重要成分。英语中表示氨的单词是ammonia，源自古埃及神话中阿蒙神的名字Ammon。
-
-<img src=".\images\image-20210906143700963.png" alt="image-20210906143700963" style="zoom: 50%;" />
-
-18世纪时，化学家从“阿蒙神之盐”（**salt of Ammon**）中提取出一种新的化学元素，就将其命名为**ammonia**，中文译为“氨”。
-
-- **ammonia**：[ə'məʊnɪə] n.（化学元素）氨，氨气，氨水，阿摩尼亚
-- **ammoniac**：[ə'məʊnɪæk] adj.氨的，含氨的
-- **ammonium**：[əˈməʊniəm] n.氨基，铵盐
 
 
 

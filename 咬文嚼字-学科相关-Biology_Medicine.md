@@ -179,8 +179,6 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
-
-
 ## flagell- = whip, 表示“鞭子”。源自拉丁语 flagrum "a whip."{7}
 
 | 单词                                                   | 解释                                                         | 单词                                     | 解释                                                         |
@@ -264,13 +262,27 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
-## cyto- = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel." {64}
+## 细胞核
+
+### cyto- = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel." {64}
 
 | 单词                                   | 解释                                                         | 单词                                 | 解释                                                         |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
 | **cyto-plasm**<br />【ˈˈsaɪtoʊplæzəm】 | n. 细胞质,胞浆<br/>推荐：cyto-细胞 + -plasm...质<br/><img src="./images/image-20220306190625191.png" alt="image-20220306190625191" style="zoom:80%;" /><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`plasm-`** = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，-plasm,形成，词源同 plastic. | **cyto-logy** <br />【saɪˈtɑːlədʒi】 | n. 细胞学<br/>推荐：cyto-细胞 + -logy 学，学科<br/><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`-logy`** = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，来自 PIE*skeu,遮盖，隐藏，词源同 hide,house.-logy,学说。比较 cell,小室，细胞。 |
 |                                        |                                                              |                                      |                                                              |
 |                                        |                                                              |                                      |                                                              |
+
+
+
+### karyo- 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel,"{13}
+
+| 单词                                 | 解释                                                         | 单词 | 解释 |
+| ------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **eu-karyo-te** <br />【jʊ'kærɪəʊt】 | n. 真核细胞（等于eucaryote）<br/>推荐：eu-好 + karyo-核 + -ote<br/><br/>**`eu-`** 表示“好，优秀”。源自希腊语 eu- "well."<br/>**`karyo-`** 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel," |      |      |
+|                                      |                                                              |      |      |
+|                                      |                                                              |      |      |
+
+
 
 
 
@@ -298,6 +310,8 @@ A **larva** is an insect at the stage of its life after it has developed from an
 | **cort-ex**<br />【ˈkɔːrteks】 | n. 皮层<br/>**`cort-`** = skin, 表示“皮”。源自拉丁语 corium "skin，hide，leader;" cortex "bark"。<br/>词源说明(童理民)  <br/>1 - 来自 PIE*sker,切，词源同 carnal,score.原指树皮，后引申词义大脑皮质。 |      |      |
 |                                |                                                              |      |      |
 |                                |                                                              |      |      |
+
+
 
 
 
@@ -430,6 +444,69 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 
 - acne：['ækni] n. 粉刺，痤疮
 - acme：['ækmi] n. 顶点，极点；最高点
+
+
+
+# Neurology [nʊˈrɑːlədʒi]
+
+<img src="./images/image-20220316203620506.png" alt="image-20220316203620506" style="zoom:80%;" />
+
+
+
+
+
+| 单词                           | 解释                                                         | 单词                                 | 解释                                                         |
+| ------------------------------ | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
+| **cleft**<br />【kleft】       | n. 裂缝, 裂口<br/>a. 劈开的<br/>cleave的过去式和过去分词<br/>推荐：来自cleave,劈开。<br/><br/>clev- 6= carve, 表示“刻，划”。<br/>词源说明(童理民)  <br/>1 - 来自 cleave,劈开。 | **deft**<br />【deft】               | a. 敏捷熟练的, 灵巧的<br/>单词笔记   ［添加］<br/>词源说明(童理民)  <br/>1 - 来自 PIE*dhabh,装配，匹配，词源同 fabric,daft.引申词义手巧的，灵巧的。 |
+| **neuron**<br />【ˈnʊrɑːn】    | n. 神经元, 轴索, 神经细胞<br/>推荐：neur-神经 + -on<br/><br/>neuron- 50<br/>= nerve, 表示“神经”。源自希腊语 neuron "sinew."<br/>词源说明(童理民)  <br/>1 - neuro-,神经，-on,医学名词后缀。 | **syn-apse**<br />【ˈsaɪnæps】       | n. (神经)突触, 神经键<br/>**`syn-`** 表示“共同，相同，对称”。源自希腊语 sun, xun "together, with."<br/>**`apse-`** 表示“接触、系牢”。原始印欧语形式为：*ap-。<br/>词源说明(童理民)  <br/>1 - 来自希腊语 synapais,连接点，来自 synaptein,连接，系，来自 syn-,一起，haptein,系，捆绑，词源同 apse,haptic.后用于医学术语指神经元的突触。 |
+| **axon**<br />【ˈæksɑːn】      | n. 轴突; 轴索<br/>**`axon-`** = axis, 表示“轴”。源自希腊语 axon "axis," 和拉丁语 axis "axle, pivot."<br/>词源说明(童理民)  <br/>1 - 来自 PIE*aks,轴。此处用于神经学术语。 | **eu-karyo-te** <br />【jʊ'kærɪəʊt】 | n. 真核细胞（等于eucaryote）<br/>推荐：eu-好 + karyo-核 + -ote<br/><br/>**`eu-`** 表示“好，优秀”。源自希腊语 eu- "well."<br/>**`karyo-`** 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel," |
+| **syn-apse**<br />【ˈsaɪnæps】 | n. (神经)突触, 神经键<br/>**`syn-`** 表示“共同，相同，对称”。源自希腊语 sun, xun "together, with."<br/>**`apse-`** 表示“接触、系牢”。原始印欧语形式为：*ap-。<br/>词源说明(童理民)  <br/>1 - 来自希腊语 synapais,连接点，来自 synaptein,连接，系，来自 syn-,一起，haptein,系，捆绑，词源同 apse,haptic.后用于医学术语指神经元的突触。 | **dendr-ite**<br />【ˈdendraɪt】     | n. 树突(位于神经元末端的细分支，接收其他神经元传来的信号)<br/>推荐：dendr-树 + -ite<br/><img src="./images/image-20220316210412098.png" alt="image-20220316210412098" style="zoom:80%;" /><br/>**`dendr-`** = tree, 表示“树”。源自希腊语 dendron "tree."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 词源同 tree.前面 den-为 dr 的韵律重复。用于术语树突。拼写比较 gangrene. |
+
+<img src="./images/image-20220316203949249.png" alt="image-20220316203949249" style="zoom:90%;" /> <img src="./images/image-20220316204024484.png" alt="image-20220316204024484" style="zoom:80%;" />
+
+| 单词                                | 解释                                                         | 单词 | 解释 |
+| ----------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **dopa-amine** <br />【ˈdoʊpəmiːn】 | 【化】 多巴胺（**dopamine**）<br/>推荐：dopa【多巴】 + amine-氨<br/><br/>**`dopa`** 【化】 多巴; 二羟基苯丙氨酸 【医】 多巴, 二羟苯基丙氨酸<br/>**`amine-`** 表示“氨”，氨是在利比亚的一座 Ammon（埃及主神）神庙附近发现了一种矿物质提取的气体，瑞典化学家将其命名为 ammonia。 |      |      |
+|                                     |                                                              |      |      |
+|                                     |                                                              |      |      |
+
+
+
+## neuron- 50= nerve, 表示“神经”。源自希腊语 neuron "sinew." {50}
+
+| 单词                        | 解释                                                         | 单词 | 解释 |
+| --------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **neuron**<br />【ˈnʊrɑːn】 | n. 神经元, 轴索, 神经细胞<br/>推荐：neur-神经 + -on<br/><br/>neuron- 50<br/>= nerve, 表示“神经”。源自希腊语 neuron "sinew."<br/>词源说明(童理民)  <br/>1 - neuro-,神经，-on,医学名词后缀。 |      |      |
+|                             |                                                              |      |      |
+|                             |                                                              |      |      |
+
+
+
+## **`dendr-`** = tree, 表示“树”。源自希腊语 dendron "tree."{9}
+
+<img src="./images/image-20220316210412098.png" alt="image-20220316210412098" style="zoom:80%;" /> 
+
+| 单词                             | 解释                                                         | 单词 | 解释 |
+| -------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **dendr-ite**<br />【ˈdendraɪt】 | n. 树突(位于神经元末端的细分支，接收其他神经元传来的信号)<br/>推荐：dendr-树 + -ite<br/><img src="./images/image-20220316210412098.png" alt="image-20220316210412098" style="zoom:80%;" /><br/>**`dendr-`** = tree, 表示“树”。源自希腊语 dendron "tree."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 词源同 tree.前面 den-为 dr 的韵律重复。用于术语树突。拼写比较 gangrene. |      |      |
+|                                  |                                                              |      |      |
+|                                  |                                                              |      |      |
+
+
+
+## apt- 表示“接触、系牢”。原始印欧语形式为：*ap-{8}
+
+| 单词                               | 解释                                                         | 单词                           | 解释                                                         |
+| ---------------------------------- | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
+| **syn-apse**<br />【ˈsaɪnæps】     | n. (神经)突触, 神经键<br/>**`syn-`** 表示“共同，相同，对称”。源自希腊语 sun, xun "together, with."<br/>**`apse-`** 表示“接触、系牢”。原始印欧语形式为：*ap-。<br/>词源说明(童理民)  <br/>1 - 来自希腊语 synapais,连接点，来自 synaptein,连接，系，来自 syn-,一起，haptein,系，捆绑，词源同 apse,haptic.后用于医学术语指神经元的突触。 | **syn-apse**<br />【ˈsaɪnæps】 | n. (神经)突触, 神经键<br/>**`syn-`** 表示“共同，相同，对称”。源自希腊语 sun, xun "together, with."<br/>**`apse-`** 表示“接触、系牢”。原始印欧语形式为：*ap-。<br/>词源说明(童理民)  <br/>1 - 来自希腊语 synapais,连接点，来自 synaptein,连接，系，来自 syn-,一起，haptein,系，捆绑，词源同 apse,haptic.后用于医学术语指神经元的突触。 |
+| **syn-apt-ic **<br />【sɪ'næptɪk】 | a. 突触的, 联合的<br/>推荐：syn-共同 + (h)apt-接触 + -ic<br/><br/>syn- 表示“共同，相同，对称”。源自希腊语 sun, xun "together, with."<br/>apt- 8表示“接触、系牢”。原始印欧语形式为：*ap- |                                |                                                              |
+|                                    |                                                              |                                |                                                              |
+
+
+
+## Refrence 
+
+1. [Biological approach assumptions What is the biological approach](https://slidetodoc.com/biological-approach-assumptions-what-is-the-biological-approach/)
 
 
 
