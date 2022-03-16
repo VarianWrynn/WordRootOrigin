@@ -85,6 +85,22 @@
 
 
 
+
+
+## certi- = sure, separate, 表示“搞清，区别，分开”{24}
+
+> 源自拉丁语 cernere "to sift, separate, decide."
+
+
+
+| 单词                              | 解释                                                         | 单词        | 解释 |
+| --------------------------------- | ------------------------------------------------------------ | ----------- | ---- |
+| **certi-fy** <br />【ˈsɜːrtɪfaɪ】 | v. 证明, 保证<br/>推荐：cert-确定 + -ify, 表动词。<br/><br/>certi- = sure, separate, 表示“搞清，区别，分开”。源自拉丁语 cernere "to sift, separate, decide."<br/>-fy 缀于名词或形容词后，构成表示“使成…”“…化”“作成…”等意思的动词<br/>词源说明(童理民)  <br/>1 - 来自 cert-,确定，见 certain. | certificate |      |
+| certification                     |                                                              |             |      |
+|                                   |                                                              |             |      |
+
+
+
 ## calibre（口径）：用于制造物品的模具
 
 > 来自阿拉伯语qalib, 模子，后指枪管口径。
