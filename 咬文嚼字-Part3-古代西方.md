@@ -1774,6 +1774,47 @@ addle one's own canoe做自己的事。canoe [kə'nuː] n.独木舟，vi.乘独�
 
 
 
+## 社交
+
+### libel（诋毁）：攻击他人的传单或小册子
+
+> 来自拉丁语 liber,书，来自 PIE*leup,剥下，削皮，词源同 leaf,library,-el,小词后缀。即小书，引申词义小册子，诽谤书。
+
+在英语中，“诽谤”分为“文字诽谤”和“口头诽谤”。“文字诽谤”是**libel**，“口头诽谤”是**slander**。
+
+英语单词**libel**来自拉丁语词根***liber*** / ***libri***（书），原意是“小书、小册子”。
+
+由于古代没有广播电视等通讯手段，权贵要人们相互攻击时只能通过散发传单、小册子等方式。大家通过小册子相互揭短，因此**libel**一词衍生出“控告、控诉书”之意。
+
+由于这种小册子里所写的内容免不了夸大其词，甚至无中生有，因此**libel**一词又产生了“中伤、诽谤”之意，在法律领域中表示“诽谤罪”，专指“文字诽谤”。
+
+- liber-/libr-：书
+- libel：['laɪbl] n.诽谤罪，诋毁，毁坏名誉的东西，控诉书vt.诽谤，控告vi.进行文字诽谤
+- libelous：['laibələs] adj. 诽谤的；损害名誉的；用言语中伤他人的
+- library：['laɪbrɛri] n. 图书馆，藏书室；文库
+- libretto：[lɪ'brɛto] n. 剧本；歌词集
+
+
+
+**英语词源趣谈(庄和诚)**
+
+**libel** - 诽谤有口头和文字之别。严格地说，**slander**指口头诽谤，而**libel**则指以文字、图画等进行的诽谤。两者在词义上的这一差异我们可以从**libel**的由来找到原因。
+
+**libel**是13世纪借自古法语的，但其词源却可追溯至拉丁语名词***liber***（书）的指小形式***libellus***，故其字面义和原义为**booklet**（小书）。
+
+14世纪**libel**多指“原告诉状”。到了16世纪，一般的传单、小册子也称**libel**。当时权贵要人之间有彼此攻讦的风气，而最常用的形式是散发诋毁对方的传单或小册子。
+
+由于此类诋毁性的**libel**总免不了要闹上法庭，到了17世纪，**libel**一词逐渐被赋予了“诽谤性文字”或“诽谤（罪）”这一至今仍在使用的词义，并最终演变为一个正式的法律用语。（参见**library**，**slander**）
+
+例　
+
+- He sued the newspaper for libel. 他以诽谤罪控告这家报纸。
+- The whole story was a vicious libel on my character. 所有这些捏造的事是对我人格的恶意中伤。
+- The greater the truth, the greater/worse the libel. 越是伟大的真理就越是遭到诽谤。
+- The candidate claims he has been libeled in an article published by the magazine. 这位候选人宣称他遭到该杂志一篇文章的恶语中伤。
+
+
+
 ## 金融、运气
 
 
