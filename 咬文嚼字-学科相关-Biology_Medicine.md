@@ -299,6 +299,14 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
+## vas- = vessel, 表示“管状的”，引申为“容器”{18}
+
+| 单词                              | 解释                                                         | 单词                              | 解释                                                         |
+| --------------------------------- | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
+| **vas-cular**<br />【ˈvæskjələr】 | a. 血管的, 维管的<br/>推荐：vas-管 + -cular<br/><img src="./images/image-20220317100113970.png" alt="image-20220317100113970" style="zoom: 50%;" /><br/>**`-ular`** 表形容词，“有…形状或性质的”。源自拉丁语 -ulus, 小词后缀。<br/>**`vas-`** = vessel, 表示“管状的”，引申为“容器”。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 vas,容器，词源同 vase,vessel.-cul,小词后缀，引申词义血管。 | **vas-cular**<br />【ˈvæskjələr】 | a. 血管的, 维管的<br/>推荐：vas-管 + -cular<br/><img src="./images/image-20220317100113970.png" alt="image-20220317100113970" style="zoom: 50%;" /><br/>**`-ular`** 表形容词，“有…形状或性质的”。源自拉丁语 -ulus, 小词后缀。<br/>**`vas-`** = vessel, 表示“管状的”，引申为“容器”。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 vas,容器，词源同 vase,vessel.-cul,小词后缀，引申词义血管。 |
+|                                   |                                                              |                                   |                                                              |
+|                                   |                                                              |                                   |                                                              |
+
 
 
 ## cort-  = skin, 表示“皮” {16}
@@ -479,6 +487,10 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 | **neuron**<br />【ˈnʊrɑːn】 | n. 神经元, 轴索, 神经细胞<br/>推荐：neur-神经 + -on<br/><br/>neuron- 50<br/>= nerve, 表示“神经”。源自希腊语 neuron "sinew."<br/>词源说明(童理民)  <br/>1 - neuro-,神经，-on,医学名词后缀。 |      |      |
 |                             |                                                              |      |      |
 |                             |                                                              |      |      |
+
+
+
+
 
 
 
@@ -1234,4 +1246,24 @@ clinic - 源自拉丁语clīnicus，原义是“卧床不起的人”（bedridde
 **recipe** - 在处方上我们常常可以见到**Rx**这一符号。这是什么意思呢？从中世纪以来，**R**一直被用作处方的符号，它代表**recipe**（处方）。**recipe**借自拉丁语，原为拉丁语动词recipere 'to take, receive'（取；服用）的命令式，意为‘**take (it)’**。
 
 14世纪进入英语之初，**recipe**是医药处方上的第一个字，意思是“**服用以下……**”，因此在英语中最初指“处方”，现在多指“食谱”。但又为什么多加了个**x**呢？R后面本来没有x，但却有根斜线号**/**。**/**是罗马神话的主神、医药的保护神朱庇特（**Jupiter**）的标志。**/**和**R**的尾部相交，看起来很像**Rx**，人们就索性写成**Rx**了。
+
+
+
+### dimple: 你的笑，泛起涟漪
+
+<img src="./images/image-20220317100623668.png" alt="image-20220317100623668" style="zoom:80%;" /> 
+
+>  词源同 dip,浸。引申词义小洞，酒窝。
+
+dimple - 少女都讨厌**pimple**（青春痘），而喜欢一个字母之差的**dimple**，因为脸上有了**dimple**，平添了几分妩媚。
+
+**dimple**可以追溯到13世纪，原词形为***dympel***，原意是hollow in the ground（地面凹坑；坑洞）。
+
+到了14世纪以后，人们发现有的人脸颊两侧也有形状类似的东西，才用以指small hollow in the cheek，即“酒窝”。dimple也可作动词用，表示“露出酒窝”。
+
+例　
+
+- She had a dimple which appeared when she smiled. 她笑的时候，脸上露出了一个酒窝。
+- Her cheeks dimpled as she smiled. 她一笑，脸上露出了酒窝。
+- She dimpled prettily at his compliment. 听到他的称赞，她妩媚地面露笑靥。
 
