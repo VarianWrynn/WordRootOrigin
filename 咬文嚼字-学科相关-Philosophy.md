@@ -191,6 +191,26 @@ Martin
 
 
 
+
+
+## am- = love, 表示“爱，情爱”。
+
+> 源自拉丁语 amor "love," amare "to love," amicus "friend." {17}
+
+| 单词                       | 解释                                                         | 单词 | 解释 |
+| -------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **am-ity**<br />【ˈæməti】 | n. 便利设施, 惬意, 舒适<br/>推荐：am-爱，愉悦 + enity → 令人愉悦的（设施）。<br/><br/>**`am-`** = love, 表示“爱，情爱”。源自拉丁语 amor "love," amare "to love," amicus "friend."<br/>**`-ity`** 表名词，指具备某种性质。<br/>词源说明(童理民)  <br/>1 - 来自 am-,爱，愉悦，词源同 amiable.即令人愉悦的设施，生活设施。 |      |      |
+|                            |                                                              |      |      |
+|                            |                                                              |      |      |
+
+
+
+#### Reference 
+
+1. [词源趣谈：由“爱”而生的单词](https://mp.weixin.qq.com/s/RBJnCG86UvgTfpoMylxC1A)
+
+
+
 ## cynic
 
 > **`cyn-`** = dog, 表示“狗”，源自希腊语。
