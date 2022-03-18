@@ -124,6 +124,18 @@ gon-
 
 
 
+## tang- = touch, 表示“接触”{22}
+
+> 源自希腊语 tassein, tattein "to arrange," taxis "arrangement."
+
+| 单词                                | 解释                                                         | 单词 | 解释 |
+| ----------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **tang-ent**[^1]<br />【ˈtændʒənt】 | a. 接触的, 正切的, 离题的<br/>n. 切线, 正切<br/>推荐：tang-=tag-接触 + -ent表形容词，后用于数学术语指正切，切线。<br/><br/>**`tang-`** = touch, 表示“接触”。源自希腊语 tassein, tattein "to arrange," taxis "arrangement."<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 tangere,接触，触摸，来自 PIE*tag,接触，触摸，安排，词源同 integer,contact.后用于数学术语指正切，切线。<br/><br/> |      |      |
+|                                     |                                                              |      |      |
+|                                     |                                                              |      |      |
+
+
+
 ## cav- = hole, 表示“洞”，来自拉丁语{8}
 
 
@@ -241,3 +253,11 @@ a. 说明的
 最早被法国数学家笛卡尔用于代数学中。于是，**opponent**就是**the opposing one**。
 
 >  ex-,向外，-pon,放置，词源同 pose,component.即展开，描述美好的前景，引申词义拥护，鼓吹。同时用来指数学术语指数（据说来自笛尔卡）。
+
+
+
+## Reference
+
+
+
+[^1]: 摩西英语(摩西)<br/>secant line割线，词根sec,sect,seg,sex表to cut，后缀-ant表示是这个词根的现在分词，即cutting，因此secant line就是cutting line，因此是割线。再如section部分、segment分割、sector扇形和sexual adj.性的（性别将人类分开了两半）。tangent line切线，词根tang表示to touch，the touching line。

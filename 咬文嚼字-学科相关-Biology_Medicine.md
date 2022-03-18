@@ -46,6 +46,40 @@
 
 
 
+## 细胞核
+
+### cyto- = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel." {64}
+
+| 单词                                   | 解释                                                         | 单词                                 | 解释                                                         |
+| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
+| **cyto-plasm**<br />【ˈˈsaɪtoʊplæzəm】 | n. 细胞质,胞浆<br/>推荐：cyto-细胞 + -plasm...质<br/><img src="./images/image-20220306190625191.png" alt="image-20220306190625191" style="zoom:80%;" /><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`plasm-`** = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，-plasm,形成，词源同 plastic. | **cyto-logy** <br />【saɪˈtɑːlədʒi】 | n. 细胞学<br/>推荐：cyto-细胞 + -logy 学，学科<br/><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`-logy`** = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，来自 PIE*skeu,遮盖，隐藏，词源同 hide,house.-logy,学说。比较 cell,小室，细胞。 |
+|                                        |                                                              |                                      |                                                              |
+|                                        |                                                              |                                      |                                                              |
+
+
+
+### karyo- 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel,"{13}
+
+| 单词                                 | 解释                                                         | 单词 | 解释 |
+| ------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **eu-karyo-te** <br />【jʊ'kærɪəʊt】 | n. 真核细胞（等于eucaryote）<br/>推荐：eu-好 + karyo-核 + -ote<br/><br/>**`eu-`** 表示“好，优秀”。源自希腊语 eu- "well."<br/>**`karyo-`** 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel," |      |      |
+|                                      |                                                              |      |      |
+|                                      |                                                              |      |      |
+
+
+
+## patho- = feeling, suffering, 表示“感情，遭受（病痛）”{39}
+
+>  源自希腊语 pathos "suffering, passion, emotion, feelings.
+
+| 单词                             | 解释                                                         | 单词 | 解释 |
+| -------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **patho-gen**<br />【ˈpæθədʒən】 | n. 病原体<br/>推荐：patho-疾病的 + gen-产生，原。<br/><img src="./images/image-20220318093337117.png" alt="image-20220318093337117" style="zoom:67%;" /><br/>patho- = feeling, suffering, 表示“感情，遭受（病痛）”。源自希腊语 pathos "suffering, passion, emotion, feelings."<br/>-gen 中文翻译成“...原”，原意表示“产生”。<br/>词源说明(童理民)  <br/>1 - patho-,疾病的，-gen,产生，原，词源同 antigen. |      |      |
+|                                  |                                                              |      |      |
+|                                  |                                                              |      |      |
+
+
+
 ## phyt- = plant, 表示“植物” {37}
 
 > 源自希腊语 phutos, phuton "a plant."
@@ -259,28 +293,6 @@ A **larva** is an insect at the stage of its life after it has developed from an
 | cor-ectopia | 【医】 瞳孔异位<br/>推荐：cor-瞳孔 + ectopia【n. 异位】<br/><br/>cor- = pupil, 表示“瞳孔”。<br/>ectopia n. 出位, 异位 |      |      |
 |             |                                                              |      |      |
 |             |                                                              |      |      |
-
-
-
-## 细胞核
-
-### cyto- = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel." {64}
-
-| 单词                                   | 解释                                                         | 单词                                 | 解释                                                         |
-| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
-| **cyto-plasm**<br />【ˈˈsaɪtoʊplæzəm】 | n. 细胞质,胞浆<br/>推荐：cyto-细胞 + -plasm...质<br/><img src="./images/image-20220306190625191.png" alt="image-20220306190625191" style="zoom:80%;" /><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`plasm-`** = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，-plasm,形成，词源同 plastic. | **cyto-logy** <br />【saɪˈtɑːlədʒi】 | n. 细胞学<br/>推荐：cyto-细胞 + -logy 学，学科<br/><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`-logy`** = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，来自 PIE*skeu,遮盖，隐藏，词源同 hide,house.-logy,学说。比较 cell,小室，细胞。 |
-|                                        |                                                              |                                      |                                                              |
-|                                        |                                                              |                                      |                                                              |
-
-
-
-### karyo- 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel,"{13}
-
-| 单词                                 | 解释                                                         | 单词 | 解释 |
-| ------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
-| **eu-karyo-te** <br />【jʊ'kærɪəʊt】 | n. 真核细胞（等于eucaryote）<br/>推荐：eu-好 + karyo-核 + -ote<br/><br/>**`eu-`** 表示“好，优秀”。源自希腊语 eu- "well."<br/>**`karyo-`** 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel," |      |      |
-|                                      |                                                              |      |      |
-|                                      |                                                              |      |      |
 
 
 

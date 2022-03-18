@@ -155,11 +155,25 @@ villain ['vɪlən] n.坏人；反派角色；顽童；罪犯。
 
 
 
+### vill- 表示“村庄、农场”，常引申为“邻居、附近”{5}
+
+> 源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."
+
+| 单词                          | 解释                                                         | 单词                                             | 解释                                                         |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ |
+| **vill-ain** <br />【ˈvɪlən】 | n. 坏人, 恶棍<br/>推荐：villa【村庄，农场】 + -ain表人，原指奴隶等地位地下的人，有强烈的贬义。<br/><br/>**`vill-`** 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."<br/>**`-ain`** 表名词，“…人”。 | **vicin-ity  **              <br />【vəˈsɪnəti】 | n. 附近, 邻近, 附近地区, 近处<br/>**`vill-`** 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."<br/>**`-ity`** 表名词，指具备某种性质。<br/>词源说明(童理民)  <br/>1 - 来自 PIE*weik,宗族，村落，家庭，社会单位，词源同 village,economy,Greenwick.引申词义临近地区，附近。 |
+|                               |                                                              |                                                  |                                                              |
+|                               |                                                              |                                                  |                                                              |
+
+
+
+
+
 #### -ain 表名词，“…人” {4}
 
 | 单词                           | 解释                                                         | 单词                               | 解释                                                         |
 | ------------------------------ | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ |
-| **vill-ain** <br />【ˈvɪlən】  | n. 坏人, 恶棍<br/>推荐：villa【村庄，农场】 + -ain表人，原指奴隶等地位地下的人，有强烈的贬义。<br/><br/>vill- 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."<br/>-ain 表名词，“…人”。 | **cheif-tain** <br />【ˈtʃiːftən】 | n. 酋长, 首领<br/>推荐：chief【领袖】 + -tain<br/><br/>**`-ain`** 表名词，“…人”。<br/>**`chief`** n. 领袖, 酋长, 长官, 主要部分 a. 主要的, 首位的<br/>词源说明(童理民)  <br/>1 - 来自 chief,主要的。<br/><br/>摩西英语(摩西)<br/>chaperon这个单词与cap棒球帽、cape袍子、escape逃脱（run out of the cape）、chief主要的、chieftain酋长、captain队长、capital首都<br />以及chef厨师长（head cooker）和chattel动产；奴隶（财富的体现，论“头”数）等同根，而这个词根与head同源。袍子或斗篷等，或者有一个帽兜来盖头，或从头套着穿。 |
+| **vill-ain** <br />【ˈvɪlən】  | n. 坏人, 恶棍<br/>推荐：villa【村庄，农场】 + -ain表人，原指奴隶等地位地下的人，有强烈的贬义。<br/><br/>**`vill-`** 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."<br/>**`-ain`** 表名词，“…人”。 | **cheif-tain** <br />【ˈtʃiːftən】 | n. 酋长, 首领<br/>推荐：chief【领袖】 + -tain<br/><br/>**`-ain`** 表名词，“…人”。<br/>**`chief`** n. 领袖, 酋长, 长官, 主要部分 a. 主要的, 首位的<br/>词源说明(童理民)  <br/>1 - 来自 chief,主要的。<br/><br/>摩西英语(摩西)<br/>chaperon这个单词与cap棒球帽、cape袍子、escape逃脱（run out of the cape）、chief主要的、chieftain酋长、captain队长、capital首都<br />以及chef厨师长（head cooker）和chattel动产；奴隶（财富的体现，论“头”数）等同根，而这个词根与head同源。袍子或斗篷等，或者有一个帽兜来盖头，或从头套着穿。 |
 | **capt-ain **<br />【ˈkæptɪn】 | n. 船长, 指挥官, 海军上校, 首领<br/>vt. 率领, 指挥<br/>推荐：capt-头 + -ain → 首领。<br/><br/>**`cap-,cipit-`** = head, 表示“头”。源自拉丁语 caput "head"<br/>**`-ain`** 表名词，“…人”。 | **river-ain** <br />               | a. 河流的, 河边的, 住在河边的<br/>n. 住在河边的人<br/>推荐：river【河】 + -ain<br/><br/>**`river`** n. 河, 江<br/>**`-ain`** 表名词，“…人”。 |
 |                                |                                                              |                                    |                                                              |
 

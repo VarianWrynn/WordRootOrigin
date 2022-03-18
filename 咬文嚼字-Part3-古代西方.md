@@ -719,6 +719,69 @@ n. 饵, 诱惑 vt. 引诱, 诱惑
 
 
 
+### aloof（疏远的）：航海时船头转向上风方向避开下风障碍物
+
+<img src="./images/image-20220318093932827.png" alt="image-20220318093932827" style="zoom: 50%;" /> 
+
+> 来自航海术语。a-,去，往，loof,风向标。原指迎船头向风以避开礁石，后指偏离，疏远。
+
+在航海过程中遇到大风时，船只可能被风吹得偏离航线，从而可能碰撞下风方向的障碍物。这时就需要朝上风方向转舵，使船头略微转向上风，这样可以抵消风力造成的偏移，保持航线，避免碰撞下风方向的物体。
+
+船只的这种行驶状态在英语中就称为**aloof**，由**`a`**（处于）+**`loof`**（朝向上风方向）构成，意思就是“朝向上风方向”。
+
+由于船头朝向上风是为了避开下风方向的障碍物，因此**aloof**又衍生出“躲避的、远离的”之意，并进一步衍生出“**疏远的、冷漠的**”等比喻之意。
+
+现在，人们几乎只使用aloof的比喻之意，而不再使用它的本意。如在街上看到摔倒的老人时，大部分人的做法就是保持**aloof**。
+
+- **aloof**：[ə'luːf] adj.adv.远离的，避开的，疏远的，冷漠的，无动于衷的
+- **luff**：[lʌf] 
+  - vi.顶风行驶vt.使（船头）朝向上风
+  - n.顶风行驶
+
+**英语词源趣谈(庄和诚)**
+
+<img src="./images/image-20220318093832959.png" alt="image-20220318093832959" style="zoom:80%;" /> 
+
+**aloof**原为航海用语，16世纪出现于英语中，表示“转舵向风”，由前缀a- 'towards'（向）与废词loof 'windward'（迎风）组合而成。
+
+**loof**在现代英语中仅仅作为航海术语**luff**（转船首迎风行驶）的变体存在，这两种形式都源自荷兰语loef 'windward'。
+
+昔日，舵手转舵使船首迎风行驶，常常是为了避开险滩，但船首又须同时略微避开正面的风力，船只才能行进。也许正是这个原因，**aloof**从其本义“转舵向风”引申出了“避开”及“隔开”等义。
+
+今天，它的本义几乎已被遗忘，引申义反倒成了主要词义。**aloof**在用作副词时常和**stand**，**hold**，**remain**，**keep**等动词搭配，表示“脱离”、“避开”、“疏远”等义；在用作形容词时，词义则进而引申为“冷漠的”或“孤零零的”。
+
+例　
+
+- When they argued, he remained aloof. 他们在争论时，他离得远远的。
+- You'd better stay aloof from a quarrel between husband and wife. 你最好别过问夫妻之间的争吵。
+- Her aloof manner gained her few friends. (FWF) 她冷漠的态度是交不上几个朋友的。
+
+
+
+### decoy 圈套, 诱骗
+
+<img src="./images/image-20220318095609705.png" alt="image-20220318095609705" style="zoom: 67%;" /> 
+
+> 来自荷兰语 de kooi, 其中 kooi 表示 "cage", de 在荷兰语中是定冠词，进入英语后被误认为是单词的一部分。
+
+**decoy** - 该词来自荷兰语***de kooi***，其中de乃定冠词，相当于英语the，kooi意为“笼子”，与英语cage（笼子）是同源词，都源于拉丁语cavea（笼子）。以后kooi转指四周有网围住，用以诱捕野禽的水塘。
+
+英语将这个词连同定冠词一起借了过来，所以到了英语中就变为decoy。在捕猎野禽时，要诱其进入罗网或枪的射程内，诱饵或引诱物是不可少的。因此，到了后来decoy就转义为“诱饵”或“诱惑物”，作动词用时则表示“引诱”或“诱骗”。
+
+例　
+
+- They used a girl hitch-hiker as the decoy to get him to stop. (CID) 他们用一个女孩要求搭车作诱饵骗他停下来。
+- They decoyed him into coming to the scene of the crime so they could arrest him. 他们把他引诱到犯罪现场以便逮捕他。
+- They decoyed him into a dark street, where they robbed him. (LDE) 他们诱骗他走进一条黑洞洞的街道，然后抢了他的东西。
+
+**词源说明(童理民)**  
+1 - 来自荷兰语 de kooi,即 the cage.即笼子，陷阱，后用来指诱捕鸟兽的假兽，假鸟。
+
+**摩西英语(摩西)**
+decoy ['diːkɒɪ; dɪ'kɒɪ] n.诱饵；诱骗，vt.诱骗，vi.被诱。这个单词初指经过训练、用来引诱野鸭进入猎人在池塘里布置的网中的鸭子，coy部分可能同单词cage笼子和cave洞穴等有关，而前缀de-或是来自荷兰语的定冠词被误认为单词的一部分。He decoyed the ducks to an area right in front of him. 
+
+
+
 ## 称呼与职业
 
 
