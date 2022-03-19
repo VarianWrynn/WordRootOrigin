@@ -1096,7 +1096,83 @@ You can see why it’s so easy to confuse these terms. They’re all related to 
 
 
 
+## mesmer- 表示“催眠”，来自奥地利催眠大师 Franz Anton Mesmer{5}
 
+| 单词                               | 解释                                                         | 单词 | 解释 |
+| ---------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **mesmer-ize**<br />【ˈmezməraɪz】 | vt. 对...施催眠术, 使目瞪口呆, 使入迷<br/>推荐：mesmer-催眠 + -ise, 表动词<br/><br/>**`mesmer-`** 表示“催眠”，来自奥地利催眠大师 Franz Anton Mesmer。<br/>**`-ize`** 动词后缀，一般缀于形容词后。<br />-ise 是英式英语，-ize 是美式英语。源自希腊语 -izein, verbal suffix. |      |      |
+|                                    |                                                              |      |      |
+|                                    |                                                              |      |      |
+
+
+
+vt. 施催眠术, 迷住, 迷惑
+【过去分词：mesmerized；现在分词：mesmerizing；第三人称单数：mesmerizes】
+范围：GRE
+单词笔记   ［添加］
+推荐：
+mesmer-催眠 + -ize, 表动词。18世纪的奥地利医生 Mesmer，精通催眠术。在当时，这项技艺被视作巫术，他也因此被认为是骗子，一生东躲西藏。后来，人们用他的名字表示动词“对…施以催眠；迷住；着迷”。
+
+词根树   
+-izemesmer-mesmer.ize
+
+mesmer∙ize  [词根树]
+mesmer- 
+表示“催眠”，来自奥地利催眠大师 Franz Anton Mesmer。
+-ize 
+动词后缀，一般缀于形容词后。-ise 是英式英语，-ize 是美式英语。源自希腊语 -izein, verbal suffix.
+
+
+
+### mesmerize（催眠）：以催眠来治疗精神病的奥地利医生麦斯梅尔
+
+> 来自 19 世纪奥地利医生 Franz Anton Mesmer,因他发明了一种催眠术而得名。字面意思即使催眠的，引申词义迷住，着迷。
+
+18世纪70年代，奥地利医生麦斯梅尔（**[Franz Anton Mesmer](https://en.wikipedia.org/wiki/Franz_Mesmer)**）提出了一种“动物磁力”学说，认为人体内有一种动物磁力，分布不当就会产生疾病。
+
+他的治疗方法是：让一群精神病患者围坐在一起，周围是昏暗的灯光，播放着轻音乐。 然后麦斯梅尔从装有各种化学药品的瓶子中取出一根铁棒，用它轻轻敲打每个患者的身体，以此把化学药物中的“动物磁力”传给患者，改善他们的症状。
+
+这套治疗方法被称为麦斯梅尔催眠术（**Mesmerism**）。他曾经用这种方法治愈了很多病人，名噪一时。
+
+然而，很多人并不认同麦斯梅尔的学说和治疗方法，认为他欺世盗名、以魔术来骗人。因此，麦斯梅尔被逐出奥地利。1778年，麦斯梅尔来到巴黎继续行医但再次受挫。
+
+法国国王专门成立了一个委员会来调查麦斯梅尔的学说和治疗方法。最后，该委员会认为他的治疗方法有一定效果，但对其理论学说提出否定意见。
+
+1843年，英国外科医生布雷德发表了《神经催眠学》一书，阐明催眠并非由施术者流入受术者的某种动物磁力或神秘物质所致，而是受术者主观心理的影响效果。
+
+虽然麦斯梅尔的学说遭到了否定，但他所开创的催眠治疗方法却得到了广泛应用。麦斯梅尔本人的姓氏也被用来表示“催眠”。
+
+- **mesmerize**：['mɛzməraɪz] vt.对……催眠，迷住
+
+- **mesmerism**：['mezmərɪz(ə)m] n.催眠术，催眠状态，迷惑，麦斯梅尔催眠术
+
+- **hypnotize**: [ˈhɪpnətaɪz]  vt. 催眠;对(某人)施催眠术;使(某人)着迷
+
+  > hypnot∙ise  [词根树]
+  > **`hypno-`**  = sleep, 表示“睡眠”，希腊神话里的睡神称为 Hypnos。源自希腊语 hupnos "sleep."
+  > **`-ize`** 动词后缀，一般缀于形容词后。-ise 是英式英语，-ize 是美式英语。源自希腊语 -izein, verbal suffix.
+
+
+
+**英语词源趣谈(庄和诚)**
+
+<img src="./images/image-20220319185539030.png" alt="image-20220319185539030" style="zoom:80%;" /> 
+
+**mesmerize** - 该词源出奥地利医师、当代催眠术的先驱Mesmer (**[Franz Anton Mesmer](https://en.wikipedia.org/wiki/Franz_Mesmer)**, 1734-1815)。
+
+他认定人体内有一种潜在的“动物磁力”（**animal magnetism**），并用它来治病。然而，维也纳的医生指控他玩弄魔术。1778年他被迫离开奥地利去巴黎定居，在那里继续行医，并再次遭到医学界的反对。
+
+1784年路易十六任命一个由科学家和医生组成，其中包括**B. 富兰克林**和**A. 拉瓦锡**在内的专门委员会去调查Mesmer的方法。委员会的报告对他持否定态度，把他称为骗子，但承认他的方法有疗效，将他的“治愈例”归因于患者自己的想像。结果，Mesmer又被迫离开巴黎，在瑞士度过了他的余生。
+
+其实，Mesmer所用的方法就是后人所谓的催眠（术）。在**hypnotism**和**hypnotize**出现之前，人们据他的姓氏创造了**mesmerism**及其相应动词形式mesmerize来分别表示“催眠（术）”和“对……施催眠术”。
+
+在当代英语中后两者除了作为前两者的同义语使用之外，更常用于引申义，分别表示“巨大的魅力”和“使入迷”或“惊得目瞪口呆”。
+
+例　
+
+- The magician mesmerized a volunteer from the audience. (NED) 魔术师对观众里的一位志愿者施以催眠术。
+- He was mesmerized by her charm and beauty. (LDC) 他被她的魅力和美貌迷住。
+- She stood there mesmerized as he picked up the gun and turned it slowly towards her. (LLA) 当他拿起枪，慢慢把枪对着她，她站在那里惊呆了。
 
 
 

@@ -428,9 +428,41 @@ locust【蝗虫】和lobster【龙虾】是同源词，因为他们长得像。�
 
 19世纪初,美国人富尔顿发明了一种可以从军舰上释放、能在水中前进的地雷，但一直找不到合适的名字，只得暂称它为“水地雷”。后来英国人在“水地雷”的基础上制造出了真正意义上的鱼雷，并用电鳐的名字torpedo来命名这种新式武器。该命名十分贴切，一直沿用至今。
 
-- torpedo：[tɔː'piːdəʊ] n.鱼雷，电鳐vt.用鱼雷袭击
+- **torpedo**：[tɔː'piːdəʊ] 
+
+  - n.鱼雷，电鳐
+  - vt.用鱼雷袭击
+
+- **torpor** ： [ˈtɔːrpər] n. 迟钝;死气沉沉;懒散
+
+  > torp- = numb{3}, 表示“麻木”。源自拉丁语 torpere "to be stiff."
+
+- **torpid** : [ˈtɔːrpɪd] a. 不活泼的;迟钝的;有气无力的;懒散的
+
+
+
+**英语词源趣谈(庄和诚)**
+
+在鱼类中有一种鱼能发电伤人，名字叫电鳐，英语称electric ray, numbfish，或crampfish，一度也称**torpedo**。
+
+**torpedo**本是个拉丁名词，原义为**numbness**（麻木），是从动词torpēre 'to be stiff, numb'（使僵硬或麻木）派生过来的。
+
+英语另有两个词**torpid**（迟缓的，有气无力的）和**torpor**（迟钝，有气无力）也源出于此。
+
+这种鱼虽然活动缓慢，但人若触及，则会感到发麻，甚至会被击倒，所以古罗马人以**torpedo**称之。
+
+16世纪初该词通过西班牙语进入英语时，最初仍用于此义。19世纪初美国发明家富尔顿（Robert Fulton, 1765-1815）发明了我们今天称之为**mine**（水雷）的浮动爆炸装置。该物使他想起torpedo这种鱼，他便用torpedo一词来命名。
+
+他发明的这种新式武器曾在美国南北战争中使用过。1866年英国工程师怀特黑德（Robert Whitehead, 1823-1905）研制出世界上第一枚现代鱼雷，也将它称作torpedo。这种torpedo的杀伤力远超富尔顿的torpedo，所以后来torpedo一词就用以指“鱼雷”了。
+
+例　
+
+- The ship was sunk by torpedo. 这艘船是被鱼雷击沉的。
+- The submarine launched a torpedo toward the ship. 潜水艇朝那艘船发射了一枚鱼雷。
+- The Dutch ship was torpedoed by an enemy submarine. 那艘荷兰船是被一艘敌人的潜水艇用鱼雷击中的。
 
 词源说明(童理民)  
+1 - 来自拉丁语 torpere,使麻木，使迟钝，来自 PIE*ster,僵硬，固化，词源同 sterile,stereotype.
 
 
 
