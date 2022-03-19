@@ -667,13 +667,21 @@ tavern [ˈtævən] n.客栈； 酒馆。古罗马的旅行图上，公路两旁�
 
 ## 其他
 
+| 单词                       | 解释                                                         | 单词                          | 解释                                                         |
+| -------------------------- | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
+| **pawn**<br />【pɔːn】     | n. 典当, 抵押物, 人质, (象棋)兵, 马前卒, 工具<br/>vt. 当掉, 以...担保<br/><img src="./images/image-20220319175059309.png" alt="image-20220319175059309" style="zoom:80%;" /><br />词源说明(童理民)  <br/>1 - 来自古法语 peon,兵，卒，来自拉丁语 pedonem,步兵，来自拉丁语 pedis,脚，来自 PIE*ped,脚，词源同 foot,biped.最初用于国际象棋卒，后引申词义走卒。<br/>2 - 来自古法语 pan,承认，担保，可能来自该词的另一个词义 pan,布，一块布，来自拉丁语 pannum,一块布，衣服，词源同 pane,panel.其原义可能为以衣服作为质押或在布上写上契约。 | **slumber**<br />【ˈslʌmbər】 | n. 睡眠, 麻木状态<br/>vi. 微睡, 静止, 麻木<br/>vt. 睡着度过(时间)<br/><img src="./images/image-20220319175228866.png" alt="image-20220319175228866" style="zoom:80%;" /><br/>词源说明(童理民)  <br/>1 - 来自中古英语 slumeren,来自 slumen,打盹，-er,表反复，来自古英语 sluma,小睡，来自Proto-Germanic*slum,松散的，无力的，来自 PIE*sleu,松散的，无力的，词源同 slow,sleep.插入字母 b,比较 number,numerate. |
+| **fathom**<br />【ˈfæðəm】 | n. 英寻(长度单位,合6英尺)<br/>v. 测量深度; 理解, 彻底了解<br/><img src="./images/image-20220319175636739.png" alt="image-20220319175636739" style="zoom:80%;" /><br />词源说明(童理民)  <br/>1 - 来自 PIE*pet,展开，伸展，词源同 feather,compete.用作长度单位法寻，约略等于成人双臂展开长度。引申词义探索，彻底了解。<br />I can not fathom his meaning.<br/>我不能彻底理解他的意思.<br />The ship sank in 20 fathoms.<br/>船沉在水下 20 英寻处 | **teem**<br />【tiːm】        | vi. 充满, 充足, 倾注<br/>vt. 倒出<br/><img src="./images/image-20220319181104915.png" alt="image-20220319181104915" style="zoom: 67%;" /><br />词源说明(童理民)  <br/>1 - 来自古英语 teman,生育，繁殖，来自 Proto-Germanic*taumjan,拉，引导，来自 PIE*deuk,拉，引导，词源同 team,duct.引申词义充满，大量。<br/>2 - 来自中古英语 temen,空出，倾空，来自古诺斯语 toema,倾空，来自 Proto-Germanic*tomijana,倾空，特指倾空容器。后引申词义倾泻，流注。<br/><br/>摩西英语(摩西)<br/>teem [tiːm] vi.大量出现；充满，vt.倒出。及物动词含义是其它词源，不及物动词含义与team有关。team队伍呀，队伍是多个成员呀，而每个成员是妈妈生的呀，生孩子前什么状态呢？妈妈的肚子大呀，胎儿占据（充满）了目前的子宫，这就是teem和team的交集。His composition teems with spelling mistakes. |
+|                            |                                                              |                               |                                                              |
+
+
+
 ### sent- = feel, 表示“感觉”。源自拉丁语 sentire "to feel."{26}
 
-| 单词                         | 解释                                                         | 单词                      | 解释                                                         |
-| ---------------------------- | ------------------------------------------------------------ | ------------------------- | ------------------------------------------------------------ |
-| **sent-ry**<br />【ˈsentri】 | . 哨兵, 看守<br/>vt. 设岗哨<br/>vi. 站岗, 放哨<br/>推荐：sent-感觉 + -ry, 表名词。<br/><img src="./images/image-20220306194629427.png" alt="image-20220306194629427" style="zoom:50%;" /><br/>**`sent-`** = feel, 表示“感觉”。源自拉丁语 sentire "to feel."<br/>词源说明(童理民)  <br/>1 - 可能缩写自 sentinel,-ry,表地点或人，比较 bakery,cavalry.原义为眺望塔，后与 sentinel 词义融合。 | flick-er<br />【ˈflɪkər】 | n. 闪烁, 闪光, 颤动<br/>vi. 闪动, 闪烁, 摇动, 扑动翅膀<br/>vt. 使摇曳, 使闪烁<br/><br/>推荐：flick【轻弹】 + -er。<br/><img src="./images/image-20220306194759158.png" alt="image-20220306194759158" style="zoom: 80%;" /><br/>flick n. 快速的轻打, 轻打声, 弹开 v. 轻弹, 轻轻拂去, 忽然摇动; 浏览<br/>词源说明(童理民)  <br/>1 - 来自 flick,轻弹。<br /><br />that is my burden to bear |
-|                              |                                                              |                           |                                                              |
-|                              |                                                              |                           |                                                              |
+| 单词                          | 解释                                                         | 单词                           | 解释                                                         |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
+| **sent-ry **<br />【ˈsentri】 | . 哨兵, 看守<br/>vt. 设岗哨<br/>vi. 站岗, 放哨<br/>推荐：sent-感觉 + -ry, 表名词。<br/><img src="./images/image-20220306194629427.png" alt="image-20220306194629427" style="zoom:50%;" /><br/>**`sent-`** = feel, 表示“感觉”。源自拉丁语 sentire "to feel."<br/>词源说明(童理民)  <br/>1 - 可能缩写自 sentinel,-ry,表地点或人，比较 bakery,cavalry.原义为眺望塔，后与 sentinel 词义融合。 | **flick-er** <br />【ˈflɪkər】 | n. 闪烁, 闪光, 颤动<br/>vi. 闪动, 闪烁, 摇动, 扑动翅膀<br/>vt. 使摇曳, 使闪烁<br/><br/>推荐：flick【轻弹】 + -er。<br/><img src="./images/image-20220306194759158.png" alt="image-20220306194759158" style="zoom: 80%;" /><br/>flick n. 快速的轻打, 轻打声, 弹开 v. 轻弹, 轻轻拂去, 忽然摇动; 浏览<br/>词源说明(童理民)  <br/>1 - 来自 flick,轻弹。<br /><br />that is my burden to bear |
+|                               |                                                              |                                |                                                              |
+|                               |                                                              |                                |                                                              |
 
 
 
