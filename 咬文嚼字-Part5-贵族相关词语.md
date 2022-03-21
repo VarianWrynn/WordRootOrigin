@@ -376,6 +376,18 @@ Reference:
 
 
 
+
+
+## 中国妃子
+
+
+
+### Reference
+
+1. [美版《甄嬛传》把“嫔妃、贵人、常在、答应”翻得好雅致！](https://mp.weixin.qq.com/s/VXcEaZjXoRvwJ7QTqsKgjw)
+
+
+
 ## 其他和贵族相关的单词
 
 
