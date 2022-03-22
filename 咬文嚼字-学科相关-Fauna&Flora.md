@@ -299,6 +299,7 @@ guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿�
 | **black-cap **<br />【b'lækkæp】 | n. 糙莓；黑树莓;（欧洲产的）莺类，白颊鸟类<br/>推荐：black【黑】 + cap-头<br/><img src="./images/image-20220306193008583.png" alt="image-20220306193008583" style="zoom: 50%;" /><br/>**black** n. 黑色, 黑颜料, 黑人; 不加牛奶的咖啡 a. 黑色的 v. 抵制, 拒绝<br/>**cap** n. 盖子, 帽子 vt. 戴帽子, 覆盖, 胜过 vi. 脱帽致意 | **horn-bill**<br />【ˈhɔːrnbɪl】     | n. 犀鸟(热带鸟类)<br/>推荐：horn【角】 + bill【喙】<br /><img src="./images/image-20220316093753965.png" alt="image-20220316093753965" style="zoom: 67%;" /><br />bill: 账单;(餐馆的)账单;(提交议会讨论的)议案，法案;（剧院等的)**节目单**;海报;**鸟嘴**;**有…形喙的** |
 | **dodo**<br />【ˈdoʊdoʊ】        | 渡渡鸟(不能飞行，现已灭绝);笨人;蠢人<img src="./images/image-20220208101711734.png" alt="image-20220208101711734" style="zoom: 45%;" /> | **moa**<br />【ˈmoʊə】               | n. 恐鸟<br/><img src="./images/image-20220208101349504.png" alt="image-20220208101349504" style="zoom: 80%;" /><br />词源说明(童理民)  <br/>1 - 新西兰一种已经灭绝的不能飞的大鸟，来自毛利语。 |
 | **fowl**<br />【faʊl】           | n. 鸟, 飞禽, 家禽<br/>vi. 打鸟<br/>推荐：<br/>源自古英语 fugel "bird," 原始日耳曼语词源。<br/><br/>词源说明(童理民)  <br/>1 - 来自 fly 的拼写异化。 | **water-fowl**<br />【ˈwɔːtərfaʊl】  | n. 水鸟<br/>推荐：<br/>water【水】 + fowl【鸟】              |
+| **robin**<br />【ˈrɑːbɪn】       | n. 旅鸫; 知更鸟<br/>推荐：代称，来自人名 Robin.比较 petrel,来自人名 Peter。<br/><img src="./images/image-20220322094649785.png" alt="image-20220322094649785" style="zoom:67%;" /><br/>词源说明(童理民)  <br/>1 - 代称，来自人名 Robin.比较 petrel,来自人名 Peter. |                                      |                                                              |
 
 
 
