@@ -125,6 +125,39 @@ visa - visa是个很普通的词，意思是“签证”，可用作名词，也
 
 
 
+### tariff（关税）：向外国商船索取买路费的直布罗陀城市
+
+> 来自意大利语 tariffa,关税，价目表，来自拉丁语 tarifa,价目表，来自阿拉伯语 ta'rif,通知，费用目录，来自 ta-,表名词，arafa,使知道，使知晓。引申诸相关词义。
+
+直布罗陀海峡是连接地中海和大西洋的咽喉要道，自古以来一直是兵家必争之地。公园711年，信奉伊斯兰教的北非摩尔人渡过直布罗陀海峡，大举进犯欧洲，击败当时位于西班牙的西哥特王国后继续向法国进军。
+
+被当时法兰克宫相“铁锤查理”击败后，摩尔人在西班牙地区盘踞了七个多世纪，将伊斯兰文化传播至欧洲。摩尔人军队渡过直布罗陀海峡后，一位名叫**[Tarif Ben Malluk](https://en.wikipedia.org/wiki/Tarif_ibn_Malik)**的将军攻占了海峡北边的一座小镇并在此修建城堡，这座小镇因而得名**Tarifa**。
+
+**Tarifa**距离海峡仅21英里，地势险要，易守难攻，摩尔人以此为据点控制了直布罗陀海峡，并向经过直布罗陀海峡的来往商船索要买路费，其金额与商船上所载货物价值总额成比例，这就是关税的由来，而表示关税的英语单词**tariff**就来自城市**Tarifa**的名字。
+
+- **tariff**： ['tærɪf] n.关税，关税表，税率表，收费表vt.征收关税，定税率
+
+
+
+<img src="./images/image-20220324094125912.png" alt="image-20220324094125912" style="zoom:67%;" /> 
+
+**英语词源趣谈(庄和诚)**
+
+**tariff** - 在直布罗陀附近的地中海入口处有个海港名叫Tarifa。公元8世纪入侵并占领西班牙的摩尔人（**the Moors**）曾在这里拦截盘查通过直布罗陀海峡的船只，向其征收关税，长达几个世纪之久。
+
+旧时有种说法认为，**tariff**一词即源自**Tarifa**，而Tarifa则**得**名于公元711年入侵西班牙的摩尔人先遣部队司令官的大名**Tarif**。其实，**tariff**一词源自阿拉伯语**tarif 'notification'**（通知）。
+
+16世纪时东西方的海上贸易十分兴旺，借自阿拉伯语的土耳其语变体***tarifa***进入英语，作***tariff***，最初仅指“进口货物关税表”。该词还进入其他欧洲语言，法语作***tarif***，西班牙语作***tarifa***，意大利语作***tariffa***。
+
+18世纪tariff的词义又进而引申为“价目表”等，但在今天tariff一般多指“关税”。
+
+例　
+
+- China will lower the tariff on foreign motorcars. 中国将降低外国汽车的关税。
+- The government decided to cut import tariffs on cars and computers. 政府决定削减汽车和计算机的进口税。
+- President has threatened to impose punitive import duties/tariffs on a range of foreign goods. (CID) 总统威胁说要向部分外国货物征收惩罚性进口关税。
+- A copy of the tariff is placed in each bedroom. （旅馆的）每间卧室都放有一张收费表。
+
 
 
 ### commune（公社）：全体市民共同治理的自治机构
