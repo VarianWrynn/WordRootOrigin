@@ -1870,6 +1870,33 @@ addle one's own canoe做自己的事。canoe [kə'nuː] n.独木舟，vi.乘独�
 
 
 
+
+
+### Jade：可治疗肾病的宝石
+
+<img src="./images/image-20220324142115332.png" alt="image-20220324142115332" style="zoom:50%;" /> 
+
+英语词源趣谈(庄和诚)
+
+**jade** - 在中世纪时西欧人中流传着宝石具有神奇的治病效用的迷信，其中玉被认为对治疗肾病特别有效。16世纪初，当西班牙人把玉从美洲带回时，他们就给它取名为***piedra de ijada***，其字面义是**stone of the side**（治肾病的石头），因为他们认为玉能治好肾痛。
+
+古法语吸收了这个名称，并把它缩略为***ejade***，以后l'ejade（l'为定冠词）演变为le jade（le为定冠词），就是说ejade的首字母脱落，变成了jade。
+
+到了18世纪jade进入了英语，也用以指“玉”。说来有趣，其近义词nephrite（软玉）源自意为“肾”的希腊语nephrós，大概也是因为希腊人认为玉能治肾病的缘故吧。
+
+在辞书中我们还常见到一个释义为“老马”或“荡妇”的jade，那是出自不同词源的另一个词，可能源于某种北欧语。
+
+例　
+
+- Ivy wore a jade necklace to the party. 艾维戴着翡翠项链去参加聚会。
+- Do you have jade earrings to match the necklace? 你有没有玉耳环，好和这根项链相配？
+
+词源说明(童理民)  
+1 - 来自法语 le jade,来自西班牙语 piedra de la ijada,冶疗肾病的玉石，来自 piedra,石头，词源同petrify,ijada,回肠，肾部。据说这种石头可以治疗和缓解肾部疾病而得名。
+2 - 词源不详。
+
+
+
 ## 社交
 
 ### libel（诋毁）：攻击他人的传单或小册子
