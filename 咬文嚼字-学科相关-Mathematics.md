@@ -108,6 +108,7 @@ gon-
 | **dia∙gon∙al**<br />【daɪˈæɡənl】 | dia-穿过 + gon-弯，角 + -al，即穿过去的，成对角的。<br />**`dia-`** 表示“穿过，二者之间”。<br/>**`gon-`** = angle, 表示“角”，在医学词汇里表示“膝盖”。源自希腊语 gonia "angle, corner."<br/>**`-al`** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix.<br /><img src="./images/image-20211230092443526.png" alt="image-20211230092443526" style="zoom:80%;" /><br />a. 对角线的, 斜的, 斜纹的<br/>n. 对角线, 斜线, 斜列 |
 | 【sloʊp】                         | n. 斜坡, 山坡; **斜率**<br/>v. 使倾斜; 悄悄地走, 溜<br /><img src="./images/1200px-Wiki_slope_in_2d.svg.png" alt="Slope - Wikipedia" style="zoom:25%;" /><br /> |
 | **bevel**<br />【ˈbevl】          | n.斜边;斜面;斜角规<br/>v.把（物体的方形边）改成斜面边<br /><img src="./intensifyImg/image-20211214104510052.png" alt="image-20211214104510052" style="zoom: 40%;" /><br />[Bevel Edge](https://knowledgebank.materialbank.com/terms/bevel-edge/)<br /><img src="./intensifyImg/image-20211214104627071.png" alt="image-20211214104627071" style="zoom: 33%;" /> |
+| **poly-gon**<br />【ˈpɑːliɡɑːn】  | n. 多角形, 多边形<br/>推荐：poly-多，复，聚 + gon-角<br/><img src="./images/image-20220325103945593.png" alt="image-20220325103945593" style="zoom:67%;" /><br/>**`poly-`** 表示“多”，来自希腊语。源自希腊语 polus "much, many."<br/>**`gon-`** = angle, 表示“角”，在医学词汇里表示“膝盖”。源自希腊语 gonia "angle, corner."<br/>词源说明(童理民)  <br/>1 - poly-,多，复，聚，-gon,边，词源同 knee,heptagon |
 |                                   |                                                              |
 
 
