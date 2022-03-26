@@ -695,6 +695,41 @@ tavern [ˈtævən] n.客栈； 酒馆。古罗马的旅行图上，公路两旁�
 
 
 
+### per-,pir-,par- = try, 表示“尝试，冒险”{10}
+
+> 源自拉丁语 periclum "trail, danger," experiri "to try, learn by tring," peira "trial, attempt."
+
+| 单词                            | 解释                                                         | 单词                       | 解释                                                         |
+| ------------------------------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ |
+| **peril-ous**<br />【ˈperələs】 | 基本释义   <br/>a. 危险的, 濒临毁灭的<br/>推荐：<br/>peril【危险】 + -ous表形容词，是单词peril 派生的形容词。<br/><img src="./images/image-20220327000435410.png" alt="image-20220327000435410" style="zoom:80%;" /><br/>**`peril`** n. 危险, 冒...之险, 险境, 险因 vt. 置...于险境, 冒险, 危及<br/>**`-ous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br/>词源说明(童理民)  <br/>1 - 来自 peril,危险。 | **per-il**<br />【ˈperəl】 | n. 危险, 冒...之险, 险境, 险因<br/>vt. 置...于险境, 冒险, 危及<br/>推荐：per-冒险 + -il<br/><img src="./images/image-20220327000357409.png" alt="image-20220327000357409" style="zoom: 50%;" /><br/>per-,pir-,par- = try, 表示“尝试，冒险”。源自拉丁语 periclum "trail, danger," experiri "to try, learn by tring," peira "trial, attempt." |
+|                                 |                                                              |                            |                                                              |
+|                                 |                                                              |                            |                                                              |
+
+
+
+#### peril：古代出门旅行是件危险的事情
+
+> 来自 PIE*per,向前，前进，词源同 ford,forth.引申词义探索，开拓，风险，危险。比较其同源词
+
+英语词源趣谈(庄和诚)
+
+peril - 在古时候出门旅行是极其辛苦而又非常危险的事，这一点在英语某些词的词源上就有所反映。例如现指“旅行”的travel一词原先就含有“辛苦”之义，它是意指“辛苦”或“剧痛”的travail一词之异体。
+
+其实这两个词都来自法语travailer（劳动），并可溯源至拉丁语trepālium（刑具）。当我们说farewell（再见）时，实际上常含有travel well（一路平安）的意思。
+
+甚至连peril（危险）一词也是源于意含the danger of going forth to travel（出门旅行的风险）的拉丁词periculum的。
+
+例　
+
+- He has traveled widely. 他到很多地方旅行过。
+- Travel broadens the mind. 旅行可以使人见多识广。
+- The job involves frequent travel. (OCD) 这种工作需要经常出差。
+- Don't worry; the driver has traveled this road many times. (FWF) 别担心，这位驾驶员在这条路上走过多次了。
+
+
+
+
+
 ### robe & plunder
 
 robe: 古代抢劫所得最主要的掠夺品
