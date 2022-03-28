@@ -1956,6 +1956,10 @@ addle one's own canoe做自己的事。canoe [kə'nuː] n.独木舟，vi.乘独�
 
 
 
+
+
+
+
 ## 金融、运气
 
 
@@ -2083,6 +2087,75 @@ hazard始见于十字军东征时期，它借自法语***hasard***和西班牙�
 - Smoking is both a health hazard and a fire hazard. (CID) 吸烟既是健康的敌人，又是火灾隐患。
 - Polluted underground water sources were a hazard to human health and to wildlife. (LLA) 受污染的地下水源危及人类的健康和野生动植物。
 - Flashing signs warned drivers of potential hazards ahead. (LLA) 闪光路标警告司机前面有潜在危险。
+
+
+
+
+
+### check（核查）：国际象棋中的“将军”
+
+关于国际象棋，大部分历史学者认为起源于古印度，后来流传至波斯，再经过阿拉伯、流传至欧洲。
+
+至今见诸于文献最早的记录是在萨珊王朝时期用波斯文写的。国际象棋中向对方的国王“将军”，英语叫**check**，它是从古波斯语***shah***（国王）演变来的，意思是提醒对方我下一步就要吃掉你的国王了。当对手发出**check**的提醒时，自己就要仔细检查本方棋盘中国王的安全，所以**check**一词延伸出现在的“检查”、“核查”等含义。
+
+另外，古波斯人称象棋中“把对方将死”为***shah-mat***，mat是“死”的意思。英语单词**checkmate**（将死）就来源于此。
+英语单词**chess**（国际象棋）和**check**一样，都来自古波斯语***shah***（国王），是**check**的复数形式，字面意思就是“连续将军的游戏”。
+
+- **check**：[tʃek] 
+  - n.支票，核对，检验
+  - v.检查，核查，制止，打勾，将一军
+- **checkmate**：['tʃekmeɪt] 
+  - n.将死，挫败
+  - vt.把……将死，使……彻底失败
+- **chess**：[tʃes] n.国际象棋
+- **exchequer** : [ɪksˈtʃekər]: (英国)财政部;公共财源;国库;金库
+- **cheque** [tʃek] n.支票。银行业为啥要发明支票？因为本票容易被造假，支票可以阻止金融诈骗。cheque同check，本意是你绝对猜不到的，它表示“国王”。国际象棋中，checkmate ['tʃekmeɪt] n.&amp;v.将死，本意就是“the king is dead”（-mat表to kill）。为啥死了呢？因为象棋里的王被困住动弹不了了
+
+词源说明(童理民)  
+1 - 来自古法语 eschequier,（棋子游戏）将军，来自阿拉伯语 shah,王。原指一种两军对垒的棋子游戏，当逼近对方主帅时，则说：shah mat,将杀死你的王，请注意，请检查。类似于中国象棋术语将军。其拼写演变较复杂，首先加字母 e,然后将 es 当做前缀 ex-脱落，参照etude,echelon.词源同 chess,cheque,exchequer.
+
+
+
+**英语词源趣谈(庄和诚)**
+
+check - chess（国际象棋）素来有the game of kings and the king of games（王之棋戏，棋戏之王）之美称。
+
+称之为the king of games是因为，作为一项高级智力游戏，其规则战术相当复杂，要下得好颇不容易；称之为the game of kings则是因为，从传统上来说该棋戏原为王室中人或贵族所下之棋，而且king（王）乃最重要的棋子。
+
+在对弈时king一旦受到攻击，对方就会发出警告说“**Check**!”（将！），king一被**checkmate**（将死），即为输。追根溯源，chess，check，checkmate等词均源出波斯语中意为king的shāh。
+
+chess本是一种古老棋戏，波斯人将它传给阿拉伯人。阿拉伯人保留了shāh一词，把shāh将死就说shāh māt。shāh进入古法语之后作eschec，进入中古英语作chek，最后演变为check，shāh māt也同时演变为checkmate；eschec的复数形式eschecs则在13世纪演变成另一个英语词，中古英语作ches，现代英语就是chess了。可见chess的真正原义是kings，它含有game of the two kings之义。
+
+嗣后，check从它在棋戏中的用法又衍生出了一系列别的词义，诸如“制止”、“核对”、“支票”等。作“支票”解时，check在英国英语拼作cheque。checker/chequer（象棋棋盘）是从check/cheque派生出来的。
+
+另有一词**exchequer**（国库，金库），究其根源也是源自法语eschec，其实即波斯语shāh。（参见checkmark）
+
+例　Would you like a game of chess? 你想下盘棋吗？
+
+Whichever way you play, it will be checkmate in three moves. (CID) 不管你怎么下，三步以后就会被将死了。
+
+Before you hand in your papers, check (through/over) your answers for mistakes. 在交卷之前，检查答案有没有错。
+
+The campaign about safe sex is designed to check the spread of AIDS. 宣传安全性行为的目的在于控制艾滋病的蔓延。
+
+
+
+### exchequer（国库）：用来计算国库收入的棋盘大桌
+
+<img src="./images/image-20220328110703623.png" alt="image-20220328110703623" style="zoom:67%;" /> 
+
+> 词源同 cheque,支票，帐目，帐目表，因形似棋盘而得名，后用来指财政部。ex-误认为是前缀 ex-,因而产生拼写讹误。拼写演变参照 chess,check.
+
+在16世纪以前，欧洲人还不会使用阿拉伯数字，大部分人用来计数的是罗马数字。这种数字计算起来很不方便。
+
+在诺曼王朝时期，英国的国库管理人员在计算国库收入时，会在一张大桌子上铺上印有宛如棋盘的方格图案的桌布，然后在方格中摆上代表数字的筹码，利用筹码和方格进行计算。因为桌布的图案很像棋盘，人们就用法语单词**escheker**（chessboard，棋盘）来表示这张大桌子。
+
+由于这张大桌子是国库的象征，因此**escheker**一词也常常被用来表示国库本身。进入英语后，该词的拼写形式逐渐演变为**exchequer**，原本表示那张大桌子的含义被人遗忘，仅仅用来表示“国库、财政部”。
+
+- exchequer： [ɪks'tʃekə; eks-] n.国库，财政部，财源
+- The **[Barons of the Exchequer](https://www.wikiwand.com/en/Baron_of_the_Exchequer)**, or *barones scaccarii*, were the judges of the English court known as the [Exchequer of Pleas](https://www.wikiwand.com/en/Exchequer_of_Pleas).
+
+
 
 
 
