@@ -240,6 +240,27 @@ Türkiye来自土耳其语，意思就是“突厥人的国家”。而英语单
 
 
 
+### drumstick 鼓槌, 鸡腿下段
+
+<img src="./images/image-20220329101559775.png" alt="image-20220329101559775" style="zoom: 50%;" /> 
+
+drumstick - 在英国维多利亚时代一些在今人看来极为普通的词曾被列为禁忌词，如trousers（裤子），breast（胸脯）等。对于这些词人们避而不用，每每代之以委婉语。
+
+leg（腿）也是其中之一，人们不说leg，而说limb等。drumstick原义为“鼓槌”，一度被作为leg的委婉语使用，现一般用以指“鸡腿下段”，因其形似鼓槌。
+
+例　
+
+- The kids each wanted a drumstick. (CWR) 孩子们每人都要鸡腿。
+- Save the chicken drumstick for me. (NDE) 把鸡腿（下段）给我留下。
+- "Would you like white meat or dark meat?" "I'll take a drumstick." (NDE) “你要胸肉还是腿肉？”“我要鸡腿（下段）。”
+
+词源说明(童理民)  
+1 - 比喻用法。
+
+<img src="./images/image-20220329101525208.png" alt="image-20220329101525208" style="zoom:50%;" /> 
+
+
+
 ## 素的
 
 | 单词                                         | 解释                                                         | 单词                        | 解释                                                         |
