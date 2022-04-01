@@ -31,6 +31,26 @@
 
 
 
+## kin- 表示“运动，活动”。源自希腊语 kinein "to move." {32}
+
+| 单词                                     | 解释                                                         | 单词 | 解释 |
+| ---------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **kin-esthes-ia**<br />【ˌkɪnəs'θi:ʒɪə】 | n. 肌肉运动知觉<br/>推荐：kin-动 + esthes-感觉 + -ia<br/><img src="./images/image-20220401132604764.png" alt="image-20220401132604764" style="zoom:50%;" /><br/>**`kin-`** 表示“运动，活动”。源自希腊语 kinein "to move."<br/>**`esthes-`** = feeling, 表示“感觉”。源自希腊语 aisthanesthai "to feel."<br/>更多同源词... |      |      |
+|                                          |                                                              |      |      |
+|                                          |                                                              |      |      |
+
+
+
+## esthes- = feeling, 表示“感觉”。源自希腊语 aisthanesthai "to feel." {31}
+
+| 单词                                     | 解释                                                         | 单词 | 解释 |
+| ---------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **kin-esthes-ia**<br />【ˌkɪnəs'θi:ʒɪə】 | n. 肌肉运动知觉<br/>推荐：kin-动 + esthes-感觉 + -ia<br/><img src="./images/image-20220401132604764.png" alt="image-20220401132604764" style="zoom:50%;" /><br/>**`kin-`** 表示“运动，活动”。源自希腊语 kinein "to move."<br/>**`esthes-`** = feeling, 表示“感觉”。源自希腊语 aisthanesthai "to feel."<br/>更多同源词... |      |      |
+|                                          |                                                              |      |      |
+|                                          |                                                              |      |      |
+
+
+
 ## stereo- = solid, firm; three-dimensional; stereophonic, 表示“坚固，三维，立体”等 {25}
 
 > 源自希腊语 stereos "solid."
