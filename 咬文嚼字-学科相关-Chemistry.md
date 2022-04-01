@@ -542,6 +542,47 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 
 
 
+
+
+### 1. laboratory（实验室）：中世纪炼丹术士的炼丹场所 {11}
+
+>  e-,向外，-labor,劳动，辛苦，词源同 laboratory.
+
+词源故事(钱磊)
+
+英语单词**laboratory**（实验室）来自中世纪拉丁文***laboratorium***，**labor**表示“劳作”，***laboratorium***意思就是“劳作的地方”，所以**laboratory**的本意也是“劳作的地方”。
+
+为什么是“劳作的地方”呢？这是因为最初的实验室其实就是炼金术士炼金的场所。炼金是件费时费力的活，需要炼金术士动手劳作，所以其场所就被称为**laboratory**。即使到了现代，实验室依然是科研人员动手劳作的场所，而不是空谈或冥思的场所。
+
+- **laboratory**：['læbrə'tɔri] n.实验室，研究室
+- **labor**： ['lebɚ] 
+  - n. 劳动；工作；劳工；分娩
+  - v. 劳动；努力；苦干；详细分析
+- **laborious**：[lə'bɔrɪəs] adj. 勤劳的；艰苦的；费劲的
+- **laborer**：['lebərɚ] n. 劳动者；工人
+- **labored**：['leɪbəd] adj. 吃力的；费劲的；不自然的
+- **belabor**：[bɪ'lebə] vt. 痛打；抨击；过度说明；反复讨论
+- **elaborate**：[ɪ'læbəret] 
+  - adj. 精心制作的；详尽的；煞费苦心的
+  - v. 精心制作；详细阐述
+- **elaboration**： [ɪ,læbə'reʃən] n. 苦心经营，精巧；详细阐述
+- **collaborate**： [kə'læbəret] vi. 合作；勾结，通敌
+- **collaboration**：[kə,læbə'reʃən] n. 合作；勾结；通敌
+
+
+
+**英语词源趣谈(庄和诚)**
+
+laboratory - 该词来自中世纪拉丁语labōrātōrium 'workshop'（工场，作坊），但若追根溯源，我们可以发现它和labor（劳动）有亲缘关系，两者都源于拉丁语动词labōrāre 'to labor/work'。因此，laboratory很自然地被用以指（某些研究人员）工作的地方，即“实验室”。在口语中该词常被缩略为lab。
+
+例　
+
+- The new product has been developed in the firm's research laboratory. 新产品在公司的研究室里研制出来了。
+- The study took place in/under laboratory conditions. (CID) 该项研究是在实验室条件下进行的。
+- His laboratory has a lot of sophisticated equipment. 他的实验室有不少精密设备。
+
+
+
 ### 3. Alcohol  （酒精）：古代中东妇女用来画眼影的锑粉
 
 长久以来，阿拉伯、波斯、新疆等地的妇女就已经发现锑粉是一种极好的化妆品。她们用从锑石中精炼提纯的锑粉涂在眼圈附近，不仅能使眼睛更漂亮，还能消除眼疲劳和红肿的功效。阿拉伯妇女喜欢用锑粉画出浓重的眼影，埃及艳后克娄巴特拉的妆容便是典型。

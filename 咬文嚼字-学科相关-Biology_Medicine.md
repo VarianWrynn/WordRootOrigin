@@ -928,6 +928,67 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## vive- = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。和表示生命的词根 bio-同源{23}
+
+> 源自拉丁语 vivus "living, alive," vivere "to live," viva "life." 
+
+
+
+| 单词                         | 解释                                                         | 单词 | 解释 |
+| ---------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **re-vive**<br />【rɪˈvaɪv】 | vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播<br/>vi. 苏醒, 复活, 复兴, 恢复精神<br/>推荐：re-再 + viv-活 + -e → 复活。<br/><br/>re- 表示“向后，往回，相反，相对，再”，或仅作强调用，在元音前 red-, reh-。<br />源自拉丁语 re-, red- "backward, again."<br/>vive- = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。<br />和表示生命的词根 bio-同源。源自拉丁语 vivus "living, alive," vivere "to live," viva "life." <br/>词源说明(童理民)  <br/>1 - re-,再，重新，-viv,生命，词源同 vivid,vital. |      |      |
+|                              |                                                              |      |      |
+|                              |                                                              |      |      |
+
+
+
+## vit- = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。和表示生命的词根 bio-同源{23}
+
+> 源自拉丁语 vivus "living, alive," vivere "to live," viva "life." 
+
+
+
+| 单词                                             | 解释                                                         | 单词                             | 解释                                                         |
+| ------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
+| **vit-al**<br />【ˈvaɪtl】                       | a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的<br/>推荐：vit-生命 + -al的。<br/><br/>**`vit-`** = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。<br />和表示生命的词根 bio-同源。源自拉丁语 vivus "living, alive," vivere "to live," viva "life." <br/>**`-al`** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix. | **vital-ize**<br />【vaɪtəlaɪz】 | vt. 给与...生命力, 使有生气, 激发, 使增添活力<br/>推荐：vital【生命的】 + -ise, 表动词<br/><br/>**`vital`** a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的<br/>**`-ise`** 动词后缀，一般缀于形容词后。-ise 是英式英语，-ize 是美式英语。源自希腊语 -izein, verbal suffix. |
+| **re-vital-ize  **      <br />【ˌriːˈvaɪtəlaɪz】 | vt. 使有新的活力, 使新生, 使恢复元气<br/>推荐：re-重新 + vital-活 + -ise, 表动词<br/><br/>**`re-`** 表示“向后，往回，相反，相对，再”，或仅作强调用，在元音前 red-, reh-。源自拉丁语 re-, red- "backward, again."<br/>**`vitalise`** vt. 给与...生命力, 使有生气, 激发, 使增添活力<br/>切换词根显示方式 |                                  |                                                              |
+|                                                  |                                                              |                                  |                                                              |
+
+
+
+### vitamin（维生素）：维持生命活力所需的化合物
+
+<img src="./images/image-20220401141225711.png" alt="image-20220401141225711" style="zoom:50%;" /> 
+
+> 来自拉丁语 vita,生命，来自 PIE*gweie,存活，词源同 biology,quick,vivid,zoo
+
+维生素是维持身体健康所必需的一类有机化合物。这类物质在体内既不能是构成身体组织的原料，也不是能量的来源，而是一类**调节物质**，在物质代谢中起重要作用。
+
+维生素的发现是20世纪的伟大发现之一。1912年，波兰生物化学家卡西米尔•冯克（Casimir Funk）鉴定出在糙米中能对抗脚气病的物质是胺类（**amine**），因此将其命名为**vitamine**，由**vita**（生命）和**amine**（胺）构成。
+
+后来科学家发现，冯克所发现的仅仅是维生素中的一种，还有更多维生素并不属于胺类，因此将**vitamine**最后一个字母**`e`**去掉，变成了**vitamin**。中文曾将**vitamin**音译为“维他命”，后来统一为“维生素”。
+
+- **vitamin**：['vaɪtəmɪn] n.维生素，维他命
+- **vital**：['vaɪtl] adj. 至关重要的；生死攸关的；有活力的
+- **vitality**：[vaɪ'tæləti] n. 活力，生气；生命力，生动性
+
+
+
+英语词源趣谈(庄和诚)
+
+<img src="./images/image-20220401141840107.png" alt="image-20220401141840107" style="zoom:67%;" /> 
+
+**vitamin** - 该词为美国籍波兰生物化学家芬克（[Casimir Funk](https://en.wikipedia.org/wiki/Casimir_Funk), 1884-1967）所创。芬克是研究维生素的先驱，1911年成功地提取了维生素B1。他认为维生素中存在某种amino acid（氨基酸，胺酸），所以翌年他用拉丁语vīta 'life'（生命）加amine（胺）构成vitamine一词，表示我们今天称之为“维生素”的有机物。以后他发现维生素中并不含amino acid，才把字母e去掉，所以今天我们所用的vitamin词尾是没有e的。vitamin旧译“维他命”。
+
+例
+
+- Fish is rich in vitamins and minerals. 鱼含有丰富的维生素和矿物质。
+- This old lady needs extra vitamins and protein. 这位老太太需要额外补充维生素和蛋白质。
+- Lack of vitamin A can cause blindness. (LDC) 缺乏维生素A可能导致失明。
+- Vitamin C deficiency can ultimately lead to scurvy. (OCD) 缺乏维生素C最终会引起坏血病。
+
+
+
 
 
 ## pneumon- = lung, 表示“肺”{19}
@@ -1386,4 +1447,6 @@ dimple - 少女都讨厌**pimple**（青春痘），而喜欢一个字母之差�
 - She had a dimple which appeared when she smiled. 她笑的时候，脸上露出了一个酒窝。
 - Her cheeks dimpled as she smiled. 她一笑，脸上露出了酒窝。
 - She dimpled prettily at his compliment. 听到他的称赞，她妩媚地面露笑靥。
+
+
 
