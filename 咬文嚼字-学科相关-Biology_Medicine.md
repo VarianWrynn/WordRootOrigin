@@ -936,7 +936,7 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 | 单词                         | 解释                                                         | 单词 | 解释 |
 | ---------------------------- | ------------------------------------------------------------ | ---- | ---- |
-| **re-vive**<br />【rɪˈvaɪv】 | vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播<br/>vi. 苏醒, 复活, 复兴, 恢复精神<br/>推荐：re-再 + viv-活 + -e → 复活。<br/><br/>re- 表示“向后，往回，相反，相对，再”，或仅作强调用，在元音前 red-, reh-。<br />源自拉丁语 re-, red- "backward, again."<br/>vive- = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。<br />和表示生命的词根 bio-同源。源自拉丁语 vivus "living, alive," vivere "to live," viva "life." <br/>词源说明(童理民)  <br/>1 - re-,再，重新，-viv,生命，词源同 vivid,vital. |      |      |
+| **re-vive**<br />【rɪˈvaɪv】 | vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播<br/>vi. 苏醒, 复活, 复兴, 恢复精神<br/>推荐：re-再 + viv-活 + -e → 复活。<br/><br/>**`re-`** 表示“向后，往回，相反，相对，再”，或仅作强调用，在元音前 red-, reh-。<br />源自拉丁语 re-, red- "backward, again."<br/>**`vive-`** = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。<br />和表示生命的词根 bio-同源。源自拉丁语 vivus "living, alive," vivere "to live," viva "life." <br/>词源说明(童理民)  <br/>1 - re-,再，重新，-viv,生命，词源同 vivid,vital. |      |      |
 |                              |                                                              |      |      |
 |                              |                                                              |      |      |
 
