@@ -858,9 +858,23 @@ If you see grapefruit growing on a tree, you will notice that they grow in clust
 
 ## 其他
 
-<img src="./images/image-20220217170018714.png" alt="image-20220217170018714" style="zoom:50%;" /> 
+ 
+
+### herbi- = grass, 表示“草”，来自拉丁语。{11}
+
+| 单词                                | 解释                                                         | 单词 | 解释 |
+| ----------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **herbi-vor-e**<br />【ˈɜːrbɪvɔːr】 | n. 草食动物<br/>推荐：herbi-草 + vor-吃 + -e<br/><img src="./images/image-20220331092323834.png" alt="image-20220331092323834" style="zoom:67%;" /><br/>**`herbi-`** = grass, 表示“草”，来自拉丁语。<br/>**`vor-`** = eat, 表示“吃”。源自拉丁语 vorare "to swallow up."<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - herbi-,草，-vor,吃，词源同 voracity,devour. |      |      |
+|                                     |                                                              |      |      |
+|                                     |                                                              |      |      |
+
+
+
+
 
 ### jungle（丛林）：未被开垦的荒原
+
+<img src="./images/image-20220217170018714.png" alt="image-20220217170018714" style="zoom: 33%;" /> 
 
 > 来自印度语 jangal,森林，荒漠，无人居住的土地。现多用于比喻义指水泥丛林，钢铁丛林。
 
