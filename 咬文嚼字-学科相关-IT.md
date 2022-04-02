@@ -51,6 +51,18 @@
 
 
 
+## techn- = skill, ability, 表示“技术，能力”。源自希腊语 tekhne "art, craft, skill." {27}
+
+| 单词                                      | 解释                                                         | 单词 | 解释 |
+| ----------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **poly-techn-ic **<br />【ˌpɑːliˈteknɪk】 | a. 各种工艺的, 工艺教育的<br/>n. 工艺专科学校, 理工专科学校<br/>推荐：poly-多，复，聚 + techn-技术 + -ic表形容词，用于指技术学院或理工学院。<br/><img src="./images/image-20220402171919642.png" alt="image-20220402171919642" style="zoom:67%;" /><br/>**`poly-`** 表示“多”，来自希腊语。源自希腊语 polus "much, many."<br/>**`techn`**- = skill, ability, 表示“技术，能力”。源自希腊语 tekhne "art, craft, skill."<br/>**`-ic`** 表形容词，“…的”。<br/>词源说明(童理民)  <br/>1 - poly-,多，复，聚，-techn,技术，词源同 technology.用于指技术学院或理工学院。 |      |      |
+|                                           |                                                              |      |      |
+|                                           |                                                              |      |      |
+
+
+
+
+
 ## stereo- = solid, firm; three-dimensional; stereophonic, 表示“坚固，三维，立体”等 {25}
 
 > 源自希腊语 stereos "solid."
