@@ -300,6 +300,7 @@ guerrilla的今义“游击队员”始见于当时的英军指挥官威灵顿�
 | **dodo**<br />【ˈdoʊdoʊ】        | 渡渡鸟(不能飞行，现已灭绝);笨人;蠢人<img src="./images/image-20220208101711734.png" alt="image-20220208101711734" style="zoom: 45%;" /> | **moa**<br />【ˈmoʊə】               | n. 恐鸟<br/><img src="./images/image-20220208101349504.png" alt="image-20220208101349504" style="zoom: 80%;" /><br />词源说明(童理民)  <br/>1 - 新西兰一种已经灭绝的不能飞的大鸟，来自毛利语。 |
 | **fowl**<br />【faʊl】           | n. 鸟, 飞禽, 家禽<br/>vi. 打鸟<br/>推荐：<br/>源自古英语 fugel "bird," 原始日耳曼语词源。<br/><br/>词源说明(童理民)  <br/>1 - 来自 fly 的拼写异化。 | **water-fowl**<br />【ˈwɔːtərfaʊl】  | n. 水鸟<br/>推荐：<br/>water【水】 + fowl【鸟】              |
 | **robin**<br />【ˈrɑːbɪn】       | n. 旅鸫; 知更鸟<br/>推荐：代称，来自人名 Robin.比较 petrel,来自人名 Peter。<br/><img src="./images/image-20220322094649785.png" alt="image-20220322094649785" style="zoom:67%;" /><br/>词源说明(童理民)  <br/>1 - 代称，来自人名 Robin.比较 petrel,来自人名 Peter. | **ostrich**<br />【ˈɑːstrɪtʃ】       | n. 鸵鸟<br/><img src="./images/image-20220324094351313.png" alt="image-20220324094351313" style="zoom:50%;" /><br/>摩西英语(摩西)<br/>1.ostrich policy鸵鸟政策。ostrich鸵鸟，policy政策。鸵鸟遇到危险无法脱身时，会把身体蜷成一团，脖子向下弯，头钻入沙子里，以为这样就能脱离危险，<br />我们称之为“自欺欺人的政策”，另外也可以说是ostrich trick鸵鸟伎俩。The reason is simple: the Chinese media is adhering to its ostrich policy. <br/><br/>2.ostrich ['ɒstrɪtʃ] n. 鸵鸟；鸵鸟般的人和osprey ['ɒsprɪ] n. [鸟] 鹗（鱼鹰）。这俩货都是鸟，单词中都有个os-，这个os-是什么呢？<br />ostrich来自拉丁语avis struthio，avis表bird，struthio表鸵鸟（本意是大个的麻雀)，再如aviary鸟巢和aviator飞行员；osprey是avis prede即 "bird of prey"。 |
+| **magpie**<br />【ˈmæɡpaɪ】      | n. 鹊, 珍种家鸽, 饶舌的人<br/>a. 鹊的, 有收集癖的<br/>推荐：<br/>mag , 来自常见女性名Margaret昵称，通常用来指爱唠叨的女子，pie , 鹊名，来自拉丁语picus , 啄木鸟。需注意的是，这种鸟在欧洲中世纪时通常被视为不祥之兆。<br/><img src="./images/image-20220405223031496.png" alt="image-20220405223031496" style="zoom:67%;" /><br/>词源说明(童理民)  <br/>1 - mag,来自常见女性名 Margaret 昵称，通常用来指爱唠叨的女子，pie,鹊名，来自拉丁语 picus,啄木鸟。需注意的是，这种鸟在欧洲中世纪时通常被视为不祥之兆。<br/><br/>摩西英语(摩西)<br/>magpie ['mægpaɪ] n.鹊，喜鹊；饶舌的人；有收集零碎东西癖好的人，adj. 鹊的；有收集癖的；斑驳的；混杂的。今天是3.14，圆周率的日子。magpie中mag其实是女子名Margaret玛格丽特（本意是珍珠，希伯来语词源)，而妇女们有啥特点呢？饶舌！而喜鹊啥样子呢？身上羽毛呈斑驳混杂的样子，于是得名！ |                                      |                                                              |
 
 
 
@@ -687,6 +688,41 @@ daisy - daisy乃原产欧洲的一种花卉植物，汉语通称“雏菊”。�
 daisy ['deɪzɪ] n. 雏菊；菊科植物；极好的东西，adj.极好的。和其它花的区别是：雏菊早晨开放，晚上花瓣闭合，就像人眼睛。daisy的dais-部分，相当于day's，而结尾的-y实际同eye，即daisy=day's eye。古英语中daisy写作dægesege，古英语中g音变y音，所以有了现在的拼写。比较garden花园和yard庭院。
 
 
+
+### tulip（郁金香）：形如穆斯林头巾的花卉
+
+> 郁金香（tulip）源自波斯，现伊朗，因其形似头巾（turban）而得名。
+
+词源故事(钱磊)
+
+一提起郁金香（tulip），人们往往最先想到的就是荷兰。没错，郁金香是荷兰种植最广泛的花卉，也是荷兰的国花。
+
+很少有人知道，其实郁金香的故乡在中亚，包括西域即现在的新疆，16世纪后才传入欧洲。中国唐朝大诗人李白留下的“兰陵美酒郁金香，玉碗盛来琥珀光”即为明证。
+
+<img src="./images/image-20220405220917849.png" alt="image-20220405220917849" style="zoom:80%;" /> <img src="./images/image-20220405221401855.png" alt="image-20220405221401855" style="zoom: 50%;" />
+
+由于郁金香花似穆斯林头巾，所以波斯语称之为dulband，土耳其语称为tulbend，意即“穆斯林头巾”。该词通过拉丁文和法语进入英文，演变成tulip这一形式。土耳其语tulbend一词通过另一渠道进入英文，拼写为turban，仍指“穆斯林头巾”。
+
+- **tulip**：['tjuːlɪp] n.郁金香
+- **turban**：['tɝbən] n.穆斯林头巾
+
+英语词源趣谈(庄和诚)
+
+**tulip** - 我们常把郁金香与荷兰相联系，但它的历史却可追溯到中东。它原产中东，16世纪传入欧洲。
+
+在中东人们总是把它与穆斯林头巾相联系。由于其花似穆斯林头巾，波斯语称之为dulband，土耳其语借了过来，作tulbend，意即“穆斯林头巾”。
+
+该词通过法语tulipe/tulipan和拉丁文tulipa进入英语中，演变成tulip这一形式。土耳其语tulbend一词通过另一渠道进入英语，则作turban，仍指“穆斯林头巾”。
+
+例　
+
+- Holland is famous for its beautiful tulips. (NED) 荷兰以美丽的郁金香著称。
+- She planted a row of tulips in front of the porch. 她在门廊前种了一排郁金香。
+
+
+
+词源说明(童理民)  
+1 - 来自法语 tulipe,来自早期拼写形式 tulipan,郁金香花，来自土耳其语 tulbent,头巾，词源同turban.字母 r,l 音变。因这种花部分形似穆斯林人所带的头巾而得名。
 
 
 
