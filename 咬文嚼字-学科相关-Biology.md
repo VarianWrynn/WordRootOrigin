@@ -36,14 +36,6 @@
 
 
 
-## poly- 表示“多”，来自希腊语。源自希腊语 polus "much, many." {99}
-
-| 单词                                | 解释                                                         | 单词                                                         | 解释                                                         |
-| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **poly-graph** <br />【ˈpɑːliɡræf】 | n. 多种波动记录仪, 复写器, 多产作家, **测谎器**<br/>推荐：poly-多 + graph<br/><br/>**`poly-`** 表示“多”，来自希腊语。源自希腊语 polus "much, many."<br/>**`-graph`** = instrument to record, 表示“（记录）仪器”。源自希腊语 graphein "to scratch, draw, write."<br/>词源说明(童理民)  <br/>1 - poly-,多，复，聚，-graph,写，划，记录。<br />通过人在回答不同问题时时血压，脉搏，呼吸等数值的变化比较来测试人是否撒谎的仪器，俗称 lie detector. | **Poly-nes-ia **                        <br />【ˌpɑˌlɪˈniʒə】 | n. 波利尼西亚<br/>推荐：Poly-多 + nes-岛 + -ia<br/><br/>**`poly-`** 表示“多”，来自希腊语。源自希腊语 polus "much, many."<br/>**`nes-`** 表示“岛”。源自希腊语 nesos "island."<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - 南太平洋群岛。来自 poly-,多，复，聚，-nesia,岛，词源同 Indonesia.<br /> |
-|                                     |                                                              |                                                              |                                                              |
-|                                     |                                                              |                                                              |                                                              |
-
 
 
 ## 细胞核
@@ -208,6 +200,32 @@ A **larva** is an insect at the stage of its life after it has developed from an
   > 来自阿拉伯语 masjid,祷告的地方，清真寺，来自 ma-,表方位，sajada,俯伏在地，祈祷，祷告。
 
 
+
+
+
+
+
+
+
+## par-,partur- = bring forth, 表示“生产，生出孩子”。源自拉丁语 parire "to get, beget, give birth." {26}
+
+| 单词                        | 解释                                                         | 单词                        | 解释                                                         |
+| --------------------------- | ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
+| **vip-er**<br />【ˈvaɪpər】 | n. 蝰蛇, 毒蛇, 毒如蛇蝎的人, 阴险的人<br/>viv-,vit- = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。和表示生命的词根 bio-同源。源自拉丁语 vivus "living, alive," vivere "to live," viva "life." <br/>par-,partur- = bring forth, 表示“生产，生出孩子”。源自拉丁语 parire "to get, beget, give birth."<br/>-er 是施动者名词后缀，表示“人或物”，一般缀于动词后，来自古英语。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 vipera,蛇，蝰蛇，来自 vi-,生命，词源同 vivid,-per,带来，生育，词源同 parent,即带来生命的，因相比于其它蛇由蛋孵化而生，这种蛇在孵化前蛋一直在母蛇肚子里。 | **vip-er**<br />【ˈvaɪpər】 | n. 蝰蛇, 毒蛇, 毒如蛇蝎的人, 阴险的人                                                                 <br/>viv-,vit- = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。和表示生命的词根 bio-同源。源自拉丁语 vivus "living, alive," vivere "to live," viva "life." <br/>par-,partur- = bring forth, 表示“生产，生出孩子”。源自拉丁语 parire "to get, beget, give birth."<br/>-er 是施动者名词后缀，表示“人或物”，一般缀于动词后，来自古英语。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 vipera,蛇，蝰蛇，来自 vi-,生命，词源同 vivid,-per,带来，生育，词源同 parent,即带来生命的，因相比于其它蛇由蛋孵化而生，这种蛇在孵化前蛋一直在母蛇肚子里。<br/><br/>摩西英语(摩西)<br/>viper ['vaɪpə] n. 毒蛇；毒如蛇蝎的人。拼写中的vi-实际是词根viv，表live,living和alive等，而per则是词根par-，表准备、生产、安排、分配（部分）等，我们的父母亲parent就是“生产”了我们的人。部分有毒的蝰蛇是oviparous卵生的，但也有胎生的viviparous，即生下来的不是卵（ovi），而是活体。 |
+|                             |                                                              |                             |                                                              |
+|                             |                                                              |                             |                                                              |
+
+
+
+## viv-,vit- = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。和表示生命的词根 bio-同源。{23}
+
+> 源自拉丁语 vivus "living, alive," vivere "to live," viva "life." 
+
+| 单词                        | 解释                                                         | 单词                        | 解释                                                         |
+| --------------------------- | ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
+| **vip-er**<br />【ˈvaɪpər】 | n. 蝰蛇, 毒蛇, 毒如蛇蝎的人, 阴险的人<br/>viv-,vit- = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。和表示生命的词根 bio-同源。源自拉丁语 vivus "living, alive," vivere "to live," viva "life." <br/>par-,partur- = bring forth, 表示“生产，生出孩子”。源自拉丁语 parire "to get, beget, give birth."<br/>-er 是施动者名词后缀，表示“人或物”，一般缀于动词后，来自古英语。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 vipera,蛇，蝰蛇，来自 vi-,生命，词源同 vivid,-per,带来，生育，词源同 parent,即带来生命的，因相比于其它蛇由蛋孵化而生，这种蛇在孵化前蛋一直在母蛇肚子里。 | **vip-er**<br />【ˈvaɪpər】 | n. 蝰蛇, 毒蛇, 毒如蛇蝎的人, 阴险的人                                                                 <br/>viv-,vit- = life, 表示“生命”， 最终源自原始印欧语 *gweie- “to live活着”。和表示生命的词根 bio-同源。源自拉丁语 vivus "living, alive," vivere "to live," viva "life." <br/>par-,partur- = bring forth, 表示“生产，生出孩子”。源自拉丁语 parire "to get, beget, give birth."<br/>-er 是施动者名词后缀，表示“人或物”，一般缀于动词后，来自古英语。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 vipera,蛇，蝰蛇，来自 vi-,生命，词源同 vivid,-per,带来，生育，词源同 parent,即带来生命的，因相比于其它蛇由蛋孵化而生，这种蛇在孵化前蛋一直在母蛇肚子里。<br/><br/>摩西英语(摩西)<br/>viper ['vaɪpə] n. 毒蛇；毒如蛇蝎的人。拼写中的vi-实际是词根viv，表live,living和alive等，而per则是词根par-，表准备、生产、安排、分配（部分）等，我们的父母亲parent就是“生产”了我们的人。部分有毒的蝰蛇是oviparous卵生的，但也有胎生的viviparous，即生下来的不是卵（ovi），而是活体。 |
+|                             |                                                              |                             |                                                              |
+|                             |                                                              |                             |                                                              |
 
 
 
