@@ -345,6 +345,20 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## opto- = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."
+
+<img src="./images/image-20220408145822830.png" alt="image-20220408145822830" style="zoom: 36%;" /> 
+
+| 单词                                                   | 解释                                                         | 单词                           | 解释                                                         |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
+| **opto-metry   **               <br />【ɑːpˈtɑːmətri】 | n. 视力测定(法), 验光配镜(法)<br/>推荐：opto-视力 + -metry（关于测量的）..法或...技术<br/><br/>**`opto-`** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."<br/>更多同源词...<br/>**`-metry`** = process of measuring, 表示“（测量）术”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - 来自希腊语 optos,眼睛，视力，词源同 optic.-metry,测量仪器，测试。 | **bio-psy**<br />【ˈbaɪɑːpsi】 | n. 活组织检查                                                                                 <br/><img src="./images/image-20220408145631880.png" alt="image-20220408145631880" style="zoom: 50%;" /><br />**`ops-,opt-,opto-`** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."<br/>**`bio-`** = life, 表示“生命，生物”。源自希腊语 bios "life."<br/>词源说明(童理民)  <br/>1 - bio-,生命，-ops,看，见 optic,光学的。 |
+|                                                        |                                                              |                                |                                                              |
+|                                                        |                                                              |                                |                                                              |
+
+
+
+
+
 
 
 ## -oma = "tumor, mass, swelling", 名词后缀，表示“...肿、...瘤”等。正确的复数形式是 -omata{46}

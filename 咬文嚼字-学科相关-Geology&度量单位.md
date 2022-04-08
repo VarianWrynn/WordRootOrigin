@@ -401,7 +401,11 @@ alto - 此系音乐术语，源自拉丁语altus，但却是直接借自意大�
 
 ## 度量单位
 
-### metr- = measure, 表示“计量，测量等”{78}
+
+
+### 源自希腊语 metron "measure, rule, length, proportion, poetic meter."{120}
+
+#### 1. metr- = measure, 表示“计量，测量等”{78}
 
 >  源自希腊语 metron "measure, rule, length, proportion, poetic meter."
 
@@ -410,6 +414,18 @@ alto - 此系音乐术语，源自拉丁语altus，但却是直接借自意大�
 | **metr-ic**<br />【ˈmetrɪk】 | a. 公尺的, 公制的, 计量的<br/>推荐：metre【米，公制】 + -ic表形容词。<br/>**`metr-`** <= measure, 表示“计量，测量等”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."<br/>**`-ic`** 表形容词，“…的”。 | **matrix**[^1]<br />【ˈmeɪtrɪks】 | n. **母体, 子宫, 基质, 脉石, 模型, 矩阵**<br />推荐： matri-母亲 + x → 母亲 → 母体。<br /><img src="./images/image-20220122160949872.png" alt="image-20220122160949872" style="zoom: 33%;" /><br /> 词根分解  [词根树] **`matern-,matr-` ** = mother, 表示“母性，母亲”，源自拉丁语 mater "mother", 属格形式 matris。<br />母亲生出各种各样的孩子，就好像原材料做出各种物品一样，由此引出材料的含义。<br />来自拉丁语 matrix,子宫，母体，来自 mater,母亲。引申词义社会环境，并用于指科学术语矩阵。见电影《黑客帝国》 |
 |                              |                                                              |                                   |                                                              |
 |                              |                                                              |                                   |                                                              |
+
+
+
+#### 2. -metry = process of measuring, 表示“（测量）术”{42}
+
+> 源自希腊语 metron "measure, rule, length, proportion, poetic meter." 
+
+| 单词                                                   | 解释                                                         | 单词 | 解释 |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **opto-metry   **               <br />【ɑːpˈtɑːmətri】 | n. 视力测定(法), 验光配镜(法)<br/>推荐：opto-视力 + -metry（关于测量的）..法或...技术<br/><br/>**`opto-`** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."<br/>更多同源词...<br/>**`-metry`** = process of measuring, 表示“（测量）术”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - 来自希腊语 optos,眼睛，视力，词源同 optic.-metry,测量仪器，测试。 |      |      |
+|                                                        |                                                              |      |      |
+|                                                        |                                                              |      |      |
 
 
 
