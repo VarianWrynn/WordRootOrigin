@@ -893,9 +893,7 @@ If you see grapefruit growing on a tree, you will notice that they grow in clust
 
 
 
-## 其他
-
- 
+## 植物
 
 ### herbi- = grass, 表示“草”，来自拉丁语。{11}
 
@@ -906,6 +904,18 @@ If you see grapefruit growing on a tree, you will notice that they grow in clust
 |                                     |                                                              |      |      |
 
 
+
+
+
+## 其他
+
+ 
+
+| 单词                   | 解释                                                         | 单词 | 解释 |
+| ---------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **reed**<br />【riːd】 | n. 芦苇, 芦笛, 簧舌, 纤弱的人<br/>vt. 用芦苇盖, 用小凸嵌线装饰<br/><img src="./images/image-20220410153939831.png" alt="image-20220410153939831" style="zoom:50%;" /><br />词源说明(童理民)  <br/>1 - 来自古英语 hreod,芦苇，来自 Proto-Germanic*kreut,芦苇，可能来自 PIE*sker,弯，转，编织，词源同 ring,cradle. |      |      |
+|                        |                                                              |      |      |
+|                        |                                                              |      |      |
 
 
 

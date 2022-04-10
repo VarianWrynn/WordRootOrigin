@@ -38,8 +38,6 @@ Expect all of this to be wrong: Things can switch up on you every time you cross
 
 
 
-[^1]: totem pole【ˈtoʊtəm poʊl】 图腾柱;(机构等内的)等级，级别。 a range of different levels in an organization, etc.
-
 ### peer（贵族）：与查理曼大帝平起平坐的十二骑士
 
 英语单词**peer**原本是“同等的人”之意，来自拉丁语par（equal，相等）。它还可以表示“贵族”，这是为什么呢？原来，在中世纪，法兰克王国的著名国王查理曼大帝身边有十二个武艺高强的骑士，一直追随查理曼大帝南征北战，立下赫赫战功。为了犒赏他们，查理曼大帝借鉴亚瑟王和十二圆桌骑士的故事，和这十二位骑士平起平坐，将他们称为**peer**，意思就是“平起平坐的人”。***由于这些骑士都是贵族，因此peer就衍生了“贵族”的含义***。
@@ -278,6 +276,22 @@ king来自古英语cyning，与单词**`cynn`**（kin，家族，种族）相关
 | **mis-andr-y**<br />【mɪsændrɪ】                             | hatred of men 男性厌恶;男性贬抑;厌男主义或男性贬抑;厌男人<br />![image-20220214111510137](./images/image-20220214111510137.png) | **phil∙ander**<br />【fɪ'lændə】         | vi. 玩弄女性, 调情<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`ander-`** = male, man, 表示“男人”。源自希腊语 aner (词干 andr-) "man."<br/>词源说明(童理民)  <br/>1 - 来自希腊语 philandros,有爱心的人，来自 phil-,爱，-ander,人，男人，词源同 android.后来词义被误解为性欲过度的男人，淫棍，引申词义调戏，玩弄女性。 |
 | **poly-andr-ic**                           <br />【ˌpɒlɪˈændrɪk】 | a. 一妻多夫的<br/><br/>推荐：poly-多 + andr-男人 + -ic表形容词<br/><img src="./images/image-20220325103254241.png" alt="image-20220325103254241" style="zoom:80%;" /><br/>poly- 表示“多”，来自希腊语。源自希腊语 polus "much, many."<br/>andr- = male, man, 表示“男人”。源自希腊语 aner (词干 andr-) "man." | **poly-andry**<br />【ˌpɑːliˈændri】     | n. 一妻多夫, 多雄蕊式<br/>推荐：poly-多 + andr-男人。<br/><img src="./images/image-20220325103208262.png" alt="image-20220325103208262" style="zoom:50%;" /><br/>poly- 表示“多”，来自希腊语。源自希腊语 polus "much, many."<br/>andry- = male, man, 表示“男人”。源自希腊语 aner (词干 andr-) "man."<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - poly-,多，复，聚，-ander,男人，人，词源同 android. |
 |                                                              |                                                              |                                          |                                                              |
+
+
+
+
+
+### 3. -ine 表名词，“人或女人” {9}
+
+> masculine=mas+cul+ine，mas-男性，cul-指小，-ine表of,like。male可以看作是mascul-的缩短式。男性的符号来自罗马战神Mars的盾和矛。
+
+| 单词                                    | 解释                                                         | 打你                                  | 解释                                                         |
+| --------------------------------------- | ------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ |
+| **mascul-line**[^2]<br />【ˈmæskjəlɪn】 | n. 阳性, 男性<br/>a. 男性的, 阳性的, 有丈夫气的<br/>推荐：mascul-雄性 + ine具有…性质的 → 男子气的。<br/><img src="./images/image-20220410155207750.png" alt="image-20220410155207750" style="zoom:67%;" /><br/>mascul- 3= male, 表示“雄性”。mas-男人，-cul 小词后缀。<br/>-ine 表名词，“人或女人”。<br/><br />来自拉丁语 masculus,男人的，具备男人的美德的，来自 mas,男人，男子，<br />词源同 marry,-cul,小词后缀。字面意思即小男子汉，男人的。后引申词义男性化的，语法格阳性的。male 为该词缩写词 | **con-cub-ine**<br />【ˈkɑːŋkjubaɪn】 | n. (尤指旧时某些社会里的)妾，姨太太，小老婆<br/>推荐：con-强调 + cub-躺，睡 + -ine。<br/><br/><img src="./images/image-20220410155455319.png" alt="image-20220410155455319" style="zoom: 50%;" /><br />**`con-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。<br/>**`cub-`** = lie down, 表示“躺”； =barrier, 表示“躺的东西,障碍”。源自拉丁语 cumbere, cumare "to lie down, lean"<br/>**`-ine`** 表名词，“人或女人”。<br/>词源说明(童理民)  <br/>1 - con-,表强调，-cub,躺，睡，词源同 incubus,succubus. |
+|                                         |                                                              |                                       |                                                              |
+|                                         |                                                              |                                       |                                                              |
+
+
 
 
 
@@ -1032,3 +1046,12 @@ count下面还有普通的骑士，可能就负责一个城堡或一个村镇。
 1. [Peerage of England](https://en.wikipedia.org/wiki/Peerage_of_England) 
 1. [欧洲贵族划分竟是这么乱](https://baike.baidu.com/tashuo/browse/content?id=5c9384dc4e5ea42f53359fe1&fromModule=pcArticleMoreRecommend)
 
+
+
+
+
+[^1]: totem pole【ˈtoʊtəm poʊl】 图腾柱;(机构等内的)等级，级别。 a range of different levels in an organization, etc.
+
+
+
+[^2]: 词源说明(童理民)  <br/>1 - 来自拉丁语 masculus,男人的，具备男人的美德的，来自 mas,男人，男子，词源同 marry,-cul,小词后缀。字面意思即小男子汉，男人的。后引申词义男性化的，语法格阳性的。male 为该词缩写词。<br/><br/>摩西英语(摩西)<br/>male [meɪl] adj.男性的；雄性的；有力的，n.男人；雄性动物。这个单词可以参考masculine ['mæskjʊlɪn] adj.男性的；阳性的；男子气概的，n.男性；阳性；阳性词，masculine=mas+cul+ine，mas-男性，cul-指小，-ine表of,like。male可以看作是mascul-的缩短式。男性的符号来自罗马战神Mars的盾和矛。
