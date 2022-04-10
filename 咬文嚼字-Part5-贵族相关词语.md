@@ -397,6 +397,40 @@ Reference:
 
 
 
+我们先梳理一下清朝后宫的嫔妃体系，一共八个级别，分别是：皇后，皇贵妃，贵妃，妃，嫔，贵人，常在，答应。
+
+
+
+| 中文                 | 英文                               | 解释                                                         |
+| -------------------- | ---------------------------------- | ------------------------------------------------------------ |
+| 皇后                 | **Empress**                        | 最高一级的皇后是 empress (/ˈemprəs/)，其实就是皇帝“emperor”的女版。 |
+| 皇贵妃               | **Imperial Noble Consort**         | 比皇后低一级的是“皇贵妃”了，“贵”应该用 noble一词，表示“高贵的”。 |
+| 贵妃                 | Noble Consort                      | Consort (/ˈkɒnsɔːt/)就很合适，表示“（统治者的）配偶”。<br />“熹贵妃”，被翻译为“Noble Consort Xi”。 |
+| 妃                   | **Consort**                        | 比“贵妃”低一级是“妃”，要去掉修饰词 Noble，单独一个 Consort 就可以了，所以“华妃” Consort Hua。 |
+| 嫔                   | **Concubine**                      | 比“贵妃”低一级的是“嫔”，英文翻译是 Concubine (/ˈkɒŋkjubaɪn/)。<br />Concubine 这个词就是指（尤指旧时某些社会里的）妾，陈凯歌的《霸王别姬》就被翻译为“Farewell my concubine”。 |
+| 贵人                 | **Noble**                          | 比“嫔”次一级的封号是“贵人”，美版《甄嬛传》中把“贵人”被翻译为 Noble Lady，就是“高贵的女士”。 |
+| 常在                 | **First Attendant**                | 比“贵人”低一级的是“常在”，英文不是 always here，而是 First Attendant(表示“一级女侍”。)。<br />Attendant (/əˈtendənt/) 在现代语境中表示“服务人员”，比如“空中乘务员”就是 flight attendant，而在古代宫廷中，该词表示“侍从”。 |
+| 答应                 | **Second Attendant**               | 比“常在”低一级的，也是嫔妃系统中最低一级的是“答应”,既然“常在”叫 First Attendant，那么比“常在”次一级的“答应”就是 Second Attendant |
+| -------------------  | ----------------------             | -------------------------------------------------------      |
+|                      | Dowager                            | 这里的 Dowager 表示“a woman of high social rank who has a title from her dead husband”，（具有亡夫头衔的）孀居贵妇。 |
+| 圣母皇太后           | Empress Dowager (/ˈdaʊədʒə(r)/)。  |                                                              |
+| 小主<br />(低级嫔妃) | Young Mistress                     | mistress 现代的意思是“情妇”，在古代是指雇用仆人的“女主人”。  |
+| 娘娘<br />(高级嫔妃) | My Lady <br />/<br />Your Highness | 前者偏口语化，后后者更正式。                                 |
+| 太监                 | eunuch （/ˈjuːnək/）               | 奴才:Your unworthy servant (您一文不值的仆人)                |
+
+
+
+### eunuch /ˈjuːnək/ 阉人;太监;宦官;无权力(或影响)的人
+
+英语词源趣谈(庄和诚)
+
+eunuch - 该词和castration（阉割）无词源上的联系。它源自希腊语eunē 'bed'和échein 'to keep'构成的合成词eunoûchos，故其字面义为bedchamber guard（寝室的守卫者），但它却是15世纪转道拉丁语eunūchus进入英语的。旧时在东方一些国家，后宫内侍奉帝王及其家属的人由被阉割的男子充任，这使得eunuch在英语中被赋予了“太监”或“阉人”一义。今天，该词还常被引申用来喻指“能力低下者”或“无男子气概的人”。
+
+词源说明(童理民)  
+1 - 来自希腊语 eunoukhos,床边侍者。来自 eune,床，词源不详，可能来自 PIE*wen,追寻，渴求，词源同 Venus.-okh,持，握，词源同 epoch,school.后来用来指阉人，太监。
+
+
+
 ### Reference
 
 1. [美版《甄嬛传》把“嫔妃、贵人、常在、答应”翻得好雅致！](https://mp.weixin.qq.com/s/VXcEaZjXoRvwJ7QTqsKgjw)
