@@ -30,11 +30,38 @@
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
 | **micro-be**<br />【ˈmaɪkroʊb】 | n. 微生物, 细菌<br/>推荐micro-微小的 + be-生命<br/><br/>**`micro-`** = small, 表示“小”。源自希腊语 (s)mikros "small."<br/>**`be-`** = life, 表示“生命，生物”。源自希腊语 bios "life."<br/>词源说明(童理民)  <br/>1 - micro-,微小的，-be,生命，词源同 biology,zoo.引申词义微生物。 | **pro-ger-ia**<br />【prəʊ'dʒɪərɪə】 | 【医】 早老.早衰<br/>推荐：pro-前 + ger-老 + -ia<br/><br/>**`pro-`** 表示“向前，在前”，变体包括 pur-, por-。<br/>**`ger-`** = old, 表示“老”。源自希腊语 geras "old age," geron "old man.". |
 | **biota**<br />【baɪ'əʊtə】     | n.   生物区；生物群 all the plant and animal life of a particular region<br /><img src="./images/image-20220315100044407.png" alt="image-20220315100044407" style="zoom:67%;" /><br />bio-,bi- = life, 表示“生命，生物”。源自希腊语 bios "life."<br/>n.<br/>1 . the total complement of animals and plants in a particular area | **bio-psy**<br />【ˈbaɪɑːpsi】       | n. 活组织检查                                                                                 <br/><img src="./images/image-20220408145631880.png" alt="image-20220408145631880" style="zoom: 50%;" /><br />**`ops-,opt-,opto-`** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."<br/>**`bio-`** = life, 表示“生命，生物”。源自希腊语 bios "life."<br/>词源说明(童理民)  <br/>1 - bio-,生命，-ops,看，见 optic,光学的 |
+| **aero-b-es**<br />【eərəʊbz】  | n. 需氧菌;好氧微生物;好氧菌;好氧生物;需氧<br/>推荐：aero-空气 + b-=bio-生物 + -e<br/><img src="./images/image-20220410093532431.png" alt="image-20220410093532431" style="zoom: 50%;" /><br/>**`aero-`** = air, 表示“空气，充气”等。源自希腊语 aer "air."<br/>**`b-`** = life, 表示“生命，生物”。源自希腊语 bios "life."<br/>更多同源词... | **aerob-ic**<br />【eˈroʊbɪk】       | a. 需氧的, 需氧菌产生的, 增氧健身法的<br/>推荐：aerobe + -ic表形容词，是单词aerobe 派生的形容词。<br/><img src="./images/image-20220410093808764.png" alt="image-20220410093808764" style="zoom:67%;" /><br/>**`aerobe`** n. 需氧菌<br/>**`-ic`** 表形容词，“…的”。<br/>切换词根显示方式 |
+|                                 |                                                              |                                      |                                                              |
 |                                 |                                                              |                                      |                                                              |
 
 
 
 
+
+
+
+### aerobic（需氧的）和anaerobic（厌氧的）：微生物对氧气的不同需求
+
+> aero-,空气，-b,生命，词源同 biology,生物学。即存活生命的空气，氧气。
+
+词源故事(钱磊)
+
+19世纪60年代，法国著名化学家及生物学家巴斯德发现，有些微生物能在缺乏空气或氧气的情况下存活，有些微生物则只能在有空气和氧气的情况下存活。
+
+为了区别微生物对氧气的不同需求，巴斯德创造了**aerobic**（需氧的）和**anaerobic**（厌氧的）两个新词。
+
+其中，**aerobic**由词根**`aero-`**（空气）+**`bios`**（生物）+形容词后缀**`-ic`**构成，而**anaerobic**则是在**aerobic**前面添加了表示“否定”的前缀**`an-`**。
+
+- **aerobic**：[eə'rəʊbɪk] adj.需氧的，增氧健身法的
+- **anaerobic**：[,æneə'rəʊbɪk] adj.厌氧的，没有空气也能存活的
+
+
+
+摩西英语(摩西)
+
+**aerobic** [eə'rəʊbɪk] adj.需氧的；增氧健身法的。希腊词根**`aero-`**表示空气，比如**air**，词根**`bi-`**表示生物，形容词后缀**`-ic`**表...的。
+
+最初**aerobic**指生物体的存活需要空气（含氧气），后来两位美国空军专业人士在找到了为什么一些肌肉发达的人完成长跑和游泳等有氧运动也很困难的原因后，创造了有氧运动法。 
 
 
 
