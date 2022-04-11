@@ -883,35 +883,28 @@ decoy ['diːkɒɪ; dɪ'kɒɪ] n.诱饵；诱骗，vt.诱骗，vi.被诱。这个
 
   《圣经.撒母耳记》中，年轻的牧羊人大卫夸耀他曾经从一只狮子口中救下来过一只羊羔。当狮子过来攻击他的时候，他揪住了狮子的胡须并杀死了它。后来大卫又战胜了巨人歌利亚并最终成为了以色列的国王。He's in his office, so let's beard the lion in his den now. 
 
-### Barbarian 不会讲希腊语的野蛮人
-
-> 来自拉丁语 barba,胡子，严格意义上指刮胡子的师傅。
-
-<img src="./images/image-20211008153803764.png" alt="image-20211008153803764" style="zoom: 50%;" /> 
-
-在古代欧洲，希腊的文明程度最高，因此当时的希腊人对本民族的文化尤其是希腊语非常骄傲，嘲笑外地人所讲的语言就像是“吧啦吧啦”（***barbar***）的鸟语，所以就用***barbaros***这个单词来形容文化程度低下的外地人。
-
-经过拉丁语流传至英语后，产生了**barbarous**（野蛮的）和**barbarian**（蛮族）这些词汇。
-
-“蛮族”指的是希腊和罗马周围的文明程度较低的其他民族，主要包括凯尔特人、日耳曼人、斯拉夫人等。后来，这些蛮族部落在欧洲大范围迁徙并入侵罗马帝国，建立了众多的蛮族小政权，是众多欧洲当代国家的源头。位于北非的柏柏尔人（**berber**）也被归入蛮族，该民族的英文名称一样来自希腊语***barbaros***。
-
-- **barbarian**：[bɑː'beərɪən] n.野蛮人，蛮族
-- **barbarous**：['bɑːb(ə)rəs] adj.野蛮的，未开化的，残暴的
-- **barbaric**：[bɑr'bærɪk] adj. 野蛮的，粗野的；原始的
-- **barbarism**：['bɑrbərɪzəm] n. 野蛮；原始；未开化；暴虐
-- **barbarity**：[bɑr'bærəti] n. 残暴；粗野
-- **Berber**： ['bə:bə] n.柏柏尔人，柏柏尔语
 
 
+### Uncouth a. 笨拙的, 粗野的, 荒凉的
 
-**英语词源趣谈(庄和诚)**
+<img src="./images/image-20220411173530091.png" alt="image-20220411173530091" style="zoom:50%;" /> 
 
-**barber** - 理发师的工作乃修剪头发、胡子等。英语中表示“理发师”的barber一词即源自意为“胡须”的拉丁语**barba**。理发店外面的旋转标志彩柱，英语叫**barber pole**。旧时欧洲的理发师兼做外科手术，因此barber pole一般呈红白双色，以此象征理发师为人裹伤所用的绷带。
+> un-,不，非，couth,有礼貌的，词源同 can,could.
+
+英语词源趣谈(庄和诚)
+
+**uncouth**是一个极为古老的词，可追溯至古英语uncūth，原始意义是unknown/unfamiliar（不被人知道的，不熟悉的），由否定前缀un-和couth构成，此义一直使用到17世纪。以后，人性中存在的一种对陌生人和外国人感到厌恶的倾向，使它的词义逐渐引申为“古怪的”、“笨拙的”，最后又进而引申为“粗野的”、“无教养的”。
+
+**couth**一词原义是known/familiar（熟识的，熟悉的），与情态动词can和形容词cunning（狡猾的）本是同源词，早已废弃不用。可是到了20世纪60年代，人们又从用于“粗野的”或“无教养的”一义的uncouth逆构出一个新的couth来，作为uncouth的反义词，一般用作戏谑语，表示“温文尔雅的”、“优雅的”和“有教养的”等义。
 
 例　
 
-- I was sitting in the barber shop when I heard the news. (CAE) 我是坐在理发店里听到那个消息的。
-- As well as a haircut, a man can have a shave or get his beard trimmed when he goes to a barber. (CID) 男人去理发店，除了理发之外还可以刮脸或修剪胡子。
+- Uncouth [ʌnˈkuːθ] a. 粗野的;无教养;无教养的
+- Those people were aggressive and uncouth. 那些人好寻衅，无教养。
+- The city's elite viewed her as an uncouth farm girl. (LAA) 城里的精英们将她看作是一个粗野的农场姑娘。
+- Belching at the table is uncouth behavior. (NED) 在饭桌旁打嗝是无教养的行为。
+
+
 
 
 
