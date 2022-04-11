@@ -248,6 +248,22 @@ penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander
 n.
 1 . [ Brands and Products ] a thick oily substance used on dry skin 
 
+
+
+
+
+## genu-  = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”{166}
+
+| 单词                                   | 解释                                                         | 单词 | 解释 |
+| -------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **in-genu-ity**<br />【ˌɪndʒəˈnuːəti】 | n. 心灵手巧, 精巧, 精巧设计<br/>推荐：in-在...内 + genu-出生 + -ity, 表名词<br/><img src="./images/Ingenuity¸_intersection.png" alt="Ingenuity - Innovation Institute" style="zoom:33%;" /><br/>**`in-`** 来自拉丁语in-，表示“在内，进入，使...”。<br/>**`genu-`** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。<br/>**`-ity`** 表名词，指具备某种性质。 |      |      |
+|                                        |                                                              |      |      |
+|                                        |                                                              |      |      |
+
+
+
+
+
 ## -osis  医学词根，表示“病理状况”{130}
 
 > -osis 
