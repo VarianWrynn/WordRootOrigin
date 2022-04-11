@@ -237,6 +237,44 @@
 
 ## Classification Of Living Things
 
+<img src="./images/Genus-rank-diagram.png" alt="taxonomic ranks" style="zoom:95%;" /><img src="./images/image-20220411105219489.png" alt="image-20220411105219489" style="zoom:80%;" />
+
+
+
+| 英文          | 中文                                                         | 描述                                                         |
+| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Taxonomy ** | **[生物分类学](https://baike.baidu.com/item/%E7%94%9F%E7%89%A9%E5%88%86%E7%B1%BB%E5%AD%A6/1298770?fr=aladdin) ** | **生物分类学**通常直接称**分类学**（英语：**taxonomy**），是一门研究生物类群间的异同以及异同程度，阐明[生物](https://baike.baidu.com/item/生物/161443)间的亲缘关系、基因遗传、物种进化过程和发展规律的基础科学 |
+| **Domain**    | 域                                                           |                                                              |
+| **Kingdom**   | [界](https://baike.baidu.com/item/%E7%95%8C/12740251?fr=aladdin) | 在很长一段时间里，界（Kingdom）是[生物科学](https://baike.baidu.com/item/生物科学/354774)[分类法](https://baike.baidu.com/item/分类法/9878503)中最高的类别。一开始人只将生物分为动物和植物两界，[微生物](https://baike.baidu.com/item/微生物/147527)被发现后，也长时期被分入动物或植物界；<br />最新的生物分子基于[RNA](https://baike.baidu.com/item/RNA/98142)结构和运作机制的不同，引入了域作为生物最高的[类别](https://baike.baidu.com/item/类别/693095)。现有的生物被分入[细菌](https://baike.baidu.com/item/细菌/372577)、[古菌](https://baike.baidu.com/item/古菌/9700415)与[真核生物](https://baike.baidu.com/item/真核生物/1398395)三个域。 |
+| Phylum        | 门                                                           |                                                              |
+| Class         | 纲                                                           |                                                              |
+| Order         | 目                                                           |                                                              |
+| Family        | 科                                                           |                                                              |
+| Genus         | 属                                                           |                                                              |
+| Species       | 种                                                           |                                                              |
+
+ 
+
+
+
+| 英文    | 中文                                                         | 描述                                                         |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Eukarya | [真核生物域](https://baike.baidu.com/item/%E7%9C%9F%E6%A0%B8%E7%94%9F%E7%89%A9%E5%9F%9F/7522591) | 现有的生物被分入[细菌](https://baike.baidu.com/item/细菌/372577)、[古菌](https://baike.baidu.com/item/古菌/9700415)与[真核生物](https://baike.baidu.com/item/真核生物/1398395)三个域。[真核生物域](https://baike.baidu.com/item/真核生物域/7522591)中分六个界：[囊泡藻界](https://baike.baidu.com/item/囊泡藻界/7217281)、[古虫界](https://baike.baidu.com/item/古虫界/13473963)、有孔虫界、真菌界、植物界和动物界。 |
+|         |                                                              |                                                              |
+|         |                                                              |                                                              |
+
+
+
+
+
+<img src="./images/human-taxonomy-diagram.jpg" alt="Taxonomy of Human" style="zoom: 39%;" /> 
+
+
+
+<img src="./images/image-20220411105750310.png" alt="image-20220411105750310" style="zoom:80%;" />
+
+
+
 **Reference:**
 
 1. [What Is A Species?--worldatlas.com](https://www.worldatlas.com/articles/what-is-a-species.html)
