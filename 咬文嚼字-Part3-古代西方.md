@@ -2162,6 +2162,89 @@ The campaign about safe sex is designed to check the spread of AIDS. 宣传安�
 
 
 
+
+
+
+
+a. 金钱的, 金钱方面的, 课罚款的
+范围：GRE
+单词笔记   ［添加］
+推荐：
+pecuni-财产 + -ary
+
+词根树   
+-arypecun-pecun.i.ary
+
+pecun∙i∙ary  [词根树]
+pecun- 4
+= wealth，表示“财产”。源自拉丁语 pecunia "property, wealth."
+更多同源词...
+-ary 
+表形容词，“…的”。
+更多同源词...
+
+
+
+### pecu-/pecul- （私人的）：以牛为形式的私人财产 {4} | fee
+
+**词源故事(钱磊)**
+
+在古代，牛是重要的牲畜，也是家庭中最主要的私人财产。在拉丁语中，***pecu***表示“牛”，由此产生了***peculium***（私人财产），本意就是“以牛为形式的私人财产”。
+
+英语词根**`pecu-/pecul-`**便来源于此，表示“私人的、私有的”，并衍生出“***个别的、特殊的***”之意。包含该词根的常见单词有：peculiar（特殊的），字面意思就是“个人专有的”。同源单词还有有**peculate**（盗用、挪用），初始含义就是“变成私人财产”。
+
+- **`pecu-`**/**`pecul-`**：私人的，私有的
+
+- **peculiar**：[pɪ'kjuːlɪə] 
+
+  <img src="./images/image-20220413094737014.png" alt="image-20220413094737014" style="zoom:33%;" /> 
+
+  - adj.特殊的，独特的，奇怪的
+  - n.特权，专有财产
+
+- **peculiarity**： [pɪ'kjʊlɪ'ærəti] n. 特性；特质；怪癖；奇特
+
+  <img src="./images/image-20220413094618378.png" alt="image-20220413094618378" style="zoom:67%;" /> 
+
+- **peculate**：['pekjʊleɪt] v.盗用，挪用（公款）
+
+  <img src="./images/image-20220413094434368.png" alt="image-20220413094434368" style="zoom: 67%;" /> 
+
+- **peculation**：[,pɛkjʊ'leʃən] n.贪污，挪用公款，侵吞公款
+
+- **pecuniary**： [pɪ'kjunɪɛri] adj. 金钱的；应罚款的
+
+  <img src="C:\Users\lee.wang\AppData\Roaming\Typora\typora-user-images\image-20220413094305748.png" alt="image-20220413094305748" style="zoom:50%;" /> 
+
+
+
+**词源说明(童理民)**  
+
+1 - 来自拉丁语 pecunia,钱财，财产，来自 pecus,家畜，牛，羊，来自 PIE*peku,牛，羊，家畜，牲口，来自 PIE*pek,拔，拔羊毛，梳理，整理，词源同 fair,fight.其词义由拔羊毛的动作引申词义羊，后引申词义家畜，牛，在古代社会，牛，羊等家畜是衡量一个家庭财富的手段，因此，引申词义动产，财产，钱财等。词义演变比较 furrow,farrow,pork.
+
+
+
+**英语词源趣谈(庄和诚)**
+
+盎格鲁撒克逊人用牛来进行交易。牛在古代是主要的财产形式（**form of property**），也是主要的支付手段（**means of payment**）。他们称牛为***fēoh***，把财产也叫做***fēoh***。
+
+嗣后，该词逐渐被用以泛指作为支付的任何东西，最后其词形演变为**fee**，意义也发生了变化，现指各种费，如会费、学费、入场费、手续费等。
+
+在拉丁语中也出现了类似的词义演变，如源自**pecus**（牛）的***pecūnia***转指“钱”，借自该词的英语单词**pecuniary**（金钱上的）即源于此。
+
+德语中的**Vieh**和**fee**是同源词，但其义依旧未变，还指“牛”或“牲畜”。英语中另有两个词**feudal**（封建的）和**fellow**（家伙，伙伴），和fee也有亲缘关系，它们都源自古英语fēoh，fellow原指生意合伙人。
+
+例
+
+- Some lawyers charge exorbitant fees. 有些律师收费过高。
+- If you want to join, there's an entrance fee of ￥50 and an annual membership fee of ￥20. 入会须缴入会费50元和年费20元。
+- Our parents worked hard to pay our school fees, so we felt it was our duty to do well. (LLA) 为了给我们交学费，双亲辛勤地工作，所以我们觉得有责任把功课学好。
+- Last year alone, the company paid over 12 million in legal fees. (LLA) 仅在去年一年，公司就付了1200万美元的诉讼费。
+
+
+
+
+
 ## 卷宗
 
 ### culp- = fault, 表示“错，罪”{8}
