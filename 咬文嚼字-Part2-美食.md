@@ -480,7 +480,7 @@ Tangential Trivia: \$1,000 in 1915 would be the equivalent of \$23,500 today.
 
 ## Past-
 
-### 1. paste- = dough, 表示“面团”{10}
+### 1. past- = dough, 表示“面团”{10}
 
 > 源自希腊语 passein "to sprinkle." {10}
 
