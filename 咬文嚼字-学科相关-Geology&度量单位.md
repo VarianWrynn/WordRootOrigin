@@ -112,15 +112,13 @@ https://upload.wikimedia.org/wikipedia/commons/7/77/Geologic_Clock_with_events_a
 
 
 
-#### 5. archaeo- = old, 表示“古”{10}
+#### 5. archaeo- = old, 表示“古” 来自希腊语 arkhē "beginning."{10}
 
-> 来自希腊语 arkhē "beginning."
-
-| 单词                                    | 解释                                                         | 单词                                   | 解释   |
-| --------------------------------------- | ------------------------------------------------------------ | -------------------------------------- | ------ |
-| **Archeo-zo-ic**<br />【ˌɑːkɪəˈzəʊɪk 】 | n. 早期前寒武纪<br/>推荐：Archeo- + zo-动物 + -ic<br/><br/>archaeo- = old, 表示“古”。来自希腊语 arkhē "beginning."<br/>zo- = animal, 表示“动物”。源自希腊语 zoon, zoion "living being, animal." | archaeo-cyte  <br/><br/>【ɑr'ki:əsɪt】 | 原细胞 |
-|                                         |                                                              |                                        |        |
-|                                         |                                                              |                                        |        |
+| 单词                                                     | 解释                                                         | 单词                                                  | 解释                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ |
+| **Archeo-zo-ic **                <br />【ˌɑːkɪəˈzəʊɪk 】 | n. ~~早期前寒武纪~~太古代;始生代<br/>推荐：Archeo- + zo-动物 + -ic<br/><img src="./images/image-20220413091058471.png" alt="image-20220413091058471" style="zoom:50%;" /><br/>**`archaeo-`** = old, 表示“古”。来自希腊语 arkhē "beginning."<br/>**`zo-`** = animal, 表示“动物”。源自希腊语 zoon, zoion "living being, animal." | **archaeo-cyte**                  <br/>【ɑr'ki:əsɪt】 | 【医】 原细胞(游走变形细胞)<br/>推荐：archaeo-古 + -cyte, 细胞<br/><img src="./images/image-20220413090844284.png" alt="image-20220413090844284" style="zoom: 80%;" /><br/>**`archaeo-`** = old, 表示“古”。来自希腊语 arkhē "beginning."<br/>**`cyte-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel." |
+| **archa-ic**<br />【ɑːrˈkeɪɪk】                          | a. 古体的, 过时的, 古老的, 古代的<br/>推荐：archa-早，古老 + -ic形容词后缀。<br/><img src="./images/image-20220413091924956.png" alt="image-20220413091924956" style="zoom:67%;" /><br/>**`archa-`** = old, 表示“古”。来自希腊语 arkhē "beginning."<br/>**`-ic`** 表形容词，“…的”。<br /><br />**archaic period**： 古风时期 | **archeo-pteryx** [^3]<br />【ˌɑːrkiˈɑːpterɪks】      | n. 始祖鸟 (1.5亿年前存在) the oldest known bird, which existed about 150 million years ago<br/>推荐：archaeo-古 + pteryx-翼<br/><img src="./images/image-20220413090218200.png" alt="image-20220413090218200" style="zoom:40%;" /><br/>**`archaeo-`** = old, 表示“古”。来自希腊语 arkhē "beginning."<br/>**`pteryx-`** 表示“翼”。源自希腊语 pteron "feather, wing," pterux "wing."<br/>词源说明(童理民)  <br/>1 - arch-,原始，-pet,翅膀，追求，词源同 feather,appetite. |
+|                                                          |                                                              |                                                       |                                                              |
 
 
 
@@ -548,3 +546,4 @@ n. 克, 绿豆, 鹰嘴豆
 
 [^1]: matrix ['meɪtrɪks] n.矩阵；模型；[生物][地质] 基质；母体；子宫。拉丁词源，与英语本族单词mother同源。<br>英国学者William Tyndale在自己从拉丁语翻译作英语的《圣经》中第一次将这个单词引入了英语。<br>体会一下所有的意思，**都和母亲在子宫里孕育胎儿这一现象有关。矩阵？括号里包含（孕育）着数集**。  ↩ ↩
 [^2]: 气象学有一术语cumulus（积云），是拉丁语借用词，原义为“堆”。accumulate一词源自拉丁语accumulāre，其词根正是这个意为“堆”的cumulus，由ad-加cumulus构成，因此作“积累”或“积聚”解。
+[^3]: 摩西英语(摩西)<br/>helicopter n.直升机，是因为词根helic表示旋转，而pter表示翅膀，直升机得名自有“旋转”的翅膀，而不是扑腾的声音，否则怎么解释archaeopteryx始祖鸟（最早有翅膀的鸟）、pterosaur翼龙（有翅膀的恐龙）和pterodactyl翼手龙（手dacty的部位长翅膀）。至于再进一步pter的来源，不详细列了。

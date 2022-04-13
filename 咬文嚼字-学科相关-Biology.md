@@ -67,13 +67,13 @@
 
 ## 细胞核
 
-### cyto- = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel." {64}
+### cyt- / cyto- / cyte- = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel." {64}
 
-| 单词                                   | 解释                                                         | 单词                                 | 解释                                                         |
-| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
-| **cyto-plasm**<br />【ˈˈsaɪtoʊplæzəm】 | n. 细胞质,胞浆<br/>推荐：cyto-细胞 + -plasm...质<br/><img src="./images/image-20220306190625191.png" alt="image-20220306190625191" style="zoom:80%;" /><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`plasm-`** = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，-plasm,形成，词源同 plastic. | **cyto-logy** <br />【saɪˈtɑːlədʒi】 | n. 细胞学<br/>推荐：cyto-细胞 + -logy 学，学科<br/><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`-logy`** = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，来自 PIE*skeu,遮盖，隐藏，词源同 hide,house.-logy,学说。比较 cell,小室，细胞。 |
-|                                        |                                                              |                                      |                                                              |
-|                                        |                                                              |                                      |                                                              |
+| 单词                                   | 解释                                                         | 单词                                                  | 解释                                                         |
+| -------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ |
+| **cyto-plasm**<br />【ˈˈsaɪtoʊplæzəm】 | n. 细胞质,胞浆<br/>推荐：cyto-细胞 + -plasm...质<br/><img src="./images/image-20220306190625191.png" alt="image-20220306190625191" style="zoom:80%;" /><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`plasm-`** = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，-plasm,形成，词源同 plastic. | **cyto-logy** <br />【saɪˈtɑːlədʒi】                  | n. 细胞学<br/>推荐：cyto-细胞 + -logy 学，学科<br/><img src="./images/image-20220413091424478.png" alt="image-20220413091424478" style="zoom:80%;" /><br/>**`cyto-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."<br/>**`-logy`** = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."<br/>词源说明(童理民)  <br/>1 - cyto-,细胞，来自 PIE*skeu,遮盖，隐藏，词源同 hide,house.-logy,学说。比较 cell,小室，细胞。 |
+|                                        |                                                              | **archaeo-cyte**                  <br/>【ɑr'ki:əsɪt】 | 【医】 原细胞(游走变形细胞)<br/>推荐：archaeo-古 + -cyte, 细胞<br/><img src="./images/image-20220413090844284.png" alt="image-20220413090844284" style="zoom: 80%;" /><br/>**`archaeo-`** = old, 表示“古”。来自希腊语 arkhē "beginning."<br/>**`cyte-`** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel." |
+|                                        |                                                              |                                                       |                                                              |
 
 
 
