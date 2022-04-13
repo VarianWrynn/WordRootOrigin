@@ -476,6 +476,36 @@ Tangential Trivia: \$1,000 in 1915 would be the equivalent of \$23,500 today.
 
 
 
+
+
+## Past-
+
+### 1. paste- = dough, 表示“面团”{10}
+
+> 源自希腊语 passein "to sprinkle." {10}
+
+| 单词                     | 解释                                                         | 单词 | 解释 |
+| ------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **paste**<br />【peɪst】 | n. 面团, 面食, 浆糊, 糊状物, 粘贴, 用拳重击<br/>vt. 用浆糊粘, 张贴, 狠狠地打<br/><img src="./images/image-20220413104440556.png" alt="image-20220413104440556" style="zoom:50%;" /><br />推荐：past-面团 + -e，引申词义面糊，胶体，胶状物，粘贴等。<br/><br/>**`paste-`** = dough, 表示“面团”。源自希腊语 passein "to sprinkle." |      |      |
+|                          |                                                              |      |      |
+|                          |                                                              |      |      |
+
+
+
+
+
+### 2. past- 5= feed, shepherd, 表示“喂养，牧羊人”{5}
+
+> 源自拉丁语 pascere "to feed," pastor "shepherd."
+
+| 单词                         | 解释                                                         | 单词 | 解释 |
+| ---------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **past-or**<br />【ˈpæstər】 | n. (尤指非英国国教的)牧师<br/>推荐：past-喂养 + -or表名词<br/><img src="./images/image-20220413104629817.png" alt="image-20220413104629817" style="zoom:50%;" /><br/>**`past-`** = feed, shepherd, 表示“喂养，牧羊人”。源自拉丁语 pascere "to feed," pastor "shepherd."<br/>**`-or`** 表示“人或物”，是施动者名词。是拉丁语后缀 -tor 的俗化（可能受英语本土后缀 -er 的影响)形式。 |      |      |
+|                              |                                                              |      |      |
+|                              |                                                              |      |      |
+
+
+
 ## 调味品
 
 
