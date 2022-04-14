@@ -366,6 +366,26 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
+## corn- = horn, 表示“角”。源自拉丁语 cornu "horn." {18}
+
+| 单词                                   | 解释                                                         | 单词 | 解释 |
+| -------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **rhino-cer-os**<br />【raɪˈnɑːsərəs】 | n. 犀牛<br/>推荐：rhino-鼻子 + cer-角 + -os<br/><img src="./images/image-20220414171432611.png" alt="image-20220414171432611" style="zoom:50%;" /><br/>**`corn-`** = horn, 表示“角”。源自拉丁语 cornu "horn."<br/>**`rhino-`** = nose, 表示“鼻子”。<br/>词源说明(童理民)  <br/>1 - rhin,鼻子，-cer,角，词源同 horn.因这种动物鼻子如角而得名。 |      |      |
+|                                        |                                                              |      |      |
+|                                        |                                                              |      |      |
+
+
+
+## rhino- = nose, 表示“鼻子”{16}
+
+| 单词                                   | 解释                                                         | 单词 | 解释 |
+| -------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **rhino-cer-os**<br />【raɪˈnɑːsərəs】 | n. 犀牛<br/>推荐：rhino-鼻子 + cer-角 + -os<br/><img src="./images/image-20220414171432611.png" alt="image-20220414171432611" style="zoom:50%;" /><br/>**`corn-`** = horn, 表示“角”。源自拉丁语 cornu "horn."<br/>**`rhino-`** = nose, 表示“鼻子”。<br/>词源说明(童理民)  <br/>1 - rhin,鼻子，-cer,角，词源同 horn.因这种动物鼻子如角而得名。 |      |      |
+|                                        |                                                              |      |      |
+|                                        |                                                              |      |      |
+
+
+
 ## cort-  = skin, 表示“皮” {16}
 
 >  源自拉丁语 corium "skin，hide，leader;" cortex "bark"{16}
@@ -579,3 +599,4 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 
 
 
+[^1]:摩西英语(摩西)<br/>rhinoceros [raɪ'nɒs(ə)rəs] n.犀牛。希腊词根rhino-表示鼻子，希腊词根cer-表示角，与上边的A=hart,B=hind和C=horn同源。犀牛为“鼻子处长角的厚皮动物”，世界上还有第二种动物有这个特征吗？记着小时候父亲用的剃须刀和刀片就是犀牛牌子的，但只有五个字母：Rhino，是rhinoceros的缩短式哦。 
