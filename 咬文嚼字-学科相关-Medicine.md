@@ -286,7 +286,7 @@ n.
 | eu-phor-ia                                                   | 兴奋，陶醉                                                   | dys-phor-ia                                                  | 烦躁不安                                                     |
 | **my-op-ia** <br />【maɪˈoʊpiə】                             | **my-=myst-关闭 + op-眼睛 + -ia，引申词义目光短浅，后用于指近视眼=>近视**<br />**`my-`** = secret, mystery, 表示“秘密，神秘”，原意表示“关闭”。<br/>**`op-/ops-/opt-/opto-`** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye." | **hyper-op-ia** <br />【ˌhaɪpəˈroʊpiə】                      | **hyper-超过，多 + op-视力 + -ia=>远视**<br />**`hyper-`** 表示“超过，太多”。源自希腊语 huper "over."<br/>**`op-`** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye." |
 | hyster-ia                                                    | 歇斯底里在                                                   | neo-phil-ia                                                  | 新欢新奇                                                     |
-| **algo-lagn-ia** <br />【æl'ɡəʊlæɡnjə】<br /> [sadism](http://www.youdao.com/w/sadism/?keyfrom=dict.collins), [masochism](http://www.youdao.com/w/masochism/?keyfrom=dict.collins) | **algo-痛 + lagn-色欲 + -ia表示“疾病”=>受虐狂**.<br />**`algo-`** = pain, 表示“痛”。<br/>**`lagn-`** = lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."<br />sexual pleasure experienced through inflicting【ɪnˈflɪktɪŋ】 or experiencing pain | **necro-phil-ia **<br />【ˌnekrəˈfɪliə】                     | n. 恋尸狂<br/>推荐：necro-死 + phil-爱 + -ia<br/><img src="./images/image-20220414173236938.png" alt="image-20220414173236938" style="zoom: 67%;" /><br/>**`necro-`** = die, 表示“死”。源自希腊语 nekro "corpse."<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`-ia`** 表名词，表示“某种病”。 |
+| **algo-lagn-ia** <br />【æl'ɡəʊlæɡnjə】<br /> [sadism](http://www.youdao.com/w/sadism/?keyfrom=dict.collins), [masochism](http://www.youdao.com/w/masochism/?keyfrom=dict.collins) | **algo-痛 + lagn-色欲 + -ia表示“疾病”=>受虐狂**.<br /><img src="./images/image-20220415200618097.png" alt="image-20220415200618097" style="zoom: 50%;" /><br />**`algo-`** = pain, 表示“痛”。<br/>**`lagn-`** = lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."<br />sexual pleasure experienced through inflicting【ɪnˈflɪktɪŋ】 or experiencing pain | **necro-phil-ia **<br />【ˌnekrəˈfɪliə】                     | n. 恋尸狂<br/>推荐：necro-死 + phil-爱 + -ia<br/><img src="./images/image-20220414173236938.png" alt="image-20220414173236938" style="zoom: 67%;" /><br/>**`necro-`** = die, 表示“死”。源自希腊语 nekro "corpse."<br/>**`phil-`** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。<br/>**`-ia`** 表名词，表示“某种病”。 |
 | pedo-phil-ia                                                 | 恋童癖                                                       | phob-ia                                                      | 恐惧症                                                       |
 | peri-pet-ia                                                  | 剧情突变，命运的突变                                         | perip-pete-ia                                                | 情节突变                                                     |
 | alopec-ia                                                    | 脱发                                                         | a-mnes-ia                                                    | 健忘症                                                       |
@@ -643,9 +643,13 @@ You can see why it’s so easy to confuse these terms. They’re all related to 
 
 
 
+## algo- = pain, 表示“痛”{9}
 
-
-
+| 单词                                                         | 解释                                                         | 单词 | 解释 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **algo-lagn-ia**<br />【æl'ɡəʊlæɡnjə】<br /> [sadism](http://www.youdao.com/w/sadism/?keyfrom=dict.collins), [masochism](http://www.youdao.com/w/masochism/?keyfrom=dict.collins) | n. 痛淫；变态淫乐；性虐狂 <br />推荐：<algo-痛 + lagn-色欲 + -ia表示“疾病”<br/><img src="./images/image-20220415200618097.png" alt="image-20220415200618097" style="zoom: 50%;" /><br/>**`algo-`** = pain, 表示“痛”。<br/>**`lagn-`** 1= lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."<br/>**`-ia`** 表名词，表示“某种病”。<br />sexual pleasure derived from inflicting or experiencing pain |      |      |
+|                                                              |                                                              |      |      |
+|                                                              |                                                              |      |      |
 
 
 
