@@ -400,17 +400,7 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
-## fren-（精神）：控制人精神的横膈膜 {12}
 
-横隔膜是胸腔和腹腔之间的分隔，它位于心脏和双侧肺脏的下面，肝脏、脾脏、胃的上方，就像一个大圆盘平放在身体内部分隔了胸腹腔。由于横膈膜与心脏距离较近，古人看到人情绪激动时心跳也会加快，便以为横膈膜是负责人精神状态的器官，因此英语中表示“横膈膜”的词根fren-/phren-同时还可以表示“精神”，产生了很多与“精神”相关的单词。
-
-- fren-/phren- /phreno：精神
-- diaphragm：['daɪəfræm] n.横隔膜，隔板，快门，光圈
-- phrenic：['frɛnɪk] adj. 横隔膜的；精神的
-- frenzy：['frenzɪ] n.狂暴，狂怒，暴怒vt.使发狂，使狂怒
-- frenetic：[frə'netɪk] adj.狂热的，发狂的n.疯子，狂人
-- schizophrenia：[,skɪtsə'frinɪə] n.精神分裂症
-- schizophrenic：[,skɪtsə'frɛnɪk] adj. 精神分裂症的n. 精神分裂症患者
 
 
 
@@ -462,6 +452,36 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 [^4]: 词源说明(童理民)<br>1 - 来自 model 的法语拼写形式，即模子，模型，引申词义模具，铸模。字母 l,d 置换。<br>2 - 来自古古诺斯语 mygla,发霉，来自 PIE*meug,湿的，黏的，词源 mucus,muggy.由湿的引申词义发霉，发霉。-d,过去分词后缀，字母 g 脱落，比较 vagina,vanilla.<br>3 - 来自古英语 molde,泥土，散土，来自 PIE*mele,磨，词源同 meal,mill.由磨引申词义碎土，散土，腐叶土。
+
+
+
+
+
+## acro- 表示“最高点”。医学领域引申为四肢，末端。源自希腊语 akros "topmost." {12}
+
+| 单词                           | 解释                                                         | 单词 | 解释 |
+| ------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **caro-bat**<br />【ˈækrəbæt】 | n. 表演特技者, 杂技演员<br/>推荐：acer-尖的，高的 + bat-走 → 指走高空钢丝的杂技演员，后统指杂技演员。<br/><img src="./images/image-20220415173156002.png" alt="image-20220415173156002" style="zoom:50%;" /><br/>**`acro-`** 表示“最高点”。医学领域引申为四肢，末端。源自希腊语 akros "topmost."<br/>**`bat-`** = to go, walk, 表示“走”，来。源自希腊语 bainein "to go, walk, step." |      |      |
+|                                |                                                              |      |      |
+|                                |                                                              |      |      |
+
+
+
+
+
+## fren-（精神）：控制人精神的横膈膜 {12}
+
+横隔膜是胸腔和腹腔之间的分隔，它位于心脏和双侧肺脏的下面，肝脏、脾脏、胃的上方，就像一个大圆盘平放在身体内部分隔了胸腹腔。由于横膈膜与心脏距离较近，古人看到人情绪激动时心跳也会加快，便以为横膈膜是负责人精神状态的器官，因此英语中表示“横膈膜”的词根fren-/phren-同时还可以表示“精神”，产生了很多与“精神”相关的单词。
+
+- fren-/phren- /phreno：精神
+- diaphragm：['daɪəfræm] n.横隔膜，隔板，快门，光圈
+- phrenic：['frɛnɪk] adj. 横隔膜的；精神的
+- frenzy：['frenzɪ] n.狂暴，狂怒，暴怒vt.使发狂，使狂怒
+- frenetic：[frə'netɪk] adj.狂热的，发狂的n.疯子，狂人
+- schizophrenia：[,skɪtsə'frinɪə] n.精神分裂症
+- schizophrenic：[,skɪtsə'frɛnɪk] adj. 精神分裂症的n. 精神分裂症患者
+
+
 
 
 
