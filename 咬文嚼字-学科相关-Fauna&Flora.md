@@ -141,11 +141,46 @@
 > 
 >-ary 表形容词，“…的”。
 
-| 单词                     | 解释                                                         | 单词 | 解释 |
-| ------------------------ | ------------------------------------------------------------ | ---- | ---- |
-| **liger**<br />【laɪgə】 | n. (雄狮与雌虎的交配生)狮虎:<br />the offspring that results from breeding a male lion with a female tiger . <br/><img src="./images/image-20220220194947992.png" alt="image-20220220194947992" style="zoom: 33%;" /><br />推荐：<br/>lion【狮子】 + tiger【老虎】<br/> |      |      |
-|                          |                                                              |      |      |
-|                          |                                                              |      |      |
+| 单词                          | 解释                                                         | 单词                           | 解释                                                         |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
+| **liger**<br />【laɪgə】      | n. (雄狮与雌虎的交配生)狮虎:<br />the offspring that results from breeding a male lion with a female tiger . <br/><img src="./images/image-20220220194947992.png" alt="image-20220220194947992" style="zoom: 33%;" /><br />推荐：<br/>lion【狮子】 + tiger【老虎】<br/> | **cougar**<br />【ˈkuːɡər】    | n. 美洲狮<br/><img src="./images/image-20220415153051812.png" alt="image-20220415153051812" style="zoom:50%;" /><br/>推荐：<来自南美土著语。<br/><br/>词源说明(童理民)  <br/>1 - 来自南美土著语。 |
+| **jaguar**<br />【ˈdʒæɡwɑːr】 | n. 美洲豹; 美洲虎<br/><img src="./images/image-20220415153217279.png" alt="image-20220415153217279" style="zoom:50%;" /><br />词源说明(童理民)  <br/>1 - 来自南美土著语 jaguara,野兽，大型捕食动物。引申词义美洲虎，美洲豹。 | **leo-pard **<br />【ˈlepərd】 | n. 豹, 美洲豹<br/><img src="./images/image-20220415153425025.png" alt="image-20220415153425025" style="zoom:50%;" /><br/>**`leo-`** 希腊语 leon (属格 leontos), 拉丁语转写为 leonem (主格 leo) 表示狮子, 英语中的 lion 与此同源。 希腊语 leon 可能源自闪米特语。 |
+| **pan-ther**<br />【ˈpænθər】 | n. 豹, 黑豹, 美洲豹<br/>推荐：pan-全部，这里表示强调 + ther-野，即非常野蛮的动物。<br/><img src="./images/image-20220415153714887.png" alt="image-20220415153714887" style="zoom:67%;" /><br/>pan-,pant- 表示“全部的、广泛的”。<br/>ther- = wild beast, 表示“野兽”。源自希腊语 ther "wild beast."<br/>词源说明(童理民)  <br/>1 - 来自希腊语 panther,豹，黑豹，词源不详。俗词源解读为 pan-,全部，所有，-ther,野兽，词源同 fierce,ferocity.字面意思即具备所有野兽特征的动物。 |                                |                                                              |
+
+
+
+### leopard - 豹系与虎近缘的大型猫科动物
+
+> 来自拉丁语 leopardus,狮子豹，leo,狮子，pardos,黑豹。
+
+英语词源趣谈(庄和诚)
+
+**leopard** - 豹系与虎近缘的大型猫科动物，在中世纪一度被认为是杂交而生的，这在豹的英语名称**leopard**中有所反映。
+
+**leopard**源自希腊语***leópardos***，由léōn 'lion'和párdos 'pard'复合构成，说明当时人们认为**leopard**是**lion**（狮子）和***pard***（“无斑点的豹”，曾是豹的旧称）交配而生的杂种。
+
+***pard***一词如今已被**leopard**所取代，而另一个词**panther**则往往指“美洲豹”。
+
+像**leopard**一样，谚语A leopard can't change its spots（豹永远不能改变身上的斑点）也可追溯至古代。它出自《圣经旧约·耶利米书》第13章第23节：
+
+> “Can the Ethiopian change his skin or the leopard his spots?
+>
+> Then you can also do good who are accustomed to evil.”
+>
+> （古实人(埃塞俄比亚人) 岂能改变皮肤，豹岂能改变斑点呢？
+>
+> 若能，你们这习惯行恶的便能行善了。）
+>
+> <img src="./images/image-20220415154538031.png" alt="image-20220415154538031" style="zoom: 50%;" /> 
+
+例　
+
+- The zookeeper fed the leopards fresh meat. (NED) 动物园管理员给豹子喂鲜肉。
+- He has promised not to tell lies any more, but a leopard can't change its spots. 他已经保证不再撒谎，但他本性难改。
+
+**摩西英语(摩西)**
+
+camelopard ['kæmɪlə(ʊ)pɑːd; kə'meləpɑːd] n.鹿豹星座；驼豹（长颈鹿的旧名）。希腊人在非洲看到长颈鹿时惊呆了，他们以为这种身躯高大、身上有斑块（最高的长颈鹿有20英尺高）是骆驼（camel，身躯有些象长颈鹿）和豹（leopard ['lepəd] n.豹；美洲豹）的杂交产物，所以称之为camelopard。 
 
 
 
