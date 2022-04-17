@@ -707,24 +707,6 @@ You can see why it’s so easy to confuse these terms. They’re all related to 
 
 
 
-vt. 施催眠术, 迷住, 迷惑
-【过去分词：mesmerized；现在分词：mesmerizing；第三人称单数：mesmerizes】
-范围：GRE
-单词笔记   ［添加］
-推荐：
-mesmer-催眠 + -ize, 表动词。18世纪的奥地利医生 Mesmer，精通催眠术。在当时，这项技艺被视作巫术，他也因此被认为是骗子，一生东躲西藏。后来，人们用他的名字表示动词“对…施以催眠；迷住；着迷”。
-
-词根树   
--izemesmer-mesmer.ize
-
-mesmer∙ize  [词根树]
-mesmer- 
-表示“催眠”，来自奥地利催眠大师 Franz Anton Mesmer。
--ize 
-动词后缀，一般缀于形容词后。-ise 是英式英语，-ize 是美式英语。源自希腊语 -izein, verbal suffix.
-
-
-
 ### mesmerize（催眠）：以催眠来治疗精神病的奥地利医生麦斯梅尔
 
 > 来自 19 世纪奥地利医生 Franz Anton Mesmer,因他发明了一种催眠术而得名。字面意思即使催眠的，引申词义迷住，着迷。
@@ -774,6 +756,22 @@ mesmer-
 - The magician mesmerized a volunteer from the audience. (NED) 魔术师对观众里的一位志愿者施以催眠术。
 - He was mesmerized by her charm and beauty. (LDC) 他被她的魅力和美貌迷住。
 - She stood there mesmerized as he picked up the gun and turned it slowly towards her. (LLA) 当他拿起枪，慢慢把枪对着她，她站在那里惊呆了。
+
+
+
+
+
+
+
+## asthma- = panting, 表示“喘气”{3}
+
+| 单词                      | 解释                                                         | 单词 | 解释 |
+| ------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **asthma**<br />【ˈæzmə】 | n. 哮喘<br/>推荐：来自希腊语，拟声词。<br/><br/>**`asthma-`** = panting, 表示“喘气”。<br/>词源说明(童理民)  <br/>1 - 来自希腊语，拟声词。 |      |      |
+|                           |                                                              |      |      |
+|                           |                                                              |      |      |
+
+
 
 
 
