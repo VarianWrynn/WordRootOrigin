@@ -46,29 +46,27 @@
 
 
 
-| 元素单词                                                     | 解释                                                         | 元素单词                                             | 解释                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ |
-| **uranium**  <br /> **[jʊ'reɪnɪəm]**               <br />n.铀元素 | **Uranus**（乌拉诺斯）:古希腊神话第一代神王。uran-（天）- us (名词词性）。<br />**[Uranus](https://en.wikipedia.org/wiki/Uranus)**:   ['juərənəs] ：1781 年，英籍德国天文学家赫瑟尔(Sir [William Herschel](https://en.wikipedia.org/wiki/William_Herschel) )首次,发现一颗新行星，便用 Uranus 命名，中文译为“天王星”	。<br />**[uranium](https://en.wikipedia.org/wiki/Uranium)**: 8 年后，德国化学家克拉普罗特([Martin Heinrich Klaproth](https://en.wikipedia.org/wiki/Martin_Heinrich_Klaproth))首次从沥青中分离出一种新的化学元素。为了纪念赫瑟尔及其发现的新行星，便以 Uranus 来命名，称为 uranium，这便是用于制造核裂变的常用元素铀。 | **aluminium**               <br /> 【ˌæljəˈmɪniəm 】 | aluminium（铝）：从矾土中提炼出来的金属物质<br/>19世纪，英国化学家戴维（Humphry Davy）从矾土中提炼出高纯度铝，因此将其命名为aluminum，最后被英国编辑修改为**aluminium**，以符合化学元素的命名习惯。矾土（alumina）是一种氧化铝矿石，是炼铝的主要原料，因为外形类似矾（alum）而被称为alumina。 |
-| **Prot-ium**<br />【prəʊtɪəm】<br />氕[piē]                  | 质子数1，它的原子由一个质子和一个电子组成，是氢的主要形式,，氕为氢的主要成分，约占普通氢的99.98%。 | **prot-on**<br />【ˈproʊtɑːn】                       | **`prot-`** = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”。<br/>a very small piece of matter (= a substance) with a positive electric charge that forms part of the nucleus (= central part) of an atom<br />质子 |
-| **Deuter-ium**<br />【djuːˈtɪriəm】<br />氘[dāo]             | 重氢,原子核中有一个质子和一个中子，氢中有0.02%的氘。 在大自然的含量约为一般氢的7000分之一 ，用于热核反应 | **deuter-on**<br />【djuːtərɒn】                     | the nucleus of deuterium（氘核）                             |
-| **trit-ium**<br />【ˈtrɪtiəm】<br />[氚[chuān]](https://baike.baidu.com/item/%E6%B0%95%E6%B0%98%E6%B0%9A/8757957) | 杜撰词，来自希腊语 tritos,第三，词源同 three,third.-ium,化学元素后缀。比较 deuterium.<br />称作超重氢。原子核中有一个质子和两个中子。并带有[放射性](https://baike.baidu.com/item/放射性)，会发生[β衰变](https://baike.baidu.com/item/β衰变)，其[半衰期](https://baike.baidu.com/item/半衰期)为12.43年。由于氚的β衰变只会放出高速移动的电子，不会穿透人体，因此只有大量吸入氚才会对人体有害。 | **trit-on**<br />【ˈtraɪtən】                        | （贝壳）法螺，北螈，氚核<br />small usually bright-colored semiaquatic salamanders of North America and Europe and northern Asia |
-| **tantalum**<br />【ˈtæntələm】                              | 金属元素钽的英文名字**tantalum**也来自坦塔罗斯，因为这种物质可见而不可得，难以从矿石中分离提炼。另外，钽不能吸收酸，也令人想起了坦塔罗斯无法喝到水。<br />a chemical element. Tantalum is a hard silver-grey metal used in the production of electronic parts and of metal plates and pins for connecting broken bones. | **Neptun-ium**<br />【nepˈtjuːniəm】                 | 在***化学领域***，93号元素以海神命名，称为 **Neptunium**（镎），因为它排在 92 号元素 **Uranium**（铀）的后面，而 **Uranium** 就是以天神乌拉诺斯命名的。<br />镎(放射性化学元素) |
-| **Plutonium**<br />【pluːˈtoʊniəm】                          | 在科学领域，科学家将一种新发现的超铀元素命名为 Plutonium（钚），源自 Pluto（冥 王星），因为这种元素在元素周期表中排名 94 号，位于 Neptunium（镎）之后，恰如冥王星位于海王星之后。 | **Titan-ium**<br />【tɪˈteɪniəm】                    | 极其坚固、可耐高温、强酸强碱的金属钛（titanium）             |
-| **Ion-ium**<br />【aɪ'onɪəm】                                | 锾（Io）（钍的同位素，Th230）<br />词源来自古希腊神话美女伊娥 | **iso-tope**[^1]<br />【ˈaɪsətoʊp】                  | 表示“相等，异构，同种”。<br/>tope- <br/>表示“地方”，来源于希腊语 topos。医学上 ectopia (ec- = ex- + top- + -ia) 表示...异位。 |
-| **Tellur-ium**<br />【teˈlʊriəm】                            | 碲。词源来自古罗马神话大地女神忒勒斯                         | **Selen-ium**<br />【səˈliːniəm】                    | 1817 瑞典化学家柏采利乌斯（**Berzelius**）在生产硫酸过程中发现一种红色粉末，发现它 是一种性质与碲相似的新元素。为了使之与罗马大地女神忒勒斯（**Tellus**）之意命名的碲 （**Tellurium**）相对应，便以希腊神话中的月亮女神塞勒涅的名字命名，称为 **Selenium**（硒）。<br />硒(化学元素，用于制造电气设备和有色玻璃，人体缺此元素可致抑郁等病) |
-| **hel-ium**<br />【ˈhiːliəm】                                | 1868 年法国的**杨森**利用分光镜观察太阳表面，发现一条新的黄色谱线，并认为是属于太阳上的某个未知元素，故名氦（**helium**）。<br />a chemical element. Helium is a very light gas that does not burn, often used to fill balloons and to freeze food. | **cerium**<br />【ˈsɪriəm】                          | 化学元素铈（**cerium**）也是以谷物女神的名字命名的。<br />a chemical element. Cerium is a silver-white metal used in the production of glass and ceramics . |
-| **lith-ium**<br />【ˈlɪθiəm】                                | **`lith-`** 表示化学元素“锂”，因锂元素发现于石头中而得名。源自希腊语 lithos "stone."<br />a chemical element. Lithium is a soft, very light, silver-white metal used in batteries and alloys . | **cadm-ium**<br />【ˈkædmiəm】                       | 镉元素（**cadmium**）以卡德摩斯的名字命名。这是因为镉元素是从菱锌矿（**cadmia**）中发现的，而菱锌矿最早是在底比斯城附近发现的，故采用底比斯城的古名 **Cadmia**（卡德摩斯之城）来命名。 |
-| **german-ium**<br />【dʒɜːrˈmeɪniəm】                        | **锗**。来自其发现者 19 世纪德国科学家 Clemens Alexander Winkler 以祖国 Germany 命名的金属元素。<br /> chemical element. Germanium is a shiny grey element that is similar to a metal (= is a metalloid ) . | **gall-ium**<br />【ˈɡæliəm】                        | 镓<br />gall-镓 + -ium, 法国科学家 Paul **Lecoq de Boisbaudran** 在1875年发现这种金属元素后，用自己祖国的名字 (Gallic, 高卢的) 为其命名，同时这也是他本人的名字 coq 的拉丁语翻译 gallus。<br />**`gall-`** 表示“高卢，法国，镓，鸡”。来自拉丁语 Gallia“高卢人”和另外一个同形的拉丁语 gallus “公鸡”的词干。 |
-| **holm-ium**<br />【ˈhoʊlmiəm】                              | Holmium 1 - 来自 **Holmia**,***瑞典首都 Stockholm 拉丁名字***，该稀土元素发现者 19 世纪瑞典化学家 Per TeodorCleve 以此命名，以纪念他的家乡。 | **Palladium**<br />【pəˈleɪdiəm】                    | 英语单词 **palladium** 就来自帕拉斯的名字，表示“守护神”。著名化学家 Wollaston 用它来命名他新发明的金属元素钯。 |
-| **xenon**<br />【ˈzenɑːn】                                   | 氙<br />来自希腊语 xenos,客人，陌生人，其发现者苏格兰化学家 William Ramsay 因这种元素发现困难而命名。比较 krypton,dysprosium. | **irid-ium**<br />【ɪˈrɪdiəm】                       | 铱<br />a chemical element. Iridium is a very hard yellow-white metal, used especially in making alloys . |
-| **potass-ium**<br />【pəˈtæsiəm】                            | n. 钾<br/>推荐：potass-钾 + -ium<br/><img src="./images/image-20220221095058968.png" alt="image-20220221095058968" style="zoom:67%;" /><br/>potass- 表示“钾”。<br/>-ium 表示金属元素。<br/>词源说明(童理民)  <br/>1 - 来自 potash,钾碱，-um,化学元素。 | **techn-et-ium**<br />【tekˈniːʃiəm】                | n. 锝<br/>推荐：technet + -ium<br/><br/>**`-um,-ium`** <br />**`techn-`** <br/>= skill, ability, 表示“技术，能力”。源自希腊语 tekhne "art, craft, skill."<br/>词源说明(童理民)  <br/>1 - 金属元素，来自希腊语 tekhnetos,人造的，人工的，来自 tekhne,艺术，工艺<br />Technetium is found naturally as a product of uranium or made artificially from molybdenum . |
-| **masur-ium**<br />【mə'sjʊrɪəm】                            | n. 钨<br/>单词笔记   ［添加］<br/>推荐：<br/>masur-钨 + -ium<br />Ma 43号元素 technetium 锝的旧名 | **ammon-ium**<br />【əˈmoʊniəm】                     | n. 铵<br/>推荐：ammon-氨 + -ium<br/><img src="./images/image-20220316203417451.png" alt="image-20220316203417451" style="zoom:80%;" /><br/>**`ammon-`** 表示“氨”，氨是在利比亚的一座 Ammon（埃及主神)神庙附近发现了一种矿物质提取的气体，瑞典化学家将其命名为 ammonia。<br/>**`-ium`** |
-| **brass**<br />【bræs】                                      | n. 黄铜, 黄铜制品<br/>a. 黄铜的, 铜管乐器的<br/>v. 镀以黄铜, 支付<br/><img src="./images/image-20220324150246504.png" alt="image-20220324150246504" style="zoom:80%;" /><br />推荐：<br/>黄铜是铜和锌合金，有较强的耐磨性能，常被用于制造阀门、水管、空调内外机连接管和散热器等。注：青铜 (bronze) 是铜和锡合金。<br/><br/>词源说明(童理民)  <br/>1 - 词源同 burn,燃烧。由铜和锡冶炼而成。 | **bronze**<br />【brɑːnz】                           | n. 青铜, 铜像<br/>a. 青铜色的<br/><img src="./images/image-20220324150333346.png" alt="image-20220324150333346" style="zoom:80%;" /><br/>推荐：<br/>青铜是铜和锡或铅合金，氧化后颜色呈青灰，所以现在称为青铜。青铜的熔点低、硬度大、可塑性强、耐磨、耐腐蚀，适用于铸造各种器具、机械零件、轴承、齿轮等。注：黄铜 (brass) 是铜和锌的合金。<br/><br/>词源说明(童理民)  <br/>1 - 词源不确定，可能同 brass,黄铜。 |
-|                                                              |                                                              |                                                      |                                                              |
+| 元素单词                                                     | 解释                                                         | 元素单词                                                     | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **uranium**  <br /> **[jʊ'reɪnɪəm]**               <br />n.铀元素 | **Uranus**（乌拉诺斯）:古希腊神话第一代神王。uran-（天）- us (名词词性）。<br />**[Uranus](https://en.wikipedia.org/wiki/Uranus)**:   ['juərənəs] ：1781 年，英籍德国天文学家赫瑟尔(Sir [William Herschel](https://en.wikipedia.org/wiki/William_Herschel) )首次,发现一颗新行星，便用 Uranus 命名，中文译为“天王星”	。<br />**[uranium](https://en.wikipedia.org/wiki/Uranium)**: 8 年后，德国化学家克拉普罗特([Martin Heinrich Klaproth](https://en.wikipedia.org/wiki/Martin_Heinrich_Klaproth))首次从沥青中分离出一种新的化学元素。为了纪念赫瑟尔及其发现的新行星，便以 Uranus 来命名，称为 uranium，这便是用于制造核裂变的常用元素铀。 | **aluminium**               <br /> 【ˌæljəˈmɪniəm 】         | aluminium（铝）：从矾土中提炼出来的金属物质<br/>19世纪，英国化学家戴维（Humphry Davy）从矾土中提炼出高纯度铝，因此将其命名为aluminum，最后被英国编辑修改为**aluminium**，以符合化学元素的命名习惯。矾土（alumina）是一种氧化铝矿石，是炼铝的主要原料，因为外形类似矾（alum）而被称为alumina。 |
+| **Prot-ium**<br />【prəʊtɪəm】<br />氕[piē]                  | 质子数1，它的原子由一个质子和一个电子组成，是氢的主要形式,，氕为氢的主要成分，约占普通氢的99.98%。 | **prot-on**<br />【ˈproʊtɑːn】                               | **`prot-`** = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”。<br/>a very small piece of matter (= a substance) with a positive electric charge that forms part of the nucleus (= central part) of an atom<br />质子 |
+| **Deuter-ium**<br />【djuːˈtɪriəm】<br />氘[dāo]             | 重氢,原子核中有一个质子和一个中子，氢中有0.02%的氘。 在大自然的含量约为一般氢的7000分之一 ，用于热核反应 | **deuter-on**<br />【djuːtərɒn】                             | the nucleus of deuterium（氘核）                             |
+| **trit-ium**<br />【ˈtrɪtiəm】<br />[氚[chuān]](https://baike.baidu.com/item/%E6%B0%95%E6%B0%98%E6%B0%9A/8757957) | 杜撰词，来自希腊语 tritos,第三，词源同 three,third.-ium,化学元素后缀。比较 deuterium.<br />称作超重氢。原子核中有一个质子和两个中子。并带有[放射性](https://baike.baidu.com/item/放射性)，会发生[β衰变](https://baike.baidu.com/item/β衰变)，其[半衰期](https://baike.baidu.com/item/半衰期)为12.43年。由于氚的β衰变只会放出高速移动的电子，不会穿透人体，因此只有大量吸入氚才会对人体有害。 | **trit-on**<br />【ˈtraɪtən】                                | （贝壳）法螺，北螈，氚核<br />small usually bright-colored semiaquatic salamanders of North America and Europe and northern Asia |
+| **tantalum**<br />【ˈtæntələm】                              | 金属元素钽的英文名字**tantalum**也来自坦塔罗斯，因为这种物质可见而不可得，难以从矿石中分离提炼。另外，钽不能吸收酸，也令人想起了坦塔罗斯无法喝到水。<br />a chemical element. Tantalum is a hard silver-grey metal used in the production of electronic parts and of metal plates and pins for connecting broken bones. | **Neptun-ium**                               <br />【nepˈtjuːniəm】 | 在***化学领域***，93号元素以海神命名，称为 **Neptunium**（镎），因为它排在 92 号元素 **Uranium**（铀）的后面，而 **Uranium** 就是以天神乌拉诺斯命名的。<br />镎(放射性化学元素) |
+| **Plutonium**<br />【pluːˈtoʊniəm】                          | 在科学领域，科学家将一种新发现的超铀元素命名为 Plutonium（钚），源自 Pluto（冥 王星），因为这种元素在元素周期表中排名 94 号，位于 Neptunium（镎）之后，恰如冥王星位于海王星之后。 | **Titan-ium**<br />【tɪˈteɪniəm】                            | 极其坚固、可耐高温、强酸强碱的金属钛（titanium）             |
+| **Ion-ium**<br />【aɪ'onɪəm】                                | 锾（Io）（钍的同位素，Th230）<br />词源来自古希腊神话美女伊娥 | **iso-tope**[^1]<br />【ˈaɪsətoʊp】                          | 表示“相等，异构，同种”。<br/>tope- <br/>表示“地方”，来源于希腊语 topos。医学上 ectopia (ec- = ex- + top- + -ia) 表示...异位。 |
+| **Tellur-ium**<br />【teˈlʊriəm】                            | 碲。词源来自古罗马神话大地女神忒勒斯                         | **Selen-ium**<br />【səˈliːniəm】                            | 1817 瑞典化学家柏采利乌斯（**Berzelius**）在生产硫酸过程中发现一种红色粉末，发现它 是一种性质与碲相似的新元素。为了使之与罗马大地女神忒勒斯（**Tellus**）之意命名的碲 （**Tellurium**）相对应，便以希腊神话中的月亮女神塞勒涅的名字命名，称为 **Selenium**（硒）。<br />硒(化学元素，用于制造电气设备和有色玻璃，人体缺此元素可致抑郁等病) |
+| **hel-ium**<br />【ˈhiːliəm】                                | 1868 年法国的**杨森**利用分光镜观察太阳表面，发现一条新的黄色谱线，并认为是属于太阳上的某个未知元素，故名氦（**helium**）。<br />a chemical element. Helium is a very light gas that does not burn, often used to fill balloons and to freeze food. | **cerium**<br />【ˈsɪriəm】                                  | 化学元素铈（**cerium**）也是以谷物女神的名字命名的。<br />a chemical element. Cerium is a silver-white metal used in the production of glass and ceramics . |
+| **lith-ium**<br />【ˈlɪθiəm】                                | **`lith-`** 表示化学元素“锂”，因锂元素发现于石头中而得名。源自希腊语 lithos "stone."<br />a chemical element. Lithium is a soft, very light, silver-white metal used in batteries and alloys . | **cadm-ium**<br />【ˈkædmiəm】                               | 镉元素（**cadmium**）以卡德摩斯的名字命名。这是因为镉元素是从菱锌矿（**cadmia**）中发现的，而菱锌矿最早是在底比斯城附近发现的，故采用底比斯城的古名 **Cadmia**（卡德摩斯之城）来命名。 |
+| **german-ium**<br />【dʒɜːrˈmeɪniəm】                        | **锗**。来自其发现者 19 世纪德国科学家 Clemens Alexander Winkler 以祖国 Germany 命名的金属元素。<br /> chemical element. Germanium is a shiny grey element that is similar to a metal (= is a metalloid ) . | **gall-ium**<br />【ˈɡæliəm】                                | 镓<br />gall-镓 + -ium, 法国科学家 Paul **Lecoq de Boisbaudran** 在1875年发现这种金属元素后，用自己祖国的名字 (Gallic, 高卢的) 为其命名，同时这也是他本人的名字 coq 的拉丁语翻译 gallus。<br />**`gall-`** 表示“高卢，法国，镓，鸡”。来自拉丁语 Gallia“高卢人”和另外一个同形的拉丁语 gallus “公鸡”的词干。 |
+| **holm-ium**<br />【ˈhoʊlmiəm】                              | Holmium 1 - 来自 **Holmia**,***瑞典首都 Stockholm 拉丁名字***，该稀土元素发现者 19 世纪瑞典化学家 Per TeodorCleve 以此命名，以纪念他的家乡。 | **Palladium**<br />【pəˈleɪdiəm】                            | 英语单词 **palladium** 就来自帕拉斯的名字，表示“守护神”。著名化学家 Wollaston 用它来命名他新发明的金属元素钯。 |
+| **xenon**<br />【ˈzenɑːn】                                   | 氙<br />来自希腊语 xenos,客人，陌生人，其发现者苏格兰化学家 William Ramsay 因这种元素发现困难而命名。比较 krypton,dysprosium. | **irid-ium**<br />【ɪˈrɪdiəm】                               | 铱<br />a chemical element. Iridium is a very hard yellow-white metal, used especially in making alloys . |
+| **potass-ium**<br />【pəˈtæsiəm】                            | n. 钾<br/>推荐：potass-钾 + -ium<br/><img src="./images/image-20220221095058968.png" alt="image-20220221095058968" style="zoom:67%;" /><br/>potass- 表示“钾”。<br/>-ium 表示金属元素。<br/>词源说明(童理民)  <br/>1 - 来自 potash,钾碱，-um,化学元素。 | **techn-et-ium**<br />【tekˈniːʃiəm】                        | n. 锝<br/>推荐：technet + -ium<br/><br/>**`-um,-ium`** <br />**`techn-`** <br/>= skill, ability, 表示“技术，能力”。源自希腊语 tekhne "art, craft, skill."<br/>词源说明(童理民)  <br/>1 - 金属元素，来自希腊语 tekhnetos,人造的，人工的，来自 tekhne,艺术，工艺<br />Technetium is found naturally as a product of uranium or made artificially from molybdenum . |
+| **masur-ium**<br />【mə'sjʊrɪəm】                            | n. 钨<br/>单词笔记   ［添加］<br/>推荐：<br/>masur-钨 + -ium<br />Ma 43号元素 technetium 锝的旧名 | **ammon-ium**<br />【əˈmoʊniəm】                             | n. 铵<br/>推荐：ammon-氨 + -ium<br/><img src="./images/image-20220316203417451.png" alt="image-20220316203417451" style="zoom:80%;" /><br/>**`ammon-`** 表示“氨”，氨是在利比亚的一座 Ammon（埃及主神)神庙附近发现了一种矿物质提取的气体，瑞典化学家将其命名为 ammonia。<br/>**`-ium`** |
+| **brass**<br />【bræs】                                      | n. 黄铜, 黄铜制品<br/>a. 黄铜的, 铜管乐器的<br/>v. 镀以黄铜, 支付<br/><img src="./images/image-20220324150246504.png" alt="image-20220324150246504" style="zoom:80%;" /><br />推荐：<br/>黄铜是铜和锌合金，有较强的耐磨性能，常被用于制造阀门、水管、空调内外机连接管和散热器等。注：青铜 (bronze) 是铜和锡合金。<br/><br/>词源说明(童理民)  <br/>1 - 词源同 burn,燃烧。由铜和锡冶炼而成。 | **bronze**<br />【brɑːnz】                                   | n. 青铜, 铜像<br/>a. 青铜色的<br/><img src="./images/image-20220324150333346.png" alt="image-20220324150333346" style="zoom:80%;" /><br/>推荐：<br/>青铜是铜和锡或铅合金，氧化后颜色呈青灰，所以现在称为青铜。青铜的熔点低、硬度大、可塑性强、耐磨、耐腐蚀，适用于铸造各种器具、机械零件、轴承、齿轮等。注：黄铜 (brass) 是铜和锌的合金。<br/><br/>词源说明(童理民)  <br/>1 - 词源不确定，可能同 brass,黄铜。 |
+|                                                              |                                                              |                                                              |                                                              |
 
 
-
-[^1]: [同位素](https://www.zhihu.com/question/314301893)同属于某一化学元素，其原子具有相同数目的电子，原子核也具有相同数目的质子，但却有不同数目的中子。例如氕、氘和氚，它们原子核中都有1个质子，但是它们的原子核中分别有0个中子，1个中子及2个中子，所以它们互为同位素。
 
 
 
@@ -173,8 +171,9 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 | **gran-ite**                    <br />【ˈɡrænɪt】 | **`gran-`** = grain, 表示“颗粒”。源自拉丁语 granum "grain."<br />gran-颗粒 + -ite, 表名词。因这种岩石颗粒状的纹理而得名。<br />花岗岩：I'm so hard, bitches call me granite | **pome-granate**                    <br />【ˈpɑːmɪɡrænɪt】 | （石榴）：有许多颗粒的水果。英语单词pomegranate（石榴）来自拉丁语pomum granatum<br />字面意思就是“有许多颗粒的水果”，由pome（水果）+ grenate（颗粒、纹理）构成。<br />石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。 |
 | **celest-ite**<br />【selɪstaɪt】                 | **`celest-`** = heaven, 表示“天空”。<img src="./images/image-20211021140331795.png" alt="image-20211021140331795" style="zoom:50%;" /> | **meteor-ite**<br />【ˈmiːtiəraɪt】                        | meteor【流星】 + -ite相关的。用于指陨石。<br />meteor <br/>n. 流星, 大气现象 |
 | **hal-ite**<br />【hælaɪt】                       | n. 石盐, 岩盐<br/>推荐：hal-盐 + -ite<br/><img src="./images/image-20220219125021549.png" alt="image-20220219125021549" style="zoom: 36%;" /><br/>**`hal-`** = salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。 | **graph-ite**<br />【ˈɡræfaɪt】                            | 石墨<br/>推荐：graph-文字，图像 + -ite, 表名词。**后指用于书写的石墨**。<br/><br/>**`graph-`** = write, 表示“写，图”。源自希腊语 graphein "to scratch, draw, write,"<br /> gramma "a picture, written letter, piece of writing," grame "a line."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/><img src="./images/image-20220219123103409.png" alt="image-20220219123103409" style="zoom: 33%;" /> |
-| **dendr-ite**<br />【ˈdendraɪt】                  | n. 树突(位于神经元末端的细分支，接收其他神经元传来的信号)<br/>推荐：dendr-树 + -ite<br/><img src="./images/image-20220316210412098.png" alt="image-20220316210412098" style="zoom:80%;" /><br/>**`dendr-`** = tree, 表示“树”。源自希腊语 dendron "tree."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 词源同 tree.前面 den-为 dr 的韵律重复。用于术语树突。拼写比较 gangrene. |                                                            |                                                              |
+| **dendr-ite**<br />【ˈdendraɪt】                  | n. 树突(位于神经元末端的细分支，接收其他神经元传来的信号)<br/>推荐：dendr-树 + -ite<br/><img src="./images/image-20220316210412098.png" alt="image-20220316210412098" style="zoom:80%;" /><br/>**`dendr-`** = tree, 表示“树”。源自希腊语 dendron "tree."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 词源同 tree.前面 den-为 dr 的韵律重复。用于术语树突。拼写比较 gangrene. | **calc-ite** [^2]<br />【ˈkælsaɪt】                        | n. 方解石<br/>推荐：calc-石头 + -ite, 表示岩石的后缀。<br />方解石是一种碳酸钙矿物，自然界中分布很广<br/><img src="./images/image-20220417221619082.png" alt="image-20220417221619082" style="zoom:50%;" /><br/>calc- = stone, 表示“石头”，引申为“计算”。来自拉丁语。<br/>-ite 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 来自 calc-,小石子，词源同 calculate.<br />a white or clear mineral consisting of calcium carbonate . <br />It forms a major part of rocks such as limestone , marble and chalk . |
 | **sulph-ite **<br />【sʌlfaɪt】                   | n. 亚硫酸盐, 亚硫酸酯<br/>推荐：sulph-硫 + -ite, 表名词<br/><img src="./images/image-20220415172712178.png" alt="image-20220415172712178" style="zoom:80%;" /><br/>sulph- = sulfur, 表示“硫”。<br/>-ite 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>英英  <br/>n.<br/>1 . a salt or ester of sulphurous acid | **sulph-ide **<br />【ˈsʌlfaɪd】                           | n. 硫化物<br/>推荐：sulph-硫 + -ide<br/><img src="./images/image-20220415172826474.png" alt="image-20220415172826474" style="zoom:67%;" /><br/>**`sulph-`** = sulfur, 表示“硫”。<br/>**`-ide`** 化学名词后缀，表示“...化物”如oxide氧化物。<br/>词源说明(童理民)  <br/>1 - 来自 sulphur,硫，硫磺，-ide,表化合物。 |
+|                                                   |                                                              |                                                            |                                                              |
 |                                                   |                                                              |                                                            |                                                              |
 
 **obsidian [əb'sɪdɪən]** n.黑曜石。岩浆快速冷却时产生的黑色结晶体，因内部含有氧化铁而呈黑色。
@@ -325,6 +324,73 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 
+## 石头 {30+16}
+
+### calc- = stone, 表示“石头”，引申为“计算”{30}
+
+> - 来自拉丁语。拉丁语 ca- 进入法语一般变为 cha-, 所以经由法语进入英语的 chalk 和 clac- 同源。
+> - 拉丁语 calcio 还表示“脚踝”，所以医学上用 calcane(o)- 表示“跟"，
+> - 意大利语用 calcio 表示足球，著名的 AC 米兰俱乐部中的 C 即来源于此。
+> - 由脚踝也会引申出“踢”的含义，比如 recalcitrant 字面含义“踢回去”。
+
+| 单词                                | 解释                                                         | 单词 | 解释 |
+| ----------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **calc-ite** [^2]<br />【ˈkælsaɪt】 | n. 方解石<br/>推荐：calc-石头 + -ite, 表示岩石的后缀。<br />方解石是一种碳酸钙矿物，自然界中分布很广<br/><img src="./images/image-20220417221619082.png" alt="image-20220417221619082" style="zoom:50%;" /><br/>calc- = stone, 表示“石头”，引申为“计算”。来自拉丁语。<br/>-ite 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 来自 calc-,小石子，词源同 calculate.<br />a white or clear mineral consisting of calcium carbonate . <br />It forms a major part of rocks such as limestone , marble and chalk . |      |      |
+|                                     |                                                              |      |      |
+|                                     |                                                              |      |      |
+
+
+
+
+
+
+
+### petr- / petro- = stone, 表示“石”。源自希腊语 petra "cliff, rock."{16}
+
+| 单词                                       | 解释                                                         | 单词                                      | 解释                                                         |
+| ------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
+| **petr-ole-um**      <br />【pəˈtroʊliəm】 | n. 石油<br/>推荐：petr-石 + ole-油 + um → 石油。<br/><br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`ole-`** 13= oil, 表示“油”。 | **pert-ol  **  <br />【ˈpetrəl】          | n. 汽油<br/>推荐：petr-石头 + ol-=oil油。后该词用以指冶炼过的汽油。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock." |
+| **petr-ify**<br />【ˈpetrɪfaɪ】            | vt. (非正式)使惊呆, 使吓得要死, 使发呆<br/>vt.vi. 使石化, 使成为化石, 使变僵, 变僵硬, 使消失活力, 使僵化<br/>推荐：petr-石头 + -ify使。引申词义使石化，惊呆。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`-ify`** 缀于名词或形容词后，构成表示“使成…”“…化”“作成…”等意思的动词<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 petra,石头，词源同 petroleum,-fy,使。引申词义使石化，惊呆。 | **petri-faction **<br />【ˌpetrɪ'fækʃən】 | n. 使变成石头, 石化, 化石, 僵化, 吓呆推荐：petri-石头 + -faction表名词<br/><br/>**`petri-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`-faction`** 表名词，“达到的状态”，由-fy转化而来。 |
+| **petri-fact-ive** <br />【petri'fæktiv】  | a. 有石化性能的<br/>推荐：petr-石头 + -ifactive<br/><br/>**`petri-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`fact-`** = make, do, 表示“做，制作”。源自拉丁语 facere "to do, make."<br/>**`-ive`** 表形容词。源自拉丁语 -ivus "adjective suffix." |                                           |                                                              |
+
+#### Petro-与石头
+
+“Thou art Peter, and upon this rock I will build my church...”（Matthew 16:18）（你是彼得，我要把我的教会建造在这磐石上……）（《马太福音》第16章第18节）
+
+这是耶稣对他的十二使徒之首**Peter**说的一句非常重要的话。**Peter**原名Simon（西门），打鱼为生，跟随耶稣后，耶稣给他起名**Peter**。**Peter**这一名字源于希腊语pétros 'stone', pétrā 'rock'，故有“磐石”或“岩石”之意。
+
+英语的组合语素**`petro-`**亦源于此。凡与岩石有关的词均冠以**`petro-`**，如**petrology**（岩石学），**petrography**（岩相学），**petroglyph**（岩画）等，**petroleum**也是其中之一。
+
+**petroleum**原为拉丁语，16世纪直接进入英语，系由**petra** 'rock'（岩石，石头）和**oleum** 'oil'（油）组合而成，字面义为***rock-oil***，汉语作“石油”，即从岩石空隙里开采出来的油。
+
+**petrol**源自法语pétrole，而pétrole则源于拉丁语petroleum，所以在16世纪时也指“石油”。但到了19世纪末，**petrol**转指“汽油”（fuel refined from petroleum）。这一新义是借自法语短语essence de pétrole 'essence of petroleum'，而在近代法语中essence用以指“汽油”，而pétrole则仍指“石油”。
+
+例　
+
+- His car runs on unleaded petrol. 他的车用的是无铅汽油。
+- They ran out of petrol and had to walk to the nearest garage. 他们的汽油用完了，不得不步行到最近的加油站。
+- They filled (the car) up with petrol before the long journey. 他们在长途旅行前给汽车加满了汽油。
+- The well produced thousands of barrels of petroleum each day. (NED) 这口油井每天产数千桶石油。
+
+
+
+#### petroleum（石油）：从岩石中流出的油
+
+> 来自拉丁语 petroleum,石油，来自 petra,石头，词源同 petrology,oleum,油，词源同 oil.
+
+**petroleum**（石油）是一种存储在地壳上层的粘稠液体。早在公元前10世纪之前，古埃及、古巴比伦和印度等文明古国已经采集天然石油用于建筑、防腐、粘合等用途。英语单词**petroleum**来自希腊语，由希腊语的**petra**（岩石）和**oleum**（油），字面意思就是“从岩石中流出的油”。
+
+中国也是世界上较早发现和利用石油的国家之一。东汉的班固（公元32-92年）所著《汉书》中记载了“高奴有洧水可燃”。宋朝的大科学家沈括经过实地考察后，首次将这种矿物质称为“石油”。沈括所著的《梦溪笔谈》中提到，“鄜、延境内有石油……颇似淳漆，燃之如麻……此物后必大行于世。”
+
+英语单词**petrol**是**petroleum**的简略形式，是在经由法语时被简略的。
+
+- **petroleum**：[pɪ'trəʊlɪəm] n.石油
+- **petrol**： ['pɛtrəl] n. 汽油
+
+
+
+
+
  
 
 ## amine- 表示“氨”{24}
@@ -383,50 +449,6 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 | **sulfur**<br />【sʌlfər】      | n. 硫, 硫磺<br/>vt. 用硫磺处理<br/><img src="./images/image-20220415171525097.png" alt="image-20220415171525097" style="zoom: 33%;" /><br />**`sulfur-`** = sulfur, 表示“硫” | **sulph-ate** <br />【ˈsʌlfeɪt】 | n. 硫酸盐, 硫酸酯<br/>vi. 硫酸盐化<br/>推荐：sulph-硫，硫磺 + -ate化学名词后缀，表盐。<br/><img src="./images/image-20220415172408592.png" alt="image-20220415172408592" style="zoom:67%;" /><br/>**`sulph-`** = sulfur, 表示“硫”。<br/>**`-ate`** 表示“...盐”。<br/>词源说明(童理民)  <br/>1 - 来自 sulphur,硫，硫磺，-ate,化学名词后缀，表盐。 |
 | **sulph-ite **<br />【sʌlfaɪt】 | n. 亚硫酸盐, 亚硫酸酯<br/>推荐：sulph-硫 + -ite, 表名词<br/><img src="./images/image-20220415172712178.png" alt="image-20220415172712178" style="zoom:80%;" /><br/>sulph- = sulfur, 表示“硫”。<br/>-ite 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>英英  <br/>n.<br/>1 . a salt or ester of sulphurous acid | **sulph-ide **<br />【ˈsʌlfaɪd】 | n. 硫化物<br/>推荐：sulph-硫 + -ide<br/><img src="./images/image-20220415172826474.png" alt="image-20220415172826474" style="zoom:67%;" /><br/>**`sulph-`** = sulfur, 表示“硫”。<br/>**`-ide`** 化学名词后缀，表示“...化物”如oxide氧化物。<br/>词源说明(童理民)  <br/>1 - 来自 sulphur,硫，硫磺，-ide,表化合物。 |
 |                                 |                                                              |                                  |                                                              |
-
-
-
-## petr- / petro- = stone, 表示“石”。源自希腊语 petra "cliff, rock."{16}
-
-| 单词                                       | 解释                                                         | 单词                                      | 解释                                                         |
-| ------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
-| **petr-ole-um**      <br />【pəˈtroʊliəm】 | n. 石油<br/>推荐：petr-石 + ole-油 + um → 石油。<br/><br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`ole-`** 13= oil, 表示“油”。 | **pert-ol  **  <br />【ˈpetrəl】          | n. 汽油<br/>推荐：petr-石头 + ol-=oil油。后该词用以指冶炼过的汽油。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock." |
-| **petr-ify**<br />【ˈpetrɪfaɪ】            | vt. (非正式)使惊呆, 使吓得要死, 使发呆<br/>vt.vi. 使石化, 使成为化石, 使变僵, 变僵硬, 使消失活力, 使僵化<br/>推荐：petr-石头 + -ify使。引申词义使石化，惊呆。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`-ify`** 缀于名词或形容词后，构成表示“使成…”“…化”“作成…”等意思的动词<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 petra,石头，词源同 petroleum,-fy,使。引申词义使石化，惊呆。 | **petri-faction **<br />【ˌpetrɪ'fækʃən】 | n. 使变成石头, 石化, 化石, 僵化, 吓呆推荐：petri-石头 + -faction表名词<br/><br/>**`petri-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`-faction`** 表名词，“达到的状态”，由-fy转化而来。 |
-| **petri-fact-ive** <br />【petri'fæktiv】  | a. 有石化性能的<br/>推荐：petr-石头 + -ifactive<br/><br/>**`petri-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`fact-`** = make, do, 表示“做，制作”。源自拉丁语 facere "to do, make."<br/>**`-ive`** 表形容词。源自拉丁语 -ivus "adjective suffix." |                                           |                                                              |
-
-#### Petro-与石头
-
-“Thou art Peter, and upon this rock I will build my church...”（Matthew 16:18）（你是彼得，我要把我的教会建造在这磐石上……）（《马太福音》第16章第18节）
-
-这是耶稣对他的十二使徒之首**Peter**说的一句非常重要的话。**Peter**原名Simon（西门），打鱼为生，跟随耶稣后，耶稣给他起名**Peter**。**Peter**这一名字源于希腊语pétros 'stone', pétrā 'rock'，故有“磐石”或“岩石”之意。
-
-英语的组合语素**`petro-`**亦源于此。凡与岩石有关的词均冠以**`petro-`**，如**petrology**（岩石学），**petrography**（岩相学），**petroglyph**（岩画）等，**petroleum**也是其中之一。
-
-**petroleum**原为拉丁语，16世纪直接进入英语，系由**petra** 'rock'（岩石，石头）和**oleum** 'oil'（油）组合而成，字面义为***rock-oil***，汉语作“石油”，即从岩石空隙里开采出来的油。
-
-**petrol**源自法语pétrole，而pétrole则源于拉丁语petroleum，所以在16世纪时也指“石油”。但到了19世纪末，**petrol**转指“汽油”（fuel refined from petroleum）。这一新义是借自法语短语essence de pétrole 'essence of petroleum'，而在近代法语中essence用以指“汽油”，而pétrole则仍指“石油”。
-
-例　
-
-- His car runs on unleaded petrol. 他的车用的是无铅汽油。
-- They ran out of petrol and had to walk to the nearest garage. 他们的汽油用完了，不得不步行到最近的加油站。
-- They filled (the car) up with petrol before the long journey. 他们在长途旅行前给汽车加满了汽油。
-- The well produced thousands of barrels of petroleum each day. (NED) 这口油井每天产数千桶石油。
-
-
-
-#### petroleum（石油）：从岩石中流出的油
-
-> 来自拉丁语 petroleum,石油，来自 petra,石头，词源同 petrology,oleum,油，词源同 oil.
-
-**petroleum**（石油）是一种存储在地壳上层的粘稠液体。早在公元前10世纪之前，古埃及、古巴比伦和印度等文明古国已经采集天然石油用于建筑、防腐、粘合等用途。英语单词**petroleum**来自希腊语，由希腊语的**petra**（岩石）和**oleum**（油），字面意思就是“从岩石中流出的油”。
-
-中国也是世界上较早发现和利用石油的国家之一。东汉的班固（公元32-92年）所著《汉书》中记载了“高奴有洧水可燃”。宋朝的大科学家沈括经过实地考察后，首次将这种矿物质称为“石油”。沈括所著的《梦溪笔谈》中提到，“鄜、延境内有石油……颇似淳漆，燃之如麻……此物后必大行于世。”
-
-英语单词**petrol**是**petroleum**的简略形式，是在经由法语时被简略的。
-
-- **petroleum**：[pɪ'trəʊlɪəm] n.石油
-- **petrol**： ['pɛtrəl] n. 汽油
 
 
 
@@ -703,3 +725,10 @@ ambre进入英语后作amber，仍指“琥珀”，ambre gris进入英语后则
 - **intoxication**：[ɪn,tɒksɪ'keɪʃn] n.中毒，陶醉，喝醉
 - The young are permanently in a state of resembling intoxication.年轻人永远处在一种陶醉的状态中。
 - Intoxication interferes with memory and thinking, speech and coordination. 醉酒影响记忆、思考、语言与协调性。
+
+
+
+## Reference
+
+[^1]: [同位素](https://www.zhihu.com/question/314301893)同属于某一化学元素，其原子具有相同数目的电子，原子核也具有相同数目的质子，但却有不同数目的中子。例如氕、氘和氚，它们原子核中都有1个质子，但是它们的原子核中分别有0个中子，1个中子及2个中子，所以它们互为同位素。
+[^2]: 方解石是一种碳酸钙矿物，自然界中分布很广。方解石的晶体形状多种多样，它们的集合体可以是一簇簇的晶体，也可以是粒状、块状、纤维状、钟乳状、土状等等。敲击方解石可以得到很多方形碎块，故中文命名为方解石
