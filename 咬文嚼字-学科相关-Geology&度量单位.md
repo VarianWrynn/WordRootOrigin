@@ -597,6 +597,23 @@ n. 克, 绿豆, 鹰嘴豆
 
 
 
+### What is the symbol for feet and inches?
+
+<img src="./images/image-20220418085823789.png" alt="image-20220418085823789" style="zoom: 67%;" /> 
+
+> https://www.quora.com/What-is-the-symbol-for-feet-and-inches
+
+<img src="./images/image-20220418095941445.png" alt="image-20220418095941445" style="zoom:67%;" /> 
+
+
+
+Feet = '
+Inches = "
+
+E.g.: I am 6'2" tall.
+
+<img src="./images/image-20220418100204897.png" alt="image-20220418100204897" style="zoom: 67%;" /> <img src="./images/image-20220418100239777.png" alt="image-20220418100239777" style="zoom:67%;" />
+
 
 
 ## Reference
