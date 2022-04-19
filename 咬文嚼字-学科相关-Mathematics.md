@@ -58,14 +58,16 @@
 
 ### 3. -wise  表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系{33}
 
--wise 
-表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系。
+> -wise 表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系。
+>
+> <img src="./images/image-20220418193505912.png" alt="image-20220418193505912" style="zoom: 50%;" /> 
 
 | 单词                                  | 解释                                                         | 单词                                | 解释                                                         |
 | ------------------------------------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
-| bit-wise                              | 位运算符（**以bit的方式运算**）<br />Bitwise is a level of operations that involves working with individual [bits](https://whatis.techtarget.com/definition/bit-binary-digit), which are the smallest units of [data](https://searchdatamanagement.techtarget.com/definition/data) in a computer. | **other-wise**  <br />【ˈʌðərwaɪz】 |                                                              |
+| bit-wise                              | 位运算符（**以bit的方式运算**）<br />Bitwise is a level of operations that involves working with individual [bits](https://whatis.techtarget.com/definition/bit-binary-digit), which are the smallest units of [data](https://searchdatamanagement.techtarget.com/definition/data) in a computer.<br /><img src="./images/image-20220418193347613.png" alt="image-20220418193347613" style="zoom:67%;" /> | **other-wise**  <br />【ˈʌðərwaɪz】 |                                                              |
 | clock-wise                            | a. 顺时针方向的<br/>ad. 顺时针方向地<br/>推荐：<br/>clock【钟】 + -wise副词后缀，表示方向。 | **like-wise** <br />【ˈlaɪkwaɪz】   | You use **likewise** when you are comparing two methods, states, or situations and saying that they are similar. |
-| **cross-wise**   <br />【ˈkrɔːswaɪz】 | across, especially from one corner to the opposite one（横过地；贯穿地；（尤指）对角横穿地，斜穿地）<br />in the form of a cross 成十字地；交叉地<br />in AM, also use 美国英语亦用 crossways |                                     |                                                              |
+| **cross-wise**   <br />【ˈkrɔːswaɪz】 | across, especially from one corner to the opposite one（横过地；贯穿地；（尤指）对角横穿地，斜穿地）<br />in the form of a cross 成十字地；交叉地<br />in AM, also use 美国英语亦用 crossways | **fan-wise**<br />【fænwaɪz】       | ad. 呈扇形展开<br/>a. 呈扇形展开的<br/>推荐：<fan【扇子】 + -wise副词后缀，表示方向<br/><img src="./images/image-20220418193222984.png" alt="image-20220418193222984" style="zoom:80%;" /><br/>**fan** n. 风扇, 迷, 狂热者, 爱好者 vt. 煽动, 刺激, 吹拂 vi. 飘动, 成扇形散开<br/>**`-wise`** 表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系。<br/>更多同源词... |
+|                                       |                                                              |                                     |                                                              |
 
 #### -wise: 有见识的  => 认识路=> 向前走的方式 => 方式
 
