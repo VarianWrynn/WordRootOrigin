@@ -14,7 +14,7 @@
 
 ## ine / in
 
-### 1. 表形容词 "....的" {51}
+### 1. -ine 表形容词 "....的" {51}
 
 also *-in*, adjectival word-forming element, Middle English, from Old French *-in*/*-ine*, or directly from Latin suffix *-inus*/*-ina*/*-inum* "of, like," forming adjectives and derived nouns, as in *divinus*, *feminus*, *caninus*; 
 
@@ -49,7 +49,7 @@ also *-in*, adjectival word-forming element, Middle English, from Old French *-i
 
 
 
-### 2. 表名词，“状态，药物，化学物品”等  {39}+{65}
+### 2. -ine 表名词，“状态，药物，化学物品”等  
 
 > **`-ine`**: 该元素组成的物品，比如氯气、咖啡因等
 >
@@ -59,60 +59,28 @@ also *-in*, adjectival word-forming element, Middle English, from Old French *-i
 
 > word-forming element in chemistry, often interchangeable with [-in](https://www.etymonline.com/word/-in?ref=etymonline_crossreference#etymonline_v_42359) (2), though modern use distinguishes them; early 19c., from French *-ine*, the suffix commonly used to form words for derived substances, hence its extended use in chemistry. It was applied unsystematically at first (as in [aniline](https://www.etymonline.com/word/aniline?ref=etymonline_crossreference)), but now has more restricted use.
 
-| 单词                                   | 解释                                                         | 单词                                                    | 解释                                                         |
-| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
-| **Caffe-ine**<br />【ˈkæfiːn】         | 咖啡因，咖啡碱<br />**Caffeine** is a chemical substance found in coffee, tea, and cocoa, which affects your brain and body and makes you more active. | **coca-ine**                      <br />【koʊˈkeɪn】    | coca n. [古柯](https://baike.baidu.com/item/%E5%8F%A4%E6%9F%AF/2772401?fr=aladdin), 古柯叶，南美经济作物<br />a powerful drug that some people take illegally for pleasure and can become addicted to. Doctors sometimes use it as an anaesthetic . |
-| **morph-ine**  <br />【ˈmɔːrfiːn】     | n. 吗啡<br/>推荐：morph-形状 + -ine<br/>**`morph-`** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。<br/>**`-ine`** <br/>表名词，“状态，药物，化学物品等” | **penicill-in**<br />【ˌpenɪˈsɪlɪn】                    | 青霉素;盘尼西林                                              |
-| adrenal-ine                            | **`adrenal-`** 表示“肾上腺”。复合词根：**`ad-`**（to）+ **`reno-`**（肾）+**al-**（...的)。<br />肾上腺分泌的一种激素及神经传导物质，能使心跳加快，让人在兴奋、恐惧、紧张或愤怒时精力猛增。 | **vacc-ine**                                            | **`vacc-`** = bull, 表示“牛”。源自拉丁语 vacca "cow.<br />牛痘苗，疫苗 |
-| medic-ine                              |                                                              | **oxy-toc-in**                   <br />【ˌɑksəˈtoʊsən】 | n. 催产素<br/>推荐：oxy-锐敏 + toc-分娩 + -in<br/><br/>**`oxy-`** = sharp, acid。<br/>**`toc-`** 4医学词根表示“分娩”。源自希腊语 tokos "childbirth."<br/>**`-in`** 表示名词，用于化学、生物学、医药。 |
-| **saline**<br />【ˈseɪliːn】           | a. 盐的, 苦涩的, 由碱金属(或含镁之盐类)组成的<br/>n. 盐湖, 盐田, 碱盐泻药, 生理盐水<br/>推荐：sal-盐 + -ine<br/><img src="./images/image-20220221161309021.png" alt="image-20220221161309021" style="zoom:50%;" /><br/>**`sal-`** = salt, 表示“盐”，来自拉丁语。源自拉丁语 sal "salt."<br/>**`-ine`** 表形容词，“…的”。<br/>**`-ine`** 表名词，“状态，药物，化学物品”等<br />词源说明(童理民)  <br/>1 - 来自通俗拉丁语*salamen,盐渍物，来自 sal,盐，词源同 salt.-ine,形容词后缀。 | nectar-ine[^3]<br />【ˈnektəriːn】                      | 油桃(桃的变种，果皮光滑)                                     |
-| anti-febr-ine                          |                                                              | dopam-ine                                               | compound organic chemical, 1959, from *DOPA,* the amino acid (from first letter of elements of *dioxyphenylalanine*), + [amine](https://www.etymonline.com/word/amine?ref=etymonline_crossreference). |
-|                                        |                                                              |                                                         |                                                              |
-| **iod-ide**<br />【ˈaɪədaɪd】          | n. 碘化物<br/>推荐：iod-碘 + -ide<br/><br/>**`iod-`** 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。<br/>**`-ide`** 化学名词后缀，表示“...化物”如oxide氧化物。<br/><img src="./images/image-20220219101454884.png" alt="image-20220219101454884" style="zoom:67%;" /><br />词源说明(童理民)  <br/>1 - 来自 iodine,碘，-ide,化学名词后缀。 | **iod-ine**<br />【ˈaɪədaɪn】                           | n. 碘, 碘酒<br/><br/>**`iod-`** 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。<br/><img src="./images/image-20220217090337200.png" alt="image-20220217090337200" style="zoom: 33%;" /><br />词源说明(童理民)  <br/>1 - 来自希 腊语 ideides,紫色的 ，来自 io-,紫色， 词源同 violet,-eides,像，相 似，词源同alkaloid,ovoid,idea.后 1814 年，英国化学家 Humphrey Davy 借用该希腊词来表示化学元素碘。 |
-| **chlor-ide**<br />【ˈklɔːraɪd】       | 氯化物**Chloride** is a chemical compound of chlorine and another substance.（The scientific name for common salt is sodium chloride.食盐的学名是氯化钠。）<br /><img src="./images/image-20220219104243406.png" alt="image-20220219104243406" style="zoom:50%;" /><br />Chloride (Cl-) forms when chlorine (Cl2) reacts with hydrogen or [sodium](https://www.ahealthyphilosophy.com/article/sodium-an-essential-macromineral). | **chlor-ine**<br />【ˈklɔːriːn】                        | n. 氯<br/>推荐：chlor-氯 + -ine<br/><br/>**`chlor-`** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。<br /><img src="./images/image-20220219104351753.png" alt="image-20220219104351753" style="zoom:67%;" /> |
-|                                        |                                                              | **chol-ine**<br />【kəʊli:n】                           | n. 胆碱<br/>推荐：chol-胆 + -ine<br/><br/>**`chol-`** = bile, 表示“胆，胆汁”。古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
-| **mescal-ine**     <br />【ˈmeskəlɪn】 | 墨斯卡林，仙人球毒碱(从仙人球中提取的致幻剂)<br />a drug obtained from a type of cactus , that affects people's minds and makes them see and hear things that are not really there | **aspir-in**<br />【ˈæsprɪn】                           | 阿司匹林,一种解热镇痛药品的商标名称。<br />a drug used to reduce pain, fever and inflammation |
-| dis-cip-l-ine                          | **`dis-`**分开 + **`cip-`**抓住 + **`-l-`** + **`-ine`**。引申词义训练，必要的纪律，惩罚。 | doctr-ine                                               | = to teach, 表示“教”。源自拉丁语 docere "to teach."          |
-| fam-ine                                | fam-来自拉丁语fames,饥饿，饥荒                               | rout-ine                                                | **route** n. 路径, 途径, 路线 vt. 确定路线, 按规定路线发送。<br />常规;正常顺序;生活乏味;无聊;(演出中的)一套动作，一系列笑话(等) |
-| mar-ine                                | 舰队，水兵                                                   | **glycer∙ine**<br />【ˈɡlɪsərɪn】                       | n. 甘油, 丙三醇： a thick sweet clear liquid made from fats and oils and used in medicines, beauty products and explosives<br/>推荐：glycer-甜 + -ine<br/>**`glycer-`** = sweet, 表示“甜”，构成医学词汇时表示“葡萄糖”。源自希腊语 glukus "sweet."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
-| fluor-ine                              |                                                              | curarine                                                |                                                              |
-| epi-nephr-ine                          |                                                              | vasel-ine                                               | 凡士林                                                       |
-
-[^3]: nectar（甘露）：神的饮品。希腊神话众神饮用的琼浆玉液叫做nektar，由nek-（死亡）和-tar（战胜）组成，字面意思就是“战胜死亡”，据说神仙们饮用后可以永葆美貌并长生不老。英语单词nectar就来来源于此。nectar：['nektə] n.花蜜，甘露，琼浆玉液，神酒，美味的饮料 <br>nectarous：['nektərəs] adj.甘美的，神酒似的
-
-nectary：['nekt(ə)rɪ] n.（植物）蜜腺，蜜管
+| 单词                                   | 解释                                                         | 单词                                                 | 解释                                                         |
+| -------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ |
+| **Caffe-ine**<br />【ˈkæfiːn】         | 咖啡因，咖啡碱<br />**Caffeine** is a chemical substance found in coffee, tea, and cocoa, which affects your brain and body and makes you more active. | **coca-ine**                      <br />【koʊˈkeɪn】 | coca n. [古柯](https://baike.baidu.com/item/%E5%8F%A4%E6%9F%AF/2772401?fr=aladdin), 古柯叶，南美经济作物<br />a powerful drug that some people take illegally for pleasure and can become addicted to. Doctors sometimes use it as an anaesthetic . |
+| **xanth-in** <br />                    | 【医】 金莲花黄素<br/>推荐：xanth-黄色 + -in化学或医药名词<br/><img src="./images/image-20220419144951520.png" alt="image-20220419144951520" style="zoom:50%;" /><br/>**`xanth-`** = yellow, 表示“黄色”。<br/>**`-in`** 表示名词，用于化学、生物学、医药。 | **xanth-ine**<br />【zænθɪn】                        | n. 黄质, 黄嘌呤<br/>推荐：xanth-黄 + -ine<br/><img src="./images/1200px-Xanthin_-_Xanthine.svg.png" alt="Xanthine - Wikipedia" style="zoom:33%;" /><br/>**`xanth-`** = yellow, 表示“黄色”。<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
+| **morph-ine**  <br />【ˈmɔːrfiːn】     | n. 吗啡<br/>推荐：morph-形状 + -ine<br/>**`morph-`** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。<br/>**`-ine`** <br/>表名词，“状态，药物，化学物品等” | medic-ine                                            |                                                              |
+| adrenal-ine                            | **`adrenal-`** 表示“肾上腺”。复合词根：**`ad-`**（to）+ **`reno-`**（肾）+**al-**（...的)。<br />肾上腺分泌的一种激素及神经传导物质，能使心跳加快，让人在兴奋、恐惧、紧张或愤怒时精力猛增。 | **vacc-ine**                                         | **`vacc-`** = bull, 表示“牛”。源自拉丁语 vacca "cow.<br />牛痘苗，疫苗 |
+| **saline**<br />【ˈseɪliːn】           | a. 盐的, 苦涩的, 由碱金属(或含镁之盐类)组成的<br/>n. 盐湖, 盐田, 碱盐泻药, 生理盐水<br/>推荐：sal-盐 + -ine<br/><img src="./images/image-20220221161309021.png" alt="image-20220221161309021" style="zoom:50%;" /><br/>**`sal-`** = salt, 表示“盐”，来自拉丁语。源自拉丁语 sal "salt."<br/>**`-ine`** 表形容词，“…的”。<br/>**`-ine`** 表名词，“状态，药物，化学物品”等<br />词源说明(童理民)  <br/>1 - 来自通俗拉丁语*salamen,盐渍物，来自 sal,盐，词源同 salt.-ine,形容词后缀。 | nectar-ine[^3]<br />【ˈnektəriːn】                   | 油桃(桃的变种，果皮光滑)                                     |
+| anti-febr-ine                          |                                                              | dopam-ine                                            | compound organic chemical, 1959, from *DOPA,* the amino acid (from first letter of elements of *dioxyphenylalanine*), + [amine](https://www.etymonline.com/word/amine?ref=etymonline_crossreference). |
+| **iod-ide**<br />【ˈaɪədaɪd】          | n. 碘化物<br/>推荐：iod-碘 + -ide<br/><br/>**`iod-`** 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。<br/>**`-ide`** 化学名词后缀，表示“...化物”如oxide氧化物。<br/><img src="./images/image-20220219101454884.png" alt="image-20220219101454884" style="zoom:67%;" /><br />词源说明(童理民)  <br/>1 - 来自 iodine,碘，-ide,化学名词后缀。 | **iod-ine**<br />【ˈaɪədaɪn】                        | n. 碘, 碘酒<br/><br/>**`iod-`** 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。<br/><img src="./images/image-20220217090337200.png" alt="image-20220217090337200" style="zoom: 33%;" /><br />词源说明(童理民)  <br/>1 - 来自希 腊语 ideides,紫色的 ，来自 io-,紫色， 词源同 violet,-eides,像，相 似，词源同alkaloid,ovoid,idea.后 1814 年，英国化学家 Humphrey Davy 借用该希腊词来表示化学元素碘。 |
+| **chlor-ide**<br />【ˈklɔːraɪd】       | 氯化物**Chloride** is a chemical compound of chlorine and another substance.（The scientific name for common salt is sodium chloride.食盐的学名是氯化钠。）<br /><img src="./images/image-20220219104243406.png" alt="image-20220219104243406" style="zoom:50%;" /><br />Chloride (Cl-) forms when chlorine (Cl2) reacts with hydrogen or [sodium](https://www.ahealthyphilosophy.com/article/sodium-an-essential-macromineral). | **chlor-ine**<br />【ˈklɔːriːn】                     | n. 氯<br/>推荐：chlor-氯 + -ine<br/><br/>**`chlor-`** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。<br /><img src="./images/image-20220219104351753.png" alt="image-20220219104351753" style="zoom:67%;" /> |
+|                                        |                                                              | **chol-ine**<br />【kəʊli:n】                        | n. 胆碱<br/>推荐：chol-胆 + -ine<br/><br/>**`chol-`** = bile, 表示“胆，胆汁”。古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
+| **mescal-ine**     <br />【ˈmeskəlɪn】 | 墨斯卡林，仙人球毒碱(从仙人球中提取的致幻剂)<br />a drug obtained from a type of cactus , that affects people's minds and makes them see and hear things that are not really there |                                                      |                                                              |
+| dis-cip-l-ine                          | **`dis-`**分开 + **`cip-`**抓住 + **`-l-`** + **`-ine`**。引申词义训练，必要的纪律，惩罚。 | doctr-ine                                            | = to teach, 表示“教”。源自拉丁语 docere "to teach."          |
+| fam-ine                                | fam-来自拉丁语fames,饥饿，饥荒                               | rout-ine                                             | **route** n. 路径, 途径, 路线 vt. 确定路线, 按规定路线发送。<br />常规;正常顺序;生活乏味;无聊;(演出中的)一套动作，一系列笑话(等) |
+| mar-ine                                | 舰队，水兵                                                   | **glycer∙ine**<br />【ˈɡlɪsərɪn】                    | n. 甘油, 丙三醇： a thick sweet clear liquid made from fats and oils and used in medicines, beauty products and explosives<br/>推荐：glycer-甜 + -ine<br/>**`glycer-`** = sweet, 表示“甜”，构成医学词汇时表示“葡萄糖”。源自希腊语 glukus "sweet."<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
+| fluor-ine                              |                                                              | curarine                                             |                                                              |
+| epi-nephr-ine                          |                                                              | vasel-ine                                            | 凡士林                                                       |
+|                                        |                                                              |                                                      |                                                              |
+|                                        |                                                              |                                                      |                                                              |
+|                                        |                                                              |                                                      |                                                              |
 
 
-
-#### penicillin 青霉素
-
-penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander Fleming**, 1881-1955）在伦敦圣玛丽医院（St. Mary's Hospital）的实验室里观察到他所培养的葡萄球菌被一种特异青霉菌penicillium notatum所污染。
-
-这种霉菌极有可能是从窗外飘进来的。随着青霉菌的迅速繁殖，金黄色的葡萄球菌不仅不能生长发育，而且不断地被消灭。这显示青霉菌能分泌一种杀灭葡萄球菌或防止其生长的物质。他把这种物质取名为penicillin。
-
-以后英国病理学家佛洛里（**Howard Walter Florey**, 1898-1968）和德裔英籍生物化学家钱恩（**Ernst Boris Chain**, 1906-1979）根据弗莱明的发现，将**penicillin**分离、提纯，并首次进行了临床试验，从而肯定了它的治疗价值。为此三人合得1945年诺贝尔生理学或医学奖。
-
-**penicillin**的发现标志着抗生素纪元的开始，它拯救了千百万人的生命，解除了无数人的痛苦。尽管弗莱明发现**penicillin**完全出于偶然，但他的名字将永远和**penicillin**联系在一起。
-
-**penicillin**一词是发现者根据可用以提取青霉素等抗生素的青霉菌之拉丁名称***pēnicillium***杜撰的，汉语最初将它音译为“盘尼西林”，但如今人们常称之为“青霉素”。
-
-- The doctor prescribed some penicillin to fight my infection. (NED) 为了治疗我的感染，医生给我开了一些青霉素。
-- She has a penicillin allergy. 她对青霉素过敏。
-
-<img src="./images/image-20211217163310133.png" alt="image-20211217163310133" style="zoom:67%;" /> 
-
-
-#### aspirin 阿司匹林：一种解热镇痛药品的商标名称
-
-阿司匹林的学名叫做乙酰水杨酸，是一种历史悠久的解热镇痛药，诞生于1899年3月6日。
-
-在德语中，乙酰水杨酸是***acetylierte spirsäure***，冗长而拗口，不方便记忆。于是，一位德国化学家Heinrich Dreser利用acetylierte（乙酰[ **xiān**]）的第一个字母a、spirsäure（水杨酸）的前四个字母spir以及表示化学制品的后缀**`-in`**，创造了aspirin这个新词，用作一种乙酰水杨酸药品的商标名。
-
-由于这个商标名易于发音和记忆，很快就得到广泛应用。人们去药店买药时，不会说要买“乙酰水杨酸”，而是直接说买**aspirin**，哪怕要买的药品并非aspirin这个品牌。就这样，aspirin这个词就从一个商标名演变成了一种药品名称。
-
-- aspirin：['æsprɪn] n.阿司匹林
-- The doctor prescribed aspirin for my arthritis pain. (CWR) 医生为我的关节炎疼痛开了阿斯匹林。
-- As aspirin prevents the formation of blood clots, it is also used to treat heart attack and stroke victims. (CID) 由于阿斯匹林可以防止血块的形成，它也被用于治疗心脏病和中风患者。
 
 
 
@@ -215,6 +183,10 @@ penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander
 
 #### vaseline 凡士林
 
+> 来自德语，vas-,水，词源同 water,-el,油，词源同 oil,-ine,化学名词后缀。因从石油提炼而得名。
+>
+> [ Brands and Products ] a thick oily substance used on dry skin 
+
 **vaseline** - 提起凡士林，不少学习英语的都知道是从英语的**vaseline**音译而来的，但是对**vaseline**的由来，恐怕就未必有很多人了解了。这一直可以追溯到欧洲移民来到北美新大陆的早期。这些移居者经常发现一种奇特现象，冰凉的山洞中汇成的河水流入地底下神秘地消失后，竟在数英里外重又冒出地面，然而，此时水面上却蒙上薄薄一层油，宛如彩虹，闪闪发光。此外，移居者还发现一股股泉水破地而出，水面同样蒙着薄薄一层油。
 
 过了些时候，移居者目睹印第安人把水面上的油撇起来，敷在烧伤、刀伤、擦伤等伤口处。后来欧洲移民也模仿着做，有些人还把撇取的油装瓶当作药物出售，并称这种油为“印第安油”。
@@ -237,18 +209,56 @@ penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander
 
 契斯柏洛所发现的物质学名叫**petrolatum**或**petroleum jelly**（矿脂，石油冻），然而他所用的商标名**vaseline**却作为其俗名一直沿用至今。
 
-例　“Try some Vaseline on those cold sores,”Jim suggested. (CWR) “在冻疮上搽一些凡士林吧，”吉姆建议说。
+例　
 
-"Vaseline is great for dry skin," Nancy said. (CWR) “凡士林对干燥的皮肤很适用，”南希说。
-
-词源说明(童理民)  
-1 - 来自德语，vas-,水，词源同 water,-el,油，词源同 oil,-ine,化学名词后缀。因从石油提炼而得名。
-
-英英  
-n.
-1 . [ Brands and Products ] a thick oily substance used on dry skin 
+- “Try some Vaseline on those cold sores,”Jim suggested. (CWR) “在冻疮上搽一些凡士林吧，”吉姆建议说。
+- "Vaseline is great for dry skin," Nancy said. (CWR) “凡士林对干燥的皮肤很适用，”南希说。
 
 
+
+### 3. -in 表示名词，用于化学、生物学、医药{65}
+
+| 单词                                     | 解释                                                         | 单词                                                    | 解释                                                         |
+| ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+| **penicill-in    **<br />【ˌpenɪˈsɪlɪn】 | 青霉素;盘尼西林<br />**`-in`** 表示名词，用于化学、生物学、医药 | **oxy-toc-in**                   <br />【ˌɑksəˈtoʊsən】 | n. 催产素<br/>推荐：oxy-锐敏 + toc-分娩 + -in<br/><br/>**`oxy-`** = sharp, acid。<br/>**`toc-`** 4医学词根表示“分娩”。源自希腊语 tokos "childbirth."<br/>**`-in`** 表示名词，用于化学、生物学、医药。 |
+| **aspir-in**<br />【ˈæsprɪn】            | 阿司匹林,一种解热镇痛药品的商标名称。<br /><img src="./images/image-20220419152216825.png" alt="image-20220419152216825" style="zoom: 33%;" /><br />a drug used to reduce pain, fever and inflammation | **crypt-xanth-in**<br />【krɪptəʊzænθɪn】               | n. 隐黄素（维生素A原的一种）<br/>推荐：crypto-秘密 + xanth-黄 + -in<br/><img src="./images/image-20220419151807934.png" alt="image-20220419151807934" style="zoom: 33%;" /><br/>**`xanth-`** = yellow, 表示“黄色”。<br/>**`crypto-`** = secret, hidden, 表示“秘密，隐藏”。源自希腊语 kruptein "to hide." |
+| **xanth-in** <br />                      | 【医】 金莲花黄素<br/>推荐：xanth-黄色 + -in化学或医药名词<br/><img src="./images/image-20220419144951520.png" alt="image-20220419144951520" style="zoom:50%;" /><br/>**`xanth-`** = yellow, 表示“黄色”。<br/>**`-in`** 表示名词，用于化学、生物学、医药。 | **xanth-ine**<br />【zænθɪn】                           | n. 黄质, 黄嘌呤<br/>推荐：xanth-黄 + -ine<br/><img src="./images/1200px-Xanthin_-_Xanthine.svg.png" alt="Xanthine - Wikipedia" style="zoom:33%;" /><br/>**`xanth-`** = yellow, 表示“黄色”。<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
+
+
+
+#### penicillin 青霉素
+
+penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander Fleming**, 1881-1955）在伦敦圣玛丽医院（St. Mary's Hospital）的实验室里观察到他所培养的葡萄球菌被一种特异青霉菌penicillium notatum所污染。
+
+这种霉菌极有可能是从窗外飘进来的。随着青霉菌的迅速繁殖，金黄色的葡萄球菌不仅不能生长发育，而且不断地被消灭。这显示青霉菌能分泌一种杀灭葡萄球菌或防止其生长的物质。他把这种物质取名为penicillin。
+
+以后英国病理学家佛洛里（**Howard Walter Florey**, 1898-1968）和德裔英籍生物化学家钱恩（**Ernst Boris Chain**, 1906-1979）根据弗莱明的发现，将**penicillin**分离、提纯，并首次进行了临床试验，从而肯定了它的治疗价值。为此三人合得1945年诺贝尔生理学或医学奖。
+
+**penicillin**的发现标志着抗生素纪元的开始，它拯救了千百万人的生命，解除了无数人的痛苦。尽管弗莱明发现**penicillin**完全出于偶然，但他的名字将永远和**penicillin**联系在一起。
+
+**penicillin**一词是发现者根据可用以提取青霉素等抗生素的青霉菌之拉丁名称***pēnicillium***杜撰的，汉语最初将它音译为“盘尼西林”，但如今人们常称之为“青霉素”。
+
+- The doctor prescribed some penicillin to fight my infection. (NED) 为了治疗我的感染，医生给我开了一些青霉素。
+- She has a penicillin allergy. 她对青霉素过敏。
+
+<img src="./images/image-20211217163310133.png" alt="image-20211217163310133" style="zoom:67%;" /> 
+
+
+#### aspirin 阿司匹林：一种解热镇痛药品的商标名称
+
+阿司匹林的学名叫做乙酰水杨酸，是一种历史悠久的解热镇痛药，诞生于1899年3月6日。
+
+在德语中，乙酰水杨酸是***acetylierte spirsäure***，冗长而拗口，不方便记忆。于是，一位德国化学家Heinrich Dreser利用acetylierte（乙酰[ **xiān**]）的第一个字母a、spirsäure（水杨酸）的前四个字母spir以及表示化学制品的后缀**`-in`**，创造了aspirin这个新词，用作一种乙酰水杨酸药品的商标名。
+
+由于这个商标名易于发音和记忆，很快就得到广泛应用。人们去药店买药时，不会说要买“乙酰水杨酸”，而是直接说买**aspirin**，哪怕要买的药品并非aspirin这个品牌。就这样，aspirin这个词就从一个商标名演变成了一种药品名称。
+
+- aspirin：['æsprɪn] n.阿司匹林
+- The doctor prescribed aspirin for my arthritis pain. (CWR) 医生为我的关节炎疼痛开了阿斯匹林。
+- As aspirin prevents the formation of blood clots, it is also used to treat heart attack and stroke victims. (CID) 由于阿斯匹林可以防止血块的形成，它也被用于治疗心脏病和中风患者。
+
+
+
+1
 
 
 
@@ -583,6 +593,20 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 - coroner： ['kɒr(ə)nə] n.验尸官
 - crown：[kraʊn] n. 王冠；花冠；王权；顶点vt. 加冕；居…之顶
+
+
+
+
+
+## xanth- = yellow, 表示“黄色” {15}
+
+| 单词                                       | 解释                                                         | 单词                          | 解释                                                         |
+| ------------------------------------------ | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
+| **xanth-in** <br />                        | 【医】 金莲花黄素<br/>推荐：xanth-黄色 + -in化学或医药名词<br/><img src="./images/image-20220419144951520.png" alt="image-20220419144951520" style="zoom:50%;" /><br/>**`xanth-`** = yellow, 表示“黄色”。<br/>**`-in`** 表示名词，用于化学、生物学、医药。 | **xanth-ine**<br />【zænθɪn】 | n. 黄质, 黄嘌呤<br/>推荐：xanth-黄 + -ine<br/><img src="./images/1200px-Xanthin_-_Xanthine.svg.png" alt="Xanthine - Wikipedia" style="zoom:33%;" /><br/>**`xanth-`** = yellow, 表示“黄色”。<br/>**`-ine`** 表名词，“状态，药物，化学物品等”。 |
+| **crypto-xanth-in**<br />【krɪptəʊzænθɪn】 | n. 隐黄素（维生素A原的一种）<br/>推荐：crypto-秘密 + xanth-黄 + -in<br/><img src="./images/image-20220419151807934.png" alt="image-20220419151807934" style="zoom: 33%;" /><br/>**`xanth-`** = yellow, 表示“黄色”。<br/>**`crypto-`** = secret, hidden, 表示“秘密，隐藏”。源自希腊语 kruptein "to hide." | **xantho-chro-ic**            | a. 白种人的(高加索人种) another name for [xanthochroid](https://www.collinsdictionary.com/zh/dictionary/english/xanthochroid)<br/>推荐：xantho-黄色 + chro-颜色 + -ic<br/><img src="./images/image-20220419152109017.png" alt="image-20220419152109017" style="zoom:50%;" /><br/>**`xantho-`** = yellow, 表示“黄色”。<br/>**`chro-`** = color, 表示“颜色”。<br/>**`-ic`** 表形容词，“…的”。 |
+|                                            |                                                              |                               |                                                              |
+
+
 
 
 

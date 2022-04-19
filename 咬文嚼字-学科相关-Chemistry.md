@@ -127,7 +127,7 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 | 单词                                                 | 解释                                                         | 单词                                          | 解释                                                         |
 | ---------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
 | **de-ci-duous                 **<br />【dɪˈsɪdʒuəs】 | **`de-`** <br/>来自拉丁语介词形式 de, 表示“从，从...离开，从...向下，向下”<br/>**`cid-`** <br/>= fall, 表示“落下，降临”。源自拉丁语 cadere "to fall, die."<br/>**`-uous`** <br/>表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br /><img src="./images/image-20211221130324768.png" alt="image-20211221130324768" style="zoom:50%;" /><br />每年落叶的：A **deciduous** tree or bush is one that loses its leaves in the autumn every year. | **volum∙in∙ous**        <br />【vəˈluːmɪnəs】 | volume <br/>n. 册, 卷, 体积, 容量, 大量, 许多, 份量, 音量 vi. 成团卷起 vt. 把...收集成卷 a. 大量的<br/>-ous <br/>表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br /><img src="./images/image-20211230085454017.png" alt="image-20211230085454017" style="zoom: 67%;" /><br />庞大的;浩繁的;长篇的;肥大的;宽松的;用布料多的;大部头的;冗长的;很大的 |
-| **meticul-ous** <br />【məˈtɪkjələs】                | a. 一丝不苟的, 细心的, 小心翼翼的<br/>>**`met-`** 表示“恐惧”。<br/>**`-ous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 metus,恐惧，害怕，忧虑。即充满恐惧的，后引申词义谨慎的，小心翼翼的。 | **nox-i-ous**<br />【ˈnɑːkʃəs】               | a. 有害的, 有毒的, 使道德败坏的<br/>推荐：nox-毒 + -ious...的。<br/><br/>nox- 11= hurt, poison, 表示“伤害，毒”。源自拉丁语 nocere "to injure, harm," noxa "injury, hurt."<br/>-ious 783表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 noxius,有毒的，伤害的，来自 PIE*nek,死亡，致死，词源同 innocent,necro-. |
+| **meticul-ous** <br />【məˈtɪkjələs】                | a. 一丝不苟的, 细心的, 小心翼翼的<br/>>**`met-`** 表示“恐惧”。<br/>**`-ous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 metus,恐惧，害怕，忧虑。即充满恐惧的，后引申词义谨慎的，小心翼翼的。 | **nox-i-ous**<br />【ˈnɑːkʃəs】               | a. 有害的, 有毒的, 使道德败坏的<br/>推荐：nox-毒 + -ious...的。<br/><img src="./images/image-20220419094507887.png" alt="image-20220419094507887" style="zoom:50%;" /><br/>**`nox-`** 11= hurt, poison, 表示“伤害，毒”。源自拉丁语 nocere "to injure, harm," noxa "injury, hurt."<br/>**`-ious`** 783表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 noxius,有毒的，伤害的，来自 PIE*nek,死亡，致死，词源同 innocent,necro-. |
 | **frivol-ous**<br />【ˈfrɪvələs】                    | a. 轻佻的, 妄动的, 琐碎的<br/>推荐：frivol【虚度日子, 做无聊事】 + -ous<br/><img src="./images/image-20220321085857916.png" alt="image-20220321085857916" style="zoom: 50%;" /><br/>**`frict-`** = friction, 表示“摩擦”。<br/>**`-ous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 friare,破开的，卷曲的，词源同 friable,friction.用来指经不起推敲，愚蠢可笑的言语。 | **poly-gyn-ous**  <br />【pə'lɪdʒənəs】       | a. 一夫多妻的, 多花柱的<br/>推荐：poly-多 + gyn-妇女 + -ous<br/><img src="./images/image-20220325103050486.png" alt="image-20220325103050486" style="zoom:80%;" /><br/>poly- 表示“多”，来自希腊语。源自希腊语 polus "much, many."<br/>gyn- = woman, 表示“妇女”。源自希腊语 gune "woman."<br/>-ous 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属)的”。 |
 |                                                      |                                                              |                                               |                                                              |
 |                                                      |                                                              |                                               |                                                              |
@@ -452,16 +452,6 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 
 
 
-## ole- = oil, 表示“油” {13}
-
-| 单词                                       | 解释                                                         | 单词                             | 解释                                                         |
-| ------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
-| **petr-ole-um**      <br />【pəˈtroʊliəm】 | n. 石油<br/>推荐：petr-石 + ole-油 + um → 石油。<br/><br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`ole-`** 13= oil, 表示“油”。 | **pert-ol  **  <br />【ˈpetrəl】 | n. 汽油<br/>推荐：petr-石头 + ol-=oil油。后该词用以指冶炼过的汽油。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock." |
-|                                            |                                                              |                                  |                                                              |
-|                                            |                                                              |                                  |                                                              |
-
-
-
 
 
 
@@ -473,6 +463,10 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 | **alk-yl**<br />【ælkɪl】                    | 烷基（的）；烃基（的）<br />**`alk-`** 表示“烃”。<br/>describes a hydrocarbon group derived from an alkane , e . g . the ethyl group | **acet-yl**                        <br />【æsɪtɪl】 | 乙酰基<br />acet- <br/>表示“醋酸、乙酸”，并进一步抽象出含义“乙，二”。源自拉丁语 acetum "vinegar."<br/> the organic group of acetic acid (CH3CO-) |
 | **meth-yl**<br />【ˈmeθəl】                  | **`meth-`** 表示“甲，一”，提取自单词 methylene“亚甲基”。源自希腊语 methu "wine."<br/>**`-yl`** 表示“...基”。<br />the univalent radical CH3- derived from methane（甲烷衍生的一价CH3自由基） | **meth-ane**<br />【ˈmeθeɪn】                       | 甲烷;沼气 <br />**`meth-`** 表示“甲，一”，提取自单词 methylene“亚甲基”。源自希腊语 methu "wine."<br/>-**`ane`** 表示“...烷”。<br />a gas without colour or smell, that burns easily and is used as fuel. Natural gas consists mainly of methane . |
 | **glycos-yl-ation**<br />【glaɪkəsɪ'leɪʃən】 | 糖基（苷）化（作用）<br/>**`glycos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet."<br/>**`-yl`** 表示“...基”。<br/>**`-ation`** 表名词，“行为、动作、状态、过程、结果；物品”等。<br />the process by which sugars are chemically attached to proteins to form glycoproteins<br />糖蛋白糖与蛋白质化学结合形成糖蛋白的过程 |                                                     |                                                              |
+
+
+
+
 
 
 
@@ -526,6 +520,24 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 | glob-ose | 球状的           | mor-ose | 阴郁的，闷闷不乐的 |
 | nod-ise  | 有节的，结节多的 | pil-ose | 有毛的，毛多的     |
 |          |                  |         |                    |
+
+
+
+
+
+## ole- = oil, 表示“油” {13}
+
+| 单词                                       | 解释                                                         | 单词                             | 解释                                                         |
+| ------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
+| **petr-ole-um**      <br />【pəˈtroʊliəm】 | n. 石油<br/>推荐：petr-石 + ole-油 + um → 石油。<br/><br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`ole-`** 13= oil, 表示“油”。 | **pert-ol  **  <br />【ˈpetrəl】 | n. 汽油<br/>推荐：petr-石头 + ol-=oil油。后该词用以指冶炼过的汽油。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock." |
+|                                            |                                                              |                                  |                                                              |
+|                                            |                                                              |                                  |                                                              |
+
+
+
+
+
+
 
 
 
