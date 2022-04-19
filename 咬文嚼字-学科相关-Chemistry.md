@@ -452,16 +452,6 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 
 
 
-## ole- = oil, 表示“油” {13}
-
-| 单词                                       | 解释                                                         | 单词                             | 解释                                                         |
-| ------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
-| **petr-ole-um**      <br />【pəˈtroʊliəm】 | n. 石油<br/>推荐：petr-石 + ole-油 + um → 石油。<br/><br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`ole-`** 13= oil, 表示“油”。 | **pert-ol  **  <br />【ˈpetrəl】 | n. 汽油<br/>推荐：petr-石头 + ol-=oil油。后该词用以指冶炼过的汽油。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock." |
-|                                            |                                                              |                                  |                                                              |
-|                                            |                                                              |                                  |                                                              |
-
-
-
 
 
 
@@ -473,6 +463,10 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 | **alk-yl**<br />【ælkɪl】                    | 烷基（的）；烃基（的）<br />**`alk-`** 表示“烃”。<br/>describes a hydrocarbon group derived from an alkane , e . g . the ethyl group | **acet-yl**                        <br />【æsɪtɪl】 | 乙酰基<br />acet- <br/>表示“醋酸、乙酸”，并进一步抽象出含义“乙，二”。源自拉丁语 acetum "vinegar."<br/> the organic group of acetic acid (CH3CO-) |
 | **meth-yl**<br />【ˈmeθəl】                  | **`meth-`** 表示“甲，一”，提取自单词 methylene“亚甲基”。源自希腊语 methu "wine."<br/>**`-yl`** 表示“...基”。<br />the univalent radical CH3- derived from methane（甲烷衍生的一价CH3自由基） | **meth-ane**<br />【ˈmeθeɪn】                       | 甲烷;沼气 <br />**`meth-`** 表示“甲，一”，提取自单词 methylene“亚甲基”。源自希腊语 methu "wine."<br/>-**`ane`** 表示“...烷”。<br />a gas without colour or smell, that burns easily and is used as fuel. Natural gas consists mainly of methane . |
 | **glycos-yl-ation**<br />【glaɪkəsɪ'leɪʃən】 | 糖基（苷）化（作用）<br/>**`glycos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet."<br/>**`-yl`** 表示“...基”。<br/>**`-ation`** 表名词，“行为、动作、状态、过程、结果；物品”等。<br />the process by which sugars are chemically attached to proteins to form glycoproteins<br />糖蛋白糖与蛋白质化学结合形成糖蛋白的过程 |                                                     |                                                              |
+
+
+
+
 
 
 
@@ -526,6 +520,24 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 | glob-ose | 球状的           | mor-ose | 阴郁的，闷闷不乐的 |
 | nod-ise  | 有节的，结节多的 | pil-ose | 有毛的，毛多的     |
 |          |                  |         |                    |
+
+
+
+
+
+## ole- = oil, 表示“油” {13}
+
+| 单词                                       | 解释                                                         | 单词                             | 解释                                                         |
+| ------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
+| **petr-ole-um**      <br />【pəˈtroʊliəm】 | n. 石油<br/>推荐：petr-石 + ole-油 + um → 石油。<br/><br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`ole-`** 13= oil, 表示“油”。 | **pert-ol  **  <br />【ˈpetrəl】 | n. 汽油<br/>推荐：petr-石头 + ol-=oil油。后该词用以指冶炼过的汽油。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock." |
+|                                            |                                                              |                                  |                                                              |
+|                                            |                                                              |                                  |                                                              |
+
+
+
+
+
+
 
 
 

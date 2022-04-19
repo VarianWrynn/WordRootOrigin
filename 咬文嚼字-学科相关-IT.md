@@ -51,6 +51,20 @@
 
 
 
+
+
+## crypto- = secret, hidden, 表示“秘密，隐藏”。源自希腊语 kruptein "to hide."{28}
+
+| 单词                                       | 解释                                                         | 单词 | 解释 |
+| ------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **crypto-xanth-in**<br />【krɪptəʊzænθɪn】 | n. 隐黄素（维生素A原的一种）<br/>推荐：crypto-秘密 + xanth-黄 + -in<br/><img src="./images/image-20220419151807934.png" alt="image-20220419151807934" style="zoom: 33%;" /><br/>**`xanth-`** = yellow, 表示“黄色”。<br/>**`crypto-`** = secret, hidden, 表示“秘密，隐藏”。源自希腊语 kruptein "to hide." |      |      |
+|                                            |                                                              |      |      |
+|                                            |                                                              |      |      |
+
+
+
+
+
 ## techn- = skill, ability, 表示“技术，能力”。源自希腊语 tekhne "art, craft, skill." {27}
 
 | 单词                                      | 解释                                                         | 单词 | 解释 |
