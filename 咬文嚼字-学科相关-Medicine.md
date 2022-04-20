@@ -665,13 +665,21 @@ You can see why it’s so easy to confuse these terms. They’re all related to 
 
 
 
+## acro- 表示“最高点”。医学领域引申为四肢，末端。源自希腊语 akros "topmost." {12}
+
+| 单词                           | 解释                                                         | 单词 | 解释 |
+| ------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **acro-nym**<br />【ˈækrənɪm】 | n. 首字母缩拼词, 首字母组合词<br/>推荐：acer-首的，开头的 + onym-名字，用于指首字母缩略词。<br/><img src="./images/image-20220420154225226.png" alt="image-20220420154225226" style="zoom:50%;" /><br/>**`acro-`** 表示“最高点”。医学领域引申为四肢，末端。源自希腊语 akros "topmost."<br/>**`nym-`** = name, 表示“名字”。源自希腊语 onoma, onuma "name."<br/>词源说明(童理民)  <br/>1 - acer-,尖的，开头的，-onym,名字，词源同 name.用于指首字母缩略语。 |      |      |
+|                                |                                                              |      |      |
+|                                |                                                              |      |      |
+
 
 
 ## algo- = pain, 表示“痛”{9}
 
 | 单词                                                         | 解释                                                         | 单词 | 解释 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
-| **algo-lagn-ia**<br />【æl'ɡəʊlæɡnjə】<br /> [sadism](http://www.youdao.com/w/sadism/?keyfrom=dict.collins), [masochism](http://www.youdao.com/w/masochism/?keyfrom=dict.collins) | n. 痛淫；变态淫乐；性虐狂 <br />推荐：<algo-痛 + lagn-色欲 + -ia表示“疾病”<br/><img src="./images/image-20220415200618097.png" alt="image-20220415200618097" style="zoom: 50%;" /><br/>**`algo-`** = pain, 表示“痛”。<br/>**`lagn-`** 1= lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."<br/>**`-ia`** 表名词，表示“某种病”。<br />sexual pleasure derived from inflicting or experiencing pain |      |      |
+| **algo-lagn-ia**<br />【æl'ɡəʊlæɡnjə】<br /> [sadism](http://www.youdao.com/w/sadism/?keyfrom=dict.collins), [masochism](http://www.youdao.com/w/masochism/?keyfrom=dict.collins) | n. 痛淫；变态淫乐；性虐狂 <br />推荐：algo-痛 + lagn-色欲 + -ia表示“疾病”<br/><img src="./images/image-20220415200618097.png" alt="image-20220415200618097" style="zoom: 50%;" /><br/>**`algo-`** = pain, 表示“痛”。<br/>**`lagn-`** 1= lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."<br/>**`-ia`** 表名词，表示“某种病”。<br />sexual pleasure derived from inflicting or experiencing pain |      |      |
 |                                                              |                                                              |      |      |
 |                                                              |                                                              |      |      |
 
