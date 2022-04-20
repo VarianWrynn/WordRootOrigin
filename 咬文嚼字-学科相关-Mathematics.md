@@ -115,18 +115,6 @@ gon-
 
 
 
-## vex- = to carry, 表示”带来“，vect- 用在数学领域有“矢量、向量”的含义{13}
-
-> 源自拉丁语 vehere (过去分词 vectus) "to carry."
-
-| 单词                                                         | 解释                                                         | 单词                                              | 解释                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
-| **con-cav-e **                      <br />【kɑːnˈkeɪv】      | a. 凹的<br/>推荐：con-全部 + cav-洞 + -e → 全部像洞一样 → 凹进去的。<br/><img src="./images/image-20220302145329950.png" alt="image-20220302145329950" style="zoom:80%;" /><br/>**`con-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。源自拉丁语 com "with (collective and intensive prefix.)"<br/>**`cav-`** = hole, 表示“洞”，来自拉丁语。<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - con-,表强调，cave,洞穴。即洞穴状，凹进去。 | **con-vex **                  <br />【ˈkɑːnveks】 | a. 中凸的, 凸圆的, 凸面的<br/>n. 凸状, 凸面体, 凸面结构<br/>推荐：con-强调 + vex-=vect-携带，移动，即在拱顶汇集的，形成凸透镜形状的。<br/><img src="./images/image-20220302145215303.png" alt="image-20220302145215303" style="zoom:80%;" /><br/>**`con-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。源自拉丁语 com "with (collective and intensive prefix.)"<br/>**`vex-`** = to carry, 表示”带来“，vect- 用在数学领域有“矢量、向量”的含义。源自拉丁语 vehere (过去分词 vectus) "to carry."<br/>词源说明(童理民)  <br/>1 - con-,表强调，-vex,同-vect,携带，移动，词源同 vector,vehicle.即在拱顶汇集，形成凸透镜形状。 |
-| **con-cav-ity**                        <br />【kɑːnˈkævəti】 | n. 中央凹陷, 凹洼, 凹曲线<br/>推荐：concave【凹的】 + -ity<br/><br/>**`concave`** a. 凹的<br/>**`-ity`** 表名词，指具备某种性质 | **con-vex-ity** <br />【ˌkɒn'veksɪtɪ】            | n. 中凸, 凸状, 凸面<br/>推荐：convex【凸】 + -ity<br/><br/>**`convex`** a. 中凸的, 凸圆的, 凸面的 n. 凸状, 凸面体, 凸面结构<br/>**`-ity`** 表名词，指具备某种性质。 |
-|                                                              |                                                              |                                                   |                                                              |
-
-
-
 ## tang- = touch, 表示“接触”{22}
 
 > 源自希腊语 tassein, tattein "to arrange," taxis "arrangement."
@@ -139,9 +127,75 @@ gon-
 
 
 
+
+
+
+
+## vex- = to carry, 表示”带来“，vect- 用在数学领域有“矢量、向量”的含义{13}
+
+> 源自拉丁语 vehere (过去分词 vectus) "to carry."
+
+| 单词                                                         | 解释                                                         | 单词                                              | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| **con-cav-e **                      <br />【kɑːnˈkeɪv】      | a. 凹的<br/>推荐：con-全部 + cav-洞 + -e → 全部像洞一样 → 凹进去的。<br/><img src="./images/image-20220302145329950.png" alt="image-20220302145329950" style="zoom:80%;" /><br/>**`con-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。源自拉丁语 com "with (collective and intensive prefix.)"<br/>**`cav-`** = hole, 表示“洞”，来自拉丁语。<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - con-,表强调，cave,洞穴。即洞穴状，凹进去。 | **con-vex **                  <br />【ˈkɑːnveks】 | a. 中凸的, 凸圆的, 凸面的<br/>n. 凸状, 凸面体, 凸面结构<br/>推荐：con-强调 + vex-=vect-携带，移动，即在拱顶汇集的，形成凸透镜形状的。<br/><img src="./images/image-20220302145215303.png" alt="image-20220302145215303" style="zoom:80%;" /><br/>**`con-`** 来自拉丁语介词com，表示“与...一起，一起（with, together）”，或仅做强调。源自拉丁语 com "with (collective and intensive prefix.)"<br/>**`vex-`** = to carry, 表示”带来“，vect- 用在数学领域有“矢量、向量”的含义。源自拉丁语 vehere (过去分词 vectus) "to carry."<br/>词源说明(童理民)  <br/>1 - con-,表强调，-vex,同-vect,携带，移动，词源同 vector,vehicle.即在拱顶汇集，形成凸透镜形状。 |
+| **con-cav-ity**                        <br />【kɑːnˈkævəti】 | n. 中央凹陷, 凹洼, 凹曲线<br/>推荐：concave【凹的】 + -ity<br/><br/>**`concave`** a. 凹的<br/>**`-ity`** 表名词，指具备某种性质 | **con-vex-ity** <br />【ˌkɒn'veksɪtɪ】            | n. 中凸, 凸状, 凸面<br/>推荐：convex【凸】 + -ity<br/><br/>**`convex`** a. 中凸的, 凸圆的, 凸面的 n. 凸状, 凸面体, 凸面结构<br/>**`-ity`** 表名词，指具备某种性质。 |
+|                                                              |                                                              |                                                   |                                                              |
+
+
+
+## deci- 表示“十分之一”。源自拉丁语 decem "ten." {12}
+
+<img src="./images/pc101_image_w03MathLessonOutcome 03.111.svg" alt="Place Values After the Decimal Point" style="zoom:67%;" /> 
+
+| 单词                           | 解释                                                         | 单词                              | 解释                                                         |
+| ------------------------------ | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
+| **decim-al **<br />【ˈdesɪml】 | a. 十进位的, 小数的<br/>n. 十进制, 小数<br/>推荐：decim-十分之一 + -al。用于数学名词。<br/><img src="./images/pc101_image_w03MathLessonOutcome 03.111.svg" alt="Place Values After the Decimal Point" style="zoom: 33%;" /><br/>**`deci-`** 表示“十分之一”。源自拉丁语 decem "ten."<br/>更多同源词...<br/>**`-al`** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix.<br />来自 decim-,十分之一。用于数学名词。 | **decim-ate **<br />【ˈdesɪmeɪt】 | vt. 杀戮;大量毁灭，大批杀死(某地区的动物、植物或人);严重破坏;大大削弱<br/>推荐：decim-十分之一 + -ate, 表动词 → 杀十分之一 , 大批杀死。<br/><img src="./images/image-20220420151828280.png" alt="image-20220420151828280" style="zoom:67%;" /><br/>**`deci-`** 表示“十分之一”。源自拉丁语 decem "ten."<br/>**`-ate`** 表动词，“做，造成”。 |
+|                                |                                                              |                                   |                                                              |
+|                                |                                                              |                                   |                                                              |
+
+### decimate（大批杀害）：古罗马军队的“杀一儆十”
+
+<img src="./images/image-20220420151828280.png" alt="image-20220420151828280" style="zoom: 80%;" /> 
+
+在古罗马军队中对任何兵变的惩罚是以抽签方式处死反叛士兵的十分之一，而且须由同班人行刑。此所谓“杀一儆十”。这种做法后来在英国及其他国家也一度使用过。
+
+这一惩罚性措施在拉丁语称为***decimare***，意思是“十里抽一”或“抽杀…的十分之一”，其词根为decem(十)。
+
+英语**decimate**一词即源于此，所以严格地讲，其词义也应是“抽杀…的十分之一”。可是到了现代，**decimate**常被用作“杀灭…中的十分之九”或“大批杀死”、“大量毁坏”，可以说同其原义几乎相反。
+
+- **decimate**：['desɪmeɪt] vt.十中取一，抽杀十分之一，大批杀害
+- **decimation**：[,desɪ'meɪʃən] n.抽杀十分之一，大批杀害
+
+
+
+**英语词源趣谈(庄和诚)**
+
+**decimate** - 在古罗马军队中对任何兵变的惩罚是以抽签方式处死反叛士兵的十分之一，每班十人即处死一人，而且须由同班人行刑。此所谓“杀一儆十”，在形象上和汉语成语“杀一儆百”几乎没有什么区别。
+
+这种做法后来在英国及其他国家也一度使用过。这一惩罚性措施拉丁语作***decimāre***，该词的意思是“十里抽一”或“抽杀……的十分之一”，其词根为***decem***（十）。
+
+英语**decimate**一词即源于此，所以严格地讲，其词义也应是“抽杀……的十分之一”。可是由于误用，**decimate**现被释义为“杀灭……中的十分之九”或“大批杀死”、“大量毁坏”，可以说同其原义几乎相反。
+
+另一个英语单词**decimal**（小数，十进位的），若究其根源，也源于拉丁词根***decem***（十）。
+
+例　
+
+- War had decimated the tribe, but the survivors kept on fighting. (WBD) 战争几乎毁了这个部落，但幸存者还在继续战斗。
+- If the disease spreads it will decimate the cattle herds in this country. (CID) 这种病如果蔓延开来，将使得这个国家的牛群大量死亡。
+- Student numbers have been decimated by cuts in grants. 助学金削减后，学生人数大大减少。
+- Imports have continued to decimate the shoe industry. (CID) 进口商品使鞋业持续衰退。
+
+**摩西英语(摩西)**
+
+1.dime [daɪm] n.一角硬币。一角是十美分，十角是一美元，要说它和十的关系那一定是有的，可是为啥看不出来呢？因为呀，拉丁词根decim-,decem-表示ten,tenth（与ten同源），在进入法语后元音间的c脱落了。对比单词decimal ['desɪm(ə)l] adj.小数的；十进位的，n.小数，如decimal system十进制。
+
+2.decimal point小数点。decimal ['desɪm(ə)l] adj. 小数的；十进位的，n. 小数。拉丁词根decim-表示tenth即十分之一的，与日耳曼词源的ten和tenth还有tithe [taɪð] n.什一税同源。于是decimate v.大肆屠杀是罗马对叛变或临阵逃脱士兵的“十中抽一”惩罚，意思是用石头或棍棒等killing one in ten。
+
+
+
+
+
 ## cav- = hole, 表示“洞”，来自拉丁语{8}
-
-
 
 | 单词                                                    | 解释                                                         | 单词                                              | 解释                                                         |
 | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
