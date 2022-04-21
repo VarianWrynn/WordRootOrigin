@@ -299,6 +299,25 @@ comet - 彗星通常在背着太阳的一面拖着一条扫帚状的长尾，故
 
 # 物理学
 
+## aspect（方面）：星体的相对位置 {49}
+
+> spect- 49
+> = look, see, 表示“看”，引申为“光谱”。源自拉丁语 specere "to look, to see"。{49}
+
+英语单词**aspect**（方面）原本是一个天文学术语，表示“星体的相对位置”。它由a（to）+spect（看）构成，字面意思就是“（星体相互）观看对方的方式”。后来衍生出“看待事物的方式”、“事物呈现出来的外观”等含义。与它同源的单词有**respect**（尊重）、**inspect**（视察）、**spectacle**（景象）等。
+
+- **`spec-`**/**`spect-`**：看
+
+- **aspect**：['æspekt] n.方面，方向，形势，外观
+
+- **respect**：[rɪ'spɛkt] n. 尊敬，尊重；方面；敬意vt. 尊敬，尊重
+
+- **inspect**：[ɪn'spɛkt] vt. 检查；视察；检阅vi. 进行检查；进行视察
+
+  > - in-,进入，使，-spect,看，词源同 spectator,respect.引申词义检查，巡视。
+
+- **spectacle**：['spɛktəkl] n. 景象；场面；奇观；壮观；公开展示；表相 n.眼镜
+
 
 
 ## 相关单词
@@ -415,27 +434,6 @@ momentum [mə'mentəm] n.势头；[物] 动量；动力；冲力。词根的意�
 - **grave** [greɪv]这个单词两层含义： adj. 重大的；严肃的；黯淡，n.坟墓，v.雕刻，形容词含义时其词根grav-表heavy，如gravity n.重力；引力和aggravate v.加重；使恶化（to make the situation more heavier）等。名词和动词含义时其词根本意是to dig即挖掘，坟墓是地上挖的坑，雕刻是在固体上蚀刻。
 
 
-
-
-
-## aspect（方面）：星体的相对位置 {49}
-
-> spect- 49
-> = look, see, 表示“看”，引申为“光谱”。源自拉丁语 specere "to look, to see"。{49}
-
-英语单词**aspect**（方面）原本是一个天文学术语，表示“星体的相对位置”。它由a（to）+spect（看）构成，字面意思就是“（星体相互）观看对方的方式”。后来衍生出“看待事物的方式”、“事物呈现出来的外观”等含义。与它同源的单词有**respect**（尊重）、**inspect**（视察）、**spectacle**（景象）等。
-
-- **`spec-`**/**`spect-`**：看
-
-- **aspect**：['æspekt] n.方面，方向，形势，外观
-
-- **respect**：[rɪ'spɛkt] n. 尊敬，尊重；方面；敬意vt. 尊敬，尊重
-
-- **inspect**：[ɪn'spɛkt] vt. 检查；视察；检阅vi. 进行检查；进行视察
-
-  > - in-,进入，使，-spect,看，词源同 spectator,respect.引申词义检查，巡视。
-
-- **spectacle**：['spɛktəkl] n. 景象；场面；奇观；壮观；公开展示；表相 n.眼镜
 
 
 
