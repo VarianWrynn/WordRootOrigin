@@ -469,6 +469,63 @@ Julius对应的阴性形式就是Julia（茱莉亚），词尾-us改成了对应
 
 
 
+# 星座
+
+
+
+### capr- 9= goat, 表示“山羊”。源自拉丁语 caper "he-goat," capra "sh-goat." {9}
+
+<img src="./images/image-20220424211221063.png" alt="image-20220424211221063" style="zoom: 67%;" /> 
+
+| 单词                                 | 解释                                                         | 单词                                         | 解释                                                         |
+| ------------------------------------ | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
+| **capr-i-corn**<br />【ˈkæprɪkɔːrn】 | n. 摩羯宫, 摩羯(星)座, 在摩羯宫时段出生的人(约出生于12月21日至1月20日)<br/>**`capr-`** = goat, 表示“山羊”。源自拉丁语 caper "he-goat," capra "sh-goat."<br/>更多同源词...<br/>**`corn-`** = horn, 表示“角”。源自拉丁语 cornu "horn."<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - Capri,山羊，-corn,角。因该星座形似山羊角而得名。 |                                              |                                                              |
+| **capr-ice**<br />【kəˈpriːs】       | n. 反复无常, 多变, 任性<br/>推荐：capr-山羊 + -ice。因山羊喜欢踏踏跳跳和突然踢出后腿，因而引申此义。<br/><img src="./images/image-20220424211704891.png" alt="image-20220424211704891" style="zoom:80%;" /><br/>**`capr-`** = goat, 表示“山羊”。源自拉丁语 caper "he-goat," capra "sh-goat."<br/>**`-ice`** 表名词，“行为，状态”。 | **caprice-ious **        <br />【kəˈprɪʃəs】 | a. 反复无常的, 多变的, 任性的<br/>推荐：caprice【任性】 + -ious表形容词，是单词caprice 派生的形容词。<br/><img src="./images/image-20220424211904362.png" alt="image-20220424211904362" style="zoom:80%;" /><br/>**caprice** n. 反复无常, 多变, 任性<br/>**`-ious`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br/>切换词根显示方式<br/>词源说明(童理民)  <br/>1 - 来自 caprice. |
+|                                      |                                                              |                                              |                                                              |
+
+
+
+
+
+### caprice（反复无常）：山羊的突然跳跃
+
+古人发现，山羊在低头安静吃草时，有时候会突然地跳跃起来。
+
+单词**caprice**原本就是表示山羊的这种突然跳跃。它来自意大利语***capriccio*** “奇想、颤抖”，而后者来自拉丁语***capreolus***（野山羊）。后来，**caprice**引申为人心意的突然变化、一时的兴致。
+
+- **caprice**：[kə'priːs] 
+  - n.突发奇想；奇思怪想；
+  - 一时兴致；心血来潮；变化无常；
+  - 随想曲；充满幻想的作品
+- **capriccio**：[kə'prɪtʃɪəʊ] n. 恶作剧；任性；狂想曲
+
+**词源说明(童理民)**  
+1 - 来自拉丁语 caper,山羊。因山羊喜欢蹦蹦跳跳和突然踢出后腿，因而引申此义。
+
+
+
+**英语词源趣谈(庄和诚)**
+
+我们在用**caprice**一词时，一般是不会立刻联想到刺猬和山羊的。可是，它们在**caprice**的词义发展中却起了一定作用。
+
+**caprice**直接借自法语***caprice***，但却源于意大利语***capriccio***。该意大利词由capo 'head'（头）和riccio 'hedgehog'（刺猬）两部分组成，字面义是“刺猬头”，含有head with hair standing on end（毛骨悚然）或fright（惊吓）等义，因为人在受惊吓时毛发就会竖起，正像刺猬的硬刺一样。
+
+以后***capriccio***因前半部capr形似意大利词***capra***（山羊）而与山羊的特性相联系。山羊有个奇特的习性，在安详地低头吃草的时候，往往会突然跃起或跳向一旁，然后又若无其事地恢复原状而继续低头吃草，***capriccio***因而被赋予了英语**caprice**至今还在使用的“反复无常”、“多变”、“任性”等义。原意大利词**capriccio**也被英语直接吸收，用作音乐术语，指“随想曲”。
+
+例　
+
+- Her decision was pure caprice. 她的决定纯粹是一时心血来潮。
+- Mary's actions are unpredictable. She is known for her caprice. (NED) 玛丽的行动是难以预测的。她的反复无常是出了名的。
+- He burst into a rage, out of caprice. 他莫名其妙地勃然大怒起来。
+
+
+
+### Reference
+
+1. [美国人也爱聊星座-- 2016-04-28 开言英语](https://www.evernote.com/l/ALpXYsAglqpHWKOGfI_-x5ELdll4XgyII4k/)
+
+
+
 # 24节气
 
 
