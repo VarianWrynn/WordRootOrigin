@@ -171,7 +171,7 @@ xenon - 氙是普通人不太熟悉的气体，无色，无臭，无味。它是
 | **gran-ite**                    <br />【ˈɡrænɪt】 | **`gran-`** = grain, 表示“颗粒”。源自拉丁语 granum "grain."<br />gran-颗粒 + -ite, 表名词。因这种岩石颗粒状的纹理而得名。<br />花岗岩：I'm so hard, bitches call me granite | **pome-granate**                    <br />【ˈpɑːmɪɡrænɪt】 | （石榴）：有许多颗粒的水果。英语单词pomegranate（石榴）来自拉丁语pomum granatum<br />字面意思就是“有许多颗粒的水果”，由pome（水果）+ grenate（颗粒、纹理）构成。<br />石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。 |
 | **celest-ite**<br />【selɪstaɪt】                 | **`celest-`** = heaven, 表示“天空”。<img src="./images/image-20211021140331795.png" alt="image-20211021140331795" style="zoom:50%;" /> | **meteor-ite**<br />【ˈmiːtiəraɪt】                        | meteor【流星】 + -ite相关的。用于指陨石。<br />meteor <br/>n. 流星, 大气现象 |
 | **hal-ite**<br />【hælaɪt】                       | n. 石盐, 岩盐<br/>推荐：hal-盐 + -ite<br/><img src="./images/image-20220219125021549.png" alt="image-20220219125021549" style="zoom: 36%;" /><br/>**`hal-`** = salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。 | **graph-ite**<br />【ˈɡræfaɪt】                            | 石墨<br/>推荐：graph-文字，图像 + -ite, 表名词。**后指用于书写的石墨**。<br/><br/>**`graph-`** = write, 表示“写，图”。源自希腊语 graphein "to scratch, draw, write,"<br /> gramma "a picture, written letter, piece of writing," grame "a line."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/><img src="./images/image-20220219123103409.png" alt="image-20220219123103409" style="zoom: 33%;" /> |
-| **dendr-ite**<br />【ˈdendraɪt】                  | n. 树突(位于神经元末端的细分支，接收其他神经元传来的信号)<br/>推荐：dendr-树 + -ite<br/><img src="./images/image-20220316210412098.png" alt="image-20220316210412098" style="zoom:80%;" /><br/>**`dendr-`** = tree, 表示“树”。源自希腊语 dendron "tree."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 词源同 tree.前面 den-为 dr 的韵律重复。用于术语树突。拼写比较 gangrene. | **calc-ite** [^2]<br />【ˈkælsaɪt】                        | n. 方解石<br/>推荐：calc-石头 + -ite, 表示岩石的后缀。<br />方解石是一种碳酸钙矿物，自然界中分布很广<br/><img src="./images/image-20220417221619082.png" alt="image-20220417221619082" style="zoom:50%;" /><br/>calc- = stone, 表示“石头”，引申为“计算”。来自拉丁语。<br/>-ite 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 来自 calc-,小石子，词源同 calculate.<br />a white or clear mineral consisting of calcium carbonate . <br />It forms a major part of rocks such as limestone , marble and chalk . |
+| **dendr-ite**<br />【ˈdendraɪt】                  | n. 树突(位于神经元末端的细分支，接收其他神经元传来的信号)<br/>推荐：dendr-树 + -ite<br/><img src="./images/image-20220316210412098.png" alt="image-20220316210412098" style="zoom:80%;" /><br/>**`dendr-`** = tree, 表示“树”。源自希腊语 dendron "tree."<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 词源同 tree.前面 den-为 dr 的韵律重复。用于术语树突。拼写比较 gangrene. | **calc-ite** [^2]<br />【ˈkælsaɪt】                        | n. 方解石<br/>推荐：calc-石头 + -ite, 表示岩石的后缀。<br />方解石是一种碳酸钙矿物，自然界中分布很广<br/><img src="./images/image-20220417221619082.png" alt="image-20220417221619082" style="zoom:50%;" /><br/>**calc-** = stone, 表示“石头”，引申为“计算”。来自拉丁语。<br/>**`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 来自 calc-,小石子，词源同 calculate.<br />a white or clear mineral consisting of calcium carbonate . <br />It forms a major part of rocks such as limestone , marble and chalk . |
 | **sulph-ite **<br />【sʌlfaɪt】                   | n. 亚硫酸盐, 亚硫酸酯<br/>推荐：sulph-硫 + -ite, 表名词<br/><img src="./images/image-20220415172712178.png" alt="image-20220415172712178" style="zoom:80%;" /><br/>sulph- = sulfur, 表示“硫”。<br/>-ite 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>英英  <br/>n.<br/>1 . a salt or ester of sulphurous acid | **sulph-ide **<br />【ˈsʌlfaɪd】                           | n. 硫化物<br/>推荐：sulph-硫 + -ide<br/><img src="./images/image-20220415172826474.png" alt="image-20220415172826474" style="zoom:67%;" /><br/>**`sulph-`** = sulfur, 表示“硫”。<br/>**`-ide`** 化学名词后缀，表示“...化物”如oxide氧化物。<br/>词源说明(童理民)  <br/>1 - 来自 sulphur,硫，硫磺，-ide,表化合物。 |
 |                                                   |                                                              |                                                            |                                                              |
 |                                                   |                                                              |                                                            |                                                              |
@@ -324,75 +324,6 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 
-## 石头 {30+16}
-
-### calc- = stone, 表示“石头”，引申为“计算”{30}
-
-> - 来自拉丁语。拉丁语 ca- 进入法语一般变为 cha-, 所以经由法语进入英语的 chalk 和 clac- 同源。
-> - 拉丁语 calcio 还表示“脚踝”，所以医学上用 calcane(o)- 表示“跟"，
-> - 意大利语用 calcio 表示足球，著名的 AC 米兰俱乐部中的 C 即来源于此。
-> - 由脚踝也会引申出“踢”的含义，比如 recalcitrant 字面含义“踢回去”。
-
-| 单词                                | 解释                                                         | 单词 | 解释 |
-| ----------------------------------- | ------------------------------------------------------------ | ---- | ---- |
-| **calc-ite** [^2]<br />【ˈkælsaɪt】 | n. 方解石<br/>推荐：calc-石头 + -ite, 表示岩石的后缀。<br />方解石是一种碳酸钙矿物，自然界中分布很广<br/><img src="./images/image-20220417221619082.png" alt="image-20220417221619082" style="zoom:50%;" /><br/>calc- = stone, 表示“石头”，引申为“计算”。来自拉丁语。<br/>-ite 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。<br/>词源说明(童理民)  <br/>1 - 来自 calc-,小石子，词源同 calculate.<br />a white or clear mineral consisting of calcium carbonate . <br />It forms a major part of rocks such as limestone , marble and chalk . |      |      |
-|                                     |                                                              |      |      |
-|                                     |                                                              |      |      |
-
-
-
-
-
-
-
-### petr- / petro- = stone, 表示“石”。源自希腊语 petra "cliff, rock."{16}
-
-| 单词                                       | 解释                                                         | 单词                                      | 解释                                                         |
-| ------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
-| **petr-ole-um**      <br />【pəˈtroʊliəm】 | n. 石油<br/>推荐：petr-石 + ole-油 + um → 石油。<br/><br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`ole-`** 13= oil, 表示“油”。 | **pert-ol  **  <br />【ˈpetrəl】          | n. 汽油<br/>推荐：petr-石头 + ol-=oil油。后该词用以指冶炼过的汽油。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock." |
-| **petr-ify**<br />【ˈpetrɪfaɪ】            | vt. (非正式)使惊呆, 使吓得要死, 使发呆<br/>vt.vi. 使石化, 使成为化石, 使变僵, 变僵硬, 使消失活力, 使僵化<br/>推荐：petr-石头 + -ify使。引申词义使石化，惊呆。<br/>**`petr-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`-ify`** 缀于名词或形容词后，构成表示“使成…”“…化”“作成…”等意思的动词<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 petra,石头，词源同 petroleum,-fy,使。引申词义使石化，惊呆。 | **petri-faction **<br />【ˌpetrɪ'fækʃən】 | n. 使变成石头, 石化, 化石, 僵化, 吓呆推荐：petri-石头 + -faction表名词<br/><br/>**`petri-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`-faction`** 表名词，“达到的状态”，由-fy转化而来。 |
-| **petri-fact-ive** <br />【petri'fæktiv】  | a. 有石化性能的<br/>推荐：petr-石头 + -ifactive<br/><br/>**`petri-`** = stone, 表示“石”。源自希腊语 petra "cliff, rock."<br/>**`fact-`** = make, do, 表示“做，制作”。源自拉丁语 facere "to do, make."<br/>**`-ive`** 表形容词。源自拉丁语 -ivus "adjective suffix." |                                           |                                                              |
-
-#### Petro-与石头
-
-“Thou art Peter, and upon this rock I will build my church...”（Matthew 16:18）（你是彼得，我要把我的教会建造在这磐石上……）（《马太福音》第16章第18节）
-
-这是耶稣对他的十二使徒之首**Peter**说的一句非常重要的话。**Peter**原名Simon（西门），打鱼为生，跟随耶稣后，耶稣给他起名**Peter**。**Peter**这一名字源于希腊语pétros 'stone', pétrā 'rock'，故有“磐石”或“岩石”之意。
-
-英语的组合语素**`petro-`**亦源于此。凡与岩石有关的词均冠以**`petro-`**，如**petrology**（岩石学），**petrography**（岩相学），**petroglyph**（岩画）等，**petroleum**也是其中之一。
-
-**petroleum**原为拉丁语，16世纪直接进入英语，系由**petra** 'rock'（岩石，石头）和**oleum** 'oil'（油）组合而成，字面义为***rock-oil***，汉语作“石油”，即从岩石空隙里开采出来的油。
-
-**petrol**源自法语pétrole，而pétrole则源于拉丁语petroleum，所以在16世纪时也指“石油”。但到了19世纪末，**petrol**转指“汽油”（fuel refined from petroleum）。这一新义是借自法语短语essence de pétrole 'essence of petroleum'，而在近代法语中essence用以指“汽油”，而pétrole则仍指“石油”。
-
-例　
-
-- His car runs on unleaded petrol. 他的车用的是无铅汽油。
-- They ran out of petrol and had to walk to the nearest garage. 他们的汽油用完了，不得不步行到最近的加油站。
-- They filled (the car) up with petrol before the long journey. 他们在长途旅行前给汽车加满了汽油。
-- The well produced thousands of barrels of petroleum each day. (NED) 这口油井每天产数千桶石油。
-
-
-
-#### petroleum（石油）：从岩石中流出的油
-
-> 来自拉丁语 petroleum,石油，来自 petra,石头，词源同 petrology,oleum,油，词源同 oil.
-
-**petroleum**（石油）是一种存储在地壳上层的粘稠液体。早在公元前10世纪之前，古埃及、古巴比伦和印度等文明古国已经采集天然石油用于建筑、防腐、粘合等用途。英语单词**petroleum**来自希腊语，由希腊语的**petra**（岩石）和**oleum**（油），字面意思就是“从岩石中流出的油”。
-
-中国也是世界上较早发现和利用石油的国家之一。东汉的班固（公元32-92年）所著《汉书》中记载了“高奴有洧水可燃”。宋朝的大科学家沈括经过实地考察后，首次将这种矿物质称为“石油”。沈括所著的《梦溪笔谈》中提到，“鄜、延境内有石油……颇似淳漆，燃之如麻……此物后必大行于世。”
-
-英语单词**petrol**是**petroleum**的简略形式，是在经由法语时被简略的。
-
-- **petroleum**：[pɪ'trəʊlɪəm] n.石油
-- **petrol**： ['pɛtrəl] n. 汽油
-
-
-
-
-
- 
-
 ## amine- 表示“氨”{24}
 
 >  氨是在利比亚的一座 Ammon（埃及主神）神庙附近发现了一种矿物质提取的气体，瑞典化学家将其命名为 ammonia。
@@ -439,6 +370,22 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 
 - This fertilizer contains ammonia. (CWR) 这种肥料含氨。
 - The janitor cleaned the floor with ammonia. (NED) 看门人用阿摩尼亚清洗地板。
+
+
+
+
+
+
+
+## acid-,acri-,acrid-,acu-,acerb- = sour, sharp, 表示“尖，酸，锐利” {24}
+
+> 来自拉丁语 acere "to be sour, be sharp" 的状态形容词 acidus "sour, sharp, tart." {24}
+
+| 单词                        | 解释                                                         | 单词 | 解释 |
+| --------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **acacia**<br />【əˈkeɪʃə】 | n. 金合欢树（有些树的树汁用于制作黏胶）<br/>推荐：源自希腊语 akakia "thorny Egyptian tree," 和词根ac-“尖”同源。<br />贝爷在《荒野求生》第二季中多次提及这种植物。<br/><img src="./images/image-20220425140703907.png" alt="image-20220425140703907" style="zoom:67%;" /><br/>**`acid-,acri-,acrid-,acu-,acerb-`** <br/>= sour, sharp, 表示“尖，酸，锐利”，<br />来自拉丁语 acere "to be sour, be sharp" 的状态形容词 acidus "sour, sharp, tart."<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - 来自-ac,尖，酸，词源同 acid,acumen.因金合欢树的尖刺而得名。 |      |      |
+|                             |                                                              |      |      |
+|                             |                                                              |      |      |
 
 
 

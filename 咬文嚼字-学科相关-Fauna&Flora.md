@@ -234,6 +234,13 @@ camelopard ['kæmɪlə(ʊ)pɑːd; kə'meləpɑːd] n.鹿豹星座；驼豹（长
 
   > 来自非洲安哥拉班图语，常缩写为 chimp.
 
+- **ape**: [eɪp] 
+
+  - n. 无尾猿; 
+  - vt.（尤指笨拙地）模仿; （为了取笑）学…的样
+
+  <img src="./images/image-20220425142831255.png" alt="image-20220425142831255" style="zoom:80%;" /> 
+
 
 
 #### guerrilla(游击队) (gorilla的homophone)
