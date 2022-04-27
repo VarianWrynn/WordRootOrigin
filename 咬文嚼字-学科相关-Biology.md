@@ -1,4 +1,4 @@
-# 咬文嚼字-学科相关-Biology and Medicine
+# 咬文嚼字-学科相关-Biology 
 
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文爵字,学科相关]
 
@@ -21,6 +21,18 @@
 - Boswell wrote a famous biography of Dr. Johnson. 博斯韦尔为约翰逊博士写过一本著名的传记。
 - Famous people often have several very different biographies written about them. (CID) 名人们通常都有几种内容大相径庭的传记。
 - Every sophomore is required to take biology. 每一位二年级生必修生物学。
+
+
+
+## gen-,gener-,genit-,-genesis   = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”{166}
+
+| 单词                                                         | 解释                                                         | 单词                         | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **in-genu-ity **                          <br />【ˌɪndʒəˈnuːəti】 | n. 心灵手巧, 精巧, 精巧设计<br/>推荐：in-在...内 + genu-出生 + -ity, 表名词<br/><img src="./images/Ingenuity¸_intersection.png" alt="Ingenuity - Innovation Institute" style="zoom:33%;" /><br/>**`in-`** 来自拉丁语in-，表示“在内，进入，使...”。<br/>**`genu-`** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。<br/>**`-ity`** 表名词，指具备某种性质。 | **gender**<br />【ˈdʒendər】 | n. 性<br/>vt. 产生<br/>推荐：gen-生育，词源同gene , generate。<br/><img src="./images/image-20220427163459343.png" alt="image-20220427163459343" style="zoom: 15%;" /><br/>**`gen-,gener-,genit-,-genesis`** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。<br/>词源说明(童理民)  <br/>1 - 来自 gen-,生育，词源同 gene,generate. |
+|                                                              |                                                              |                              |                                                              |
+|                                                              |                                                              |                              |                                                              |
+
+
 
 
 
