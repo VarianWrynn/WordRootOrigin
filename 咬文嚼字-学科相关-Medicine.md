@@ -337,6 +337,20 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+
+
+## -itis = inflammation，表示“发炎”{86}
+
+| 单词                                 | 解释                                                         | 单词 | 解释 |
+| ------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **hepat-itis**<br />【ˌhepəˈtaɪtɪs】 | n. 肝炎<br/>推荐：hepat-肝 + -itis炎症。<br/><img src="./images/image-20220427210519680.png" alt="image-20220427210519680" style="zoom: 33%;" /><br/>**`hepat-`** = liver, 表示“肝”。源自希腊语 hepar "liver."<br/>**`-itis`** = inflammation，表示“发炎”。<br/>词源说明(童理民)  <br/>1 - 来自希腊语 hepar,肝，-itis,炎症。 |      |      |
+|                                      |                                                              |      |      |
+|                                      |                                                              |      |      |
+
+
+
+
+
 ## 内外
 
 ### endo- = within, 表示“内部”。源自希腊语 endon, endo- "within."{51}
@@ -359,7 +373,7 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
-## opto- = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."
+## opto- = sight, 表示“视力，眼睛”。源自希腊语 ops "eye." {51}
 
 <img src="./images/image-20220408145822830.png" alt="image-20220408145822830" style="zoom: 36%;" /> 
 
@@ -552,6 +566,18 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 - coroner： ['kɒr(ə)nə] n.验尸官
 - crown：[kraʊn] n. 王冠；花冠；王权；顶点vt. 加冕；居…之顶
+
+
+
+## hepat- = liver, 表示“肝”。源自希腊语 hepar "liver."
+
+| 单词                                 | 解释                                                         | 单词 | 解释 |
+| ------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **hepat-itis**<br />【ˌhepəˈtaɪtɪs】 | n. 肝炎<br/>推荐：hepat-肝 + -itis炎症。<br/><img src="./images/image-20220427210519680.png" alt="image-20220427210519680" style="zoom: 33%;" /><br/>**`hepat-`** = liver, 表示“肝”。源自希腊语 hepar "liver."<br/>**`-itis`** = inflammation，表示“发炎”。<br/>词源说明(童理民)  <br/>1 - 来自希腊语 hepar,肝，-itis,炎症。 |      |      |
+|                                      |                                                              |      |      |
+|                                      |                                                              |      |      |
+
+
 
 
 

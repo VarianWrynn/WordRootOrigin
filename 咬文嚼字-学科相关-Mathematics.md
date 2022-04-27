@@ -48,13 +48,13 @@
 
 ### 2. 作形容词后缀，表示“如…的”{142}
 
-| 单词     | 解释                                                         | 单词        | 解释                                                         |
-| -------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| astr∙oid | astr- <br/>= star or celestial body; outer space, 表示“星星，天体或外太空”。源自希腊语 aster "star." | anthrop∙oid | anthrop- <br/>= man, human, 表示“人，人类”。来源于希腊语 anthropos "man, human being." |
-| ameb∙oid | ameba <br/>n. 阿米巴, 变形虫                                 | alkal∙oid   | alkal- <br/>表示“碱”，源自阿拉伯语 al-qaliy (the ashes)。al-是阿拉伯语中的定冠词 "the"。 |
-| acid-oid |                                                              | ault-oid    |                                                              |
-| alg-oid  |                                                              | alka-oid    |                                                              |
-| alg∙oid  | alg- <br/>表示“藻类”                                         | delt-oid    | a. 三角形的<br/>n. 三角肌<br/>推荐：delt-三角 + -oid<br/><br/>delt- = delta shaped, 表示“delta 形状”。<br/>-oid = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."<br/>更多同源词... |
+| 单词     | 解释                                                         | 单词                          | 解释                                                         |
+| -------- | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
+| astr∙oid | astr- <br/>= star or celestial body; outer space, 表示“星星，天体或外太空”。源自希腊语 aster "star." | anthrop∙oid                   | anthrop- <br/>= man, human, 表示“人，人类”。来源于希腊语 anthropos "man, human being." |
+| ameb∙oid | ameba <br/>n. 阿米巴, 变形虫                                 | alkal∙oid                     | alkal- <br/>表示“碱”，源自阿拉伯语 al-qaliy (the ashes)。al-是阿拉伯语中的定冠词 "the"。 |
+| acid-oid |                                                              | ault-oid                      |                                                              |
+| alg-oid  |                                                              | alka-oid                      |                                                              |
+| alg∙oid  | alg- <br/>表示“藻类”                                         | **delt-oid**<br />【deltɔɪd】 | a. 三角形的<br/>n. 三角肌<br/>推荐：delt-三角 + -oid<br/><img src="./images/Deltoid-Muscle-Anterior-and-Middle-Heads1-594x550.png" alt="Deltoid Muscle - Anterior and Middle Heads" style="zoom:67%;" /><br/>**`delt-`** = delta shaped, 表示“delta 形状”。<br/>**`-oid`** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."<br/>更多同源词... |
 
 ### 3. -wise  表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系{33}
 

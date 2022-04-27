@@ -538,10 +538,6 @@ Ammon这一词根经历了从埃及语到希腊语，再从拉丁语到英语的
 
 
 
-
-
-
-
 ### laboratory（实验室）：中世纪炼丹术士的炼丹场所 {11}
 
 >  e-,向外，-labor,劳动，辛苦，词源同 laboratory.
@@ -731,7 +727,9 @@ ambre进入英语后作amber，仍指“琥珀”，ambre gris进入英语后则
 阿拉伯语中表示锑粉的 **kuhul**一词后来通过其他途径也进入了英语，演变成为英语单词kohl，依然保持原意，表示“眼影粉”。
 
 - **alcohol**： ['ælkəhɒl] n.酒精，乙醇
-- **alcoholic**： [ælkə'hɒlɪk] adj.酒精的，含酒精的n.酒鬼，酗酒者
+- **alcoholic**： [ælkə'hɒlɪk] 
+  - adj.酒精的，含酒精的
+  - n.酒鬼，酗酒者
 - **alcoholism**：['ælkəhɔlɪzəm] n. 酗酒；[内科] 酒精中毒
 - **kohl**： [kəʊl] n.眼影粉，化妆墨
 - Most wines contain about 12％ alcohol. (CAE) 大多数葡萄酒含有约12％的酒精。
