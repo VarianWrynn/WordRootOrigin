@@ -847,37 +847,7 @@ senate有时也指某些大学里由教授组成的“评议会”或“理事�
 
 
 
-### beggar 乞丐
 
-**beggar** - beg（乞讨）由beggar（乞丐）逆生而来，许多关于英语构词法的书都谈及这一点，可是beggar的由来却鲜为人知。
-
-公元12世纪，列日（Liège，今比利时东部城市）有一个天主教神父，因其口吃，人称Lambert le Begue，意即Lambert the Stammerer（结巴Lambert）。他在荷兰和比利时创建了一个名为Beguine的半世俗女修道会（the Beguine Sisterhood），其成员称为Beguine，可以结婚，也可重返世俗。她们在低地国家和德国、法国、瑞士及意大利等国曾经活跃一时。
-
-随后在荷兰、比利时等低地国家又相继出现了若干个性质类似的宗教团体——修道兄弟会（monastic fraternities），其成员无须立誓，故亦可随意返俗，还可拥有私人财产。人们根据Lambert le Begue的大名称之为Beghard。他们中有不少人是靠施舍物或救济金为生的，
-
-另有一些小偷、乞丐常常冒称Beghard四处行乞，因此Beghard名声不佳。古法语中有个意指“乞丐”的词begard便是据Beghard产生的，嗣后英语借用了该词，作beggar。因此，一般认为beggar来源于Beghard。（参见panhandle）
-
-例　
-
-- Beggars can't be choosers. 要饭的哪能挑肥拣瘦。
-- He tossed the beggar a coin. 他丢了一枚硬币给乞丐。
-- A street beggar held out his hand asking for a coin. (FWF) 一个街头叫化子伸手要钱。
-
-
-
-**beggar（乞丐）：中世纪的半世俗宗教团体贝格德**
-
-英语中表示乞讨的单词是beg，那么，表示“乞丐”的单词是什么呢？很多人以为是begger，其实应该是**beggar**。为什么是beggar而不是begger呢？原来，英语单词beggar并不是由beg衍生的，恰恰相反，**单词beg才是由beggar反向衍生的**。
-
-单词**beggar**源自中世纪时期流行于北欧低地国家如荷兰、比利时的一个半世俗宗教团体贝格德Beghard。他们由男性基督教徒构成，是介于僧侣和世俗信徒之间的一种修行团体。他们放弃私人财产，群居在修道院中，但可以随时还俗。
-
-Beghard的成员在古法语单词被称作begart。他们很多人就像中国的僧尼那样到处托钵化缘为生，很多真正的乞丐也会冒充begart。久而久之，人们就把begart和乞丐划上了等号。英语单词beggar就来源于古法语begart，已经丧失了初始含义，变成了“乞丐”的意思。
-
-- beggar： ['begə] n.乞丐，乞讨者
-- beg： [beg] v.乞求，乞讨
-- beggary： ['bɛgɚri] n. 赤贫；卑劣；行乞
-
-> **beggars can't be choosers**要饭的哪能挑肥拣瘦。饿昏了的你要求别人给你些吃的，人家好心给你俩馒头，你还嫌弃不是驴肉火烧。概括起来，受人恩惠是“是”或“否”即yes or no的问题，而不是多和少或好和坏的问题。I don't care much for the Christmas present, for beggars can't be choosers. 
 
 
 
