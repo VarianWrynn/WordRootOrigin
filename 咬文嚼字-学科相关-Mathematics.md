@@ -209,6 +209,18 @@ gon-
 
 
 
+## al- 前缀，源自阿拉伯语，相当于英语中的定冠词 the {11}
+
+| 单词                              | 解释                                                         | 单词 | 解释 |
+| --------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **algorithm**<br />【ˈælɡərɪðəm】 | n. 算法<br/><img src="./images/image-20220428093932917.png" alt="image-20220428093932917" style="zoom:67%;" /><br />**`al-`** 前缀，源自阿拉伯语，相当于英语中的定冠词 the. |      |      |
+|                                   |                                                              |      |      |
+|                                   |                                                              |      |      |
+
+
+
+
+
 ## cav- = hole, 表示“洞”，来自拉丁语{8}
 
 | 单词                                                    | 解释                                                         | 单词                                              | 解释                                                         |
@@ -223,7 +235,9 @@ gon-
 
 ## 单词背后的故事
 
-### [Algebra](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651801001&idx=1&sn=28b6782b8cac44b75b267f001876ce05&chksm=842cde42b35b57547423fbf0a0c5365528ab1e9c6a369ce7e64eb9f2b298dcb7606d606dba3f&scene=178&cur_album_id=1297162942844207107#rd) [ˈældʒɪbrə] 
+### [Algebra](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651801001&idx=1&sn=28b6782b8cac44b75b267f001876ce05&chksm=842cde42b35b57547423fbf0a0c5365528ab1e9c6a369ce7e64eb9f2b298dcb7606d606dba3f&scene=178&cur_album_id=1297162942844207107#rd) [ˈældʒɪbrə] :伟大的波斯数学家阿尔•花刺子模
+
+>  来自阿拉伯数学家 Khwarizmi 的名字。algorithm 是当时拉丁学者对该数学家名字的拙劣的翻译，或部分受 arithmetic 的影响。
 
 公元820年，波斯著名数学家、被称为“代数之父”的阿尔•花刺子模用阿拉伯语发表了一部数学专著《al-mukhtasar fihisab al-jabr wa al-muqabala》（**the compendium on calculation by restoring and balancing**，还原和对消运算概要）。
 
@@ -250,6 +264,24 @@ gon-
 - **algorithm**：['ælgə'rɪðəm]n.算法
 
 - **algorism**：['ælgə,rɪzəm]n.阿拉伯数字系统；十进位计数法
+
+
+
+**词源故事(钱磊)**
+
+**algorithm**（算法）：伟大的波斯数学家阿尔•花刺子模
+
+阿尔•花刺子模全名为穆罕默德•本•穆萨•阿尔•花剌子模（Muhammad ibn Msa al Khwarizmi），出生于波斯北部城市花剌子模，是阿拉伯阿拔斯王朝著名数学家、天文学家、地理学家，代数与算术的整理者，被誉为“代数之父”。
+
+公元830年，阿尔•花剌子模写了一本有关代数的书，英语单词Algebra（代数）就来源于这本书的书名中一个单词。
+
+阿尔•花剌子模还出版了一本数学著作，介绍了印度的十进制记数法和以此为基础的算术知识。13世纪，意大利数学家斐波那契（ Fibonacci）将这套十进制计数法和算术方法引介到欧洲，逐渐代替了欧洲原有的算板计算及罗马的记数系统。0~9等十个印度数字也因此被欧洲人误称为阿拉伯数字。
+
+意大利人将他的名字翻译成拉丁语Algorismus，并将他在这本著作中讲解的基于十进制计数法的算术方法也称为Algorismus。
+
+英语单词**algorism**（算术）一次就来自拉丁语***Algorismus***，后来被单词**arithmetic**（算术）逐渐替代，很少使用。而**algorism**的异体，英语单词algorithm却随着计算机科学技术的发展得以发扬光大，表示计算机领域的专业术语“算法”。
+
+
 
 
 
