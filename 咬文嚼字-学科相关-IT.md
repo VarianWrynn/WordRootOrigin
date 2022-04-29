@@ -465,3 +465,10 @@ In the book *[The Art of Unit Testing](https://en.wikipedia.org/wiki/The_Art_of_
 
 1. [[What is Mocking?](https://stackoverflow.com/questions/2665812/what-is-mocking)](https://stackoverflow.com/questions/2665812/what-is-mocking)
 2. [Mock object--Wikipedia](https://en.wikipedia.org/wiki/Mock_object)
+
+
+
+## Reference
+
+1. [API-Glossary](https://www.abstractapi.com/api-glossary)
+2. 
