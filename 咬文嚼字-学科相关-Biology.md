@@ -453,7 +453,19 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 ## 粘液
 
-### 1. myx- = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick." {6}
+
+
+### 1. muc- = slimy, 表示“粘糊糊”。源自拉丁语 mucus "mucus." {13}
+
+| 单词                        | 解释                                                         | 单词                                      | 解释                                                         |
+| --------------------------- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
+| **mold**[^4]<br />【moʊld】 | n. 模子, 模型, 霉<br/>v. 形成, 塑造, 发霉<br/>**`mod-`** = mode, manner, 表示“方式，模式，风度”。<br />源自拉丁语 modus "measure, sie, limit, manner, harmony, melogy."<br/>**`muc-`** <br/>= slimy, 表示“粘糊糊”。源自拉丁语 mucus "mucus." | **muc-osa**           <br />【mjuˈkoʊsə】 | 粘膜<br/>**`muc-`** = slimy, 表示“粘糊糊”。源自拉丁语 mucus "mucus." |
+|                             |                                                              |                                           |                                                              |
+|                             |                                                              |                                           |                                                              |
+
+
+
+### 2. myx- = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick." {6}
 
 | 单词                                | 解释                                                         | 单词       | 解释                                                         |
 | ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
@@ -464,7 +476,7 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
-### 2. phlegm （粘液）：导致人性情冷淡的粘液 {5}
+### 3. phlegm （粘液）：导致人性情冷淡的粘液 {5}
 
 > 词根分解  [词根树]
 > **`phlegm-`** {5}
@@ -487,18 +499,6 @@ A **larva** is an insect at the stage of its life after it has developed from an
 5. the ability to be calm in a dangerous or frightening situation 
 
 
-
-### 3. muc- = slimy, 表示“粘糊糊”。源自拉丁语 mucus "mucus." {13}
-
-| 单词                        | 解释                                                         | 单词                                      | 解释                                                         |
-| --------------------------- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
-| **mold**[^4]<br />【moʊld】 | n. 模子, 模型, 霉<br/>v. 形成, 塑造, 发霉<br/>**`mod-`** = mode, manner, 表示“方式，模式，风度”。<br />源自拉丁语 modus "measure, sie, limit, manner, harmony, melogy."<br/>**`muc-`** <br/>= slimy, 表示“粘糊糊”。源自拉丁语 mucus "mucus." | **muc-osa**           <br />【mjuˈkoʊsə】 | 粘膜<br/>**`muc-`** = slimy, 表示“粘糊糊”。源自拉丁语 mucus "mucus." |
-|                             |                                                              |                                           |                                                              |
-|                             |                                                              |                                           |                                                              |
-
-
-
-[^4]: 词源说明(童理民)<br>1 - 来自 model 的法语拼写形式，即模子，模型，引申词义模具，铸模。字母 l,d 置换。<br>2 - 来自古古诺斯语 mygla,发霉，来自 PIE*meug,湿的，黏的，词源 mucus,muggy.由湿的引申词义发霉，发霉。-d,过去分词后缀，字母 g 脱落，比较 vagina,vanilla.<br>3 - 来自古英语 molde,泥土，散土，来自 PIE*mele,磨，词源同 meal,mill.由磨引申词义碎土，散土，腐叶土。
 
 
 
@@ -679,3 +679,7 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 
 
 [^1]:摩西英语(摩西)<br/>rhinoceros [raɪ'nɒs(ə)rəs] n.犀牛。希腊词根rhino-表示鼻子，希腊词根cer-表示角，与上边的A=hart,B=hind和C=horn同源。犀牛为“鼻子处长角的厚皮动物”，世界上还有第二种动物有这个特征吗？记着小时候父亲用的剃须刀和刀片就是犀牛牌子的，但只有五个字母：Rhino，是rhinoceros的缩短式哦。 
+
+
+
+[^4]:  词源说明(童理民)<br>1 - 来自 model 的法语拼写形式，即模子，模型，引申词义模具，铸模。字母 l,d 置换。<br>2 - 来自古古诺斯语 mygla,发霉，来自 PIE*meug,湿的，黏的，词源 mucus,muggy.由湿的引申词义发霉，发霉。-d,过去分词后缀，字母 g 脱落，比较 vagina,vanilla.<br>3 - 来自古英语 molde,泥土，散土，来自 PIE*mele,磨，词源同 meal,mill.由磨引申词义碎土，散土，腐叶土。
