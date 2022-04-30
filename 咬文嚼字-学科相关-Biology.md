@@ -403,6 +403,20 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
+
+
+## odont- = tooth, 表示“牙齿”。源自希腊语 odon, odous "tooth."{18}
+
+| 单词                                | 解释                                                         | 单词 | 解释 |
+| ----------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **dande-lion**<br />【ˈdændɪlaɪən】 | n. 药蒲公英<br/>**`odont-`** = tooth, 表示“牙齿”。源自希腊语 odon, odous "tooth."<br/>**`leo-`** 希腊语 leon (属格 leontos), 拉丁语转写为 leonem (主格 leo) 表示狮子, 英语中的 lion 与此同源。 希腊语 leon 可能源自闪米特语。 |      |      |
+|                                     |                                                              |      |      |
+|                                     |                                                              |      |      |
+
+
+
+
+
 ## vas- = vessel, 表示“管状的”，引申为“容器”{18}
 
 | 单词                              | 解释                                                         | 单词                              | 解释                                                         |
