@@ -2064,6 +2064,24 @@ addle one's own canoe做自己的事。canoe [kə'nuː] n.独木舟，vi.乘独�
 
 
 
+
+
+### embark（着手）：用木头做成的小船
+
+> em-,进入，使，bark,船，驳船，词源同 barge.
+
+英语单词embark由em（in）+bark（树皮）构成，bark一词由“树皮”引申为“木头”，由于古代用木头制造小船，bark在此表示“用木头做成的小船”，因此embark的字面意思就是in ship（在船上）。
+
+<img src="./images/image-20220510114837015.png" alt="image-20220510114837015" style="zoom: 33%;" /> 
+
+当人们跳入船中时也就是船开始航行之际，因此embark又引申出“开始，着手”的意思。
+
+- **embark**： [ɪm'bɑrk] vi.从事，着手，上船或上飞机vt.使从事，从上船
+
+
+
+
+
 ## 社交
 
 ### libel（诋毁）：攻击他人的传单或小册子
