@@ -9,16 +9,6 @@
 
 
 
-n. 老板, 上司, 岩瘤, 浮雕, 母牛
-vt. 指挥, 控制, 浮雕
-【复数：bosses；现在分词：bossing；过去分词：bossed】
-范围：四级,专四,考研,雅思,高考
-单词笔记   ［添加］
-推荐：
-1.老板，来自荷兰语baas, 叔叔。代替过于正式的master.2.凸点，词源同bosom，emboss。
-
-
-
 
 
 ### boss（老板）：早期纽约的荷兰移民方言中的“工头”
@@ -673,11 +663,11 @@ tavern [ˈtævən] n.客栈； 酒馆。古罗马的旅行图上，公路两旁�
 
 ## 其他
 
-| 单词                       | 解释                                                         | 单词                          | 解释                                                         |
-| -------------------------- | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
-| **pawn**<br />【pɔːn】     | n. 典当, 抵押物, 人质, (象棋)兵, 马前卒, 工具<br/>vt. 当掉, 以...担保<br/><img src="./images/image-20220319175059309.png" alt="image-20220319175059309" style="zoom:80%;" /><br />词源说明(童理民)  <br/>1 - 来自古法语 peon,兵，卒，来自拉丁语 pedonem,步兵，来自拉丁语 pedis,脚，来自 PIE*ped,脚，词源同 foot,biped.最初用于国际象棋卒，后引申词义走卒。<br/>2 - 来自古法语 pan,承认，担保，可能来自该词的另一个词义 pan,布，一块布，来自拉丁语 pannum,一块布，衣服，词源同 pane,panel.其原义可能为以衣服作为质押或在布上写上契约。 | **slumber**<br />【ˈslʌmbər】 | n. 睡眠, 麻木状态<br/>vi. 微睡, 静止, 麻木<br/>vt. 睡着度过(时间)<br/><img src="./images/image-20220319175228866.png" alt="image-20220319175228866" style="zoom:80%;" /><br/>词源说明(童理民)  <br/>1 - 来自中古英语 slumeren,来自 slumen,打盹，-er,表反复，来自古英语 sluma,小睡，来自Proto-Germanic*slum,松散的，无力的，来自 PIE*sleu,松散的，无力的，词源同 slow,sleep.插入字母 b,比较 number,numerate. |
-| **fathom**<br />【ˈfæðəm】 | n. 英寻(长度单位,合6英尺)<br/>v. 测量深度; 理解, 彻底了解<br/><img src="./images/image-20220319175636739.png" alt="image-20220319175636739" style="zoom:80%;" /><br />词源说明(童理民)  <br/>1 - 来自 PIE*pet,展开，伸展，词源同 feather,compete.用作长度单位法寻，约略等于成人双臂展开长度。引申词义探索，彻底了解。<br />I can not fathom his meaning.<br/>我不能彻底理解他的意思.<br />The ship sank in 20 fathoms.<br/>船沉在水下 20 英寻处 | **teem**<br />【tiːm】        | vi. 充满, 充足, 倾注<br/>vt. 倒出<br/><img src="./images/image-20220319181104915.png" alt="image-20220319181104915" style="zoom: 67%;" /><br />词源说明(童理民)  <br/>1 - 来自古英语 teman,生育，繁殖，来自 Proto-Germanic*taumjan,拉，引导，来自 PIE*deuk,拉，引导，词源同 team,duct.引申词义充满，大量。<br/>2 - 来自中古英语 temen,空出，倾空，来自古诺斯语 toema,倾空，来自 Proto-Germanic*tomijana,倾空，特指倾空容器。后引申词义倾泻，流注。<br/><br/>摩西英语(摩西)<br/>teem [tiːm] vi.大量出现；充满，vt.倒出。及物动词含义是其它词源，不及物动词含义与team有关。team队伍呀，队伍是多个成员呀，而每个成员是妈妈生的呀，生孩子前什么状态呢？妈妈的肚子大呀，胎儿占据（充满）了目前的子宫，这就是teem和team的交集。His composition teems with spelling mistakes. |
-|                            |                                                              |                               |                                                              |
+| 单词                                                        | 解释                                                         | 单词                          | 解释                                                         |
+| ----------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
+| **pawn**<br />【pɔːn】                                      | n. 典当, 抵押物, 人质, (象棋)兵, 马前卒, 工具<br/>vt. 当掉, 以...担保<br/><img src="./images/image-20220319175059309.png" alt="image-20220319175059309" style="zoom:80%;" /><br />词源说明(童理民)  <br/>1 - 来自古法语 peon,兵，卒，来自拉丁语 pedonem,步兵，来自拉丁语 pedis,脚，来自 PIE*ped,脚，词源同 foot,biped.最初用于国际象棋卒，后引申词义走卒。<br/>2 - 来自古法语 pan,承认，担保，可能来自该词的另一个词义 pan,布，一块布，来自拉丁语 pannum,一块布，衣服，词源同 pane,panel.其原义可能为以衣服作为质押或在布上写上契约。 | **slumber**<br />【ˈslʌmbər】 | n. 睡眠, 麻木状态<br/>vi. 微睡, 静止, 麻木<br/>vt. 睡着度过(时间)<br/><img src="./images/image-20220319175228866.png" alt="image-20220319175228866" style="zoom:80%;" /><br/>词源说明(童理民)  <br/>1 - 来自中古英语 slumeren,来自 slumen,打盹，-er,表反复，来自古英语 sluma,小睡，来自Proto-Germanic*slum,松散的，无力的，来自 PIE*sleu,松散的，无力的，词源同 slow,sleep.插入字母 b,比较 number,numerate. |
+| **fathom**<br />【ˈfæðəm】                                  | n. 英寻(长度单位,合6英尺)<br/>v. 测量深度; 理解, 彻底了解<br/><img src="./images/image-20220319175636739.png" alt="image-20220319175636739" style="zoom:80%;" /><br />词源说明(童理民)  <br/>1 - 来自 PIE*pet,展开，伸展，词源同 feather,compete.用作长度单位法寻，约略等于成人双臂展开长度。引申词义探索，彻底了解。<br />I can not fathom his meaning.<br/>我不能彻底理解他的意思.<br />The ship sank in 20 fathoms.<br/>船沉在水下 20 英寻处 | **teem**<br />【tiːm】        | vi. 充满, 充足, 倾注<br/>vt. 倒出<br/><img src="./images/image-20220319181104915.png" alt="image-20220319181104915" style="zoom: 67%;" /><br />词源说明(童理民)  <br/>1 - 来自古英语 teman,生育，繁殖，来自 Proto-Germanic*taumjan,拉，引导，来自 PIE*deuk,拉，引导，词源同 team,duct.引申词义充满，大量。<br/>2 - 来自中古英语 temen,空出，倾空，来自古诺斯语 toema,倾空，来自 Proto-Germanic*tomijana,倾空，特指倾空容器。后引申词义倾泻，流注。<br/><br/>摩西英语(摩西)<br/>teem [tiːm] vi.大量出现；充满，vt.倒出。及物动词含义是其它词源，不及物动词含义与team有关。team队伍呀，队伍是多个成员呀，而每个成员是妈妈生的呀，生孩子前什么状态呢？妈妈的肚子大呀，胎儿占据（充满）了目前的子宫，这就是teem和team的交集。His composition teems with spelling mistakes. |
+| **calam-ity**                           <br />【kəˈlæməti】 | n. 灾难, 不幸事件<br/>推荐：来自calamus, 芦苇。指不结实，豆腐渣。<br/><img src="./images/image-20220510151048510.png" alt="image-20220510151048510" style="zoom:80%;" /><br/>**`calam-`** = misfortune, 表示“不幸”。源自拉丁语 calamitas "injury, damage, loss."<br/>**`-ity`** 表名词，指具备某种性质。<br/>词源说明(童理民)  <br/>1 - 来自 calamus,芦苇。指不结实，豆腐渣。 |                               |                                                              |
 
 
 
