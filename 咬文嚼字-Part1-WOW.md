@@ -173,6 +173,56 @@ villain ['vɪlən] n.坏人；反派角色；顽童；罪犯。
 
 
 
+## 种族
+
+### broker（经纪人）：打开酒桶卖酒的人
+
+> 来自拉丁语 brocca,针，刺，词源同 broach.原指卖散酒的零售商，后来词义由散酒零售商到皮条客到经纪人
+
+在古代欧洲的酒吧或其他零售酒水的地方，卖酒的小贩会批发采购一桶一桶的啤酒或其他酒类，然后打开酒桶，装上龙头，然后一杯一杯地卖给喝酒的人。
+
+打开酒桶的工具在法语中叫***broche***，后来演变为英语单词**broach**（钻头、凿子）。
+
+而表示“打开酒桶”的法语动词***brochier***产生了名词***brocheor***，后来演变成英语中的**broker**，字面意思就是“打开酒桶的人”，原本用来表示零售酒水的小贩，后来泛指各种经销商，在金融行业中，则用来表示经纪人、掮客。
+
+虽然中文叫法不同，但其实都是经销商、中间人的意思。经纪人其实就是把股票、证券等金融产品贩卖给个体投资者的中间人。
+
+- **broker**： ['brəʊkə] n.经纪人，中间人，掮客v.以中间人身份来谈判、安排
+- **brokerage**：['brokərɪdʒ] n. 佣金；回扣；中间人业务
+- **broach**： [brəʊtʃ] n.钻头，凿子，胸针vt.提出，给……钻孔、开口，开始讨论
+
+
+
+**英语词源趣谈(庄和诚)**
+
+**broker** - 今指“经纪人”或“掮客”的**broker**一词在中古英语中原指“酒类零售商”、“商贩”，约在14世纪后半期指“拉皮条者”或“媒人”，这就是所谓love broker和marriage broker。
+
+随后**broker**又获得“中间人”一义，并逐渐向今义演变。于是出现了各种各样的**broker**，诸如：
+
+- bill-broker（证券经纪人）
+- cotton-broker（棉花经纪人）
+- pawn-broker（当铺老板）
+- ship-broker（船舶经纪人）
+- exchange-broker（交易所经纪人）
+- stock-broker（股票经纪人）
+- black-market broker（黑市掮客）
+- floor-broker（交易所内代客买卖的场上经纪人）等。
+
+**broker**同**break**的过去式**broke**或形容词**broke**（不名一文的）无任何联系，而与动词broach（钻孔开启）一词却有亲缘关系。它源于古法语brokiere/brochier，其字面义为one who opens or broaches wine casks（钻孔开启酒桶的人）。
+
+例　
+
+- I told my broker to sell the stock. 我让经纪人把股票卖掉。
+- Ask advice from an insurance broker. (OCD) 征求一下保险业经纪人的意见。
+
+
+
+**摩西英语(摩西)**
+
+**broker** ['brəʊkə] n.经纪人，vi. 作为权力经纪人进行谈判。这个单词与**break**有关吗？
+
+有，**broker**本来指用***broacher***钻孔器在整桶酒上**broach**打孔然后零售的商人，他实际是breaker of the wine cask（酒桶）.于是，**brake**刹车是要break off the moving，而brochure小册子则是stitched（合订） together的。
+
 
 
 ## 职位/头衔
