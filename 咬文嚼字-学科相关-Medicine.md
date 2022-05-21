@@ -505,6 +505,16 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## tuber- = bump, swelling，表示“膨胀”。源自拉丁语 tuber "lump, swelling." {17}
+
+> turb- = stir, 表示“搅动”。源自希腊语 turbe "tumult, disorder."{16}
+
+| 单词                                 | 解释                                                         | 单词 | 解释 |
+| ------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| **tuber-oid** <br />【ˈtjuːbəˌrɔɪd】 | 【医】 结核节样的; 结核样的<br/>推荐：tuber-肿胀 + -oid...形<br/><br/>**`-oid`** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."<br/>**`tuber-`**= bump, swelling，表示“膨胀”。源自拉丁语 tuber "lump, swelling."<br/>更多同源词... |      |      |
+|                                      |                                                              |      |      |
+|                                      |                                                              |      |      |
+
 
 
 ## chol- = bile, 表示“胆，胆汁” 源自希腊语 khole "bile." {16}
