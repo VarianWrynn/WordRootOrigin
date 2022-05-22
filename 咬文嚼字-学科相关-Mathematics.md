@@ -221,6 +221,18 @@ gon-
 
 
 
+## integr- = whole, 表示“完整”，由前缀in-（否定）+ tag-（接触）组成{8}
+
+> 源自希腊语 tassein, tattein "to arrange," taxis "arrangement."
+
+| 单词                                   | 解释                                                         | 单词 | 解释 |
+| -------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **integr-al**[^3]  <br />【ˈɪntɪɡrəl】 | n. 整体, 积分, 整数<br/>a. 固有的, 整体的, 整数的, 积分的<br/>推荐：in-不，非 + -tegr接触 + -al，即没有接触过的，整体的。<br/><img src="./images/image-20220523104332050.png" alt="image-20220523104332050" style="zoom:50%;" /><br/>**`integr-`** = whole, 表示“完整”，由前缀in-（否定）+ tag-（接触）组成。源自希腊语 tassein, tattein "to arrange," taxis "arrangement."<br/>**`-al`** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix.<br/>更多同源词...<br/>词源说明(童理民)  <br/>1 - in-,不，非，-teg,接触，词源同 tangible,intact.即没有接触过的，整体的 |      |      |
+|                                        |                                                              |      |      |
+|                                        |                                                              |      |      |
+
+
+
 ## cav- = hole, 表示“洞”，来自拉丁语{8}
 
 | 单词                                                    | 解释                                                         | 单词                                              | 解释                                                         |
@@ -368,3 +380,7 @@ a. 说明的
 
 
 [^2]: 摩西英语(摩西)<br/>histogram ['hɪstəgræm] n.[统计] 直方图；柱状图。词根-gram部分好理解，表thing written，而词根histo-部分有了两种可能性。1.histo-表站立，与stand和assist等同源，2.histo-表经历（历史），与history有关。两者都有道理：现实中的柱子是竖立着（stand）的，而柱状图看到的就是事物发展的历程。
+
+
+
+[^3]:摩西英语(摩西)<br/>integer number整数。词根teg表to touch，前缀in在这里表否定。一个苹果摆在你面前，没有人咬过，那它就是没有被触碰过，因此是完整的。integer n. [数] 整数；整体；完整的事物。同根词有integrity n.完整；正直，integral adj.完整的，n.完整、integrate vt.使…完整；使…成整体和entire全部的等。
