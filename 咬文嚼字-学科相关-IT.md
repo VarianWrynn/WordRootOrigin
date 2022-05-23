@@ -295,16 +295,6 @@
 
 
 
-n. 零, 暗号, 密码, 无用的东西, 阿拉伯数字
-v. 计算, 做算术
-【复数：ciphers；现在分词：ciphering；过去分词：ciphered】
-范围：专八,GRE
-单词笔记   ［添加］
-推荐：
-来自阿拉伯语sifr,零，词源同zero.因为古人早期对数字零的认识不足，该词逐渐被赋予神秘 色彩，词义也由零引申为密码。
-
-
-
 
 
 ## cipher（密码）：阿拉伯数字中的“零”
@@ -338,6 +328,39 @@ cipher - zero是又一个源于阿拉伯语的科技用词。意为“空的”�
 - The economy showed zero growth in the first quarter of this year. (CAE) 在今年第一季度经济是零增长。
 - The message was written in cipher. (CID) 电文是用密码写的。
 - We spent a lot of time figuring out the enemy's cipher. (CAE) 我们花了不少时间破译敌人的密码。
+
+
+
+## Threshold n. 门槛, 入口, 开端, 阈
+
+> 来自古英语 threscold,门槛，来自 threscan,踩踏，词源同 thresh.后拼写可能受 hold 影响俗化，引申诸相关词义。
+>
+> - thresh  vt. 打谷, 摔打, 反复研究, 推敲 vi. 打谷, 鞭打, 剧烈扭动
+
+**英语词源趣谈(庄和诚)**
+
+threshold - 这是一个古英语时期就已存在的词，最早的文字记录见于公元1000年左右。该词的第一成分**thresh**和动词**thresh**（脱粒，打谷）是同一个词。古时农民常将麦、谷等放在地上踩踏使之脱粒，**thresh**原义即为“tread，tramp”，就是“踩，踏”的意思。
+
+关于**threshold**的第二成分***hold***有以下这样一种说法: 古时英国农户家中是用石头来铺地的，到了冬天为了保暖防滑还要在地面铺上一层麦、谷等的外壳（threshings），并在门口加一块木板把谷壳挡在屋内（to hold the threshings in），这块木板就叫**threshold**。
+
+关于**threshold**一词，《牛津英语词典》原先曾作如下释义：
+
+> “The piece of timber or stone which lies below the bottom of a door, and has to be crossed in entering a house; the sill of a doorway; hence the entrance to a house or building.”
+>
+> 门底下方的一块木头或石头，进入房屋时必须穿过；门口的门槛；因此是房屋或建筑物的入口
+
+经历了上千年，**threshold**从原义引申出“门口”、“入门”、“开端”、“起始点”、“限”、“阈”等义，至今仍不失为常用词。
+
+英语另有一个词**thrash**，究其根源，乃**thresh**之异体，也具有**thresh**的不少词义，如“打谷”、“脱粒”、“连续拍击”、“不断挥动”、“反复研究”、“推敲”等等。
+
+例　
+
+- He stood on the threshold for a moment before going into the house. 在进屋之前他在门口站了片刻。
+- It's traditional for a man to carry his bride over the threshold. (CAE) 按传统，新郎得抱着新娘跨过门槛。
+- He was on the threshold of his career. 他的事业刚刚起步。
+- Tax thresholds have been raised to protect those on low wages. (LLA) 纳税起点已被提高，这样可以保护低工资者。
+
+
 
 ## 黑话与行话
 
