@@ -97,16 +97,6 @@
 
 
 
-## patho- = feeling, suffering, 表示“感情，遭受（病痛）”{39}
-
->  源自希腊语 pathos "suffering, passion, emotion, feelings.
-
-| 单词                             | 解释                                                         | 单词 | 解释 |
-| -------------------------------- | ------------------------------------------------------------ | ---- | ---- |
-| **patho-gen**<br />【ˈpæθədʒən】 | n. 病原体<br/>推荐：patho-疾病的 + gen-产生，原。<br/><img src="./images/image-20220318093337117.png" alt="image-20220318093337117" style="zoom:67%;" /><br/>patho- = feeling, suffering, 表示“感情，遭受（病痛）”。源自希腊语 pathos "suffering, passion, emotion, feelings."<br/>-gen 中文翻译成“...原”，原意表示“产生”。<br/>词源说明(童理民)  <br/>1 - patho-,疾病的，-gen,产生，原，词源同 antigen. |      |      |
-|                                  |                                                              |      |      |
-|                                  |                                                              |      |      |
-
 
 
 ## phyt- = plant, 表示“植物” {37}

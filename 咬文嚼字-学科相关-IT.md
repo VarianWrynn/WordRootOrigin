@@ -147,6 +147,18 @@
 
 
 
+## misc-,med- = mix, 表示“混淆”{14}
+
+| 单词                                    | 解释                                                         | 单词                                                   | 解释                                                         |
+| --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
+| **misc-ellan-ea**<br />【ˌmɪsəˈleɪniə】 | n. 杂集, 杂记, 杂录 <br/><img src="./images/image-20220527165610224.png" alt="image-20220527165610224" style="zoom:67%;" /><br />**`misc-,med-`** = mix, 表示“混淆”。<br/>np.<br/>1 . miscellaneous things , especially pieces of writing , brought together as a collection <br />2. various things that have been collected together, especially pieces of literature, poems, letters, etc. | **miscellaneous**<br />【ˌmɪsəˈleɪniəs】<br />**MISC** | a. 各种的, 多方面的<br/><img src="./images/image-20220527170022217.png" alt="image-20220527170022217" style="zoom:67%;" /><br />**`misc-,med-`** = mix, 表示“混淆”。<br/>**`-eous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。<br/>词源说明(童理民)  <br/>1 - 来自 miscellany,混合体。<br />consisting of many different kinds of things that are not connected and do not easily form a group |
+|                                         |                                                              |                                                        |                                                              |
+|                                         |                                                              |                                                        |                                                              |
+
+
+
+
+
 ## bol- 这是一组同源词，基本含义表示 swell（扩张）{15}
 
 | 单词                    | 解释                                                         | 单词 | 解释 |

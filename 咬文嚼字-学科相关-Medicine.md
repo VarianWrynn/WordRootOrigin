@@ -416,6 +416,16 @@ ventricle ['ventrɪk(ə)l] n.心室；脑室。拉丁词根ventr-表示腹部；
 
 
 
+## patho- = feeling, suffering, 表示“感情，遭受（病痛）”{39}
+
+>  源自希腊语 pathos "suffering, passion, emotion, feelings.
+
+| 单词                             | 解释                                                         | 单词                                              | 解释                                                         |
+| -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| **patho-gen**<br />【ˈpæθədʒən】 | n. 病原体<br/>推荐：patho-疾病的 + gen-产生，原。<br/><img src="./images/image-20220318093337117.png" alt="image-20220318093337117" style="zoom:67%;" /><br/>patho- = feeling, suffering, 表示“感情，遭受（病痛）”。源自希腊语 pathos "suffering, passion, emotion, feelings."<br/>-gen 中文翻译成“...原”，原意表示“产生”。<br/>词源说明(童理民)  <br/>1 - patho-,疾病的，-gen,产生，原，词源同 antigen. | **patho-logy  **            <br />【pəˈθɑːlədʒi】 | n. 病理学, 病理, 病状, 病变<br/>推荐：patho-病 + -logy学科 → 病的学科 → 病理学。<br/><img src="./images/image-20220527172057002.png" alt="image-20220527172057002" style="zoom:33%;" /><br/>**`patho-`** = feeling, suffering, 表示“感情，遭受（病痛）”。源自希腊语 pathos "suffering, passion, emotion, feelings."<br/>**`-logy`** = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."<br/>词源说明(童理民)  <br/>1 - patho-,疾病的，-logy,学说。即病理学。 |
+|                                  |                                                              |                                                   |                                                              |
+|                                  |                                                              |                                                   |                                                              |
+
 
 
 ## rhe-,rrhex,rrhea-= to flow, 表示“流” {35}
