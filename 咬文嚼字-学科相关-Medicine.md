@@ -847,6 +847,14 @@ You can see why it’s so easy to confuse these terms. They’re all related to 
 
 ## 医学单词故事
 
+| 单词                         | 解释                                                         | 单词 | 解释 |
+| ---------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **measles**<br />【ˈmiːzlz】 | n. 麻疹, 风疹, 家畜囊尾蚴病, 米珠<br/>推荐：measle【麻疹】 + -s<br/><br/>measle 【医】 米珠, 囊尾蚴(尤指肉内的), 麻疹<br/>词源说明(童理民)  <br/>1 - 拼写置换自中古英语 masel,传染病，-s,复数后缀，来自 Proto-Germanic*mas,斑点，血斑。 |      |      |
+|                              |                                                              |      |      |
+|                              |                                                              |      |      |
+
+
+
 ### placebo（安慰剂）
 
 #### 背景
@@ -861,7 +869,7 @@ You can see why it’s so easy to confuse these terms. They’re all related to 
 
 18世纪的英国名医William Cullen大力宣扬“安慰疗法”，并用placebo来表示“安慰剂”，即无特定疗效的方法或药物，仅仅用来舒缓患者情绪，使其心情愉悦。
 
-<img src="./images/image-20211115094322604.png" alt="image-20211115094322604" style="zoom:67%;" />
+<img src="./images/image-20211115094322604.png" alt="image-20211115094322604" style="zoom:67%;" /> 
 
 现代医学已经证实安慰疗法的有效性，尤其是针对某些特定的疾病，安慰剂/疗法能够快速治愈或至少能极大地缓解病人的症状。从此后，安慰疗法得到广泛应用，而placebo（安慰剂）这一术语也得到广泛应用。
 
